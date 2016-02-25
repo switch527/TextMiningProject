@@ -1,0 +1,1254 @@
+---------------------Page 1---------------------
+
+                                                                                                                                 Company Note
+                                                                                                                           September 10, 2010
+  Christopher M. Larsen, Sr. Research Analyst
+                                                         TeleNav, Inc.                                        (TNAV - $5.25)
+  212 284-9339, chris.m.larsen@pjc.com
+  Piper Jaffray & Co.                                    Neutral
+  Bradley W. Korch, Research Analyst
+  212 284-9402, brad.w.korch@pjc.com                     Mobile Navigation Leader; Initiating With a Neutral
+  Piper Jaffray & Co.
+                                                         Rating and $6 Target
+  Joseph A. Mastrogiovanni, Research Analyst
+  212 284-9317, joseph.a.mastrogiovanni@pjc.com          CONCLUSION:
+  Piper Jaffray & Co.                                    We are initiating coverage of TeleNav with a Neutral rating and a $6 target price.
+                                                         TeleNav  is  a  pioneer  within  mobile  navigation  and  location-based  services,  a
+  Reason for Report:
+                                                         fast-growing industry. Despite being a leader in its field, TeleNav faces substantial
+  Initiating Coverage
+                                                         competitive and customer risks. We rate TeleNav Neutral as we believe these risks
+  Changes                        Previous                Currentcloud the company's potential growth.
+  Rating                                                 --                    Neutral
+  Price Tgt                                           --                       $6.00 TeleNav Is A Leading Provider Of Mobile Location Based Services (LBS).
+  FY11E Rev (mil)                          --                     $204.1TeleNav's flagship mobile navigation services accounted for 94% of revenues in
+  FY12E Rev (mil)                          --                     $209.9fiscal  2010  (ended  June  30,  2010).  TeleNav  also  provides  enterprise  mobile
+  FY11E EPS                                    --                       $0.88resource management and is an emerging provider of in-dash navigation. In the
+  FY12E EPS                                    --                       $0.83future,  TeleNav  hopes  to  generate  revenues  from  additional  LBS  services  like
+                                                           paid mobile search and advertising.
+  Price:                                                                              $5.25
+  52 Week High:                                                       $11.48
+  52 Week Low:                                                           $4.65 Renegotiations  Are  Stock  Overhangs. 90%  of  revenues  are  derived  from
+  12-Month Price Target:                                       $6.00TeleNav's top two customers, Sprint and AT&T. Sprint accounts for 55%, and
+     Scenario-based DCF with base case                     TNAV's stock price was nearly cut in half when the company announced it was
+  assumptions of 16% NT WACC, 3% LT growth                 renegotiating  its  Sprint  contract  and  could  likely  result  in  ARPU  and  revenue
+  rate.
+                                                           declines. We think the likely outcome, decreased pricing, is priced into the stock,
+  Shares Out (mil):                                                       37.5
+                                                           but  the  issue  is  likely  to  remain  an  overhang  until  fully  resolved.  The  current
+  Market Cap. (mil):                                                $196.9
+                                                           AT&T agreement expires in March 2011.
+  Avg Daily Vol (000):                                                  206
+  Book Value/Share:                                                 $3.98
+  Debt to Total Capital:                                                 0% Competitive Risks Abound. TeleNav is the leading mobile navigation provider
+  Fiscal Year End:                                                          Juntoday (over 16M subscribers in 29 countries on 15 carriers) and hopes to leverage
+                                                           this  sub  base  to  sell  additional  LBS  services.  Well  financed  competitors,  like
+  Rev (mil)        2010A          2011E          2012E
+                                                           Google and Apple, are looking at LBS as an 'add-on' service to be bundled at no
+  Sep             $36.0A         $50.2E         $54.0E
+                                                           incremental  cost  to  the  carrier  or  sub,  but  paid  for  with  advertising  based
+  Dec             $40.5A         $52.2E         $51.5E
+                                                           revenues.    Google    has    already    introduced    free    navigation    software    in
+  Mar             $45.1A         $49.7E         $51.7E     Android-based smartphones.
+  Jun             $49.5A      $52.0E      $52.6E
+  FY             $171.2A      $204.1E      $209.9E
+                                                          Future Opportunities Rely On Subscriber Base. If TeleNav is able to build a
+  CY            $197.0E      $207.2E      $213.7E
+                                                           large enough subscriber base, we think the company has the potential to generate
+  FY RM             1.2x               1.0x               0.9xsignificant  incremental  customer  revenue  through  advertising  and  tangential
+  CY RM            1.0x               1.0x               0.9xservices  like  real  time  traffic.  TeleNav's  revenue  sharing  agreements  with  its
+                                                           many carrier partners are likely an ideal way to maintain its provider status and
+  EPS              2010A          2011E          2012E
+                                                           build its customer base.
+  Sep                NA          $0.22E         $0.22E
+  Dec                NA          $0.23E         $0.21E   INVESTMENT RECOMMENDATION:
+  Mar                NA          $0.21E         $0.20E   We rate TeleNav Neutral with a $6 target price. Our target price is based discounted
+  Jun             $0.24A      $0.22E      $0.20E         cash  flow  valuation,  adjusted  for  the  Sprint  renegotiation  risk  using  different
+  FY              $0.83A         $0.88E         $0.83E   scenarios.  In  our  DCF,  we  use  a  cost  of  capital  of  16.0%  and  a  3.0%  terminal
+  CY              $0.69E         $0.86E         $0.81E   growth rate.
+
+  FY P/E            6.3x               6.0x               6.3xRISKS TO ACHIEVEMENT OF TARGET PRICE:
+                                                         Renegotiation of the Sprint and AT&T contracts could result in a larger revenue
+  CY P/E            7.6x               6.1x               6.5x
+                                                         and  customer  decline  than  anticipated.  New  competitors  such  as  Google  could
+                                                         widely  offer  mobile  navigation  for  free.  Smartphones  and  their  millions  of  apps
+                                                         could limit TeleNav's customer penetration.
+
+                                                         COMPANY DESCRIPTION:
+                                                         TeleNav is a leading provider of mobile location based services.
+
+Piper Jaffray does and seeks to do business with companies covered in its research reports. As a result, investors should be
+aware that the firm may have a conflict of interest  that could affect the objectivity of this report. Investors should consider
+this report as only a single factor in making their investment decisions. This report should be read  in conjunction with
+important disclosure information, including  an attestation under Regulation Analyst certification, found on pages 21 - 23 of
+this report or at the following site: http://www.piperjaffray.com/researchdisclosures..
+
+TeleNav, Inc.                                                                                                                     Page 1 of 23
+                                                                                                                                                 230
+---------------------Page 2---------------------
+
+                                                                                                             Company Note 
+                                                                                                       September 10, 2010  
+                                    
+
+                                   Investment Summary            
+
+                                   TeleNav is a well-established provider of navigation and Location-Based Services (LBS), a 
+                                   growing, but increasingly competitive space.  TeleNav currently has a high revenue growth 
+                                   rate (FY 2010 revenues grew by 54%), but there is risk to future growth, ARPU and the 
+                                   sustainability  of  the  current  customer  count  due  to  TeleNav’s  customer  concentration.  
+                                   90% of revenues are derived from Sprint and AT&T customers, with 55% of its revenues 
+                                   coming  from  Sprint  customers  and  the  Sprint  contract  currently  in  renegotiations  (the 
+                                   contract with AT&T could end in 2011).  While we foresee a sizeable market opportunity 
+                                   in the LBS space, a number of large competitors with deep pockets (namely Google and 
+                                   Apple) have the ability to offer LBS services for free in order to build a customer base.  
+                                   Google has already offered free turn-by-turn navigation on certain Android smartphones 
+                                   and Apple is leading the industry in integrated mobile advertising.  The proliferation of the 
+                                   leading smartphone operating systems has simplified the process for writing software for 
+                                   multiple vendors, and, in our opinion, lowered the barrier to entry for getting new location-
+                                   based applications onto devices. 
+
+                                   We rate TeleNav Neutral primarily due to the risks associated with the Sprint contract 
+                                   renewal and the competitive threats faced by the company.  Our $6 price target is based on 
+                                   a scenario analysis of different Sprint contract outcomes.  If the company were to resolve 
+                                   the  renegotiation  overhang  in  a  favorable  manner,  we  think  the  stock  would  react  in 
+                                   positive manner.  We would also use that opportunity to re-evaluate our rating. 
+
+                                   TeleNav is a leading provider of Location Based Services for mobile applications.  The 
+                                   company’s  flagship  product  is  handset-based  turn-by-turn  mobile  navigation  services, 
+                                   although    TeleNav    also    provides    vehicle-based    navigation    services,    location-based 
+                                   advertising  services  and  enterprise  mobile  resource  management  services.    TeleNav’s 
+                                   navigation services are offered primarily through wireless carriers as a white label service 
+                                   and  revenues  are  generated  on  a  monthly  subscription  fee  basis.    As  of  June  30,  2010, 
+                                   TeleNav had 16.1 million customers subscribed to its service.  The base case used in our 
+                                   valuation is rooted in a discounted cash flow analysis using a cost of capital of 16.0%, and 
+                                   a  terminal  growth  rate  of  3.0%.      On  an  EV/EBITDA  basis,  our  target  price  implies 
+                                   multiples  of  3.2  times  estimated  CY2010  EBITDA  and  3.5  times  estimated  CY2011 
+                                   EBITDA. 
+
+                                    
+
+                                   Investment Thesis and Valuation 
+
+                                   TeleNav is a market leader in wireless Location Based Services (“LBS”); a market we 
+                                   believe is in the early stages of a multi-year growth cycle.  As more and more customers 
+                                   adopt smartphones, the usage of LBS applications like navigation is likely to increase.  
+                                   Despite our outlook for strong industry growth, TeleNav faces real challenges in its 
+                                   renegotiations with Sprint and from external competition.  Our Neutral rating is based on 
+                                   our view that the potential for long-term stock appreciation is overshadowed by these near-
+                                   term risks.  In our base case earnings model, we assume that the Sprint contract is extended, 
+                                   but with a 20% reduction in ARPU.  Using this assumption, our earnings model yields a 
+                                   discounted cash flow valuation of $7.  We believe this is the most likely outcome with a 
+                                   60% likelihood.  However, in our target price calculation, we account for the possibilities 
+
+TeleNav, Inc.                                                                                                       Page 2 of 23
+                                                                                                                                 231
+---------------------Page 3---------------------
+
+                                                                                                                                                                                                                       Company Note 
+                                                                                                                                                                                                             September 10, 2010   
+
+                                                                      
+
+                                                                     that TeleNav loses its exclusive provider status at Sprint (a 20% probability in our 
+
+                                                                     opinion), that Google or another provider could offer Navigation to Sprint customers for 
+
+                                                                     free (a 10% probability) and that TeleNav could keep its exclusive agreement, decrease 
+
+                                                                     pricing, but generate immediate incremental revenues selling additional LBS services (a 10% 
+
+                                                                     probability).  Weighting these scenarios by our projected probabilities yields our target 
+
+                                                                     price of $6. 
+
+                                                                     TeleNav currently trades at a CY 2011 EV/EBITDA multiple of 3.1 times and on a P/E 
+
+                                                                     basis, TeleNav is trading at 6.1 times calendar-year 2011 estimates.   Exhibit 1, below, 
+
+                                                                     compares the TeleNav’s valuation multiples to that of other navigation, mobile application 
+
+                                                                     and smartphone companies.  TeleNav trades at a significant discount to its peers given the 
+
+                                                                     uncertainty surrounding the majority of its revenues.  We believe a discount is warranted 
+
+                                                                     due to the customer concentration risk and increasing competitive threats. 
+
+                                                                     We rate TeleNav Neutral with a $6 target price. Our target price is based discounted cash 
+
+                                                                     flow valuation, adjusted for the Sprint renegotiation risk using different scenarios. In our 
+
+                                                                     DCF, we use a cost of capital of 16.0% and a 3.0% terminal growth rate. Our price target 
+
+                                                                     represents a 7.0x multiple of CY 2011 EPS and works out to a CY 2011 EV/EBITDA ratio 
+
+                                                                     of 3.5 times. 
+
+                                                                      
+
+          Exhibit 1  
+
+          VALUATION COMPARABLES 
+          in millions, unless otherwise noted   
+
+                                                                                    Market                                                                                           EBITDA 2010   EBITDA 2011      EV/EBITDA        EV/EBITDA
+           Company                                                        Ticker                     Price                      Cap.               Ent. Value         EPS 2010E         EPS 2011E         P/E 2010E          P/E 2011E                                                                                 2010E                   2011E
+
+            Navigation/Mobile Data
+           Garmin                                                              GRMN                          $27.88            $5,425                  $5,425                           $2.97                     $2.73                         9.4x                     10.2x                    $789$733                         6.9x                        7.4x
+           Research In Motion                                RIMM                            $44.67          $24,680               $23,430                          $5.40                     $5.91                         8.3x                        7.6x                $4,962                  $5,389                         4.7x                        4.3x
+           Trimble                                                             TRMB                          $29.26            $3,495                  $3,487                           $1.43                     $1.71                       20.5x                     17.1x                    $251                      $286                       13.9x                     12.2x
+           Apple                                                                  AAPL                         $262.92         $240,194             $240,194                      $15.71                  $18.24                       16.7x                     14.4x             $20,492               $24,638                       11.7x                        9.7x
+           Smith Micro                                                   SMSI                              $8.16              $280                      $280                             $0.79                     $0.89                       10.3x                        9.2x                       $45                         $50                         6.2x                        5.6x
+                       Average                                                                                                                            13.0x                     11.7x                                       8.7x                        7.9x
+
+            On Demand S/W
+           RightNow                                                         RNOW                           $18.02              $577                      $577                             $0.43                     $0.66                       41.9x                     27.3x                         $27                         $40                     21.8x                     14.4x
+           Taleo                                                                   TLEO                           $26.81            $1,073                  $1,073                           $0.72                     $0.89                       37.2x                     30.1x                         $49                         $61                     21.7x                     17.6x
+           DealerTrack                                                   TRAK                           $15.96              $644                      $644                             $0.53                     $0.73                       30.1x                     21.9x                         $43                         $56                     15.1x                     11.5x
+           Vocus                                                                 VOCS                           $16.19              $314                      $314                             $0.64                     $0.72                       25.3x                     22.5x                         $17                         $21                     19.1x                     15.0x
+           LogMeIn                                                          LOGM                           $33.13              $772                      $772                             $0.74                     $0.69                       44.8x                     48.0x                         $25                         $3331.5x                     23.5x
+           Salesforce                                                       CRM                          $119.79          $15,417               $15,417                          $1.18                     $1.52                    101.5x                     78.8x                      $300                      $381                     51.5x                     40.5x
+           Concur                                                               CNQR                           $48.56            $2,521                  $2,521                           $0.79                     $1.06                       61.5x                     45.8x                         $88$116                     28.8x                     21.8x
+                       Average                                                                                                                            48.9x                     39.2x                                     27.1x                     20.6x
+
+           TeleNav                                                             TNAV                              $5.27              $222                     $222                                                                $0.86                                                           6.1x                       $79                         $71                         2.8x                        3.1x
+                                                                                                                                                                                                                                                       
+
+          Note: All estimates based on the calendar year 
+          Priced as of 9/08/2010 
+          Source: Company data, Piper Estimates, FactSet (all estimates for uncovered companies are based on street consensus) 
+
+                                                                      
+
+                                                                     The Sprint Renegotiation 
+
+                                                                     TeleNav’s stock price declined by 40% the day after TeleNav reported its fiscal 4Q10 
+
+                                                                     earnings results on July 29, 2010.  The reason for the decline was not poor results, but 
+
+                                                                     rather the disclosure that TeleNav is renegotiating its contract with Sprint, which accounts 
+
+TeleNav, Inc.                                                                                                                                                                                                                          Page 3 of 23
+                                                                                                                                                                                                                                                                232
+---------------------Page 4---------------------
+
+                                                                                                              Company Note 
+                                                                                                        September 10, 2010  
+                                    
+
+                                   for 55% of TeleNav’s revenues, and that a contract extension is likely to result in a decrease 
+                                   in ARPU and total revenues. The contract was scheduled to expire at the end of 2011, with 
+                                   TeleNav exclusivity scheduled to end December 31, 2010.   
+
+                                   Sprint is a very important customer of TeleNav.  Not only does it account for 55% of 
+                                   TeleNav’s revenues, but it is responsible for an even higher percentage of TeleNav’s 
+                                   subscriber count.  This is because Sprint, unlike AT&T (who accounts for 35% of 
+                                   revenues), bundles the TeleNav navigation service in its all-inclusive data plans and 
+                                   TeleNav generates a lower ARPU per bundled customer than it does for a customer who 
+                                   subscribes to the service directly.  As location based services (LBS) grows as an industry, we 
+                                   believe capturing a high user count will be an important component of survival and 
+                                   prosperity.  To this end, we believe TeleNav will want to keep its service bundled for Sprint 
+                                   users. 
+
+                                   So what are the possible outcomes?  TeleNav would most likely want to extend the contract 
+                                   with roughly the same framework.  But, in order to win an extension of its exclusive 
+                                   contract, TeleNav is likely going to have to concede on price.  Sprint customer ARPU is 
+                                   already below the average due to bundling, and we question how much lower TeleNav 
+                                   would be willing to go on price.  ARPU at the end of fiscal 4Q10 was $1.03, down from 
+                                   $1.18 reported one year earlier.   
+
+                                   The worst outcome would be if Sprint decided it was going to unbundle navigation from its 
+                                   plans and/or drop TeleNav as a provider.  While this would be disastrous, we think it is 
+                                   unlikely given that the last thing Sprint would want to do is to tick off its subscribers by 
+                                   either telling them navigation is no longer available or asking them to now pay for it 
+                                   separately (amounting to a service plan price increase).  Another outcome is that Sprint 
+                                   could decide to no longer bundle the service in new service plans (keeping the service free 
+                                   for existing service pan contracts), which would lower TeleNav’s growth rate, but not put a 
+                                   large amount of existing revenues at risk.  Yet another scenario is that Sprint could decide 
+                                   to add another navigation provider either as a co-supplier of the service with TeleNav or as 
+                                   a new sole supplier.  Both of these scenarios could also put a large percentage of revenues at 
+                                   risk. 
+
+                                   While it is nearly impossible to predict the outcome of the negotiations, we have 
+                                   incorporated the most probable scenarios into our earnings model and valuation, as we 
+                                   mentioned earlier.  Exhibit 2, below, illustrates the four scenarios we use in our model and 
+                                   the probabilities we have assigned to each.  Keep in mind, however, that even when the 
+                                   Sprint contract overhang is settled, TeleNav will still need to address its agreement with 
+                                   AT&T that expires in March 2011.  Recall that AT&T customers represent 35% of 
+                                   revenues. 
+
+                                   Our earnings model is based on our base case, to which we assign a 60% probability and 
+                                   which assumes a 20% price cut for Sprint in fiscal 3Q11 and a corresponding 20% price cut 
+                                   at AT&T in fiscal 2Q12.  The model is highly sensitive to changes in this outcome, 
+                                   however.  If the price cut was 30% instead of 20%, our fiscal 2012 EBITDA would be 
+                                   reduced by 30% and EPS would be reduced by 45% (both assuming constant costs).  Our 
+                                   discounted cash flow model would yield a per share equity value of $5 in this scenario.  
+                                   Alternatively, 10% price cut (versus our assumed 20%) would result in a nearly 30% 
+                                   increase in fiscal 2012 EBITDA and a DCF valuation of more than $9. 
+
+TeleNav, Inc.                                                                                                        Page 4 of 23
+                                                                                                                                  233
+---------------------Page 5---------------------
+
+                                                                                                                      Company Note 
+                                                                                                                September 10, 2010  
+                                       
+
+                                      Exhibit 2  
+
+                                      SPRINT RENEGOTIATION SCENARIOS 
+                                       Scenario                                        Probability    Description
+                                       Base Case                                                       60%TeleNav remains the exclusive provider of navigation 
+                                                                             services, but concedes 20% of ARPU
+
+                                       Lost Exclusivity                                             20%TeleNav remains a provider, but loses its status as a sole 
+                                                                             provider.  This could result in a loss of subscribers to a new 
+                                                                             provider and/or a decrease in future ARPU to maintain 
+                                       Free Provider                                                  10%Another provider (e.g. Google) becomes a navigation 
+                                                                             provider, but offers its services for free.  
+
+                                       Best Case (upside to revs)                 10%TeleNav extends the contract, but is able to generate higher 
+                                                                             ARPU than we anticipate through a combination of smaller 
+                                                                             price cuts, more bundled customers, and/or revenues 
+
+                                      Source: Piper Jaffray 
+
+                                       
+
+                                      Is TeleNav A Takeout Candidate? 
+
+                                      Possibly.  TeleNav has a desirable set of technologies and a growing user base, which could 
+                                      be useful to a larger internet or mobile service provider looking to get into mobile location-
+                                      based services.  However, the fact that TeleNav is often sold as a white-label service 
+                                      diminishes this possibility.  If another company wanted simply to grow its user base of 
+                                      navigation services (potentially to market and sell LBS advertising services), it would not 
+                                      need to purchase TeleNav outright.  Instead, this other company could offer navigation 
+                                      services to Sprint and/or AT&T at better terms, replacing TeleNav as the provider and 
+                                      getting access to subscribers that account for up to 90% of TeleNav’s revenues today.  
+
+                                                        
+
+                                      Investment Risks 
+
+                                      Customer concentration.   TeleNav supplies its LBS offerings primarily through wireless 
+                                      carriers.  With the U.S. currently being the leading market for LBS services, TeleNav 
+                                      generates the majority of its revenue through its largest two carrier customers.  As such, 
+                                      Sprint currently represents 55% of sales in while AT&T represents 35% of sales.  As we 
+                                      outlined above, the Sprint contract is currently being negotiated and the company has 
+                                      warned that the outcome could likely result in a reduction in ARPU.   The AT&T contract 
+                                      expires in March 2011.   
+
+                                      Larger Competitors Could Offer LBS for Free:    While TeleNav’s service offering is tough 
+                                      to duplicate and its integration with carrier partners create high switching costs, the mobile 
+                                      navigation market is in the early stages of growth and competing technologies could drive 
+                                      down prices or change market dynamics.  Currently, TeleNav works with all major 
+                                      smartphone Operating Systems (“OS’s”).  However, Google’s Android OS is gaining 
+                                      market share of devices sold and Google has expanded its map capabilities and currently 
+                                      offers free navigation services.          
+
+TeleNav, Inc.                                                                                                                 Page 5 of 23
+                                                                                                                                            234
+---------------------Page 6---------------------
+
+                                                                                                              Company Note 
+                                                                                                        September 10, 2010  
+                                    
+
+                                   Google has created a map service and now offers free guided, turn by turn navigation as 
+                                   part of its Google Maps product for Android smartphones.  With its purchase of 
+                                   NAVTEQ, Nokia now has a leading global map database and offers navigation and 
+                                   mapping services to owners of Nokia smartphones for free.  Microsoft’s new Windows 7 
+                                   OS will also offer free navigation service.  While Windows has limited market share to date, 
+                                   it is another large company competing with TeleNav.  If Nokia, Microsoft, and Google 
+                                   penetrate wireless carriers with free mobile navigation service, then TeleNav’s sales growth 
+                                   could be at risk.  
+
+                                   Inability To Win New Carrier Partners.   While long-term TeleNav can grow revenues 
+                                   through its enterprise, automotive and advertising/search businesses, we believe near-term 
+                                   growth will be driven by the core mobile navigation product.  Any inability for TeleNav to 
+                                   continue to grow its carrier partners could negatively impact revenue growth rates. 
+
+                                   Pricing Risk.   Given the current negotiation of the Sprint contract, the upcoming expiration 
+                                   of the AT&T contract and the fact that Google is beginning to offer mobile navigation for 
+                                   free, the carriers and consumers have considerable power to demand lower pricing for 
+                                   navigation services.  In addition, if the carriers were to increase the pricing of TeleNav’s 
+                                   services to end users, TeleNav could lose customers. 
+
+                                   Bundling.   TeleNav benefited from Sprint’s decision to bundle navigation services into the 
+                                   Any Mobile and Simply Everything plans.  A decision to unbundle the product could result 
+                                   in a material decline in the number of customers subscribing to TeleNav’s services. 
+
+                                   Competition for New LBS Services.   TeleNav strives to expand into leading edge LBS 
+                                   services like paid mobile search and advertising.  While TeleNav’s carrier relationships are 
+                                   strong assets, we know that Apple and Google are also interested in mobile LBS advertising 
+                                   and could be overwhelming competitors. 
+
+                                   Litigation Risk.   In recent weeks, multiple law firms have announced class action lawsuits 
+                                   against TeleNav alleging false and misleading statements in its registration statement.  
+                                   Because TeleNav announced the renegotiation of the Sprint contract within months of 
+                                   closing its IPO, we believe some investors will question when management knew of this 
+                                   development.  As such, there is likely to be some headline litigation risk for the foreseeable 
+                                   future.  
+
+                                   Intellectual Property.   TeleNav has been granted 19 patents with 50 pending to date, but 
+                                   numerous other companies also claim rights to different navigation and LBS technologies.  
+                                   TeleNav has limited outstanding lawsuits to date, although its carrier customers offering its 
+                                   service have been sued and TeleNav offers its carriers indemnification provisions.  Due to 
+                                   these and any potential future lawsuits, TeleNav could face mounting legal expenses.   
+
+                                   Map Data.   The largest component to TeleNav’s cost of revenues is the fees paid for map 
+                                   and Point Of Information (POI) data.  TeleNav dual-sources this data from both Tele Atlas 
+                                   and NAVTEQ in order to keep pricing in check, but future price increases could negatively 
+                                   impact margins.  
+
+                                   Lock-up Expiration.   On November 10, 2010, the 180-day lock up period post TeleNav’s 
+                                   initial public offering will expire, giving many shareholders the opportunity to sell their 
+                                   TeleNav stock.  At the time of the IPO, owners of nearly 35 million shares were restricted 
+
+TeleNav, Inc.                                                                                                        Page 6 of 23
+                                                                                                                                  235
+---------------------Page 7---------------------
+
+                                                                                                              Company Note 
+                                                                                                        September 10, 2010  
+                                    
+
+                                   from selling until at least the 180-day period had passed.  While this could create an 
+                                   overhang on the stock due to additional selling pressure, we think the near-term effects will 
+                                   be minimal given the recent decline in share price. 
+
+                                                                                                    
+
+                                   LBS Industry Overview 
+
+                                   Mobile location based services (LBS) is essentially the use of embedded GPS technology to 
+                                   provide location-specific information and services.  Mobile navigation is the most obvious 
+                                   application of LBS, but advertising, social networking, and many other services are likely to 
+                                   use the technology as well. As smartphone penetration and the use of mobile applications 
+                                   continue to grow, we expect the mobile LBS market to enter a phase of strong growth over 
+                                   the next few years.  As LBS navigation services ramp in sales over the next several years, we 
+                                   expect it to cannibalize a portion of the $12B PND (Personal/Portable Navigation Device) 
+                                   market.    
+
+                                   Sizing The Market Opportunity 
+
+                                   While the LBS market is still nascent, we believe the rapid adoption of smartphones taking 
+                                   place today, along with the explosion in mobile application development and usage will 
+                                   result in accelerating consumer adoption and revenue generation for LBS services over the 
+                                   next several years.  Nearly every smartphone sold today includes GPS capabilities and the 
+                                   carriers are continually looking for ways to monetize their investment in next generation 
+                                   data networks.  Research firm Gartner has predicted that the global location based services 
+                                   market will grow from just over $2 billion in 2009 and 2010 to more than $8 billion in 2014.  
+                                   In its forecast, Gartner assumes that personal navigation, which made up 75% of all 
+                                   location-based revenues in 2009 will account for approximately 40% of all location-based 
+                                   revenues in 2014.  Services such as location-based search and social networking applications 
+                                   are predicted to be responsible for much of the growth.  Separately, eMarketer estimated in 
+                                   a 2009 report that U.S. mobile advertising will grow to $1.6 billion on 2013 from a mere 
+                                   $320 million in 2008.  
+
+                                   Not only will the applications that derive the revenues shift over time, but the expected 
+                                   payers of the revenue are expected to shift from the consumer end-user to advertisers.  We 
+                                   believe that over the next 5 years, advertising-derived LBS revenues could account for at 
+                                   least 70% of U.S.  LBS revenues (see Exhibit 3).  
+
+TeleNav, Inc.                                                                                                         Page 7 of 23
+                                                                                                                                   236
+---------------------Page 8---------------------
+
+                                                                                                              Company Note 
+                                                                                                         September 10, 2010  
+                                    
+
+                                   Exhibit 3  
+
+                                   SOURCES OF U.S. LOCATION-BASED SERVICES REVENUES 
+                                    
+
+                                                   Today                                              2015
+                                                             1%
+                                                         5%
+
+                                                                                                  28%
+
+                                                                                            2%
+                                                                                                                 70%
+                                                    94%
+
+                                             AdvertisingOther  Users                           AdvertisingOther  Users
+
+                                   Source: PJC Estimates 
+
+                                                                        
+
+                                   Company Overview 
+
+                                   TeleNav is a leading provider of Location Based Services for mobile applications.  The 
+                                   company’s flagship product is handset-based turn-by-turn mobile navigation services, 
+                                   although TeleNav also provides vehicle-based navigation services, location-based 
+                                   advertising services and enterprise mobile resource management services.  TeleNav’s 
+                                   navigation services are offered primarily through wireless carriers as a white label service 
+                                   and revenues are generated on a monthly subscription fee basis.  As of June 30, 2010, 
+                                   TeleNav had 16.1 million customers subscribed to its service.  
+
+                                    
+
+                                   Product Offerings 
+
+                                   GPS Navigator – TeleNav’s flagship product offering is its GPS Navigator service, which is 
+                                   predominantly accessed today through various mobile handsets, but is also available via in-
+                                   dash automotive solutions and TeleNav’s own portable navigation device (not unlike a 
+                                   Garmin or Tom Tom device available at retailers today).  The GPS Navigator product 
+                                   provides voice-guided, turn-by-turn navigation with a feature set that includes  3-D moving 
+                                   maps, automatic re-routing for missed turns; over 13 million points of interest (POI), real-
+                                   time traffic, gas prices, and the ability to pre-plan trips via the TeleNav website.   
+
+                                   TeleNav’s navigation service is differentiated from traditional navigation products by its 
+                                   subscription model (more on this below), but also through its server-based architecture (see 
+                                   Exhibit 4).  By obtaining map, route and POI data directly from TeleNav in real-time, users 
+                                   are assured of having the latest available information without the need to update or replace 
+                                   their device, often a costly proposition. 
+
+TeleNav, Inc.                                                                                                         Page 8 of 23
+                                                                                                                                   237
+---------------------Page 9---------------------
+
+                                                                                                            Company Note 
+                                                                                                       September 10, 2010  
+                                   
+
+                                   Exhibit 4  
+
+                                   TELENAV ARCHITECTURE 
+                                    
+
+                                   Source: TeleNav presentation 
+
+                                   
+
+                                  TeleNav’s GPS Navigator is available through 15 wireless carriers in approximately 29 
+                                  countries today.  However, the majority of revenues are derived from AT&T and Sprint, 
+                                  where TeleNav offers its GPS Navigator product as a white label service. GPS Navigator is 
+                                  available on all major mobile operating systems, including the popular iOS and Android 
+                                  operating systems.  Over 500 handsets are TeleNav capable today, and carriers often pre-
+                                  load the software onto the handset.  Mobile Navigation accounted for 94% of FY2010 
+                                  revenues (91% derived from US operations, 3% derived internationally). 
+
+                                  Automotive – More recently, TeleNav has been working to bring its navigation services to 
+                                  the in-dash automotive market.  The company’s first in-dash product was available on 2010 
+                                  Ford Focus and Taurus models.  The product was predominantly voice driven and required 
+                                  a cellular voice connection to transmit navigation data.  There was not a large LCD screen 
+                                  showing a visual map, and the navigation directions were all orally given over the car’s 
+                                  speaker system.  Nevertheless, this Ford SYNC solution had a much lower cost than 
+                                  traditional in-car navigation systems and thus had a broader consumer reach. 
+
+                                  For the next version of TeleNav’s in-dash product, we expect the company to marry its 
+                                  navigation services with an in-dash screen.  Connected with TeleNav’s servers, the device 
+                                  will be able to provide real-time traffic, gas prices and frequently updated maps.  TeleNav 
+                                  expects this service to be available in the U.S. on certain 2011 model cars (definitely with 
+                                  Ford and discussions are ongoing with other manufacturers).   
+
+                                  Stagnation of traditional in-dash navigation and falling prices in portable navigation 
+                                  devices has created an opening for TeleNav to enter the in-dash market.  Auto 
+
+TeleNav, Inc.                                                                                                       Page 9 of 23
+                                                                                                                                238
+---------------------Page 10---------------------
+
+                                                                                                              Company Note 
+                                                                                                         September 10, 2010  
+                                    
+
+                                   manufactures have liked selling navigation with new vehicles because it helps them to 
+                                   generate more profit.  However, the in-dash manufacturers have kept prices high at the 
+                                   same time that portable devices have gotten cheaper than ever, resulting in increased 
+                                   adoption of portable devices at the expense of in-dash navigation.  TeleNav presents a 
+                                   unique solution to this problem for car manufacturers.  TeleNav licenses its technology to 
+                                   the manufacturer for about $100 per device, and the total installed cost is much cheaper 
+                                   than a typically in-dash system today.  Not only is it cheaper, but the TeleNav system also 
+                                   provides more functionality including real-time information and automatically-updated 
+                                   maps. 
+
+                                   Mobile Resource Management – TeleNav offers enterprises a suite of services to help them 
+                                   manage mobile workforces and vehicle fleets.  Services include TeleNav Track, TeleNav 
+                                   Vehicle Manager, TeleNav Vehicle Tracker and TeleNav Asset Tracker.  These solutions 
+                                   allow enterprises to better manage their workforces by integrating enterprise back-office 
+                                   systems with turn-by-turn directions to help workers get to their destinations, real-time and 
+                                   historical reports of locations and travel times, updated job status information, automatic 
+                                   alerts when a worker of vehicles enters or leaves a location, and customizable wireless 
+                                   forms to capture field information.  TeleNav is a top-two leader in the enterprise mobile 
+                                   resource management space. 
+
+                                   Location-Based Advertising – While not a meaningful part of TeleNav today, location-
+                                   based advertising services has the potential to become a big revenue driver in the future.  
+                                   Beginning in late 2009, TeleNav deployed mobile-based advertising solutions to a limited 
+                                   number of end users; features included location specific sponsored listings, content, 
+                                   coupons and dining menus.  Future possibilities include the potential for TeleNav to get 
+                                   paid for navigating customers to certain locations after they perform a search. 
+
+                                    
+
+                                   Billing Models                
+
+                                   TeleNav’s core GPS Navigator revenues are subscription based, either billed to end-users as 
+                                   a standalone product or as part of a bundle of services offered by wireless carriers.  
+                                   Customers on the subscription-based model will choose to have navigation services on their 
+                                   device for a monthly fee typically ranging from $7-10.  Often, the carrier (in conjunction 
+                                   with TeleNav) will offer a free month of service to entice the user to sign up longer-term.  
+                                   In addition, the TeleNav application is also usually pre-loaded onto the devices – again to 
+                                   help spur adoption.  AT&T customers are subscription-based. 
+
+                                   For the bundled model, carriers will include navigation as part of a service plan – customers 
+                                   do not have to opt-in and they are not explicitly charged for the service.  Sprint currently 
+                                   bundles TeleNav’s navigation in its all-inclusive data plans (Simply Everything and Any 
+                                   Mobile plans).  Bundling gives TeleNav a much broader customer set, but TeleNav 
+                                   commands a much lower ARPU for a bundled customer compared to that of a stand-alone 
+                                   customer. 
+
+                                   In either case, customers are billed by the wireless carriers and the revenues (less some 
+                                   margin to the carriers) are passed on to TeleNav.  We believe this arrangement is a strength 
+                                   of TeleNav’s business model.  Customers do not have to set up and pay a separate bill, 
+                                   TeleNav does not have to develop its own billing system or take on separate credit risk, and 
+
+TeleNav, Inc.                                                                                                        Page 10 of 23
+                                                                                                                                   239
+---------------------Page 11---------------------
+
+                                                                                                             Company Note 
+                                                                                                       September 10, 2010  
+                                    
+
+                                   the carriers get a piece of the action.  This relationship with the carriers could act as a 
+                                   barrier for competitors looking to get into TeleNav’s newest offerings, such as location-
+                                   based advertising. 
+
+                                    
+
+                                   Competitors 
+
+                                   Up until a year ago, when the Motorola Droid was released, TeleNav faced very real, but 
+                                   manageable competition.  TeleNav’s GPS Navigator was a lower cost option than 
+                                   traditional in-vehicle navigation and could be used across multiple vehicles.  Compared to 
+                                   portable navigation devices (PNDs), TeleNav may have been cheaper (depending upon the 
+                                   assumed lifespan of the PND), but it was certainly more portable, always had up-to-date 
+                                   maps, and could incorporate real-time data.   
+
+                                   With the Droid, however, Google introduced its own, free turn-by-turn navigation 
+                                   software.  Today, Google Navigation is only available on a subset of Android-based 
+                                   devices, which themselves represent a subset of handsets that can access TeleNav’s GPS 
+                                   Navigator application.  We can objectively say that TeleNav’s offering is better than that of 
+                                   Google today, but it’s hard to compete with a free product and Google could easily use its 
+                                   warchest to improve its offering.  Google could also roll out the product to all Android 
+                                   devices and could ultimately make it available to other devices, like the Apple iPhone.  
+                                   While TeleNav’s service is superior today, we think Google navigation could be a 
+                                   meaningful threat in the future, especially if it remains free. 
+
+                                   TeleNav faces competition in the navigation space from established PND manufacturers 
+                                   like Garmin and TomTom, other mobile navigation providers like Network In Motion, and 
+                                   from Nokia, who bundles its own navigation product with its phone.  It is certainly a 
+                                   diverse competitive environment, but there is plenty of opportunity for TeleNav to increase 
+                                   its share.  TeleNav currently provides service to less than 7% of total US wireless customers 
+                                   and to a much smaller percentage of global wireless customers. 
+
+TeleNav, Inc.                                                                                                      Page 11 of 23
+                                                                                                                                 240
+---------------------Page 12---------------------
+
+                                                                                                             Company Note 
+                                                                                                       September 10, 2010  
+                                    
+
+                                   Exhibit 5  
+
+                                   MOBILE NAVIGATION INDUSTRY PLAYERS 
+                                    
+
+                                   Source: TeleNav 
+
+                                    
+
+                                   TeleNav also stands to face stiff competition in its emerging business lines, namely 
+                                   location-based advertising.  Once again, Google is likely to become a big player in this 
+                                   space, given their footholds in the mapping, internet search, and now the mobile OS arenas.  
+                                   Apple is a competitor too with its recently debuted iAds platform for placement of 
+                                   advertisements in mobile applications.  While the emergence of competitive location-based 
+                                   advertising services from Google and Apple could actually help raise awareness with 
+                                   potential advertisers and improve the economics for TeleNav, we still view Google and 
+                                   Apple as large risks.  We believe TeleNav’s ultimate success in mobile advertising will 
+                                   depend on two factors: TeleNav’s ability to obtain a large user base for its navigation 
+                                   services and the company’s continued revenue-sharing relationships with the wireless 
+                                   carriers.  As long as TeleNav has a meaningful base of customers using its mobile 
+                                   navigation services, it should be able to monetize those users’ searches.  In addition, the 
+                                   company’s historical revenue sharing agreements with the carriers could help TeleNav 
+                                   achieve some sort of preferential treatment on end-users devices. 
+
+                                   In the in-dash, automotive market, TeleNav is the new entrant and thus doesn’t face large 
+                                   competitive threats that put revenues at risk.  TeleNav has a superior, lower-cost product 
+                                   that should be able to generate added value.  In its mobile resource management business 
+                                   line, TeleNav faces day-to-day competition in winning new contracts, namely from 
+                                   industry leader Xora, but nothing that is incrementally disruptive to the business model. 
+
+                                    
+
+                                    
+
+TeleNav, Inc.                                                                                                      Page 12 of 23
+                                                                                                                                 241
+---------------------Page 13---------------------
+
+                                                                                                             Company Note 
+                                                                                                       September 10, 2010  
+                                   
+
+                                  TeleNav as a Brand? 
+
+                                  TeleNav’s flagship GPS Navigator product is primarily sold as a white-label product to the 
+                                  majority of customers.  That is, customers are buying “Sprint Navigation” or “AT&T 
+                                  Navigator” and not “TeleNav.”  This has been an acceptable arrangement for TeleNav, as 
+                                  getting its service sold to these customers has helped the company expand its users base.  
+                                  Looking ahead, though, we believe a branded product could be beneficial as TeleNav looks 
+                                  to capitalize on other location-based services like advertising.  Building a strong brand 
+                                  could help TeleNav become a go-to portal for location searching, which again would help 
+                                  build advertising revenues.  We would not be surprised to see TeleNav pursue a branded 
+                                  product strategy as it re-negotiates with its carrier partners.  
+
+                                   
+
+                                  Geographic Presence 
+
+                                  North America.   TeleNav has a strong presence in the North America market with 3 of the 
+                                  4 major carriers selecting TeleNav for its service offering.  With AT&T, Sprint, and T-
+                                  Mobile choosing TeleNav, we believe TeleNav has strong growth opportunities with these 
+                                  three carriers, given TeleNav has 16M subscribers and these 3 carriers have nearly 160M 
+                                  subscribers.  Network in Motion is TeleNav’s primary competitor in North America 
+                                  through its service offering for Verizon’s mobile navigation service.  AT&T offers 
+                                  competing mobile navigation services along with TeleNav, but TeleNav is the AT&T 
+                                  branded service.  TomTom, Garmin, and others offer mobile navigation applications on 
+                                  AT&T’s iPhone, but even on the iPhone the TeleNav service is the most used.   
+
+                                  Europe and Asia.   Europe and Asia represent growth opportunities for TeleNav, evidenced 
+                                  by the fact that 30% of the company’s resources are focused on international operations 
+                                  despite generating only 4% of revenues.  Europe is still in the early stages of offering mobile 
+                                  phone navigation services, creating a potential opportunity for TeleNav; today, Telmap of 
+                                  Israel is the early market leader.  Vodafone was in the process of building its own service 
+                                  offering following its acquisition of Wayfinder in December 2008 for roughly $33M. 
+                                  However, Vodafone announced it is closing down Wayfinder in March 2010 as it believes it 
+                                  is no longer viable for Vodafone to continue to develop and operate its own navigation 
+                                  products. As such, Vodafone has indicated it will partner with other companies such as 
+                                  Nokia and Google to offer navigation and location based services.  
+
+                                  Asia is also in the early stages of offering mobile navigation services, but we believe this is a 
+                                  potentially large market opportunity given the demographics and large installed base of 
+                                  mobile phones.  TeleNav could be well-positioned in the Asia market, as it counts China 
+                                  Mobile, the world’s largest wireless operator, as its customer. 
+
+                                   
+
+                                  Recent Results 
+
+                                  TeleNav reported its first quarterly results (fiscal 4Q10) since its initial public offering on 
+                                  July 29, 2010.  Fourth quarter revenues grew 45% to $49.5M compared to the previous 
+                                  year, while net income grew 3% year-over-year.  The average number of paying monthly 
+                                  customers grew 69% to 16.1 million.  Average Revenue Per User (ARPU) declined 13% 
+
+TeleNav, Inc.                                                                                                      Page 13 of 23
+                                                                                                                                 242
+---------------------Page 14---------------------
+
+                                                                                                                 Company Note 
+                                                                                                           September 10, 2010  
+                                     
+
+                                    year-over-year on the increase in the number of bundled customers.  These solid financial 
+                                    and operating results were overshadowed, however, by the previously mentioned disclosure 
+                                    of the Sprint contract renegotiation.  As part of its 4Q10 earnings press release, 
+                                    management provided the financial guidance shown in Exhibit 6, below, for the first 
+                                    quarter of fiscal 2011; the guidance assumes no amendment to the Sprint agreement. 
+
+                                    Exhibit 6  
+
+                                    TELENAV 1Q11 GUIDANCE 
+                                     
+
+                                     Total Revenue                   $50.0 million
+                                     Gross Margin                    80%
+                                     Non-GAAP Operating Expenses      increase 10%, excluding $800k in stock-based comp 
+                                     GAAP Net Income                  $10.0 million 
+                                     GAAP EPS                        $0.22 
+                                     Non-GAAP Net Income              $11.0 million 
+                                     Non-GAAP EPS                    $0.23 
+                                     Effective Tax Rate              41%
+                                     Wtd-Avg Diluted Shares           45 - 46 million 
+
+                                    Source: TeleNav Press Release, Piper Jaffray  
+
+                                                                                            
+
+                                    Management 
+
+                                    TeleNav’s management team has deep technical experience in the wireless, navigation, and 
+                                    location based services industries.  The current CEO and CFO co-founded the company 
+                                    more than 10 years ago and post the IPO continued to own more than 7.5% of the company 
+                                    combined (all executive offices and directors owned nearly 62% of the company combined 
+                                    post the IPO).  Management has a limited history with investors. 
+
+                                     
+
+                                    H.P. Jin, CEO 
+
+                                    Dr. Jin is the CEO of TeleNav, which he co-founded in 1999.   Prior to starting TeleNav, he 
+                                    served as senior strategy consultant for the McKenna Group where he developed business 
+                                    strategies for companies in telecom and IT.  Dr. Jin also worked at McKinsey & Company 
+                                    as a business strategy and management consultant, advising wireless and landline operators 
+                                    on data and wireless strategies.  Dr. Jin was also a technical director at LINCSS/Loral, 
+                                    where he worked with Dr. Rennard.  Dr. Jin has a Ph.D. in Guidance, Navigation and 
+                                    Control (Aeronautics and Astronautics department), a Ph.D. minor in Electrical 
+                                    Engineering from Stanford University and a Bachelor of Science from the Harbin Institute 
+                                    of Technology in China. 
+
+                                     
+
+                                                                                                             
+
+TeleNav, Inc.                                                                                                           Page 14 of 23
+                                                                                                                                      243
+---------------------Page 15---------------------
+
+                                                                                                             Company Note 
+                                                                                                       September 10, 2010  
+                                   
+
+                                  Bob Rennard, CTO 
+
+                                  Dr. Rennard co-founded TeleNav with H.P. Jin and serves as the company’s CTO.  He has 
+                                  very strong credentials, as he was a principal engineer in designing the Global Positioning 
+                                  System (GPS).  Dr. Rennard was executive director of product development at 
+                                  Cyberstar/Loral, where he was responsible for developing satellite-based broadband 
+                                  Internet delivery systems. Prior to Loral, he was a vice president of GPS Navigation Systems 
+                                  at Stanford Telecom and an acquisition program manager in the U.S. Air Force.  Dr. 
+                                  Rennard has a Ph.D. in Aerospace Science from the Air Force Institute of Technology, a 
+                                  Bachelor of Science in Electrical Engineering from the University of Wyoming, and a 
+                                  Master of Science in Electrical Engineering from Ohio State University. 
+
+                                   
+
+                                  Doug Miller, CFO  
+
+                                  Mr. Miller is TeleNav’s chief financial officer.  Previous to joining TeleNav, Mr. Miller 
+                                  served as vice president and CFO of LongBoard, Inc., a privately held, venture-backed 
+                                  provider of telecommunications software. He also helped lead the successful Initial Public 
+                                  Offering (IPO) of Synplicity, Inc., a provider of electronic design software, where he served 
+                                  as senior vice president and CFO. Mr. Miller has assisted in completing several other IPOs 
+                                  for companies in the software, fabless semiconductor and Internet industries.  Mr. Miller 
+                                  holds a Bachelor of Science in Commerce from the University of Santa Clara and is a 
+                                  certified public accountant. 
+
+                                   
+
+TeleNav, Inc.                                                                                                      Page 15 of 23
+                                                                                                                                 244
+---------------------Page 16---------------------
+
+          TeleNav
+          (Figures in millions, except per share)                                                                                                      Est                  Est                  Est                   Est                   Est
+          Income statement                                                                                       FY 2008      FY 2009      FY 2010      FY 2011       FY 2012       FY 2013       FY 2014        FY 2015
+          Subscription revenue                                                                                       48                  109                169                 197                 190                 197                  206                   212
+          Automotive and other revenue                                                                                0                      2                      2                      7                     20                    26                     33                      43
+          Total Revenue                                                                                              48                  111                171                 204                 210                 222                  239                   256
+          Cost of revenue                                                                                            11                   20                   29                    42                    47                    53                     60                      66
+          R&D                                                                                                        14                   23                   39                    49                    50                    53                     57                      61
+          S&M                                                                                                        13                   16                   17                    22                    24                    27                     30                      32
+          G&A                                                                                                         5                      8                     13                    18                    18                    19                     20                      21
+          Adjusted EBITDA                                                                                             5                     43                   73                    73                    70                    70                     72                      75
+          D&A                                                                                                         0                      0                      0                      0                       0                       0                        0                        0
+          Operating income                                                                                            5                     43                   73                    73                    70                    70                     72                      75
+          Non-cash compensation                                                                                       (0)                   (1)                   (5)                   (3)                   (4)                   (4)                    (4)                     (4)
+          Interest, net                                                                                               0                      0                      0                      0                       0                       0                        0                        0
+          Other income (expense)                                                                                      0                     (1)                   (0)                   (0)                   (0)                   (0)                    (0)                     (0)
+          Pretax income                                                                                              4.8                41.5               68.0               69.6                66.3                66.4                 68.1                 70.9
+          Income taxes (benefit)                                                                                      0                     12                   27                    29                    27                    27                     28                      29
+                                                                                                                      0                      0                      0                      0                       0                       0                        0                        0
+          Net income                                                                                                  5                     30                   41                    41                    39                    39                     40                      42
+          Preferred div and accretion                                                                                 0                      0                      0                      0                       0                       0                        0                        0
+          Net income to common stockholders                                                                          4.6                29.6               41.4               41.1                39.1                39.2                 40.2                 41.8
+          Net Income to common, Adjusted                                                                              5                     30                   41                    41                    39                    39                     40                      42
+          Amount allocable to common shareholdersAmount allocable to common shareholders
+
+          Diluted Shares O/S                                                                                                                             37                    46                    47                    48                     49                      50
+
+          EPS (Diluted)                                                                                                                               $0.83             $0.88             $0.83             $0.81              $0.82               $0.83
+
+          Margins
+          Cost of service                                                                                          23.6%          18.6%          17.5%           21.3%           24.9%           27.0%            29.1%             31.1%
+          G&A                                                                                                      10.3%            7.5%             7.5%              9.0%              9.6%              9.6%               9.8%                9.9%
+          S&M                                                                                                      27.3%          15.1%            9.9%            11.3%           12.6%           13.5%            14.3%             14.9%
+          R&D                                                                                                      55.7%          34.5%          31.5%           32.5%           28.7%           27.6%            26.0%             23.4%
+          EBITDA                                                                                                   10.3%          39.4%          43.5%           37.2%           36.8%           35.8%            35.2%             35.5%
+          Operating Income                                                                                         10.3%          39.4%          43.5%           37.2%           36.8%           35.8%            35.2%             35.5%
+          Tax rate                                                                                                   4%                29%               39%               41%               41%               41%                41%                 41%
+
+          Annual growth
+          Total Revenue                                                                                                              126%             55%               17%                -3%                  3%                   5%                    3%
+          EBITDA                                                                                                                     764%             71%                 0%                 -4%                  0%                   3%                    4%
+          Sequential growth
+          Total Revenue                                                                                                              126%             55%               17%                -3%                  3%                   5%                    3%
+          EBITDA                                                                                                                     764%             71%                 0%                 -4%                  0%                   3%                    4%
+
+         9/9/2010                                                                                                                                                                                                                                                                           Christopher M. Larsen, Sr. Research Analyst
+         Source: Company data, Piper Jaffray estimates.                                          Current disclosure information for this company is located at http://www.piperjaffray.com/researchdisclosures.                                                                                     212 284-9339, chris.m.larsen@pjc.com  
+
+TeleNav, Inc.                                                                                                                                                                                                                                                                                                                              Page 16 of 23
+                                                                                                                                                                                                                                                                                                                                                                        245
+---------------------Page 17---------------------
+
+          TeleNav                                                                                                                                                                                                   Est                 Est                 Est                 Est
+         (Figures in millions, except per share)                           Sep-08      Dec-08      Mar-09       Jun-09       Sep-09      Dec-09      Mar-10       Jun-10       Sep-10      Dec-10       Mar-11       Jun-11
+         Income statement                                                    1Q09             2Q09             3Q09             4Q09             1Q10             2Q10             3Q10             4Q10             1Q11             2Q11             3Q11             4Q11
+         Subscription revenue                                                 21.1               24.9               29.0               33.6               35.6               39.6               44.5               48.9               49.2               51.2               47.7               49.0
+         Automotive and other revenue                                          0.5                  0.3                  0.8                  0.6                  0.4                  0.9                  0.6                  0.6                  1.0                  1.0                  2.0                  3.0
+         Total Revenue                                                        21.5               25.3               29.8               34.3               36.0               40.5               45.1               49.5               50.2               52.2               49.7               52.0
+         Cost of revenue                                                       4.0                  4.5                  5.3                  6.5                  7.1                  6.9                  7.2                  8.3                10.0               10.4               10.3               11.2
+         R&D                                                                   4.6                  5.5                  6.1                  7.1                  7.8                  9.1                10.5               11.6               12.0               12.5               11.9               12.4
+         S&M                                                                   3.8                  4.0                  4.1                  4.5                  3.8                  4.0                  4.4                  4.5                  5.3                  5.6                  5.5                  5.8
+         G&A                                                                   1.6                  1.9                  2.3                  2.4                  2.5                  3.0                  3.5                  3.8                  4.4                  4.5                  4.3                  4.5
+         Adjusted EBITDA                                                       7.4                  9.5                12.1               13.8               14.9               17.5               19.6               21.2               18.5               19.1               17.7               18.0
+         D&A
+         Operating income                                                      7.4                  9.5                12.1               13.8               14.9               17.5               19.6               21.2               18.5               19.1               17.7               18.0
+         Non-cash compensation                                                (0.1)              (0.1)              (0.1)              (0.2)              (0.3)              (0.5)              (0.6)              (3.5)              (0.9)              (0.9)               (0.8)               (0.9)
+         Interest, net                                                                                                                                                                             0.0                  0.0                  0.0                  0.0                  0.0
+         Other income (expense)                                                0.1                  0.1                 (0.7)              (0.3)              (0.5)               0.2                 (0.0)              (0.1)              (0.1)              (0.0)               (0.1)               (0.1)
+         Pretax income                                                         7.5                  9.5                11.3               13.3               14.1               17.2               19.0               17.7               17.5               18.2               16.8               17.0
+         Income taxes (benefit)                                                2.5                  2.6                  3.8                  3.0                  6.0                  7.1                  6.5                  7.1                  7.2                  7.5                  6.9                  7.0
+
+         Net income                                                          4.975            6.862            7.448           10.333           8.121           10.136         12.541         10.612            10.3               10.7                 9.9                 10.1
+         Preferred div and accretion
+         Net income to common stockholders                                                                                                                                                       8.936              10.3               10.7                 9.9                 10.1
+         Net Income to common, Adjusted                                                                                                                                                            8.9                10.3               10.7                 9.9                 10.1
+         Amount allocable to common shareholders
+
+         Diluted Shares O/S                                                                                                                                                                         37                   46                   46                   46                    47
+
+         EPS (Diluted)                                                                                                                                                                           $0.24            $0.22            $0.23            $0.21             $0.22
+
+         Margins
+         Cost of service                                                     18.7%          17.6%          17.7%          18.9%          19.6%          17.0%          15.9%          16.9%          20.0%          20.0%           20.8%           21.6%
+         G&A                                                                  7.4%             7.4%             7.8%             7.0%             6.9%             7.4%             7.7%             7.7%             8.7%             8.7%              8.7%              8.7%
+         S&M                                                                 17.9%          15.9%          13.6%          13.0%          10.6%            9.8%             9.7%             9.1%            10.6%          10.8%           11.0%           11.2%
+         R&D                                                                 21.4%          21.6%          20.3%          20.8%          21.5%          22.5%          23.2%          23.4%          23.9%          23.9%           23.9%           23.9%
+         EBITDA                                                              35.4%          37.9%          41.6%          41.1%          41.8%          44.3%          44.1%          43.4%          37.6%          37.3%           37.1%           36.7%
+         Operating Income                                                    35.4%          37.9%          41.6%          41.1%          41.8%          44.3%          44.1%          43.4%          37.6%          37.3%           37.1%           36.7%
+         Tax rate                                                             33%               28%               34%               22%               42%               41%               34%               40%               41%               41%               41%               41%
+
+         Annual growth
+         Total Revenue                                                       162%            155%            138%             97%               67%               60%               51%               45%               39%               29%               10%                 5%
+         EBITDA                                                               #N/A           9269%          757%            233%            100%             85%               63%               54%               24%                9%               -10%             -15%
+         Sequential growth
+         Total Revenue                                                        23%               17%               18%               15%                5%                12%               11%               10%                1%                  4%                 -5%                 5%
+         EBITDA                                                               80%               27%               28%               14%                8%                18%               12%                8%               -13%               3%                 -7%                 2%
+
+         9/9/2010                                                                                                                                                                                                                                                               Christopher M. Larsen, Sr. Research Analyst
+         Source: Company data, Piper Jaffray estimates.                                      Current disclosure information for this company is located at http://www.piperjaffray.com/researchdisclosures.                                                                             212 284-9339, chris.m.larsen@pjc.com  
+
+TeleNav, Inc.                                                                                                                                                                                                                                                                                                                Page 17 of 23
+                                                                                                                                                                                                                                                                                                                                                         246
+---------------------Page 18---------------------
+
+           TeleNav
+           (Figures in millions, except per share)(Figures in millions, except per share)                                                                     Est              Est              Est                Est                 Est                 Est
+           Balance Sheet                                                                                FY 2008   FY 2009   FY 2010   FY 2011   FY 2012    FY 2013      FY 2014      FY 2015
+           Cash & Cash Equivalents                                                                          17                33               113              152              189               225                 262                 302
+           A/R                                                                                              15                24                37                37                38                  41                   44                    46
+           Deferred Tax Asset, ST                                                                            0                   2                   2                   2                   2                     2                      2                      2
+           Prepaid Expenses and Other C/A                                                                    1                   3                   3                   3                   3                     3                      3                      3
+           PPE, Net                                                                                          3                   7                  10                12                14                  14                   15                    16
+           Deferred Tax Asset, LT                                                                            0                   0                   0                   0                   0                     0                      0                      0
+           Dposits and Other Assets                                                                          1                   3                  10                10                10                  10                   10                    10
+           Total Assets                                                                                     36              72              175             216              255               295               336                378
+           A/P                                                                                               1                   2                   3                   3                   3                     3                      4                      5
+           Accrued Compensation                                                                              2                   4                   6                   6                   6                     6                      6                      6
+           Accrued Royalties                                                                                 2                   3                   3                   3                   3                     3                      3                      3
+           Other Accrued Expenses                                                                            2                   2                   3                   3                   3                     3                      3                      3
+           Deferred Revenue                                                                                  2                   3                   7                   7                   7                     7                      7                      7
+           Warrant Liability, current                                                                        0                   0                   0                   0                   0                     0                      0                      0
+           Income Taxes Payable                                                                              0                   3                   2                   2                   2                     2                      2                      2
+           S/T Debt                                                                                          0                   0                   0                   0                   0                     0                      0                      0
+           Other Liabilities                                                                                 1                   0                   3                   3                   3                     3                      3                      3
+           Warrant Liabilities                                                                               2                   0                   0                   0                   0                     0                      0                      0
+           Commitments and Contingencies                                                                     0                   0                   0                   0                   0                     0                      0                      0
+           Long-term Debt                                                                                    0                   0                   0                   0                   0                     0                      0                      0
+           Convertible Preferred stock                                                                      50                51                  0                   0                   0                     0                      0                      0
+           Equity                                                                                          (26)               3                149              190              229               268                 309                 350
+           Liabilities + Equity                                                                             36              72              175             216              255               295               336                378
+
+          Source: Company data, Piper Jaffray estimates.
+
+TeleNav, Inc.                                                                                                                                                                                                                                                                                                                                                     Page 18 of 23
+                                                                                                                                                                                                                                                                                                                                                                                                 247
+---------------------Page 19---------------------
+
+          TeleNav
+          (Figures in millions, except per share)(Figures in millions, except per share)                                                                                           Est                 Est                 Est                 Est                 Est
+          Statement of Cash Flows                                                                                        FY 2009      FY 2010      FY 2011      FY 2012      FY 2013      FY 2014      FY 2015
+          Net income                                                                                                         30                   41                   41                   39                   39                   40                    42
+          D&A                                                                                                                 2                      5                      7                      8                      9                     10                    10
+          Change in working capital                                                                                          (8)                 (13)                  1                     (0)                   (3)                   (2)                   (1)
+          Accrued interest                                                                                                    0                      0                      0                      0                      0                      0                      0
+          Other operating                                                                                                     0                     11                     0                      0                      0                      0                      0
+          Net cash from operations                                                                                           24                   44                   49                   47                   45                   48                    50
+
+          License cost                                                                                                        0                      0                      0                      0                      0                      0                      0
+          Cap-x                                                                                                              (8)                   (7)                 (10)                (10)                (10)                (10)                (11)
+          Other investing                                                                                                     0                     (2)                   0                      0                      0                      0                      0
+          Net cash from investing                                                                                            (8)                 (10)                (10)                (10)                (10)                (10)                (11)
+
+          Issue stock / exercise options                                                                                      0                     44                     0                      0                      0                      0                      0
+          Debt issues                                                                                                         0                      0                      0                      0                      0                      0                      0
+          Other financing                                                                                                     0                      1                      0                      0                      0                      0                      0
+          Net cash from financing                                                                                             0                     45                     0                      0                      0                      0                      0
+
+          Effect of foreign exchange
+
+          Change in cash                                                                                                   16.3               79.7               38.7               37.6               35.5               37.3               39.8
+          Cash at beginning                                                                                                16.9               33.2              112.9            151.6            189.2            224.7             262.0
+          Cash at end                                                                                                      33.2              112.9            151.6            189.2            224.7            262.0             301.8
+
+          Source: Company data, Piper Jaffray estimates.
+
+TeleNav, Inc.                                                                                                                                                                                                                                                                                                                                        Page 19 of 23
+                                                                                                                                                                                                                                                                                                                                                                                   248
+---------------------Page 20---------------------
+
+         TeleNav
+         Valuation analysis                                                                                                                   Est                 Est                  Est                  Est                  Est
+         ($ millions, except per share data)                                                 FY 2009          FY 2010        FY 2011      FY 2012       FY 2013       FY 2014       FY 2015
+         EBIT                                                                                             $42                    $68                  $70                 $66                 $67                 $68                 $71
+         Less: Tax Rate*EBIT                                                                               (15)                    (24)                  (24)                (23)                 (23)                 (24)                 (25)
+         Plus: Depreciation                                                                                 2                          5                        7                      8                       9                      10                    10
+         Less: Change in Working Capital                                                                   $8                      $13                   ($1)                 $0                    $3                    $2                    $1
+         Less: Capital Expenditures                                                                        ($8)                    ($7)                ($10)             ($10)              ($10)              ($10)              ($11)
+         Free Cash Flow to the Firm                                                                       $31                    $55                  $42                 $42                 $45                 $46                 $47
+
+         After tax Interest Expense                                                                        $0                       $0                     $0                    $0                    $0                    $0                    $0
+         Equity Free Cash Flow                                                                            $31                    $55                  $42                 $42                 $45                 $46                 $47
+         Equity FCF per share                                                                                        1.48                 0.91               0.90                0.94                0.93                0.94
+
+         Current Price
+         Cost of capital                                                                                                                 Projected                                                       Terminal
+         Risk free rate (10-yr UST)                                                                                                          4.0%                                                           5.0%
+         Risk premium                                                                                                                        6.0%                                                           5.0%
+         Beta                                                                                                                                 2.0                                                            1.75
+         Cost of equity (CAPM)                                                                                                              16.0%                                                          13.8%
+         Weighted ave. cost of debt                                                                                                          8.0%                                                           8.0%
+         Debt to capital                                                                                                                      0%                                                             10%
+         WACC (k)                                                                                                                           16.0%                                                          12.8%
+
+         Terminal FCF growth rate (g)                                                                                                                                                                       3.0%
+         FCF Terminal Multiple (1+g)/(k-g)                                                                                                                                                                  10.5x
+         Terminal Value of Firm                                                                                                                                                                             $492
+
+         Valuation  (end of FY 2011)
+         PV FCF 2012 through 2015                                                                                                           $125
+         PV Terminal Value                                                                                                                  $272
+         PV of Firm                                                                                                                          $397
+         Less: 2010 Net Debt                                                                                                                  $0
+         Majority Equity Value                                                                                                              $397
+         Less Minority Discount                                                                                                              15%
+         Minority Equity Value                                                                                                              $338
+         DCF Valuation Per Share                                                                                                              $7
+
+         Scenario Analysis                                                                   Probability                                   Valuation
+                                                                Base Case                                                    60%                                       $7
+                                                                Lost Exclusivity                                          20%                                       $4
+                                                                Free Provider                                              10%                                       $0
+                                                                Best Case (upside to revs)                      10%                                      $13
+
+                                                                Scenario-based Price Target                                       $6
+
+         Source: Company data, Piper Jaffray estimates.
+
+        Source: Company data, Piper Jaffray estimates.
+
+TeleNav, Inc.                                                                                                                                                                                                                                                                                        Page 20 of 23
+                                                                                                                                                                                                                                                                                                                               249
+---------------------Page 21---------------------
+
+                                                                                                                                                Company Note
+                                                                                                                                         September 10, 2010
+
+  Important Research Disclosures
+
+                                                Rating and Price Target History for: TeleNav, Inc. as of 09-09-2010
+
+                                                                                                                                                          10
+
+                                                                                                                                                          8
+
+                                                                                                                                                          6
+
+                                                                                                                                                          4
+
+                                                                                                                                                          2
+            Q2         Q3                   Q1         Q2         Q3                   Q1         Q2         Q3                   Q1         Q2         Q3
+                                 2008                                       2009                                       2010
+
+                                                                                                                                    Created by BlueMatrix
+
+  Notes: The boxes on the Rating and Price Target History chart above indicate the date of the Research Note, the rating, and the price target. Each box
+  represents a date on which an analyst made a change to a rating or price target, except for the first box, which may only represent the first Note written during
+  the past three years.
+
+  Legend:
+
+  I: Initiating Coverage
+
+  R: Resuming Coverage
+
+  T: Transferring Coverage
+
+  D: Discontinuing Coverage
+
+  S: Suspending Coverage
+
+  OW: Overweight
+
+  N: Neutral
+
+  UW: Underweight
+
+  B: Buy (Piper Jaffray discontinued use of the B, N, and S ratings on June 30, 2009)
+
+  N: Neutral
+
+  S: Sell
+
+  OP: Outperform (Piper Jaffray discontinued use of the OP, MP and UP ratings on November 15, 2007)
+
+  MP: Market Perform
+
+  UP: Underperform
+
+  AL On/AL Off: Placed on/removed from the Alpha List maintained by Piper Jaffray (AL use discontinued March 2010)
+
+  NA: Not Available
+
+  UR: Under Review
+
+                                                        Distribution of Ratings/IB Services
+                                                                     Piper Jaffray
+
+                                                                                                                               IB Serv./Past 12 Mos.
+
+  Rating                                                                    Count                    Percent                Count             Percent
+
+  BUY [OW]                                                                     343                                            50.30                                         79                                23.03
+  HOLD [N]                                                                     281                                            41.20                                         23                                   8.19
+  SELL [UW]                                                                      58                                              8.50                                            1                                   1.72
+
+  Note: Distribution of Ratings/IB Services shows the number of companies currently in each rating category from which Piper Jaffray and its affiliates received
+  compensation for investment banking services within the past 12 months. FINRA rules require disclosure of which ratings most closely correspond with
+  "buy," "hold," and "sell" recommendations. Piper Jaffray ratings are not the equivalent of buy, hold or sell, but instead represent recommended relative
+  weightings. Nevertheless, Overweight corresponds most closely with buy, Neutral with hold and Underweight with sell. See Stock Rating definitions below.
+
+TeleNav, Inc.                                                                                                                                   Page 21 of 23
+                                                                                                                                                                  250
+---------------------Page 22---------------------
+
+                                                                                                                               Company Note
+                                                                                                                         September 10, 2010
+
+  Important Research Disclosures
+
+  Analyst Certification  Christopher M. Larsen, Sr. Research Analyst
+
+  Analyst Certification  Bradley W. Korch, Research Analyst
+
+  Analyst Certification  Joseph A. Mastrogiovanni, Research Analyst
+  The views expressed in this report accurately reflect my personal views about the subject company and the subject security. In addition, no part of my
+  compensation was, is, or will be directly or indirectly related to the specific recommendations or views contained in this report.
+
+  Research Disclosures
+  Piper Jaffray was making a market in the securities of TeleNav, Inc. at the time this research report was published. Piper Jaffray will buy and sell
+  TeleNav, Inc. securities on a principal basis.
+  Piper Jaffray expects to receive or intends to seek compensation for investment banking services from TeleNav, Inc. in the next 3 months.
+  Piper Jaffray has received compensation for investment banking services from or has had a client relationship with TeleNav, Inc. within the past 12
+  months.
+  Within the past 12 months Piper Jaffray was a managing underwriter of a public offering of, or dealer manager of a tender offer for, the securities of
+  TeleNav, Inc. or the securities of an affiliate.
+  Within the past 3 years Piper Jaffray participated in a public offering of, or acted as a dealer manager for, TeleNav, Inc. securities.
+
+  Affiliate  Disclosures: This  report  has  been  prepared  by  Piper  Jaffray  &  Co.  and/or  its  affiliates  Piper  Jaffray  Ltd.  and  Piper  Jaffray  Asia  Securities
+  Limited, all of which are subsidiaries of Piper Jaffray Companies (collectively Piper Jaffray). Piper Jaffray & Co. is regulated by FINRA, NYSE, and the
+  United States Securities and Exchange Commission, and its headquarters is located at 800 Nicollet Mall, Minneapolis, MN 55402. Piper Jaffray Ltd. is
+  registered in England, no. 3846990, and its registered office is One South Place, London, EC2M 2RB. Piper Jaffray Ltd. is authorised and regulated by
+  the UK Financial Services Authority ("FSA"), entered on the FSA's register, no. 191657 and is a member of the London Stock Exchange. Piper Jaffray
+  Asia  Securities  Limited  is  a  licensed  corporation  regulated  by  the  Securities  and  Futures  Commission  of  Hong  Kong  ("SFC"),  entered  on  the  SFC's
+  register, no. ABO154, and is an exchange participant of The Stock Exchange of Hong Kong Limited. Its headquarters is located at 39/F Tower 1 Lippo
+  Centre,  89  Queensway,  Hong  Kong.  Disclosures  in  this  section  and  in  the  Other  Important  Information  section  referencing  Piper  Jaffray  include  all
+  affiliated entities unless otherwise specified.
+
+  Piper Jaffray research analysts receive compensation that is based, in part, on overall firm revenues, which include investment banking revenues.
+
+  Rating Definitions
+
+     Stock Ratings: Piper Jaffray ratings are indicators of expected total return (price appreciation plus dividend) within the next 12 months. At
+     times analysts may specify a different investment horizon or may include additional investment time horizons for specific stocks. Stock
+     performance is measured relative to the group of stocks covered by each analyst. Lists of the stocks covered by each are available at
+     www.piperjaffray.com/researchdisclosures. Stock ratings and/or stock coverage may be suspended from time to time in the event that there
+     is no active analyst opinion or analyst coverage, but the opinion or coverage is expected to resume. Research reports and ratings should
+     not be relied upon as individual investment advice. As always, an investor's decision to buy or sell a security must depend on individual
+     circumstances, including existing holdings, time horizons and risk tolerance. Piper Jaffray sales and trading personnel may provide written
+     or oral commentary, trade ideas, or other information about a particular stock to clients or internal trading desks reflecting different opinions
+     than those expressed by the research analyst. In addition, Piper Jaffray technical research products are based on different methodologies
+     and may contradict the opinions contained in fundamental research reports.
+
+      Overweight (OW): Anticipated to outperform relative to the median of the group of stocks covered by the analyst.
+      Neutral (N): Anticipated to perform in line relative to the median of the group of stocks covered by the analyst.
+      Underweight (UW): Anticipated to underperform relative to the median of the group of stocks covered by the analyst.
+
+     An industry outlook represents the analyst's view of the industry represented by the stocks in the analyst's coverage group. A Favorable
+     industry outlook generally means that the analyst expects the fundamentals and/or valuations of the industry to improve over the investment
+     time horizon. A Neutral industry outlook generally means that the analyst does not expect the fundamentals and/or valuations of the industry
+     to either improve or deteriorate meaningfully from its current state. An Unfavorable industry outlook generally means that the analyst
+     expects the fundamentals and/or valuations of the industry to deteriorate meaningfully over the investment time horizon.
+
+TeleNav, Inc.                                                                                                                   Page 22 of 23
+                                                                                                                                               251
+---------------------Page 23---------------------
+
+                                                                                                                                        Company Note
+                                                                                                                                 September 10, 2010
+
+  Other Important Information
+
+  The material regarding the subject company is based on data obtained from sources we deem to be reliable; it is not guaranteed as to accuracy and
+  does  not  purport  to  be  complete.  This  report  is  solely  for  informational  purposes  and  is  not  intended  to  be  used  as  the  primary  basis  of  investment
+  decisions. Piper Jaffray has not assessed the suitability of the subject company for any person. Because of individual client requirements, it is not, and it
+  should not be construed as, advice designed to meet the particular investment needs of any investor. This report is not an offer or the solicitation of an
+  offer to sell or buy any security. Unless otherwise noted, the price of a security mentioned in this report is the market closing price as of the end of the
+  prior business day. Piper Jaffray does not maintain a predetermined schedule for publication of research and will not necessarily update this report. Piper
+  Jaffray policy generally prohibits research analysts from sending draft research reports to subject companies; however, it should be presumed that the
+  analyst(s)  who  authored  this  report  has  had  discussions  with  the  subject  company  to  ensure  factual  accuracy  prior  to  publication,  and  has  had
+  assistance   from   the   company   in   conducting   diligence,   including   visits   to   company   sites   and   meetings   with   company   management   and   other
+  representatives.
+
+  This report is published in accordance with a conflicts management policy, which is available at http://www.piperjaffray.com/researchdisclosures.
+
+  Notice  to  customers: This  material  is  not  directed  to,  or  intended  for  distribution  to  or  use  by,  any  person  or  entity  if  Piper  Jaffray  is  prohibited  or
+  restricted by any legislation or regulation in any jurisdiction from making it available to such person or entity. Customers in any of the jurisdictions where
+  Piper Jaffray and its affiliates do business who wish to effect a transaction in the securities discussed in this report should contact their local Piper Jaffray
+  representative. Europe: This material is for the use of intended recipients only and only for distribution to professional and institutional investors, i.e.
+  persons who are authorised persons or exempted persons within the meaning of the Financial Services and Markets Act 2000 of the United Kingdom, or
+  persons who have been categorised by Piper Jaffray Ltd. as professional clients under the rules of the Financial Services Authority. Asia: This report is
+  distributed in Hong Kong by Piper Jaffray Asia Securities Limited, which is regulated by the Hong Kong SFC. This report is intended only for distribution
+  to professional investors as defined in the Hong Kong Securities and Futures Ordinance and is for the use of intended recipients only. United States:
+  This report is distributed in the United States by Piper Jaffray & Co., member SIPC, FINRA and NYSE, Inc., which accepts responsibility for its contents.
+  The securities described in this report may not have been registered under the U.S. Securities Act of 1933 and, in such case, may not be offered or sold
+  in the United States or to U.S. persons unless they have been so registered, or an exemption from the registration requirements is available.
+
+  This report is produced for the use of Piper Jaffray customers and may not be reproduced, re-distributed or passed to any other person or published in
+  whole or in part for any purpose without the prior consent of Piper Jaffray & Co. Additional information is available upon request.
+
+  Copyright 2010 Piper Jaffray. All rights reserved.
+
+TeleNav, Inc.                                                                                                                           Page 23 of 23
+                                                                                                                                                         252

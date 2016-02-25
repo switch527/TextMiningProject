@@ -1,0 +1,1481 @@
+---------------------Page 1---------------------
+
+                                                                                                          II NNIITTIIAATTIIOONN             RR  EEPPOORRTT
+
+                                                                                                                                       February 25, 2011
+ 
+TELENAV, INC (TNAV-Q)                                                                                                                          Rating:  BUY
+                                                                                                                                           Target:  $16.80 
+M  OBILE     L OCATION      -B  ASED     P LATFORM FOR           C ARRIERS       , C ARS AND       C AMPAIGNS          
+                                                              
+
+MARKET INFO: TNAV-Q
+Closing Price                                                                                                             $10.74ON LOCATING A MOBILE GEM  
+Target Price                                                                                                               $16.80
+Potential ROI                                                                                                              56.4% With a base of 20 million users each contributing $2.60 to 
+52 Week Range ($)                           $4.65 / $12.27         annual FCF, TeleNav has leveraged this profitable 
+Market Cap ($mm)                                                                                                $451.5beachhead to successfully expand into adjacent high 
+Cash (mm)                                                                                                                 $155.7growth LBS markets including automotive in-dash 
+Debt (mm)                                                                                                                      $0.0navigation, mobile advertising, and enterprise MRM. 
+Enterprise Value (mm)                                                                                        $295.9
+Shares o/s (mm)                                     42.0           Despite achieving the industry  best combination of 3-year 
+Avg Volume (previous 3 months)                       163,960       revenue CAGR of 89%, LTM EBITDA margins of 41.4% 
+FYE: June 30                          FY2010A          FY2011E            FY2012Eand ROE of 36.7%, TeleNav trades at a FY12 EV/EBITDA 
+Revenue (mm)                                     $171.2                 $198.6                    $230.5of 3.7x, representing a 48% discount to LBS peers. 
+EBITDA (mm)                                          $78.5                    $73.7                       $79.5
+                                                                   TeleNav has $155.7M of cash on its balance sheet, 
+EBITDA margin (%)                          45.9%                  37.1%                     34.5%
+                                                                   representing 31% of its market cap and has zero debt.   
+EPS $0.83                    $0.84                 $0.88
+VALUATION                            FY2010A          FY2011E            FY2012E
+EV/Sales                                                        1.7X                       1.5X                          1.3XA CARRIER WEAPON UNLEASHED 
+EV/EBITDA                                                  3.8X                       4.0X                          3.7X
+                                                                   TeleNav Inc. (TNAV) owns 36% of the U.S/E.U. mobile turn-by-turn (TBT) 
+P/E                                                                 13.0X                    12.8X                       12.2X
+                                                                   navigation market because mobile operator  customers need TNAV  to help protect 
+Source: Capital IQ,  M Partners                                    margins from off-deck LBS solutions that use data but dont generate revenue. 
+ 
+                                                                   What is not well understood is how effectively the company is:           
+                                                                        o     Leveraging U.S leadership in mobile navigation to expand internationally. 
+                                                                              Current signed deals already includes 720 million potential new users.           
+                                                                        o     Entering adjacent segments such           as in-dash navigation and MRM 
+                                                                              solutions which increases its addressable market by over $2B per annum 
+                                                                              by 2014.   
+                                                                        o     Evolving into a cloud-based on-deck LBS platform for advertising, m-
+                                                                              commerce, services, and 3      rd
+                                                                                                               -party content. The addressable market size 
+                                                                              for this segment is estimated to be worth $2.6B by 2014.          
+ 
+ 
+                                                             VALUATION AND RECOMMENDATION 
+Management
+HP Jin, Chairman and CEO                                           We believe that there is significantly mo re value in the company than the current 
+Douglas Miller, CFO                                                share price implies.  On an enterprise value basis, TNAV trades at a 3.7x our FY12 
+Robert Rennard, CTO                                                EBITDA estimate of $79.5M, which is an unwarranted 48% discount to LBS peers 
+                                                                   that trade at a median multiple of 7.2x. 
+Directors
+Shawn Carolan                                                      TeleNav operates in multiple ecosystems where valuation multiples are 
+Joseph Zaelit                                                      considerably higher than where the compan y trades at now, ranging from 5.9x for 
+Samuel Chen                                                        automotive OEM vendors to 16.7x for cloud platforms.  With the largest install 
+Jane Chiu                                                          base, diversifying revenue streams, and st  icky carrier contracts, we believe that 
+                                                                   TeleNav should at least trade at the median of its LBS peer set. 
+Soo Boon Koh
+                                                                   We are initiating coverage with BU Y recommendation and $16.80 target 
+Major Shareholders
+                                                                   price based on applying a 7.0x EV/EBITDA multiple to our FY12 EBITDA 
+Digital Mobile Ventures                              26.9%
+                                                                   estimate of $79.5M.    
+Menlo Ventures                                              14.6%
+iGlobe Partners                                                 7.6% As a cross-check to our multiple valuation, we also performed a DCF calculation on 
+Wellington Management Com p              5.0%                      our forecasted  cash flows. At a discount rate of 12.0%, and a terminal growth of 
+Insiders                                                               11.7%3%, the share price calculates to $16.34, which is a small variance of 2.7% from 
+                                                                   our multiples based valuation.   
+Source: Capital IQ                               
+ 
+Member of the Investment Industry Regulatory Organization of Canada (IIROC)                                 Ron Shuttleworth                           Daniel Lee 
+Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange                       416.603.7381 ext. 250               416.603.7381 ext. 277 
+Member  Canadian Investor Protection Fund (CIPF)                                                           rs@mpartners.ca                      dl@mpartners.ca 
+ 
+
+                                                                                                                                                                      67
+---------------------Page 2---------------------
+
+                                                                                                          TT  EELLEE  NN  AAVV  ,,  IINNCC  ..
+
+                                                                                                                       February 25, 2011
+  
+
+ 
+                              FIVE REASONS TO BUY THIS STOCK TODAY 
+ 
+                              1)   LBS is rocking and TeleNav is the lead singer:   According to a 2010 Juniper Research study, 1.5 
+                                   billion consumer users are forecasted to drive annualized mobile location based services (LBS) revenues 
+                                   to $12.7B by 2014.  We believe that through its curren t LBS offerings alone, TeleNav is poised to address 
+                                   at least $5.0B of this market.  With 19.6M user    s as of December 31, 2010, Telenav has the largest 
+                                   revenue-generating consumer LBS user base amongs t over 6,000 LBS related ve ndors globally. TeleNavs 
+                                   success in its core mobile navigation platform is a  key enabler of other location based opportunities such 
+                                   as mobile advertising, in-dash automotive navigation, and mobile resource management.  Since going 
+                                   public in May of 2010, TNAV has grown its user base by 63%, adding 7M new users.       As a greater 
+                                   percentage of revenue is generated from new ma rket segments, and as it  scales as a mobile 
+                                   LBS platform, the EV/EBITDA multiple should expand accordingly.             See chart below. 
+ 
+                                                                       Relative Valuation Multiples
+ 
+                                     45.0x                                                                               40.9x
+                                     40.0x
+                                     35.0x                             Potential Multiple Expansion
+                                     30.0x       Today
+                                                                                                                              23.0x
+                                     25.0x
+                                     20.0x                                                                                        16.7x
+                                     15.0x
+                                                                                                      10.2x
+                                                                 7.8x 7.4x 7.2x     8.3x 7.5x              8.5x
+                                     10.0x                                                  5.9x               6.6x
+                                              3.4x 4.0x 3.7x
+                                      5.0x
+                                      0.0x
+                                                 TeleNav                                   LBS Vendors                        Carrier Software                    Automotive OEMCloud-SaaS Platforms
+                                                                                                         Suppliers
+                                                                                  LTM FY'11E  FY'12E
+                                                                                                                                            
+                              2)   Customers are massive and motivated to drive revenue for TNAV:  Telenav is partnered with 15 
+                                   leading carriers with a global footprint of 29 countries who need on-deck LBS apps to maintain subscriber 
+                                   stickiness and drive ARPU.  Despite having grown its user base by 63% Y/Y, TeleNav still only has a 7% 
+ 
+                                   penetration rate among 5 US-based carrier clients, which have 275 million subscribers combined. The 
+                                   company is just beginning to deploy with leading in ternational mobile operators, where signed contracts 
+                                   represent a universe of 720 million potential users.  Wi th third-party off-deck LBS providers like Google 
+                                   (GOOG-Q), and AOL threatening to turn carriers into  dumb pipes, TeleNav is a key partner for carriers 
+                                   to capture earnings in the rapidly growing market for LBS applications.     
+ 
+                              3)   Post-IPO disaster averted, stock reacts to execution:       One of the potentially unintended 
+                                   consequences of the IPO in May of 2010 was to expose  just how much money TNAV was making from its 
+                                   largest customer Sprint.  Upon viewing the 45%+  adjusted EBITDA margins and the 24%+ net income 
+                                   margins, Sprint may have decided to rebalance the      deal.  Leveraging its customer dominance, Sprint 
+                                   forced the contract to be re-opened and re-negotiated. Upon disclosing the renegotiation to the market 
+                                   with no assurances of success, TeleNavs shares subsequently plummeted to a low of $4.68.  A month 
+                                   later, TNAV announced that Sprint had agreed to new terms and then in October the company 
+                                   confounded the market by beating expectations and gu iding higher  despite the Sprint deal.  Then they 
+                                   did again in January. Investors bega n to realize that the renegotiated Sprint contract may be better than 
+                                   at first glance and that TeleNav is not a broken business.   
+                              4)   New Sprint deal  more users, more revenue  streams, better economics:   The new Sprint deal 
+                                   benefits TeleNav in two not well understood ways:  i) Because margins improve on scaling, Sprint is 
+                                   incented to include Telenav in more data bundles up-s old to more current subscribers, thus accelerating 
+                                   the potential user base for Telenav; and ii) by carving out a greater revenue split for Telenav on 
+                                   incremental services, TeleNavs top-line becomes more  highly levered to emerging rapid growth areas in 
+                                   LBS such as mobile advertising, m-commerce, lead generation, and other emerging revenue models. 
+ 
+                              5)   Free Fear is Overdone:    TeleNavs greatest perceived competit ive risk comes from free mobile 
+                                   handset navigation applications, particularly from G oogle.  This threat has be en and continues to be a 
+                                   drag on its valuation relative to its peers.  Through solid investments over the past three years, we 
+                                   believe the company is mitigating this threat  TeleNa v should earn increasingly higher valuation multiples 
+                                   as the company continues to de-risk   the threat of free alternatives  by: i) winning global automotive 
+                                   OEM contracts for in-dash navigation with companies like Ford and Delphi; ii) demonstrating the 
+                                   effectiveness of its mobile advertising model with drive to rates of 24%; iii) signing deals with leading 
+ 
+                                   global carriers like Vivo and China Mobile; and iv) continuing to penetrate the enterprise. 
+
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                   Ron Shuttleworth                      Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange          416.603.7381 ext. 250           416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca           dl@mpartners.ca 
+                                                                       2                                                                       
+  
+
+                                                                                                                                                  68
+
+                                                                                                                       EV/EBITDA
+---------------------Page 3---------------------
+
+                                                                                                           TT  EELLEE  NN  AAVV   ,,  IINNCC  ..
+
+                                                                                                                        February 25, 2011
+  
+
+ 
+                              WHO IS TELENAV? 
+ 
+                              Headquartered in Santa Clara California, TeleNav is a      cloud-based provider of location-based applications 
+                               delivered to GPS-enabled phones.  TeleNav was incorporated in Delaware in 1999 and went public in May 2010 
+                              with a listing on the NASDAQ as TNAV. The company  has 953 employees with 800 engineers, of which about 
+                               500 are located in the companys R&D facilities in China.   
+                              TeleNavs flagship turn-by-turn (TBT) mobile navigation platform was launched with Nextel (now Sprint) in 
+ 
+                              2002.  Since then they have launched with AT&T, US Cellul ar, T-Mobile as well as leading international carriers 
+                               such as China Mobile,  Vivo, and Telcel.  With 19.6M paying users, the company is currently global leader in 
+                              mobile navigation.   
+                               The companys leadership in mobile navigation platfo    rm has acted as a springboard to adjacent market 
+                              opportunities in mobile advertising, mobile commerce , mobile resource management (MRM), and automotive 
+ 
+                              in-dash solutions.  Through significant investments and solid execution across a broad range of vertical 
+                               markets, TeleNav has increased it market opportunity to  $5.0B (up from $1.5B) as an end-to-end LBS platform 
+                              spanning across multiple distribution channels in      cluding handsets, operating systems, carriers, and 
+                               automobiles.   
+                               
+ 
+                                                               $5.0B+ Market Opportunity by 2014$5.0B+ Market Opportunity by 2014
+An end-to-end LBS 
+                                                    TBT NavigationTBT NavigationAutomotiveAutomotiveMobile AdsMobile AdsMRMMRM
+platform spanning 
+multiple distribution                                  $1.5B$1.5B        $1.5B$1.5B        $2.6B$2.6B        $744M$744M
+channels with a $5.0B 
+addressable market 
+opportunity by 2014. 
+                                                                         Distribution ChannelsDistribution Channels
+                                     HandsetsHandsets Mobile AppsMobile AppsMobile OSMobile OSGlobal ReachGlobal ReachCarriersCarriersAutomobilesAutomobiles
+                                    Available onAvailable onAvailable throughAvailable throughCompatible with allCompatible with allAvailable in Available in On-deck w/ 14On-deck w/ 14-Ford SYNC-Ford SYNC
+                                   600+ Handsets600+ Handsetsall app storesall app storesmobile OSmobile OS29 countries29 countriesleading carriersleading carriers- Delphi - Delphi 
+ 
+
+ 
+
+ 
+
+ 
+                                                                                 ServicesServices
+ 
+                                      GIS DataGIS DataLocal SearchLocal SearchEntertainmentEntertainmentSocialSocialAdvertisingAdvertisingPoints of InterestPoints of Interest
+ 
+                                      -TeleAtlas-TeleAtlas-Poynt-Poynt   -Open Table-Open Table- Facebook- Facebook-JumpTap-JumpTap-Yelp-Yelp
+                                       -Navteq-Navteq   -Where?-Where?  -Cinema Now-Cinema Now- Foursquare- Foursquare- Adenyo- Adenyo-Rummble-Rummble
+                                                                                                                                              
+                              Source: M Partners, Company Reports 
+ 
+                               
+ 
+                              CLOUD-BASED, SERVICE DELIVERY ARCHITECTURE 
+                              The TeleNav navigation solution is implemented on a   cloud-based architecture, wh ich allows a multitude of 
+                              navigation services to be delivered to almost all the  mobile handsets in the market.  The mobile-phone-based 
+ 
+                              navigation application takes basic location readings fr  om GPS signals and cell-tow er triangulation and then 
+                              sends them back to TeleNavs servers.  Based on a user s location and desired destination, TeleNav runs map 
+                              lookups and routing algorithms at the server level, before sending out the set of instructions to get to a 
+                               targeted address.    
+                              Since the application essentially exists in the cloud, upgrades to the services or the addition of incremental 
+ 
+                              capabilities can be implemented easily.  Recent additions to the platform include the ability to deliver targeted 
+                               mobile advertising or to track a mobile field workers lo cation and progress.  The cloud platform makes it easy 
+                              to add content, services, and partners.      
+                                
+                                
+
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                    Ron Shuttleworth                       Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange           416.603.7381 ext. 250           416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca             dl@mpartners.ca 
+                                                                        3                                                                        
+  
+
+                                                                                                                                                    69
+---------------------Page 4---------------------
+
+                                                                                                         TT  EELLEE  NN  AAVV  ,,  IINNCC  ..
+
+                                                                                                                      February 25, 2011
+  
+                              TeleNavs service delivery system includes a direct connection to the carrier partners back-end, allowing for 
+                              seamless authentication and billing.  Carriers bill customers directly and the revenues are passed on to 
+                              TeleNav. End users do not have to set up and pay a se  parate bill and TeleNav does not have to develop its 
+                              own billing infrastructure or take on additional credit risks.   
+ 
+                              GIS data is pulled from TeleAtlas and Navteq, while POI information comes from multiple third-party sources. 
+                              Local advertisements are provided by ad networks such as yp.com, Yelp, or directly from advertisers (e.g., 
+                              Darden Restaurants, Holiday Inn, etc.).  TeleNavs application programming interfaces (APIs) allow third party 
+                              developers to connect TeleNav's location-based services, such as turn-by-turn directions and location sharing, 
+                              to their mobile and web applications. This helps developers reach the companys 20 million subscribers and 
+                              enables seamless navigation and location sharing acro ss all major mobile operat ing systems on hundreds of 
+                              devices supported by the networks of TeleNav's carrier partners.    
+Cloud Brings:  More 
+content, more services,     
+more devices, and more 
+market segments.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                            
+                              Source: Company Presentation 
+                               
+ 
+                               
+ 
+                              FINANCIAL PERFORMANCE & OUTLOOK 
+Customer                      R EVENUE      P ERFORMANCE         
+concentration should 
+decline with fastest        Almost 100% of TeleNavs revenue is recurring and subs cription-based, providing the company with excellent 
+                              visibility.  Over the past three fiscal years ended June 30, TNAV achieved a revenue CAGR of 89% - growing 
+growth coming from       from $48.1M in FY08 to $171.2M in FY 10.  Revenue growth to date has pr imarily been driven by Sprint and 
+new segments              AT&T which represented 61% and 29% of FY09 revenue and 55% and 34% of FY10 revenue.   
+                              During Q211, TeleNav reduced its revenue concentration from Sprint and AT&T to 44% and 40% of total 
+                              revenue respectively.  Q211 revenue from US Cellular and T-Mobile grew by 169% Y/Y to account for $4.3M 
+                              or 9% of total revenue, up from $1.6M in Q210.  We expect this trend to continue and we see Sprint/AT&T 
+                              revenue concentration declining considerably to 35%     and 31% by FY12 as the company ramps up its 
+                              deployments with new carrier partners, new automotive OEMs, and new content providers.   
+                              While management has not delineated specific contribution from automotive, mobile advertising, and MRM, 
+                              they indicated that the company is on track to exit FY11 with a run-rate of about 10% of total revenues from 
+                              these business segments.  This is up from 7% of total Q211 revenue.   
+                               
+                               
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                  Ron Shuttleworth                      Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange         416.603.7381 ext. 250          416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca          dl@mpartners.ca 
+                                                                       4                                                                      
+  
+                                                                                                                                                 70
+---------------------Page 5---------------------
+
+                                                                                                              TT  EELLEE   NN  AAVV  ,,  IINNCC   ..
+
+                                                                                                                            February 25, 2011
+  
+
+                               REVENUE FORECAST ASSUMPTIONS  
+                                    Carrier TBT Navigation:  We believe that Sprint currently pays about $20M per quarter in its fixed fee 
+ 
+                                    contract with TeleNav until Decemb er 2012.  We expect Sprint to ro  llover the agreement but at lower 
+                                     successive rates.  Our forecast also assumes that a majority of TeleNavs US carrier partners will migrate 
+                                    to fixed fee arrangements by H213.  For its international carrier partners, we are forecasting modest until 
+                                     network infrastructure begins to mature in emergi      ng markets.   Based on the current pace capital 
+                                    spending on equipment and infrastructure, we expect this to occur by 2013.         
+ 
+                                    Automotive:  For FY12 and beyond, we expect rapid gr  owth from TeleNavs automotive revenues as 
+                                     SYNC navigation becomes a standard feature in all Fords and MyTouch gains traction amongst 
+                                    consumers.  We do not anticipate any contribution from Delphi until H212 as automakers typically take 
+                                     between one and two years to begin production once they have chosen their suppliers. 
+
+                                    Mobile Advertising:  We see advertising as a key growth driver for the company given the breadth of 
+                                    their platform and early success with drive-to-rates.  However, since TeleNavs advertising platform was 
+                                     only launched in September 2010, we expect limited   advertising revenue in the near term.  While we 
+                                    anticipate rapid growth from this segment, it will be from a small base.  Consequently, we are not 
+                                     modeling mobile advertising as a 10% revenue contributor until FY13.  
+
+                                    Enterprise MRM:  To date, TeleNav has relied primarily on it s carrier partnerships with AT&T and Sprint 
+                                    as sales channels for their MRM business.  Given that TeleNavs two most direct competitors also sell 
+                                     through the same channels and the undifferentiated core product suites, we are modeling in modest 
+                                    growth in this segment.  We could become more constructive about TeleNavs MRM business if company 
+                                     builds out more direct sales and marketing resources and delivers some solid customer wins over the next 
+                                    two quarters.              
+ 
+
+                                                                           Revenue Composition
+
+                                      $450.0                                                                                              120%
+                                      $400.0
+                                                                                                                                          100%
+                                      $350.0
+                                      $300.0                                                                                              80%
+                                      $250.0
+                                                                                                                                          60%
+                                      $200.0
+                                      $150.0                                                                                              40%
+ 
+                                      $100.0
+                                                                                                                                          20%
+                                        $50.0
+                                         $0.0                                                                                             0%
+                                                FY'08A         FY'09A         FY'10A          FY'11E         FY'12E         FY'13E         FY'14E         FY'15E         FY'16E
+
+EBITDA margins should                                       TBT       Automotive     MRM        Advertising     TBT as % of Sales
+normalize at 30%                                                                                                                               
+
+                                
+
+                                                                            Financial Performance
+                                     $450.0                                                                                                50.0%
+                                                                       45.9%                                                     $409.3
+                                     $400.0                                                                           $372.0               45.0%
+                                                                               37.1%
+                                     $350.0                 40.8%                                           $326.4                         40.0%
+                                                                                                                                           35.0%
+                                     $300.0                                                      $276.6
+                                                                                        $230.5
+                                                                                            34.5%                                     30.1% 30.0%
+                                     $250.0                                                            30.8%
+                                                                            $198.6                               30.4%      30.2%
+                                                                                                                                           25.0%
+                                     $200.0                       $171.2
+                                                                                                                                           20.0%
+                                     $150.0            $110.9                                                  $99.4     $112.3     $123.1
+                                                  14.0%                                                                                    15.0%
+                                     $100.0                          $78.5      $73.7     $79.5      $85.3
+                                             $48.1         $45.2                                                                           10.0%
+                                      $50.0      $6.7                                                                                      5.0%
+                                       $0.0                                                                                                0.0%
+                                              FY'08A                FY'09A                FY'10A                FY'11E                FY'12E                FY'13E               FY'14E                FY'15E                FY'16E
+                                                                              Revenue     EBITDA    EBITDA %
+ 
+                                    Source: M Partners, Company Reports      
+ 
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                       Ron Shuttleworth                        Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange             416.603.7381 ext. 250             416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca                 dl@mpartners.ca 
+                                                                          5                                                                          
+  
+
+                                                                                                                                                        71
+
+                               In $MMs                                                 In $MMs
+---------------------Page 6---------------------
+
+                                                                                                            TT EELLEE  NN   AAVV  ,,  IINNCC  ..
+
+                                                                                                                        February 25, 2011
+  
+                              E ARNINGS       H  ISTORY AND        O  UTLOOK      
+                              Gross Margin:  TeleNav has historically enjoyed gross margins in excess of 80%, with gross margins of 83% 
+                              over the last four quarters.  Management expects this to decline to about 80% by the end of FY11 due to 
+                               higher third party data costs as automotive and mobile advertising contribute more to revenue.  Longer term, 
+                              management has set a gross margin target range of 72% to 75%.   
+                                
+                              Adj. EBITDA:  Before reporting adj. EBITDA margins of 38.6%  for Q211, TeleNav had achieved adj. EBITDA 
+                               margins in excess of 40% for the prior eight quarters and reported an annual adj. EBITDA margin of 45.9% for 
+                              FY10.  During Q211, management di sclosed that 30% of its operating costs were being allocated to strategic 
+ 
+                              growth areas which only contribute to 7% of the companys total revenues today.  As management is 
+                               expecting to increase R&D investments to capture a grea  ter share of the growing LBS pie, they guided that 
+                              longer term adj. EBITDA would fall in the range of 33% to 36%.  We believe that significant investments in 
+                               R&D are the key to TeleNavs future and are forecastin  g more modest longer term adj. EBITDA margins of 
+                              about 30%.   
+                                
+                                                              Costs Driven by Increasing R&D Investments
+                                    $80.0
+                                                                                                                                     $69.1
+                                    $70.0
+                                                                                                                 $57.8
+                                    $60.0
+                                                                                                                            $48.3
+                                    $50.0                                                                                        $46.1
+                                                                                              $41.6          $40.9
+                                                                                                         $37.6
+                                    $40.0
+                                                                                     $29.5 $31.7
+                                    $30.0                             $24.8 $23.5
+                                                  $18.2          $20.3
+                                    $20.0     $11.4    $13.7
+                                    $10.0
+                                     $0.0
+                                                 FY'08A                                    FY'09A                                    FY'10A                                    FY'11E                                    FY'12E
+ 
+                                                                               Cost of Sales  SG&A  R&D
+                                                                                                                                                
+                              Source: M Partners, Company Reports 
+                               
+                              Net Income:  Driven by historically high gross and operating margins, TeleNav has in the past achieved a net 
+                               income margins in the range of 23% to 27%.  Net income is negatively impacted by a high California corporate 
+                              tax rate which is currently in excess of 40%.  As intern ational operations begin contributing more to revenue, 
+                               we expect the tax rate to decline to about 35%.          
+                               
+ 
+                               
+ 
+                              C  ASH   F LOW AND       B ALANCE      S HEET    
+ 
+                              Due to minimal working capital and capital expenditure  requirements, TeleNav generates a consistent stream 
+                               of free cash flow and has a solid debt free balance sh  eet.  In addition to rais ing $44.6M from its May 2010 
+                              IPO, the company generated FCF of $36.4M.  During H211, TeleNav added an additional $44.1M in FCF exiting 
+                               Q211 with a total cash balance of $155.7M.  We believe  that Sprint made an upfront annual payment of $80M 
+                              in January to cover its fixed licensing obligations for 2011 inferring a pro forma cash balance of over $235M or 
+                               $5.60 per share.       
+                               As of December 31, 2010 there were 42.2 million basic sh ares outstanding and 45.9 million fully diluted shares 
+                              outstanding including options.  Insiders control 11.7% of shares outstanding with 49.1% of outstanding shares 
+                               retained by its venture capital investors.   
+ 
+                               
+ 
+                               
+
+                               
+ 
+                               
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                     Ron Shuttleworth                      Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange           416.603.7381 ext. 250           416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca             dl@mpartners.ca 
+                                                                        6                                                                        
+  
+
+                                                                                                                                                    72
+
+                                                                                                                In $MMs
+---------------------Page 7---------------------
+
+                                                                                                               TT  EELLEE  NN   AAVV  ,,  IINNCC   ..
+
+                                                                                                                             February 25, 2011
+  
+ 
+                               KEY MARKETS AND PRODUCT OFFERINGS 
+ 
+                               O  N -D  ECK    M  OBILE     N AVIGATION         
+ 
+                               TeleNavs core product is an on-deck mobile naviga       tion application which repr esents 93% of its current 
+                                revenues.  The application is pre-loaded onto a carrie    rs handsets and provides voice-guided, turn by turn 
+                               navigation with a feature set that includes real time traffic, gas prices, and points of interest (POI).  Users can 
+                                also pre-plan trips through the TeleNav website which can be accessed through mobile devices.   
+                                 
+                                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                        
+                                
+ 
+                               Source: Company Website 
+ 
+                               According to Berg Insight, there were 200 million turn-by- turn installations in North  America and Europe as of 
+                                June 2010. Although Personal Navigation Devices (P       ND) such as those offered by TomTom and Garmin 
+                               represent the largest install base, navigation enabled phones are the fastest growing category. Of the 44 
+                                million phones enabled with TBT navigation as of J une 2010, TeleNavs 16.1M user s accounted for 36.5% of 
+                               the market.  We expect that as the penetration of GPS   enabled phones in the market increases, phones will 
+                                eclipse PNDs as the access point for TBT navigation.        
+                                 
+ 
+                                                 TBT Navigation Systems Installed (NA/EU) as of June 2010
+ 
+                                                 In-Dash               40
+ 
+                                                 Phones                44
+ 
+                                                   PNDs                                          120
+ 
+                                        Total TBT Installed                                                                        204
+ 
+                                                         0                                           50                                         100                                        150                                        200                                        250
+                                                                                            Installations (MM)
+ 
+                                                                                                                                                  
+                                Source: Berg Insight 
+
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                        Ron Shuttleworth                       Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange              416.603.7381 ext. 250            416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca                  dl@mpartners.ca 
+                                                                           7                                                                          
+  
+                                                                                                                                                         73
+---------------------Page 8---------------------
+
+                                                                                                           TT EELLEE  NN   AAVV  ,,  IINNCC  ..
+
+                                                                                                                        February 25, 2011
+  
+                              Frost & Sullivan estimates that the market for TeleNavs core on-deck carrier TBT product should grow at a 
+                              CAGR of 20% from $614M to over $1.5B by 2015.  This  forecast excludes ad-based revenue but includes up-
+                              sells of premium services such as traffic or speed trap   alerts.  Key drivers in the growth of the carrier TBT 
+                              navigation market are: 
+                                   A.   Pre-loaded TBT is a Strategic Focus for Carriers :  With third-party off-deck LBS providers like 
+                                        Google (GOOG-Q), Foursquare, and Where? threatening  to turn carriers into dumb pipes, carriers 
+                                        are increasingly turning to TBT navigation to aggressively monetize data, mitigate churn rates and 
+                                        declining ARPU.  Carriers view personalization options associated with mobile navigation as a 
+                                        potential source of customer loyalty as well as an entry point to a broader array of new revenue 
+                                        streams such as mobile advertising and local se  arch.  AT&Ts 411 and yp.com mobile search and 
+                                        advertising platforms are deeply integrated with TeleNavs pre-loaded navigator application.   
+                                   B.   Proliferation of GPS Enabled Phones :  IDC estimates that only about 16% (205M) of mobile 
+                                        phones globally are 3G+ GPS enabled 205M.  As this number almost triples to over 520M by 2014, 
+                                        we believe consumers will increasingly turn to their mobile phones for turn by turn navigation as a 
+                                        substitute to PND devices. 
+
+                                                                           TeleNav User Base
+
+                                    35.0
+                                                                                                                                       29.9
+                                    30.0
+                                                                                                                                27.2
+                                                                                                                         25.2
+                                    25.0                                                                           23.1
+                                                                                                            22.2
+                                                                                                     21.4
+                                                                                               19.6
+                                    20.0                                                17.7
+                                                                                  16.1
+                                                                           14.5
+                                    15.0                            12.7
+                                                              10.8
+                                                        9.5
+                                    10.0         8.0
+                                          6.3
+                                     5.0
+
+                                     0.0
+                                         Dec 08   Mar 09   Jun 09   Sep 09   Dec 09   Mar 10   Jun 10   Sep 10   Dec 10   Mar 11    Jun 11   Sep 11   Dec 11   Mar 12   Jun 12
+                                                                                     By Quarter
+                                                                                                                                               
+                              Source: M Partners, Company Reports 
+                               
+                               
+                              CUSTOMER BASE INCLUDES LEADING GLOBAL CARRIERS  
+                              Telenav is partnered with 15 carriers with a global footprint of 29 countries representing a potential universe of 
+                              720M users globally.  Sprint deployed TeleNavs TBT   navigation product in 2002 and is currently TeleNavs 
+                              largest customer representing 44% of total revenues.    TeleNav launched with its second biggest customer, 
+                              AT&T in 2007, which now accounts for 40% of total revenues.      
+                              Newer US carrier partners US Cellular and T-Mobile      are beginning show traction  with revenue from these 
+                              deployments growing 169% Y/Y to $4.3M   in Q211 from $1.6M in Q210.           US Cellular and T-Mobile now 
+                              represents 9% of total revenue, up from 6% Y/Y.   
+                            
+                              Internationally, TeleNav has signed up leading carriers such as China Mobile, Telcel GS, Vivo, and Orange. 
+                              China Mobile on its own represents a potential universe of 560 million users.  Revenue from these international 
+                              carriers represented 4% of total Q211 revenue, up from 3% Y/Y.  Although the number of potential users in 
+ 
+                              emerging countries such as China and Brazil is staggeri ng, we do not expect material contribution from these 
+                              markets until their network infrastructures mature.  These countries also lag North America and Europe in the 
+                              adoption of GPS enabled phones.  We  anticipate that significant growth should occur in these markets by late 
+                              2013 or early 2014.   
+                               
+ 
+                               
+ 
+                               
+ 
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                    Ron Shuttleworth                      Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange          416.603.7381 ext. 250           416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca            dl@mpartners.ca 
+                                                                        8                                                                       
+  
+
+                                                                                                                                                   74
+
+                                                                                                      Users (MM)
+---------------------Page 9---------------------
+
+                                                                                                           TT  EELLEE  NN   AAVV  ,,  IINNCC  ..
+
+                                                                                                                        February 25, 2011
+  
+                              PRICING MODELS 
+                              GPS Navigator revenues are either billed directly to end-users by carriers as a Monthly Recurring Charge (MRC) 
+ 
+                              or as part of a bundle of services offered with data plans.  Currently, Sprint is the only carrier bundling the 
+                               application as part of its all inclusive data plans.  Users do not have to opt-in as they are not explicitly charged 
+                              for the service.  We believe that Sprint pays TeleNa    v a fixed fee of $20M per quarter for the term of its 
+                               agreement which ends in December 31 2012.   
+                              With the rest of its carrier partners, TNAV operates through a Monthly Recurring Charge (MRC) revenue share 
+ 
+                              model.  The TNAV application is typically white-labele d and pre-loaded onto the ca rriers GPS enabled phones 
+                               and users have the option to activate the application fo r a monthly fee of $7-$10 which carriers then split with 
+                              TeleNav.  Carriers typically offer a free month of service to spur initial user adoption.   
+                                  
+                              We believe that TBT navigation syst ems will continue to be used as a weapon against off-deck handset-
+                               based free services (most notably Google) that disinter mediate subscriber revenue streams. TeleNav is well-
+                              positioned as a platform for carriers  to capture a broader array of adve rtising, commerce, and content based 
+                               revenue streams. As a result, we pr  edict that TBT navigation will become a standard feature bundled into 
+                              personalized subscriber data plans. Consequently, we expect carriers to transition from the MRC model to fixed 
+                               fees.  This should result in a rapid expansion of TeleNav s user growth rates as users will no longer explicitly 
+                              pay for the service.  In the end, carriers will fight free with free. 
+ 
+                              We believe that some per-unit licensees are likely to    migrate to a similar licensing model as Sprint, which 
+                               promotes more users, and revenue sharing for incremental services layered on top of the TBT platform. 
+                               
+ 
+                              M  OBILE     A DVERTISING         
+                               eMarketer predicts that US mobile advertising will grow at a 43% CAGR from $416M in 2009 to $2.6B by 2014.  
+                              To address this market opportunity, TeleNav launched   its location based advertising platform in September 
+ 
+                              2010.  Although not a material contributor to revenue toda y, we believe TeleNav is well positioned to capture 
+                               this market opportunity through its large and growing  base of 20M+ users conducting 40M+ local searches per 
+                              month.  Moreover, the company recent ly announced that it now has over  750,000 advertisers on its platform 
+TeleNav measures a        through its partnerships with ad networks such as CitySearch, XAD, and yp.com.     
+drive-to-rate,             TeleNavs ad platform delivers relevant and targeted   ads to users based on the location and context of the 
+capturing the number      search query.  In addition to measuring traditional ad metrics such as impressions, click thru rate (CTR), and 
+of users who viewed an    calls, TeleNav also measures a drive-to-rate which   captures the number of users who viewed an ad and 
+                              chose to drive to the advertiser's location.  We believe the drive-to-rate provides advertisers with a 
+ad and drove to the 
+                              compelling value proposition because it can more accu      rately measure a campaign's return on investment.  
+advertiser's location.       TeleNav's advertising platform allows  advertisers to include additional   content in the mobile ad, such as 
+                              coupons, menus or promotional information to incentive users to drive to.     
+ 
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                     
+ 
+                              Source: Company Website 
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                    Ron Shuttleworth                       Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange           416.603.7381 ext. 250           416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca             dl@mpartners.ca 
+                                                                        9                                                                        
+  
+                                                                                                                                                    75
+---------------------Page 10---------------------
+
+                                                                                                          TT  EELLEE  NN  AAVV  ,,  IINNCC   ..
+
+                                                                                                                       February 25, 2011
+  
+                              We believe that the cross platform, multi-device, multi- service, and multi-carrier partnerships provide TeleNav 
+                              with a competitive edge in mobile advertising as the   fragmented nature of mobile operators, handsets, and 
+                              operating systems has made the process of buying and   delivering mobile advertising very complex.  Having 
+                              captured the leading share of mobile navigation users  across carriers, platforms and mobile devices, TeleNav 
+                              acts as a one-stop shop for publishers to deliver location-based ads.      
+                              TeleNavs mobile advertising platform also generates va luable data for advertiser s.  In November 2010, the 
+                              company released usage data indicating the brands driver s were most actively searching for while on the road. 
+TeleNavs mobile           The top brands were identified by analyzing how freq  uently TeleNav's users entered the brand names as a 
+advertising platform       keyword search on its mobile navigation application. The  data revealed leading  brands  in a variety of vertical 
+                              industries measured by local search queries.  For instance, TeleNav's data analysis found that six of the top ten 
+generates valuable         most searched restaurants in the US were fast-food locations with McDonald's topping the charts as the 
+data for advertisers        number one.   
+which is still to be 
+                              Local search data can be of great value to potential advertisers as they can use TeleNavs ad platform to place 
+monetized.                  their listings at the top of the search results list and include deals or coupons within their listings to increase 
+                              the number of users who visit their locations after conducting a search.     
+ 
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                             
+                               
+                              REVENUE POTENTIAL FOR U.S. BASED M-ADVERTISING IS SUBSTANTIAL 
+                              During Q211, TeleNav reported a click thru rate of  3.5% and a drive-to-rate of  24%.  We believe that the 
+                              drive-to-rate results were based on campaigns with seve ral national restaurant, hotel, and retail chains and 
+                              estimate that TeleNav generated about $3 per drive to.  The company explained that the high drive-to rate 
+                              was because 84% of users were in their cars when sear  ching for a place to go, indicating that search views 
+                              occurred when users were at a high point of need.  For instance, display ads or coupons for restaurant 
+                              properties would be delivered at the very moment a user is searching for food around their current location. 
+ 
+                              To illustrate the revenue potential of mobile advertising on the TeleNav platform today, we assumed an 
+                              average cost per click (CPC) of $0.25 on display ads      and a $3.00 cost per action (CPA) for drive-tos.  
+                              Assuming that 24% of users who click thru continue to drive to, we arrive at a total revenue potential today 
+                              of $2.4M.  Current revenue potential is limited by the % of users with ad enabled clients as well as a low fill 
+                              rate which is a function of the number of advertisers on the network. Both performance limitations should 
+                              decline quickly with adoption. 
+                              We expect that the number of users with ad enabled cl ients will increase over time to 100% as carriers pre-
+                              load them onto handsets anticipation of driving ad   based revenues.  If TeleNav can increase the number of 
+                              monthly searches per user and increase its fill rate as more advertisers are added to the network, then at 50% 
+                              penetration of its US carrier partners subscriber bases,  the revenue potential increases by a multiple of almost 
+                              85x to $203.6M.      
+ 
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                   Ron Shuttleworth                      Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange          416.603.7381 ext. 250           416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca            dl@mpartners.ca 
+                                                                       10                                                                      
+  
+                                                                                                                                                   76
+---------------------Page 11---------------------
+
+                                                                                                                                TT  EELLEE    NN   AAVV   ,,  II NNCC    ..
+
+                                                                                                                                               February 25, 2011
+  
+                                                                              US Mobile Advertising Revenue Potential
+                                                       Penetration Rates                                                              Today                  25%                  50%
+ 
+                                                       # Users (MM)                                                                                          20.0                     46.3                    92.5
+                                                       # of Searches Per User / Month                                                      2.0                       5.0                       8.0
+                                                       # Local Searches / Month (MM)                                                   40.0                  231.3                 740.0
+                                                       % of Users w/ Ad-Enabled Client                                                30%                 100%                 100%
+ 
+                                                       Fill Rate                                                                                                       50%                    60%                    70%
+                                                       Click thru rate                                                                                        3.6%                  3.6%                  3.6%
+                                                         Avg CPC                                                                                                $0.25                  $0.25                 $0.25
+                                                       Drive to rate                                                                                        24.0%                24.0%               24.0%
+ 
+                                                         Avg CPA                                                                                                $3.00                  $3.00                 $3.00
+                                                       Total Annual Revenue Potential (MM)                         $2.4                $54.5            $203.6
+                                                       Source: M Partners
+                                                                                                                                                        
+                                     
+ 
+                                    A  UTOMOTIVE            I N -D   ASH     N  AVIGATION           
+                                    Over the next five years, we believe that OEM TBT in-dash navigation could become standard on the majority 
+ 
+                                    of the 25M to 30M passenger cars sold in Europe and North America annually.  ABI Research predicts that over 
+                                    60% of these navigation solutions will be connected and software-based by that time.  We estimate that 
+                                    TeleNavs total addressable market in the OEM automotive space could be worth as much as $1.5B by 2014.   
+                                    Cloud-based TBT will be adopted by automotive OEMs as a substitute to todays unconnected in-dash PND due 
+                                    to software cost advantages , advances in on-board connectivity, and to better extensibility to meet changing 
+ 
+                                    customer needs. Additionally, software navigation solu tions can provide drivers with real-time data, and can 
+                                    reduce driver distraction through voice interaction.  Te leNavs automotive applications can be integrated with 
+                                    all the major operating systems that could be selected by automotive OEMs including Linux, Windows CE, QNX, 
+                                    and Android.     
+                                    Leveraging its leadership in mobile navigation, TeleNav is the exclusive provider of TBT navigation solutions for 
+ 
+                                    the Fords SYNC and MyTouch in-dash platforms.  SYNC  became available on all Fords beginning in 2010 and 
+                                    MyTouch is standard on all Lincoln and high-end Fords.   The SYNC navigation system is strictly voice activated 
+                                    and connects to the drivers phone via Bluetooth sending data  over the carriers network.  In addition to all the 
+                                    features of SYNC, MyTouch features a visual, touch-screen interface.          
+                                      Ford SYNC                                                                                                MyTouch 
+                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                      
+                                     
+                                    In terms of pricing, TeleNav receives a one-time payment for every Ford sold with a MyTouch.  This one-time 
+                                    payment is recognized over the term of the contract                 which based on standard OEM contracts, which we 
+                                    assume to be five years.  For SYNC, the company receives and recognizes a monthly fee per vehicle. We 
+                                    estimate that about 1M cars shipped by Ford this year came equipped with the SYNC or MyTouch systems.    
+ 
+                                     
+ 
+                                     
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                                       Ron Shuttleworth                             Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange                            416.603.7381 ext. 250                 416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                                 rs@mpartners.ca                       dl@mpartners.ca 
+                                                                                     11                                                                                     
+  
+                                                                                                                                                                                77
+---------------------Page 12---------------------
+
+                                                                                                          TT EELLEE  NN  AAVV   ,,  IINNCC  ..
+
+                                                                                                                      February 25, 2011
+  
+                              The successful deployments with Ford, has opened up ne w opportunities in the automotive in-dash segment.  
+                              As part of reporting its Q211 financial results, TeleNav announced a long term deal with Delphi (a tier-1 
+                              automotive supplier) to supply its in-dash navigation   software to a second undisclosed global automotive 
+                              manufacturer.  We believe that the second OEM could be  Audi who sells 1.5M cars annually.  Additionally, the 
+                              recently announced partnership with QNX increases the  potential for new deals with global manufacturers like 
+                              Mercedez-Benz, and BMW.  Based on the pricing of       OEM in-dash navigation offerings from TomTom and 
+                              Garmin, we believe that TeleNav could generate approximately $50.00 per vehicle.            
+                               
+ 
+                              M  OBILE    R ESOURCE       M  ANAGEMENT         (MRM) 
+                              TeleNavs Enterprise Mobile Resource Management (MRM) enables companies to manage mobile resources to 
+                              enhance productivity and efficiency. Mobile resources in  clude field workers, vehicl es and other assets.  The 
+                              MRM market can be broken out into the Field Worker Market and the Automatic Vehicle Location Market (AVL).  
+                              AVL focuses on the geographic location of vehicle fleets and is also referred to as telematics. MRM for mobile 
+                              field workers are solutions for employees who spend a majority of their time out-of-office such as cable 
+                              installers, utility workers, and sales professionals. 
+                              Although TeleNav offers both AVL and field worker so     lutions, the company primarily focuses on the field 
+                              worker market which we expect to grow at a CAGR        of 46% to $744M in 2013, up from $166M in 2009.  
+                              Growth will be primarily driven by adoption of ha    ndset based MRM solutions to improve mobile worker 
+                              productivity in combination with a steep decline in the cost of GPS enabled handsets and data plans.  
+                              According to Frost & Sullivan, the annual cost of deploying the MRM solution has decreased at a CAGR of 
+                              around 27% from $1526/subscriber in 2005 to $538/subscriber in 2009.   
+ 
+                              In addition to real-time alerts, traffic re-routing and TBT navigation, TeleNavs MRM solutions provide 
+                              enterprises with the mobile workforce productivity enhancing applications such as wireless timecards, dynamic 
+                              scheduling/dispatching, wireless data capture forms,   and back office integratio n.  TeleNav has over 9,000 
+                              enterprise customers to date and most recently won a deployment with FedEx.   
+                              Similar to its flagship TBT product, TeleNavs key distribution channels for its MRM solutions are the mobile 
+                              carriers.  The company is currently partnered with AT&T , Sprint, and Verizon who ar e responsible for tracking 
+                              usage information and providing a single bill to customers.  MRM productivity suites are primarily marketed 
+                              and sold by the carriers as up-sells to their enterprise customers and then split on a per user basis with 
+                              TeleNav.  TeleNav also earns incremental revenue from  professional services in deploying and integrating its 
+                              solution with a customers back office.           
+ 
+                               
+
+                              COMPETITIVE LANDSCAPE 
+                              As TeleNav executes its platform strategy and extends its offerings beyond mobile navigation, it competes with 
+                              a multitude of segment specialists and potential substi  tutes.  The companys greatest perceived competitive 
+                              threat for user share comes from free mobile navigation applications, particularly from Google.  Management 
+                              has indicated that the company has ma  de significant investments over the past three years to contain this 
+ 
+                              threat.  During Q211, management disclosed that 30% of  its operating costs were being allocated to strategic 
+                              growth areas which only contribute to 7% of the companys total revenues today.  We believe the following 
+                              data points support our view that the threat of free may not be as great a risk as investors perceive:  
+                              1)   TeleNav is partnered and tightly integrated with larg e carriers whose influence  with handset makers may 
+                                   be underestimated.  Carriers have the ability to pre-load and bundle mobile navigation services onto their 
+                                   handsets offerings.  As carriers fight to protect data margins in the expanding market place for location 
+                                   based services, we could see carriers pressure Android handset makers into not pre-loading Googles 
+                                   mobile navigator to minimize Googles control of location content.     
+ 
+                              2)   TeleNavs navigator is available across over 600 smart phones and feature phones: 50% of phones on the 
+                                   market today are feature phones without access to free TBT navigation.     
+                              3)   With a cross channel, multi-device, multi-OS, and multi-carrier platform, TeleNav simplifies the process of 
+                                   buying and delivering mobile content and advertis   ing for advertising partners.  Having captured the 
+                                   leading share of mobile navigation users across carr iers, platforms and mobile devices, TeleNav is one-
+ 
+                                   stop shop for publishers to deliver ads.      
+                               
+
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                   Ron Shuttleworth                     Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange         416.603.7381 ext. 250           416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca           dl@mpartners.ca 
+                                                                      12                                                                      
+  
+                                                                                                                                                  78
+---------------------Page 13---------------------
+
+                                                                                                           TT  EELLEE  NN  AAVV  ,,  IINNCC   ..
+
+                                                                                                                        February 25, 2011
+  
+                               4)   Free navigation apps like Android have actually helped to grow TNAV user base by raising consumer 
+                                   awareness. Since Android came to market with free  navigation two years ago, TNAV has doubled its user 
+                                    base. 
+                               5)   Free navigation apps are not actu  ally free as users still pay for data consumed.  We believe that 
+                                   current monthly recurring charge (MRC) carrier partners  are likely to migrate to Sprints bundling model 
+                                    which essentially makes TeleNav also free in the perception of users.   
+                              6)   The Chinese telecom industry strictly protects state owned carriers like China Mobile.  This provides a 
+ 
+                                   competitive moat in respect of TeleNavs access to China Mobiles 584M subscribers as carriers can use 
+                                    government regulations to exclude the use of third party mobile navigation on its handsets.    
+                              7)   TeleNavs recurring revenue model and solid balanc     e sheet provides the company with the financial 
+                                    flexibility to invest in new strategic areas through acquisitions or organically. 
+                               
+                              MOBILE NAVIGATION 
+                               TeleNavs most direct competitor in the on-deck mobile navigation space is Telecommunications Systems (TCS) 
+                              through its acquisition of Networks in Motion (NIM) in No vember 2009.  However, with four of the five largest 
+                               carriers in the US signed up and over 20M users, TeleNav has a significant lead.  Other smaller carrier aligned 
+                              mobile navigation vendors include Telmap, Jentro, and Appello Systems.   
+ 
+                              TeleNav also competes with numerous other paid TBT navi gation apps available in mobile app stores such as 
+                               Sygic and Navigon.  However, TeleNav consistently outp  erforms these apps in the majority of professional 
+                              reviews from blogs such as Gizmodo.com, Androidguys.com. and crackberry.com.   
+ 
+                               
+                              AUTOMOTIVE 
+                               In the automotive segment, TeleNav primarily competes with on-board factory fitted hardware based 
+                              navigation devices from vendors such as Garmin an  d TomTom.  These devices are typically unconnected, 
+                               difficult to update, and do not provide  drivers with real time information.  In contrast, cloud based navigation 
+                              solutions like Fords MyTouch or SYNC offerings provide drivers with the most up to date maps and real time 
+                               traffic information as well as points of interest.           
+                               Due to their cost advantages to auto makers as well as the benefit of real time data to drivers, ABI Research 
+                              predicts that by 2014, connected software-based naviga  tion will dominate hardware based solutions in the 
+                               automotive space.  We believe that through its partnerships with Ford, Delphi, and QNX, TeleNav is well 
+                              positioned to capture a sizeable piece of the automotive navigation market.   
+ 
+                               
+ 
+                              ENTERPRISE LBS 
+ 
+                              TeleNav distributes its mobile resource management solu  tions to the enterprise through direct and indirect 
+                               channels in partnership with Sprint, AT&T, and Verizon.   Each one of these partners also acts as distribution 
+                              channels TeleNavs direct competitors in mobile resour ce management. Primary competitors also marketed by 
+                               Sprint, AT&T, and Verizon are Xora and ActSoft with limited differentiation in core product functionality.   
+                              Despite showing solid traction other areas, although we  believe that the company could face challenges within 
+ 
+                              the highly competitive and complex enterprise MRM segment.  Even as TeleNav competes with Xora and 
+                               Actsoft through its mobile operator channels, there are a myriad of competitors with deep expertise in logistics 
+                              and supply chain management that sell directly ente      rprises including large players such as Trimble and 
+                               Descartes Systems.  There are also numerous point solutions such as telematics, field worker software 
+                              vendors, and large hardware vendors such as Ingenico and Intermec that also provide MRM solutions to the 
+                               enterprise. 
+                               
+ 
+                               
+ 
+                               
+ 
+                               
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                    Ron Shuttleworth                      Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange          416.603.7381 ext. 250            416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca             dl@mpartners.ca 
+                                                                       13                                                                       
+  
+                                                                                                                                                    79
+---------------------Page 14---------------------
+
+                                                                                                            TT  EELLEE  NN  AAVV   ,,  IINNCC  ..
+
+                                                                                                                         February 25, 2011
+  
+ 
+                               VALUATION AND RECOMMENDATION 
+ 
+                               We are initiating coverage with a target price of $16.  80 based on applying a 7.0x EV multiple to our FY12 
+                               EBITDA estimate of $79.5M.  This is supported by our fi ve year DCF value of $16.34 based on a discount rate 
+                               of 12% and a terminal growth rate of 3%.   
+At 3.7x, TNAV trades at     
+                               TeleNav does not have any publicly traded pure-play comp s.  The TeleNav is a cloud-based provider of mobile 
+48% discount to peers 
+                               navigation software operating within multiple ecosyste ms including location based services, automotive OEM 
+on a F12 EV/EBITDA       suppliers, and carrier software.  The median FY12 multiples within each of these industry silos range from a 
+basis. We think it           low of 5.9x in the case of carrier software vendors to       a high of 16.7x in the case of high growth SaaS 
+should be closer to the     platforms.   
+                                
+LBS median of 7.2x. 
+                               On an enterprise value basis, TNAV is trading at    3.4x LTM EBITDA of $87.4M and 3.7x our FY12 EBITDA 
+                               estimate of $79.5M.  The considerable discount may           reflect investors concerns relating to customer 
+                               concentration, the competitive threat  of free alternatives, and the risk  s associated with execution of the 
+                               companys strategic growth initiatives.  We believe that  these perceived risks have been overly priced into the 
+                               stock.   
+                                
+                               TeleNav is a high growth company with significant earnin gs leverage and we think as investors see evidence of 
+                               continued execution in gaining user share and diversifying  its revenue streams, the stock could eventually earn 
+                               multiples in-line with those of high-growth SaaS companies.  However, since 93% of the companys revenue is 
+                               currently generated through its core mobile navigation   product, we look to LBS vendors which trade at a 
+                               median of 7.2x FY12 EV/EBITDA as the baseline for our valuation.        
+                                
+                                                                        Relative Valuation Multiples
+                                     45.0x                                                                                   40.9x
+                                     40.0x
+                                     35.0x
+                                     30.0x
+                                     25.0x                                                                                       23.0x
+                                     20.0x                                                                                            16.7x
+                                     15.0x
+                                                                                                         10.2x
+                                                                                      8.3x                    8.5x
+                                     10.0x                        7.8x 7.4x 7.2x          7.5x
+                                                                                              5.9x                6.6x
+                                              3.4x 4.0x 3.7x
+                                      5.0x
+                                      0.0x
+                                                 TeleNav                                   LBS Vendors                        Carrier Software                    Automotive OEMCloud-SaaS Platforms
+                                                                                                            Suppliers
+
+                                                                                   LTM  FY'11E   FY'12E
+                                                                                                                                                
+                               Source: M Partners, Capital IQ 
+ 
+                                
+                                
+                               Relative to its publicly traded LBS peers, TeleNav trades at a FY12 EV/EBITDA discount of 48%.  Considering 
+                               that TeleNav has achieved a revenue CAGR of 89% over the past three fiscal years while maintaining EBITDA 
+                               margins of 40%, we believe that such  a significant discount is unwarranted.  Our target price of $16.80 based 
+                               on 7.0x FY12 EV/EBITDA is well supported by our DCF model which values the company at $16.34 per share.     
+                                
+                                
+                                
+                                
+                                
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                     Ron Shuttleworth                       Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange           416.603.7381 ext. 250            416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                   rs@mpartners.ca              dl@mpartners.ca 
+                                                                        14                                                                        
+  
+
+                                                                                                                                                     80
+
+                                                                                         EV/EBITDA
+---------------------Page 15---------------------
+
+                                                                                                                                                                  TT   EELLEE      NN     AAVV     ,,   II  NNCC      ..
+
+                                                                                                                                                                                     February 25, 2011
+  
+
+                                              FCF ($MM, Year Ended June 30)                                                     H2'11E              F'12E                F'13E                F'14E                F'15E                F'16E            Terminal 
+                                                                                                                                                                                                            Year
+                                              Periods                                                                                                                                 0.5                      1.5                      2.5                      3.5                      4.5                      5.5                      6.5
+                                              Revenue                                                                                                                             99.4                                    230.5                                     276.6                                     326.4                                    372.0                                     409.3        
+                                                Y/Y Growth                                                                                                               -41.9%               16.1%               20.0%               18.0%               14.0%               10.0%
+                                              Gross Margin                                                                                                                    79.5                                    182.2                                     210.9                                     246.4                                    275.3                                     297.3        
+                                                GM %                                                                                                                             80.0%               79.0%               76.3%               75.5%               74.0%               72.7%
+                                              Operating Income                                                                                                         26.3                                       66.9                                       71.9                                       84.9                                      96.7                                     106.4        
+Our discounted cash                             Operating Margin                                                                                                    26.5%               29.0%               26.0%               26.0%               26.0%               26.0%
+flow analysis provides                        NOPAT                                                                                                                                 15.8                                       40.2                                       43.9                                       52.6                                      61.9                                       69.2         
+                                                Tax Rate                                                                                                                       40.0%               40.0%               39.0%               38.0%               36.0%               35.0%
+support for our                               D&A                                                                                                      7.93.1                                        9.0                                      10.0                                      11.0                                       12.0         
+comparative multiple                          Stock based compensation                                                                                        2.1                                        4.6                                        4.4                                        4.5                                        4.6                                         4.7           
+                                              (Inc)/Dec in NWC                                                                                                          38.7                                       (2.5)                                    (10.4)                                        (7.0)                                      (6.4)                                       (5.2)          
+valuation.                                    Net Working Capital (Excl. Def Rev)                                                                  23.8                                       28.3                                       38.7                                       45.7                                      52.1                                       57.3         
+                                              CAPEX                                                                                                                                   (5.0)                                    (11.5)                                     (13.8)                                     (16.3)                                     (18.6)                                      (20.5)        
+                                              Free cash flow                                                                                       39.455.0                                      33.1                                      43.8                                      52.5                                      60.2                                       62.0       
+                                                Y/Y Growth                                                                                                                 58.7%              -28.2%              -16.2%               32.6%               19.8%               14.6%                  3.0%
+                                              PV of FCF                                                                                                                           52.0                                       33.5                                       25.2                                       29.9                                      32.2                                       33.1                                     359.1       
+                                                                                                                                                                                                                       
+                                               
+                                                                                                                  DCF Sensitivity Matrix
+                                                                                                                                          Discount Rate
+                                                                                                          $       16.58        11.5%             12.0%             12.5%
+                                                                                         Terminal 2%               $                                    15.4916.13$                                    14.86$       
+                                                                                          Growth                         3%  $       17.10   $     16.34   $       15.60
+                                                                                                                    4%  $                                    17.4018.33$                                    16.52$        
+                                              Source: M Partners 
+
+ 
+                                              KEY RISKS 
+ 
+                                              Customer Concentration: For some investors potential customer concentration risk became very real during 
+                                              the summer of 2010 when Sprint, which currently repr                                      esents approximately 40% of TeleNav revenues, 
+                                              unilaterally decided to renegotiate a long-standing                                    contract. The stock declined by 39% after this 
+                                              announcement. There is no certainty that AT&T will not behave similarly in the future. The positive news is 
+                                              that the company has been successful in reduce customer  concentration, and we predict that by 2013, Sprint 
+                                              customer concentration could decline to 35%. 
+
+                                              Competitive Disruption: It is hard to get more disruptive than free, and TeleNav has still managed to 
+                                              increase its user base in the face of free service. The next possible level of competitive disruption could be 
+                                              competitive vertical consolidation among data providers,  LBS platforms, content providers, and even carriers 
+                                              themselves. Vertical consolidation among competitors could cause service disruption, reduced margins due to 
+                                              fewer supplier options, and even lost clients if carriers are involved.  TeleNav has a very solid balance sheet 
+                                              that if can use to defend against competitor consolidation via acquisition or partnerships. 
+ 
+                                              Intellectual Property: There have been several recently granted patents related to Location-Based Services 
+                                               and specifically local advertising. Several smaller players such as Poynt and Where? have patents or patent 
+                                              claim continuations that could cause murkiness around intellectual property in the short to medium term. The 
+                                              uncertainty regarding patents could increase operating ex                                 penses due to litigation,   and could result in gross 
+                                              margin compression if TeleNav is required to pay royalties to third-parties on certain local advertising and 
+                                              search methods. 
+                                              Content Supply:  TeleNav relies on 3                         rd
+                                                                                                              parties to supply data. If they were to stop supplying content to 
+                                              TeleNav, its service offering would be impaired result                              ing in potential service disruption and even customer 
+                                              contract cancellations. The content supply chain is fairly mature and each element of content has multiple 
+                                              suppliers. As a cloud-based service, access to alternat                              ive suppliers could occur with relatively minor service 
+                                              disruption (if any). However, a new contract with altern ative suppliers could be more  costly, impacting future 
+                                              gross margins.    
+                                              Carrier Dependence: TeleNav is dependent upon carrier partners to behave as anticipated in order to assure 
+                                              future growth in revenue and earnings. If customers st                                  op reselling TeleNav solutions or they dramatically 
+                                              change pricing, then future growth could be impair                                ed.  As well, TeleNav is dependent upon access to a 
+                                              growing subscriber base controlled by carrier partners.                                If subscribers are lost, then TeleNavs future growth 
+                                              may be impaired.  
+                                              Global Economic Conditions:  Although mobile subscriptions have become a utility and are somewhat 
+                                              immune to worldwide economic conditions, new market segments like automotive and advertising have proven 
+                                              to be highly sensitive to worldwide market conditions. Short-term economic uncertainty caused by spikes in 
+                                              commodity prices (such as oil) could trigger unfavorable economic conditions that could impair growth and 
+                                              future cash flows. 
+
+ Member of the Investment Industry Regulatory Organization of Canada (IIROC)                                                                     Ron Shuttleworth                                          Daniel Lee 
+ Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange                                                         416.603.7381 ext. 250                            416.603.7381 ext. 277 
+ Member  Canadian Investor Protection Fund (CIPF)                                                                                                rs@mpartners.ca                                 dl@mpartners.ca 
+                                                                                                            15                                                                                                            
+  
+
+                                                                                                                                                                                                                               81
+---------------------Page 16---------------------
+
+                                                                                                                                                                                                                                                                                                                                                         AA       PPPPEENNDDIICCEESS                                       
+
+                                                                                                                                                                                                                                                                                                                                                                        February 25, 2011
+ 
+                                                                                                                                                                       APPENDIX A  COMP SET 
+                                                                                                                                                                                                                                                                                                                            Valuation Multiples
+                                                                                                                                                              LTM                                                                                                     3-Year 
+                                                                                                        Market Cap                Ent. Value                                 Cash & Equiv.  LTM EBITDA                         EBITDA                                                    FYE TEV/            FY+1 TEV/                                    TEV/ LTM              TEV/ LTM 
+                        Company Name                                                                                                                     Revenues                                                                                ROE (%)             Growth                                                          FWD P/E
+                                                                                                             (mm)                    (mm)                                           (mm)                   (mm)                  (%)                                                      EBITDA                EBITDA                                      EBITDA              Revenues 
+                                                                                                                                                             (mm)                                                                                                   Rate (%)
+                        LBS Vendors
+                        DigitalGlobe, Inc. (NYSE:DGI)                                                                     $1,377.0                  $1,534.6                  $311.5                      $187.8                  $166.5                53.5%                3.5%                  0.0%                        6.9x                        5.8x                  288.3x                        9.2x                        4.9x
+                        Garmin Ltd. (NasdaqGS:GRMN)                                                                  $6,754.2                  $5,468.8              $2,689.9                 $1,285.4                  $731.3                27.2%             19.9%                -5.4%                        7.8x                        8.7x                     13.0x                        6.5x                        1.9x
+                        GeoEye, Inc. (NasdaqGS:GEOY)                                                                     $940.7                  $1,026.3                  $321.1                      $296.9                  $164.3                51.2%                5.4%               21.0%                        5.7x                        5.3x                     21.9x                        6.2x                        3.2x
+                        TomTom NV (ENXTAM:TOM2)                                                                    $1,382.0                  $1,663.7              $1,521.1                      $311.3                  $295.4                19.4%                0.0%                  0.0%                        6.1x                        5.7x                        9.0x                        5.7x                        1.1x
+                        Trimble Navigation Limited (NasdaqGS:TRMB)                                  $5,634.4                  $5,586.3              $1,293.9                      $220.8                  $206.2                15.9%                7.8%                  1.9%                     19.8x                     16.8x                     24.3x                     25.6x                        4.3x
+                        Wireless Matrix Corp. (TSX:WRX)                                                                     $84.2                         $71.9                     $39.6                        $12.1                       $4.4                11.2%              -7.4%                  8.4%                     15.4x                     10.1x                     20.4x                     16.0x                        1.8x
+                        Average                                                                                                                                                                                               29.7%                4.9%                  4.3%                     10.3x                        8.7x                     62.8x                     11.5x                        2.9x
+                        Median                                                                                                                                                                                                23.3%                4.4%                  1.0%                        7.4x                        7.2x                     21.1x                        7.8x                        2.5x
+                        Carrier Software Vendors
+                        Bridgewater Systems Corporation (TSX:BWC)                                       $225.5                      $154.4                     $91.9                        $71.0                     $18.6                20.2%             19.0%               35.5%                        7.5x                        7.8x                     16.6x                        8.3x                        1.7x
+                        Tekelec (NasdaqGS:TKLC)                                                                                  $531.4                      $310.5                  $424.0                      $220.9                     $66.3                15.6%                2.5%                -0.6%                        5.9x                        5.2x                     31.6x                        4.7x                        0.7x
+                        Smith Micro Software Inc. (NasdaqGS:SMSI)                                         $310.9                      $253.4                  $130.5                        $72.6                     $30.3                23.2%                4.1%               20.9%                     15.6x                        5.9x                     10.3x                        8.4x                        1.9x
+                        Synchronoss Technologies, Inc. (NasdaqGS:SNCR)                       $1,220.9                  $1,048.0                  $166.0                      $182.1                     $26.5                16.0%                1.8%               10.3%                     16.9x                     13.3x                     42.3x                     39.5x                        6.3x
+                        TeleCommunication Systems Inc. (NasdaqGS:TSYS)                         $243.3                      $322.3                  $388.8                        $81.5                     $46.2                11.9%                7.9%               39.2%                        4.8x                        4.0x                     15.5x                        7.0x                        0.8x
+                        Average                                                                                                                                                                                               17.4%                7.1%               21.1%                     10.1x                        7.3x                     23.3x                     13.6x                        2.3x
+                        Median                                                                                                                                                                                                16.0%                4.1%               20.9%                        7.5x                        5.9x                     16.6x                        8.3x                        1.7x
+                        Automotive OEM Suppliers
+                        Harman International Industries Inc. (NYSE:HAR)                          $3,310.0                  $2,951.4              $3,480.8                      $733.1                  $289.7                   8.3%                9.8%                -2.9%                        8.5x                        6.6x                     23.3x                     10.2x                        0.8x
+                        Johnson Controls Inc. (NYSE:JCI)                                                          $27,148.1               $30,700.1           $35,434.0                      $321.0              $2,495.0                   7.0%             15.8%                -0.4%                        9.9x                        8.3x                     15.6x                     11.1x                        0.9x
+                        Magna International, Inc. (TSX:MG)                                                     $12,083.9               $10,160.3           $24,102.0                 $2,105.0              $1,903.7                   7.9%             12.4%                -2.6%                        5.2x                        4.6x                     18.8x                        5.6x                        0.4x
+                        ArvinMeritor Inc. (NYSE:ARM)                                                                     $1,673.6                  $2,463.6              $3,761.0                      $276.0                  $201.0                   5.3%                    NM             -16.9%                        7.1x                        5.1x                     19.8x                        9.7x                        0.7x
+                        BorgWarner Inc. (NYSE:BWA)                                                                     $8,420.6                  $9,202.3              $5,652.8                      $449.9                  $780.5                13.8%             17.5%                  2.0%                        9.0x                        7.8x                     18.2x                     11.1x                        1.6x
+                        Average                                                                                                                                                                                                 8.5%             13.9%                -4.2%                        7.9x                        6.5x                     19.1x                        9.5x                        0.9x
+                        Median                                                                                                                                                                                                  7.9%             14.1%                -2.6%                        8.5x                        6.6x                     18.8x                     10.2x                        0.8x
+                        Cloud-SaaS Platform Vendors
+                        Salesforce.com (NYSE:CRM)                                                                      $17,649.6               $17,376.8              $1,657.1                      $497.0                  $173.2                10.5%                7.8%               32.0%                     44.6x                     40.7x                     93.9x                  100.3x                     10.5x
+                        LogMeIn, Inc. (NasdaqGS:LOGM)                                                                  $861.6                      $694.1                  $101.1                      $167.4                     $21.9                21.7%             18.4%               55.3%                     23.0x                     16.7x                     51.8x                     31.7x                        6.9x
+                        NetSuite Inc. (NYSE:N)                                                                                    $1,905.4                  $1,801.1                  $193.1                      $104.3                   -$13.2                 -6.8%           -26.0%               21.2%                     76.3x                     56.3x                  152.7x                          NM                        9.3x
+                        Taleo Corp. (NasdaqGS:TLEO)                                                                    $1,271.5                  $1,130.0                  $237.3                      $141.6                     $22.6                   9.5%                0.1%               22.8%                     18.6x                     14.6x                     35.1x                     50.1x                        4.8x
+                        Descartes Systems Group Inc. (TSX:DSG)                                                $405.5                      $341.5                     $91.2                        $62.8                     $19.7                21.6%                7.6%               17.3%                     13.1x                     10.6x                     17.2x                     17.0x                        3.7x
+                        Average                                                                                                                                                                                               11.3%                1.6%               29.7%                     35.1x                     27.8x                     70.1x                     49.8x                        7.0x
+                        Median                                                                                                                                                                                                10.5%                7.6%               22.8%                     23.0x                     16.7x                     51.8x                     40.9x                        6.9x
+
+                        Overall Average                                                                                                                                                                                                                                                          15.6x                   12.4x                   44.7x                   19.2x                      3.2x
+                        Overall Median                                                                                                                                                                                                                                                             9.0x                      7.8x                   20.4x                   10.0x                      1.9x
+
+                        TeleNav, Inc. (NasdaqGS:TNAV)                                                        $451.5                    $295.9                $193.7                   $155.7                   $78.6              40.6%           36.7%             89.0%                      4.0x                      3.7x                   12.5x                      3.8x                      1.5x
+                        Source: Capital IQ, M Partners                                                                                                                                                                                                                                                                                                                                              
+
+Member of the Investment Industry Regulatory Organization of Canada (IIROC)                                                                                                                                                                                                                                              Ron Shuttleworth                                                             Daniel Lee 
+Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange                                                                                                                                                                                                                               416.603.7381 ext. 250                                            416.603.7381 ext. 277 
+Member  Canadian Investor Protection Fund (CIPF)                                                                                                                                                                                                                                                                        rs@mpartners.ca                                                  dl@mpartners.ca 
+                                                                                                                                                                                                            1                                                                                                                                                                                                              
+                                                                                                                                                                                                            6 
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                   82
+---------------------Page 17---------------------
+
+                                                                                                                                                                                                                                                                                                                                     AA      PPPPEENNDDIICCEESS                                     
+
+                                                                                                                                                                                                                                                                                                                                                   February 25, 2011
+ 
+ 
+ 
+                                                                                                                                              APPENDIX B  INCOME STATEMENT 
+
+ TeleNav Inc.
+ Year Ended June 30
+ Income statement ($MM, except per share amounts)                                      F'08A                 F'09A                  F'10A                                                  Q1'11A           Q2'11A           Q3'11E           Q4'11E                           F'11E              Q1'12E          Q2'12E          Q3'12E          Q4'12E                           F'12E
+
+Revenue                                                                                                                                                   110.8848.07                                         171.16                                         51.10                                     48.02                                     48.50                                     50.93                                 198.55                                   53.47                                   56.15                                   58.95                                   61.90                                  230.48      
+Cost of Sales                                                                                                                                                        11.36                                        20.25                                           29.48                                           8.85                                       8.83                                       9.69                                   10.22                                    37.59                                   10.83                                   11.46                                   12.65                                   13.37                                     48.32        
+Gross Margin                                                                                                                                                       36.71                                        90.63                                         141.68                                         42.25                                     39.19                                     38.81                                     40.71                                 160.96                                   42.65                                   44.68                                   46.30                                   48.53                                  182.16      
+
+ Operating Expenses
+  Research & Development                                                                                                      13.69                                                    41.5623.50                                        13.03                                     13.47                                     15.52                                     15.79                                    57.81                                   16.04                                   16.84                                   17.69                                   18.57                                     69.14        
+  Sales & Marketing                                                                                                           13.25                                                    17.2016.54                                           4.73                                       5.80                                       5.82                                      6.11                                  22.46                                     6.42                                    6.74                                    7.07                                    7.43                                    27.66        
+  General and Administrative                                                                                                    4.99                                                  14.528.30                                           3.75                                       4.72                                       4.85                                      5.09                                  18.41                                     4.28                                    4.49                                    4.72                                    4.95                                    18.44        
+                                                                                                                                                             48.3431.93                                           73.27                                        21.50                                     24.00                                     26.19                                     26.99                                    98.68                                   26.74                                   28.07                                   29.48                                   30.95                                  115.24      
+
+  Operating Income                                                                                                                                     4.78                                      42.29                                          68.41                                       20.75                                    15.19                                    12.62                                   13.71                                  62.28                                 15.91                                 16.61                                 16.82                                 17.58                                    66.92       
+
+  Adj. EBITDA                                                                                                                                             45.196.73                                           78.53                                        23.54                                    18.54                                    15.17                                    16.44                                   73.68                                  18.76                                  19.65                                  20.05                                  21.00                                    79.45         
+
+  Other Income
+     Other income (expense)                                                                                                                      (0.58)                                       (1.04)                                          (0.52)                                           0.20                                       0.17                                       0.00                                      0.00                                     0.37                                    0.00                                    0.00                                    0.00                                    0.00                                       0.00          
+     Interest income                                                                                                                                            0.59                                         0.27                                             0.11                                          0.00                                       0.08                                       0.14                                      0.14                                     0.36                                    0.14                                    0.14                                    0.14                                    0.14                                       0.56          
+                                                                                                                                                         (0.78)0.01                                         (0.41)                                           0.20                                      0.25                                      0.14                                     0.14                                    0.73                                    0.14                                    0.14                                    0.14                                    0.14                                      0.56         
+
+ Income (loss) before tax                                                                                                                                  41.524.79                                          68.00                                       20.95                                    15.44                                    12.76                                   13.86                                  63.00                                 16.05                                 16.75                                 16.97                                 17.72                                    67.49       
+Provision for income taxes                                                                                                                                  11.900.18                                           26.59                                           8.59                                       5.40                                       5.10                                      5.54                                  24.64                                     6.42                                    6.70                                    6.79                                    7.09                                    27.00        
+ Net income                                                                                                                                                         4.61                                      29.62                                          41.41                                       12.36                                    10.04                                       7.66                                     8.31                                 38.37                                     9.63                                10.05                                 10.18                                 10.63                                    40.49       
+
+ Net income aplicable to common shareholders                                                                 1.88                                      15.72                                          25.56                                       12.36                                    10.04                                       7.66                                     8.31                                 38.37                                     9.63                                10.05                                 10.18                                 10.63                                    40.49       
+
+ Earnings per share
+  Basic                                                                                                                       $0.17                  $1.39                      $1.64                 $0.29                 $0.24                 $0.18                 $0.20               $0.91               $0.23               $0.24               $0.24               $0.25                  $0.96
+  Diluted                                                                                                                     $0.07                  $0.57                      $0.83                 $0.27                 $0.22                 $0.17                 $0.18               $0.84               $0.21               $0.22               $0.22               $0.23                  $0.88
+
+ Weighted average shares
+  Basic                                                                                                                         11.2                                                   15.611.3                                         42.2                                     42.1                                     42.2                                     42.2                                    42.2                                   42.2                                   42.2                                   42.2                                   42.2                                     42.2        
+  Diluted                                                                                                                       26.9                                                   30.827.7                                         44.9                                     44.9                                     45.9                                     45.9                                    45.9                                   45.9                                   45.9                                   45.9                                   45.9                                     45.9        
+
+ Margins:
+Gross margin                                                                                                                  76.4%                81.7%                    82.8%               82.7%               81.6%               80.0%               79.9%             81.1%             79.8%             79.6%             78.5%             78.4%               79.0%
+Adj EBITDA                                                                                                                    14.0%                40.8%                    45.9%               46.1%               38.6%               31.3%               32.3%             37.1%             35.1%             35.0%             34.0%             33.9%               34.5%
+OPEX as % of Revenues                                                                                                         66.4%                43.6%                    42.8%               42.1%               50.0%               54.0%               53.0%             49.7%             50.0%             50.0%             50.0%             50.0%               50.0%
+Operating                                                                                                                      9.9%                38.1%                    40.0%               40.6%               31.6%               26.0%               26.9%             31.4%             29.8%             29.6%             28.5%             28.4%               29.0%
+Net income                                                                                                                     9.6%                26.7%                    24.2%               24.2%               20.9%               15.8%               16.3%             19.3%             18.0%             17.9%             17.3%             17.2%               17.6%                     
+ 
+ 
+ 
+Member of the Investment Industry Regulatory Organization of Canada (IIROC)                                                                                                                                                                                                                            Ron Shuttleworth                                                         Daniel Lee 
+Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange                                                                                                                                                                                                             416.603.7381 ext. 250                                         416.603.7381 ext. 277 
+Member  Canadian Investor Protection Fund (CIPF)                                                                                                                                                                                                                                                      rs@mpartners.ca                                              dl@mpartners.ca 
+                                                                                                                                                                                                1                                                                                                                                                                                                  
+                                                                                                                                                                                                7 
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                           83
+---------------------Page 18---------------------
+
+                                                                                                                                                                                                                                                                                                                                                  AA      PPPPEENNDDIICCEESS                                       
+
+                                                                                                                                                                                                                                                                                                                                                                 February 25, 2011
+ 
+ 
+ 
+                                                                                                                                                           APPENDIX C  BALANCE SHEET 
+                                                                                                                                                                                                          
+ Balance sheet ($MM)                                                                                                                     F'08A                 F'09A                  F'10A                Q1'11A           Q2'11A           Q3'11E           Q4'11E             F'11E            Q1'12E          Q2'12E          Q3'12E          Q4'12E             F'12E
+  Cash                                                                                                                             16.85                  33.13                   112.86                 50.09                 42.68              105.97                 97.64               97.64               89.71             122.66             112.64             137.09               137.09
+  Short Term Investments                                                                                                                             0.00                     0.00                         0.00                 81.00              113.00              113.00              113.00             113.00             113.00             113.00             113.00             113.00               113.00
+  Accounts receivable                                                                                                                                     14.55                  23.94                      37.32                 57.27                 18.55                 31.98                 33.58               33.58               35.26               37.02               38.87               40.81                  40.81
+  Deferred income taxes                                                                                                                                 0.00                     2.05                         3.25                    3.02                    3.00                    3.00                    3.00                  3.00                  3.00                  3.00                  3.00                  3.00                    3.00
+  Prepaid expenses and other                                                                                                                     0.68                     2.87                         3.02                    4.01                 10.98                    3.40                    3.56                  3.56                  3.74                  3.93                  4.13                  4.33                    4.33
+ Current Assets                                                                                                                                           32.08                61.99                 156.45            195.39            188.20            257.35            250.78          250.78          244.71          279.61          271.64          298.23            298.23
+  Property and equipment                                                                                                                             2.86                     6.62                         9.64                 10.23                 10.03                 10.95                 11.86               11.86               12.75               13.65               14.55               15.46                  15.46
+  Deposits and other assets                                                                                                                          1.09                     3.60                         5.76                    5.75                    6.29                    6.29                    6.29                  6.29                  6.29                  6.29                  6.29                  6.29                    6.29
+  Deferred income taxes (non-current)                                                                                                  0.00                     0.00                         1.87                    1.77                    1.19                    1.19                    1.19                  1.19                  1.19                  1.19                  1.19                  1.19                    1.19
+  Intangible assets                                                                                                                                             0.00                     0.00                         0.00                    0.00                    0.00                    0.00                    0.00                  0.00                  0.00                  0.00                  0.00                  0.00                    0.00
+ Total Assets                                                                                                                                                 36.03                72.21                 173.72            213.14            205.71            275.78 270.12          270.12          264.94          300.74          293.66          321.17            321.17
+  Accounts payable                                                                                                                                             1.20                     2.12                         2.51                    1.75                    1.97                    2.66                    2.81                  2.81                  2.97                  3.28                  3.75                  4.11                    4.11
+  Accrued compensation                                                                                                                                 2.10                     3.78                         5.58                    4.10                    6.57                    3.93                    5.40                  5.40                  6.15                  7.02                  4.42                  6.19                    6.19
+  Accrued royalties                                                                                                                                             1.92                     3.34                         2.99                    3.60                    3.52                    3.88                    4.09                  4.09                  4.33                  4.59                  5.06                  5.35                    5.35
+  Other accrued expenses                                                                                                                              1.62                     1.88                         2.72                    2.84                    3.98                    3.93                    4.05                  4.05                  4.01                  4.21                  4.42                  4.64                    4.64
+  Deferred revenue                                                                                                                                            2.38                     3.47                         6.75                 27.89                 11.49                 74.49                 57.49               57.49               40.49               63.49               46.49               59.49                  59.49
+  Warranty liability                                                                                                                                              0.00                     2.51                         0.00                    0.00                    0.00                    0.00                    0.00                  0.00                  0.00                  0.00                  0.00                  0.00                    0.00
+  Income taxes payable                                                                                                                                   0.18                     0.00                         1.03                    5.87                    0.13                    0.13                    0.13                  0.13                  0.13                  0.13                  0.13                  0.13                    0.13
+ Current liabilities                                                                                                                                       9.40                17.09                    21.57               46.05               27.6589.01               73.96             73.96             58.08             82.71             64.27             79.91                79.91
+ Long-term deferred revenue                                                                                                                      0.00                     0.00                         0.00                    1.65                    2.87                    2.87                    2.87                  2.87                  2.87                  2.87                  2.87                  2.87                    2.87
+ Other liabilities                                                                                                                                                    0.56                     0.37                         3.11                    3.27                    3.70                    3.70                    3.70                  3.70                  3.70                  3.70                  3.70                  3.70                    3.70
+ Warranty liability (non-current)                                                                                                                1.67       0.00                         0.00                    0.00                    0.00                    0.00                    0.00                  0.00                  0.00                  0.00                  0.00                  0.00                    0.00
+ Total Liabilities                                                                                                                                         11.63                17.47                    24.68               50.97               34.2395.59               80.53             80.53             64.66             89.28             70.85             86.48                86.48
+
+  Convertible preferred stock                                                                                                                    50.16                  51.37                         0.00                    0.00                    0.00                    0.00                    0.00                  0.00                  0.00                  0.00                  0.00                  0.00                    0.00
+  Preferred stock                                                                                                                                                  0.01                     0.01                         0.04                    0.04                    0.04                    0.04                    0.04                  0.04                  0.04                  0.04                  0.04                  0.04                    0.04
+  Contributed surplus                                                                                                                                        2.92                     3.49                   109.69              110.58              111.26              112.31              113.39             113.39             114.46             115.58             116.76             118.00               118.00
+  Retained earnings / (deficit)                                                                                                                (28.94)                 (0.53)                    38.91                 51.27                 59.95                 67.61                 75.92               75.92               85.55               95.60             105.78             116.41               116.41
+  Accumulated other comprehensive loss                                                                                             0.25                     0.40                         0.40                    0.28                    0.24                    0.24                    0.24                  0.24                  0.24                  0.24                  0.24                  0.24                    0.24
+ Total Shareholders Equity                                                                                                              24.40           54.74                 149.04            162.17            171.49            180.19            189.59          189.59          200.28          211.46          222.82          234.69            234.69
+ Total Shareholders Equity & Liabilities                                                                                36.03                72.21                 173.72            213.14            205.71            275.78            270.12          270.12          264.94          300.74          293.66          321.17            321.17                                                                
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+
+Member of the Investment Industry Regulatory Organization of Canada (IIROC)                                                                                                                                                                                                                                       Ron Shuttleworth                                                             Daniel Lee 
+Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange                                                                                                                                                                                                                         416.603.7381 ext. 250                                          416.603.7381 ext. 277 
+Member  Canadian Investor Protection Fund (CIPF)                                                                                                                                                                                                                                                                  rs@mpartners.ca                                                 dl@mpartners.ca 
+                                                                                                                                                                                                        1                                                                                                                                                                                                          
+                                                                                                                                                                                                        8 
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                           84
+---------------------Page 19---------------------
+
+                                                                                                                                                                                                                                                                                                                         AA     PPPPEENNDDIICCEESS                                   
+
+                                                                                                                                                                                                                                                                                                                                      February 25, 2011
+ 
+                                                                                                                                                                                           
+
+                                                                                                                                    APPENDIX D  CASH FLOW STATEMENT 
+
+                                                                                                                                                                                           
+ Statement of cash flows ($MM)                                                                                            F'08A                 F'09A                  F'10A        Q1'11A           Q2'11A           Q3'11E           Q4'11E                        F'11E             Q1'12E          Q2'12E          Q3'12E          Q4'12E                        F'12E
+ Cash flow from operations
+  Net earnings for the period                                                                                                                       4.61                  29.62                      41.41                 12.36                 10.04                    7.66                    8.31               38.37                  9.63               10.05               10.18               10.63                  40.49
+ Items not involving cash:
+  Depreciation and amortization                                                                                                                1.50                     2.39                         5.20                    1.94                    2.44                    1.50                    1.64                  7.52                  1.78                  1.91                  2.05                  2.18                    7.92
+  Stock-based compensation costs                                                                                                           0.46                     0.51                         4.93                    0.85                    0.91                    1.05                    1.08                  3.89                  1.07                  1.12                  1.18                  1.24                    4.61
+  Loss on disposial of PP&E                                                                                                0.03                 0.06                         0.07                    0.00                    0.69                    0.00                    0.00                  0.69                  0.00                  0.00                  0.00                  0.00                    0.00
+  Revaluation of preferred stock warrants                                                                                  0.65                 0.84                         0.35                    0.00                    0.00                    0.00                    0.00                  0.00                  0.00                  0.00                  0.00                  0.00                    0.00
+  Other                                                                                                                    0.00                     0.00                       (0.38)                  0.69                  (0.91)                  0.00                    0.00                (0.22)                0.00                  0.00                  0.00                  0.00                    0.00
+                                                                                                                          7.24                33.42                    51.57               15.84               13.17               10.21               11.04           50.25             12.48             13.09             13.41             14.05                53.02
+
+ Change in non-cash operating working capital                                                             (7.52)            (10.38)                   (7.12)                4.41               15.33               55.51                           (16.82)           58.43           (17.73)           22.67           (20.48)           13.49                (2.05)
+ Cash flow from operating activities                                                                                         (0.29)              23.04                    44.45               20.25               28.49               65.72                (5.79)        108.67              (5.26)           35.76              (7.07)           27.54                50.97
+ Cash flow from investing
+  Sale (purchase) of short-term investments                                                                                     0.00                     0.00                         0.00               (81.13)             (32.55)                  0.00                    0.00           (113.68)                0.00                  0.00                  0.00                  0.00                    0.00
+  Additions to capitalized software                                                                                                          (0.44)                 (1.63)                     (2.44)                (1.51)                  1.01                    0.00                    0.00                (0.50)                0.00                  0.00                  0.00                  0.00                    0.00
+  Purchase of property and equipment                                                                                               (1.28)                 (5.37)                     (7.38)                (0.34)                (2.79)                (2.43)                (2.55)              (8.10)              (2.67)              (2.81)              (2.95)              (3.10)              (11.52)
+  Cash flow from investing activities                                                                                        (1.72)               (6.99)                   (9.82)          (82.98)          (34.33)             (2.43)             (2.55)      (122.28)            (2.67)            (2.81)            (2.95)            (3.10)           (11.52)
+
+ Cash flow from financing
+  Proceeds from exercise of options                                                                                                      (0.13) 0.07                    0.46                    0.04                    0.51                    0.00                    0.00                  0.55                  0.00                  0.00                  0.00                  0.00                    0.00
+  Proceeds from exercise of warrants                                                                                                     0.10   0.00                    0.86                    0.00                    0.00                    0.00                    0.00                  0.00                  0.00                  0.00                  0.00                  0.00                    0.00
+  Common shares repurchased                                                                                                                   0.000.00                (1.23)                  0.00                  (2.31)                  0.00                    0.00                (2.31)                0.00                  0.00                  0.00                  0.00                    0.00
+  Proceeds from IPO                                                                                                                                         0.000.00  44.64                    0.00                    0.00                    0.00                    0.00                  0.00                  0.00                  0.00                  0.00                  0.00                    0.00
+  Excess tax benefit from employee stock option plans                                                               0.00                        0.00                    0.38                    0.00                    0.22                    0.00                    0.00                  0.22                  0.00                  0.00                  0.00                  0.00                    0.00
+                                                                                                                        (0.04)                 0.07                    45.10                  0.04                (1.59)                0.00                  0.00              (1.54)              0.00                 0.00                 0.00                 0.00                   0.00
+  Effect of FX on Cash                                                                                                                                      0.160.16                       (0.01)                (0.09)                  0.01                    0.00                    0.00                (0.08)                0.00                  0.00                  0.00                  0.00                    0.00
+ Net Change in Cash                                                                                                                                (1.88)              16.28                    79.73             (62.78)             (7.40)             63.29                (8.33)         (15.22)            (7.93)           32.95           (10.02)           24.44                39.45
+ Cash, Beg. of Period                                                                                      18.73                  16.85                      33.13              112.86                 50.09                 42.68              105.97             112.86               97.64               89.71             122.66             112.64                  97.64
+ Cash, End of Period                                                                                                                               16.85                33.13                 112.86               50.09               42.68            105.97               97.64             97.64             89.71          122.66          112.64          137.09            137.09 
+                                                                                                                                                                                           
+
+                                                                                                                                                                                           
+
+                                                                                                                                                                                           
+Member of the Investment Industry Regulatory Organization of Canada (IIROC)                                                                                                                                                                                                                Ron Shuttleworth                                                       Daniel Lee 
+Participating Organization  Toronto Stock Exchange and Toronto Venture Exchange                                                                                                                                                                                                   416.603.7381 ext. 250                                     416.603.7381 ext. 277 
+Member  Canadian Investor Protection Fund (CIPF)                                                                                                                                                                                                                                           rs@mpartners.ca                                            dl@mpartners.ca 
+                                                                                                                                                                                         1                                                                                                                                                                                           
+                                                                                                                                                                                         9 
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                            85
+---------------------Page 20---------------------
+
+                         M|PARTNERS                                                      Toronto Dominion Centre 
+                                                                                         Canadian Pacific Tower 
+                                                                                         100 Wellington Street West 
+                                                                                         Suite 2201, P.O. BOX 320 
+                                                                                         Toronto, Ontario  M5K 1K2 
+                                                                                         Main line: 416-603-4343 
+                                                                                         Fax:         416603-8608 
+                                                                                          
+                                                                                         Contact Information 
+                  
+                                                                          Research 
+                                                                          Alan Breuer                                 ab@mpartners.ca 
+                                                                          Marc Johnson                            mj@mpartners.ca 
+                                                                          Michael Krestell                      mk@mpartners.ca 
+                                                                          Daniel Lee                                    dl@mpartners.ca 
+                                                                          Ryan Roebuck                          rr@mpartners.ca 
+                                                                          John Safrance                           jsafrance@mpartners.ca 
+                                                                          Ron Shuttleworth                  rs@mpartners.ca 
+                                                                          Ingrid Rico                                  irico@mpartners.ca 
+                                                                          Tom Varesh                                tv@mpartners.ca 
+                                                                            
+                                                                            
+                                                                          Trading 
+                                                                          Ben Gelfand                                bg@mpartners.ca 
+                                                                          Steve Isenberg                        si@mpartners.ca 
+                                                                          Philippe Larente                     pl@mpartners.ca 
+                                                                          Kyle Maister                               km@mpartners.ca 
+                                                                          Jeff Maser                                    jmaser@mpartners.ca                                                                                                            
+                                                                          Tommy Matthews                 tm@mpartners.ca 
+                                                                          Garett Prins                                gp@mpartners.ca 
+                                                                          Jeff Zicherman                         jz@mpartners.ca 
+                                                                          Helen Spasopoulos               hs@mpartners.ca 
+                                                                           
+                                                                            
+                                                                          Advisory  
+                                                                          Christopher Dingle               cd@mpartners.ca 
+                                                                          Richard Goodman                 rg@mpartners.ca 
+                                                                          Kelly Klatik                                  kk@mpartners.ca 
+                                                                          Thomas Kofman                      tk@mpartners.ca 
+                                                                          Jason Matheson                      jm@mpartners.ca 
+                                                                          Michael McIntosh                  mm@mpartners.ca  
+                                                                          Thupten Samchok                 ts@mpartners.ca 
+                                                                          Tom Tran                                     ttran@mpartners.ca 
+Who we are  
+As a full-service investment bank, M Partners first priority lies in the financial sati sfaction of its clients. In keeping with the firms self-imposed high standards, M Partners approach to investment is anything 
+but standardized. Aiming to create new oppo rtunities and ideas for clients rather than  steering them towards typical investment  outlets, M Partners has adopted a k  een strategy of focused and relevant 
+research. Such knowledge-driven efforts, coupled with the ample skills of the firms management, produces successful services ranging from account management to advisory engagements.  
+ 
+M Partners received Investment Industry Regulatory Organization of Canada (IIROC) approval on April 14th 2005 and trades under  broker number 97. The team currently has 23 members of varying degrees 
+of financial experience, including principals Thomas Kofman and Steve Isenberg, who have a combined 35 years of financial experience and are well known in the field. This backbone of strong leadership will 
+help chart the firms course into   the future. In the coming months and years, M                   Partners will be focusing  on a number of vertic  als, including environmental and infrastructure, real estate, mining, 
+merchandising and consumer products, and other special situations.  
+ 
+M Partners has strong financial backers who have extensive capital markets experience. The firm is a member of IIROC, a partici  pating member of the Toronto Stock Exchange, The TSX Venture Exchange 
+and the Canadian Investor Protection Fund (CIPF).  
+ 
+M Partners does not make a market in an equity or equity related security of the subject issuer. 
+ 
+Disclosure  
+The particulars contained herein were obtained from sources whic h we believe to be reliable but  are not guaranteed by us and ma y be incomplete. The opinions expre ssed are based upon our analysis and 
+interpretation of these particulars and are not to be construed as a solicitation or offer to buy or sell the securities mentioned herein.  
+In accordance with Policy 3400 of IIROC, M Partners hereby confirms as of the date of this report:  
+
+                                                                                                          TeleNav Inc.
+
+Does M Partners or its affiliates collectively beneficially own 1% or more of any class 
+of equity securities of the company which is the subject of the research report.                                       No
+Does the analyst or any associate of the analyst responsible for the report or public 
+comment hold shares in the company.                                                                                                                                No
+Has M Partners or a director or officer of M Partners or any analyst provided services 
+to the company for remuneration other than normal investment advisory or trade 
+execution services within the preceeding 12 months, (may seek compensation for 
+investment                                                                                                      No
+
+Is any director, officer, employee or research analyst an officer, director or employee 
+of the company, or serves in an advisory capacity to the company.                                                                  No
+
+Has the analyst has viewed the material operations of the company. We define 
+material operations as an issuer's corporate head office and its main production facility 
+or a satellite facility that is representitive of the company's operations.                                                         No
+Did M Partners provide investment banking services for the company during the 12 
+months preceding the publication of the research report?                                                                                       No
+Has the analyst preparing the report received compensation based upon M Partners 
+investment banking reveneus for this issuer?                                                                                                                  No
+                                                                                                                              
+Dissemination 
+All final research reports are disseminated to institutional clients of M Partners simultaneously in electronic form.  Hard copies will be disseminated to any client that has requested to be on the distribution list 
+of M Partners.  All research reports are also posted on the website of M Partners Inc., at www.mpartners.ca.  Reproduction of this report in whole or in part without permission is prohibited. 
+Research Analysts  
+The Research Analyst(s) who prepare this report certify that thei r respective report accurately reflects his/her personal opinion and that no part of his/her compensation was, is, or will be directly or indirectly 
+related to the specific recommendations or views as to the securi  ties or companies. M Partners  compensates its research analyst s from a variety of sources and research analysts may or may not receive 
+compensation based upon M Partners investment banking revenue.  
+ 
+Rating System  
+Buy: price expected to rise  
+Sell: price is inflated and expected to decrease  
+Hold: properly priced  
+Speculative Buy: price expected to rise; material risk to the investment exists 
+Under review: not currently rated 
+ 
+ Summary of Recommendations 
+As of December 31, 2010
+Buy                                                                                                                                             28                            80%M|PARTNERS 
+Speculative Buy                                                                                                                      1                               3% 
+Sell                                                                                                                                                 2                               6%
+Hold                                                                                                                                              3                               9%Research  Trading  Advisory 
+Under Review                                                                                                                          1                               3%
+Total                                                                                                                                          35                          100%
+                                                                                                                                                                                                                                                                        86

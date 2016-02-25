@@ -1,0 +1,526 @@
+---------------------Page 1---------------------
+
+       North America United States 
+       TMT Wireless Equipment 
+        
+       30 July 2010 
+
+                                                                                                                    Recommendation Change 
+       TeleNav                                                                                                     
+       Reuters: TNAV.OQ Bloomberg:   TNAV US Exchange:    NMS Ticker:    TNAV                                        Hold 
+                                                                                                                    Price at 29 Jul 2010 (USD)                      8.91
+
+       Q4 Results - Downgrade to                                                                                    Price target                                   9.00
+                                                                                                                    52-week range                          9.80 - 7.85
+                                                                                                                   
+                                                                                                                     Key changes 
+
+       Hold                                                                                                         Rating                                                  Buy to Hold 
+                                                                                                                    Price target 12.00 to 9.00                                             -25.0%
+       Jonathan Goldberg, CFA  Tom Ernst Jr                                  Nandan Amladi                          EPS (USD)                                        0.26 to 0.28     7.6%
+                                                                                                                    Revenue (USDm)                   168.4 to 171.2     1.6%
+       Research Analyst                   Research Analyst                   Research Analyst 
+                                                                                                                   
+       (+1) 415 617-4259                  ( ) 800 592-0290                   (+1) 212 250-4570 
+                                                                                                                    Price/price relative 
+       jonathan.goldberg@db.com           thomas.ernst@db.com                nandan.amladi@db.com 
+        
+                                                                                                                     10.0
+       Good quarter and guide, but Sprint renegotiation arises                                                         9.6
+       Telenav reported 4QFY10 revenue of $49.5  million ahead of our estimate of $46.7                                9.2
+       million and consensus of $47.0 million; pro-forma EPS of $0.31 came in well ahead                               8.8
+       of our estimate of $0.24 and consensus  of $0.25. The company guided ahead of                                   8.4
+                                                                                                                       8.0
+       expectations but cautioned that terms with their largest customer Sprint are being                              7.6
+       negotiated. We are lowering our rating from Buy to Hold. 
+                                                                                                                          5/10
+       Sprint negotiation becomes an overhang                                                                                    TeleNav
+       In their press release the company warned that their 55% customer Sprint could                                            S&P 500 INDEX (Rebased)    
+       potentially looking for very different term              s from the next iteration of their                  Performance (%)        1m                          3m                       12m
+       agreement. The company warned this could result in not only lower ARPU but also                              Absolute           5.7 
+                                                                                                                    S&P 500 INDEX     5.8           -8.7         13.0
+       lower total revenue. While the ultimate impact of this may not be as serious as it                          
+       at first sounds, until the company can provi de clearer guidance on this we believe                          Stock & option liquidity data 
+       the matter will remain an overhang on the stock.                                                             Market Cap (USDm)                                                                481.9
+                                                                                                                    Shares outstanding (m)                                                            54.1
+       Core business still doing well                                                                               Free float (%)                                                                                  100
+       Setting aside long-term concerns, the comp  anys core business did well in the                              Volume (29 Jul 2010)                                                           62,926
+       quarter. They saw growth across customers and segments. Sprints growth                                      Option volume (und. shrs., 1M avg.)             
+       remains a very positive contributor in the quarter, but business grew elsewhere                             
+       including AT&T, newly-won US Cellular,  AT&T, China Mobile and their non carrier 
+       businesses as well. In MRM, they won a ma jor contract to provide asset tracking 
+       for a large manufacturer (which we believe is Xerox).  
+
+       Lowering price target from $12 to $9 and rating to Hold 
+       We have valued Telenav using a discounted cash flow analysis using a 2% 
+       perpetual growth rate in line with long-t erm industry growth and a 13% discount 
+       rate (using a 5.5% risk free rate, a beta  of 1.4 and risk premium of 5%). Downside 
+       risks the threat of continued competition fr  om free navigation providers such as 
+       Google. Upside risks include the potential for a better-than expected resolution of 
+       their Sprint contract negotiation. 
+        
+
+        Forecasts and ratios 
+       Year End Jun 30                                                                                                 2009A            2010E            2011E
+       1Q EPS  1
+                0.02                                                                 0.02A              0.23
+       2Q EPS                                                                                                                          0.02             0.16A              0.22
+       3Q EPS                                                                                                                          0.02             0.31A              0.24
+       4Q EPS                                                                                                                          0.02             0.31A              0.26
+       FY EPS (USD)                                                                                                            0.07              0.28              0.96
+       OLD FY EPS (USD)                                                                                                 0.07              0.26              0.91
+       % Change                                                                                                                 0.0%             7.6%             5.1%
+       P/E (x)                                                                                                                                                  31.7               9.3
+       DPS (USD)                                                                                                                   0.00              0.00              0.00
+       Dividend yield (%)                                                                                                                        0.0               0.0
+       Revenue (USDm)                                                                                                  110.9             171.2             216.8
+       Source: Deutsche Bank estimates, company data 
+       1
+         Includes the impact of FAS123R requiring the expensing of stock options. 
+        
+       Deutsche Bank Securities Inc. 
+       All prices are those current at the end of the previous trading se                  ssion unless otherwise indicated. Prices are sourced from loc  al 
+       exchanges via Reuters, Bloomberg and other vendors. Data is s                       ourced from Deutsche Bank and   subject companies. Deutsche 
+       Bank does and seeks to do business with companies covered in  its research reports. Thus, investors should be aware that the fir m 
+       may have a conflict of interest that could affect the objectivit y of this report. Investors should consider this report as only  a single 
+       factor in making their investment decision. DISCLOSURES                        AND ANALYST CERTIFICATIONS ARE LOCATED IN APPENDIX 1. 
+       MICA(P) 007/05/2010 
+                                                                                                                                                                      262
+
+                                                                                                                                                                                                                   Company 
+                                                                                                                                                      Global Markets Research 
+---------------------Page 2---------------------
+
+30 July 2010       Wireless Equipment  TeleNav                                                                                                                                                                                                                                                                                          
+
+Model updated:30 July 2010                                                                                          Fiscal year end 30-Jun                                                                                                              2008 2009          2010E          2011E
+                                                                                    
+Running the numbers 
+                                                                                                                    Financial Summary 
+North America                                                                                                       DB EPS (USD)                                                                                                                                           0.02                   0.07                   0.28                   0.96
+                                                                                                                    Reported EPS (USD)                                                                                                                             0.01                   0.09                   0.37                   1.09
+United States                                                                                                       DPS (USD)                                                                                                                                                   0.00                   0.00                   0.00                   0.00
+Wireless Equipment                                                                                                  BVPS (USD)                                                                                                                                                0.18                   0.40                   2.76                   6.88
+                                                                                                                    Valuation Metrics                                                                      
+                                                                                                                    Price/Sales (x)                                                                                                                                               nm                     nm                      2.8                      1.2
+TeleNav                                                                                                             P/E (DB) (x)                                                                                                                                                      na                       na                   31.7                      9.3
+                                                                                                                    P/E (Reported) (x)                                                                                                                                        na                       na                   24.2                      8.2
+Reuters: TNAV.OQ                      Bloomberg: TNAV US                                                            P/BV (x)                                                                                                                                                             0.0                     0.0                      3.2                      1.3
+
+Hold                                                                                                                FCF yield (%)                                                                                                                                                  na                       na                      5.4                   20.3
+                                                                                                                    Dividend yield (%)                                                                                                                                         na                       na                      0.0                      0.0
+Price (29 Jul 10)                                                       USD 8.91 
+                                                                                                                    EV/Sales nm nm                      2.2                      0.4
+Target price                                                                 USD 9.00                               EV/EBITDA nm nm                      5.0                      1.2
+52-week Range                                          USD 7.85 - 9.80                                              EV/EBIT nm nm                      5.4                      1.3
+Market Cap (m)                                                      USDm 482 
+ EURm 368                                                                                                                                                                            Income Statement (USDm) 
+                                                                                                                    Sales                                                                                                                                     48 111                    171                    217
+Company Profile                                                                                                     EBITDA                                                                                                                                      6 45                       73                       74
+TeleNav is a provider of location based services, or LBS, on                                                        EBIT                                                                                                                                        5 42                       68                       68
+mobile phones. Their LBS solutions provide consumers and                                                            Pre-tax profit                                                                                                                                                       5                       42                       68                       68
+enterprises with location specific, real time and personalized
+features and functions. Through their hosted service deliver  y          Net income                                                                                                                                                         5                       30                       41                       42
+model, they provide solutions through the networks of leading
+wireless carriers in the United States, including Sprint Nextel
+                                                                                                                    Cash Flow (USDm) 
+Corporation, or Sprint, and AT&T Inc., or AT&T, as well as
+through certain carrie.                                                                              Cash flow from operations                                                                                                                     0                       24                       37                       60
+                                                                                                                    Net Capex                                                                                                                                                          -2                        -8                     -11                        -8
+                                                                                                                    Free cash flow                                                                                                                                               -2                       16                       26                       51
+                                                                                                                    Equity raised/(bought back)                                                                                                                       0                          0                       29                          0
+                                                                                                                    Dividends paid                                                                                                                                                   0                          0                          0                          0
+Price Performance                                                                                                   Net inc/(dec) in borrowings                                                                                                                        0                          0                          0                          0
+                                                                                                                    Other investing/financing cash flows                                                                                                    0                          0                       23                        -3
+     10.0                                                                                                           Net cash flow                                                                                                                                                  -2                       16                       78                       49
+       9.6
+       9.2                                                                                                          Change in working capital                                                                                                                      -11                        -9                     -14            5
+       8.8
+       8.4
+       8.0                                                                                                          Balance Sheet (USDm) 
+       7.6                                                                                                          Cash and cash equivalents                                                                                                                     17                       33                    113                    162
+             May 10                                                                                                 Property, plant & equipment                                                                                                                      3                          7                       10                          9
+                                                                                                                    Goodwill 0 0                          0                          0
+                         TeleNav                        S&P 500 INDEX (Rebased)                                     Other assets                                                                                                                                                     16                       32                       52                       54
+                                                                                                                    Total assets                                                                                                                                                    36                       72                    175                    224
+Margin Trends                                                                                                       Debt                                                                                                                                        0 000
+                                                                                                                    Other liabilities                                                                                                                                                12                       17                       26                       29
+     50
+     40                                                                                                             Total liabilities                                                                                                                                              12                       17                       26                       29
+     30                                                                                                             Total shareholders' equity                                                                                                                   24                       55                    149                    195
+     20                                                                                                             Net debt                                                                                                                                                            -17 -33         -113                  -162
+     10
+       0
+                                                                                                                    Key Company Metrics 
+                        08                          09                        10E                      11E          Sales growth (%)                                                                                                                                         nm                130.7                   54.4                   26.7
+                                                                                                                    DB EPS growth (%)                                                                                                                                     na                333.8                314.2                241.1
+                               EBITDA Margin                          EBIT Margin
+                                                                                                                    Payout ratio (%)                                                                                                                                            0.0                     0.0                      0.0                      0.0
+Growth & Profitability 
+                                                                                                                    EBITDA Margin (%)                                                                                                                                 13.1                   40.3                   42.9                   34.2
+     140                                                                                        80                  EBIT Margin (%)                                                                                                                                           9.9                   38.1                   40.0                   31.4
+     120
+     100                                                                                        60                  ROE (%)                                                                                                                                                         18.9                   74.8                   40.6                   24.3
+        80                                                                                      40
+        60                                                                                                          Net debt/equity (%)                                                                                                                                -69.1                 -60.5                 -75.7                 -82.9
+        40                                                                                      20
+        20                                                                                                          Net interest cover (x)                                                                                                                                 nm                     nm                      nm                      nm
+         0                                                                                      0
+                        08                     09                   10E                  11E
+                                                                                                                    DuPont Analysis 
+                                                                                                                    EBIT margin (%)                                                                                                                                           9.9                   38.1                   40.0                   31.4
+                                         Sales growth (LHS)
+                                                                                                                    x  Asset turnover (x)                                                                                                                                   1.3                     2.0                      1.4                      1.1
+Solvency                                                                                                            x  Financial cost ratio (x)                                                                                                                         1.0                     1.0                      1.0                      1.0
+                                                                                                                    x  Tax and other effects (x)                                                                                                                    1.0                     0.7                      0.6                      0.6
+          0                                                                                                         =  ROA (post tax) (%)                                                                                                                           12.8                   54.7                   33.6                   21.0
+       -20                                                                                                          x  Financial leverage (x)                                                                                                                          1.5                     1.4                      1.2                      1.2
+       -40
+                                                                                                                    =  ROE (%)                                                                                                                                                   18.9                   74.8                   40.6                   24.3
+       -60
+                                                                                                                    annual growth (%)                                                                                                                                        na                296.4                 -45.7   -40.2
+       -80
+                                                                                                                    x  NTA/share (avg) (x)                                                                                                                              0.1                     0.1                      0.9                      4.5
+     -100
+                          08                        09                       10E                      11E           =  Reported EPS                                                                                                                                      0.01                   0.09                   0.37                   1.09
+                                                                                                                    annual growth (%)                                                                                                                                        na                523.3  313.8                 195.4
+                                    Net debt/equity (LHS)
+                                                                                                                    Source: Company data, Deutsche Bank estimates 
+ 
+Jonathan Goldberg, CFA 
++1 415 617-4259                                 jonathan.goldberg@db.com 
+
+Page 2                                                                                                                                                                                                                                                           Deutsche Bank Securities Inc. 
+
+                                                                                                                                                                                                                                                                                                                                       263
+---------------------Page 3---------------------
+
+30 July 2010       Wireless Equipment  TeleNav                                                                                
+
+                                Telenav reported 4QFY10 revenue of $49.5 million ahead of our estimate of $46.7 million and 
+                                consensus of $47.0 million; pro-forma EPS of $0. 31 came in well ahead of our estimate of 
+                                $0.24 and consensus of $0.25.  The company guided ahead of expectations but cautioned 
+                                that terms with their largest customer Sprint are being negotiated. 
+
+                                Despite otherwise good results and what is likely a conservative Q1 guidance we think the 
+                                renegotiation with Sprint could become a se      rious issue for Telenav. The chief risks 
+                                associated with the company have always been  the high degree of customer concentration 
+                                and the emerging threat of free navigation providers such as Google.  
+
+                                It now appears that Sprints success at building subscribers with its bundled pricing plans has 
+                                done well enough that they are looking to reduc e costs associated with that success.  We 
+                                believe the success of the EVO Android phone fr om HTC as well as the progress of Android 
+                                phones with other carriers may have prompted  Sprint to consider working more closely with 
+                                Google. We do not believe that Telenav will be  displaced at Sprint, but  we do think they will 
+                                come under pressure to offer more flexible prici ng terms. This may mean a further shift to 
+                                advertising revenue for Telenav or some other  monetization method. The point being that no 
+                                one can say what the new Sprint model for Te  lenav will look like. On the call the company 
+                                was unable to answer many questions about   the subject given the ongoing nature of the 
+                                negotiations.  
+
+                                We also think the surprise here is not that Sprint is looking to bring prices down, but that they 
+                                are looking to do so this early. The company  has long cautioned that over time they expect 
+                                prices to go to zero for navigation. We th  ink the company received a discounted multiple 
+                                relative to SaaS peers, in part because of th  e shift in business model from subscription 
+                                revenue to a more ad-driven model. We origin ally expected that to occur over a number of 
+                                years, but there is now the risk that the transition may happen much sooner. 
+
+                                We do not mean to portray the situation as  overly dire. We see the most likely outcome of 
+                                the Sprint renegotiating ending with lower pri  ces for Telenav, or possibly a split between 
+                                smart phones for Google and feature phones for Telenav. But by no means do we think that 
+                                Telenav will lose Sprint. There is still signific ant value in the companys operations. The main 
+                                factor for the stock, however, will be the high  degree of uncertainty. Until there is more 
+                                clarity over Sprint, these concerns will prove an  overhang on the stock. These concerns will 
+                                likely overshadow any potential ne ar-term positive catalysts such as the announcement of a 
+                                new carrier customer or a shift from a MRR plan to a bundle by AT&T.  
+
+                                As a result we are lowering our rating from Buy to Hold. 
+
+                                We are also reducing our forward estimates to reflect the potential for faster price erosion, as 
+                                below. 
+
+                                 
+                                1Q11 was $49m and $0.21, is $50m and $0.23 
+                                2Q11 was $52m and $0.23, is $53m and $0.20 
+                                FY11 was $214m and $0.91, is $217m and $0.92 
+                                FY12 was $265m and $1.06, is $242m and $1.07 
+                                CY10 was $193m and $0.99, is $198m and $1.05 
+                                CY11 was $237m and $1.06, is $228 and $1.00 
+                                 
+
+                                Risks & Valuation 
+                                We are lowering our price target from $12 to $9. Our valuation is based on a discounted cash 
+                                flow analysis using a 2% perpetual growth rate  in line with long-term industry growth and a 
+                                13%discount rate (using a 5.5% risk free rate, a beta of 1.4 and risk premium of 5%).  
+
+Deutsche Bank Securities Inc.                                                                                          Page 3 
+
+                                                                                                                             264
+---------------------Page 4---------------------
+
+30 July 2010       Wireless Equipment  TeleNav                                                                                  
+
+                                We see two primary sources of downside risk for Telenav. The first is their dependence on a 
+                                small number of carrier customers for thei      r revenue. Carriers are known to be very 
+                                demanding customers. While we believe Telenav's relationship with its carrier partners is 
+                                strong, the risk exists that these carriers so urce navigation elsewhere or more likely pressure 
+                                Telenav to bring down its prices. A second, relat ed risk is competition from OTT navigation 
+                                providers. The most significant of these are deep-pocketed players in the mobile and Internet 
+                                landscape including Google, Nokia and Microsoft. These three all offer comparable navigation 
+                                services bundled with their mobile operatin     g systems (OS) at no cost to carriers or 
+                                consumers. We think Telenav's relationship with  the carriers shield them to some degree 
+                                from this competition, but long-term expect  pricing to converge on these $0 offerings. The 
+                                chief upside risk is that the renegotiation with  Sprint resolves with no change in earnings and 
+                                the company returns to its prior growth trajectory. The company also has the ability to win 
+                                new customers or see major customers such as AT&T switch to bundled pricing plans which 
+                                would drive earnings above our estimates. 
+
+                                 
+
+Page 4                                                                                              Deutsche Bank Securities Inc. 
+
+                                                                                                                               265
+---------------------Page 5---------------------
+
+30 July 2010       Wireless Equipment  TeleNav                                                                                      
+
+Appendix 1 
+
+Important Disclosures 
+
+Additional information available upon request 
+
+Disclosure checklist 
+Company Ticker Recent price* Disclosure 
+TeleNav                                                                                      TNAV.OQ                     8.91 (USD) 29 Jul 10                        1,2,7 
+ 
+*Prices are sourced from local exchanges via Reuters, Bloomberg and other vendors.  Data is sourced from Deutsche Bank and subject companies. 
+                                   
+Important Disclosures Required by U.S. Regulators 
+Disclosures marked with an asterisk may al so be required by at least one jurisdiction  in addition to the  United States.  See 
+Important Disclosures Required by Non-US Regulators and Explanatory Notes. 
+1.     Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private offering for this 
+    company, for which it received fees. 
+
+2.     Deutsche Bank and/or its affiliate(s) makes a market in securities issued by this company. 
+
+7.    Deutsche Bank and/or its affiliate(s) has received com   pensation from this company fo  r the provision of investment 
+    banking or financial advisory services within the past year. 
+ 
+Important Disclosures Required by Non-U.S. Regulators 
+Please also refer to disclosures in the Important Disclosures Required by US Regulators and the Explanatory Notes. 
+1.     Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private offering for this 
+    company, for which it received fees. 
+
+2.     Deutsche Bank and/or its affiliate(s) makes a market in securities issued by this company. 
+
+7.    Deutsche Bank and/or its affiliate(s) has received com   pensation from this company fo  r the provision of investment 
+    banking or financial advisory services within the past year. 
+ 
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
+research, please see the most recently published company r eport or visit our global disclosure look-up page on our 
+website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=TNAV.OQ. 
+
+ 
+Analyst Certification 
+
+The views expressed in this report accurately reflect the person al views of the undersigned lead  analyst(s) about the subject 
+issuer and the securities of the issuer.     In addition, the undersigned lead ana    lyst(s) has not and   will not receive any 
+compensation for providing a specific recommendation or view in this report. Jonathan Goldberg 
+
+ 
+
+Deutsche Bank Securities Inc.                                                                                               Page 5 
+
+                                                                                                                                   266
+---------------------Page 6---------------------
+
+30 July 2010       Wireless Equipment  TeleNav                                                                                          
+
+Historical recommendations and target price: TeleNav (TNAV.OQ) 
+ (as of 7/29/2010) 
+     12.00                                                                                                 Previous Recommendations 
+                                                                                                              Strong Buy 
+     10.00                                                                                                    Buy 
+                                                            1                                                 Market Perform 
+                                                                                                              Underperform 
+                                                                                                              Not Rated  
+      8.00                                                                                                    Suspended Rating 
+                                                                                                            Current Recommendations 
+
+      6.00                                                                                                    Buy 
+                                                                                                              Hold 
+                                                                                                              Sell 
+                                                                                                              Not Rated  
+      4.00                                                                                                    Suspended Rating 
+                                                                                                        *New Recommendation Structure 
+                                                                                                           as of September 9, 2002 
+      2.00
+                                                                                                         
+
+      0.00
+         May 10
+                                                       Date                                             
+ 1.    6/23/2010:             Buy, Target Price Change USD12.00                                                
+                                    
+Equity rating key                                              Equity rating dispersion and banking relationships 
+
+Buy: Based on a current 12- month view of total share-  
+holder return (TSR = percentage change in share price             450        49 %                50 %
+from current price to projected target price plus  pro-           400
+jected dividend yield ) , we recommend that investors             350
+                                                                  300
+buy the stock.                                                    250
+Sell: Based on a current 12-month view of total share-            200              42 %
+                                                                                                       34 %
+holder return, we recommend that investors sell the               150
+stock                                                             100
+                                                                   50                                                1 % 25 %
+Hold: We take a neutral view on the stock 12-months                 0
+out and, based on this time horizon, do not recommend 
+                                                                                Buy                                   Hold                                   Sell
+either a Buy or Sell. 
+Notes: 
+1. Newly issued research recommendations and target                            Companies Covered     Cos. w/ Banking Relationship
+prices always supersede previously published research.                                  North American Universe
+2. Ratings definitions prior to 27 January, 2007 were: 
+    Buy:  Expected total return (including dividends) of 
+    10% or more over a 12-month period 
+    Hold: Expected total return (including dividends) 
+    between -10% and 10% over a 12-month period 
+    Sell: Expected total return (including dividends) of -
+    10% or worse over a 12-month period 
+ 
+
+                                    
+
+Page 6                                                                                                    Deutsche Bank Securities Inc. 
+
+                                                                                                                                       267
+
+                                                                                                                                          Security Price
+---------------------Page 7---------------------
+
+30 July 2010       Wireless Equipment  TeleNav                                                                               
+
+Regulatory Disclosures 
+
+1. Important Additional Conflict Disclosures 
+
+Aside from within this report, important conflict disclosures can also be found at https://gm.db.com/equities under the 
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
+
+ 
+
+2. Short-Term Trade Ideas 
+
+Deutsche Bank equity research analysts sometimes have shorter-term trade ideas (known as SOLAR ideas) that are consistent 
+or inconsistent with Deutsche Bank's existing longer term ratings. These trade ideas can be found at the SOLAR link at 
+http://gm.db.com. 
+
+ 
+
+3. Country-Specific Disclosures 
+
+Australia: This research, and any access to it, is intended only for "wholesale clients" within the meaning of the Australian 
+Corporations Act. 
+EU countries: Disclosures relating to our obligations under MiFiD can be found at http://globalmarkets.db.com/riskdisclosures. 
+Japan: Disclosures under the Financial Instruments and Exchange Law: Company name - Deutsche Securities Inc. Registration 
+number - Registered as a financ  ial instruments dealer by the Head of the  Kanto Local Finance Bureau (Kinsho) No. 117. 
+Member of associations: JSDA, The Financ     ial Futures Association of Japan. Co  mmissions and risks involved in stock 
+transactions - for stock transactions, we charge stock co  mmissions and consumption tax by multiplying the transaction 
+amount by the commission rate agreed with  each customer. Stock transactions can le ad to losses as a result of share price 
+fluctuations and other factors. Transactions in foreign stocks  can lead to additional losses stemming from foreign exchange 
+fluctuations. 
+New Zealand: This research is not intended for, and should not be given to, "members of the public" within the meaning of the 
+New Zealand Securities Market Act 1988. 
+Russia: This information, interpretation and opinions submitted h erein are not in the context of , and do not constitute, any 
+appraisal or evaluation activity requiring a license in the Russian Federation. 
+                                  
+
+Deutsche Bank Securities Inc.                                                                                        Page 7 
+
+                                                                                                                            268
+---------------------Page 8---------------------
+
+                                                                                                                                                                                                               
+
+Deutsche Bank Securities Inc. 
+
+North American locations 
+
+Deutsche Bank Securities Inc.                     Deutsche Bank Securities Inc.                      Deutsche Bank Securities Inc.                      Deutsche Bank Securities Inc. 
+60 Wall Street                                    One International Place                            222 South Riverside Plaza                          3033 East First Avenue 
+New York, NY 10005                                12th Floor                                         30th Floor                                         Suite 303, Third Floor 
+Tel: (212) 250 2500                               Boston, MA 02110                                   Chicago, IL 60606                                  Denver, CO 80206 
+                                                  United States of America                           Tel: (312) 537-3758                                Tel: (303) 394 6800 
+                                                  Tel: (1) 617 217 6100 
+
+Deutsche Bank Securities Inc.                     Deutsche Bank Securities Inc.                      Deutsche Bank Securities Inc.                       
+1735 Market Street                                101 California Street                              700 Louisiana Street 
+24th Floor                                        46th Floor                                         Houston, TX 77002 
+Philadelphia, PA 19103                            San Francisco, CA 94111                            Tel: (832) 239-4600 
+Tel: (215) 854 1546                               Tel: (415) 617 2800 
+
+                                                   
+
+ 
+
+International locations 
+
+Deutsche Bank Securities Inc.                     Deutsche Bank AG London                            Deutsche Bank AG                                   Deutsche Bank AG 
+60 Wall Street                                    1 Great Winchester Street                          Große Gallusstraße 10-14                           Deutsche Bank Place 
+New York, NY 10005                                London EC2N 2EQ                                    60272 Frankfurt am Main                            Level 16 
+United States of America                          United Kingdom                                     Germany                                            Corner of Hunter & Phillip Streets 
+Tel: (1) 212 250 2500                             Tel: (44) 20 7545 8000                             Tel: (49) 69 910 00                                Sydney, NSW 2000 
+                                                                                                                                                        Australia 
+                                                                                                                                                        Tel: (61) 2 8258 1234 
+
+Deutsche Bank AG                                  Deutsche Securities Inc.                             
+Level 55                                          2-11-1 Nagatacho 
+Cheung Kong Center                                Sanno Park Tower 
+2 Queen's Road Central                            Chiyoda-ku, Tokyo 100-6171 
+Hong Kong                                         Japan 
+Tel: (852) 2203 8888                              Tel: (81) 3 5156 6701 
+
+Global Disclaimer 
+
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively "Deutsche   Bank"). The information herein is believed to be re liable and has been obtained from public sources 
+believed to be reliable. Deutsche Bank makes no representation as to the accuracy or completeness of such information. 
+Deutsche Bank may engage in securities transactions, on a proprietary basis or otherwise, in a manner inconsistent with the view taken in this research report. In addition, others within Deutsche Bank, including strategists and 
+sales staff, may take a view that is inconsistent  with that taken in this research report. 
+Opinions, estimates and projections in this  report constitute the current judgement of  the author as of the  date of this report. They do not necessarily reflect the opinions of Deutsche Bank and are subject to change without 
+notice. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient thereof in th e event that any opinion, forecast or estimate  set forth herein, changes or subsequently becomes 
+inaccurate. Prices and availability of financial instruments are  subject to change without notice. This report is provided for   informational purposes only. It is not an offer or a solicitation of an offer to buy or sell any financial 
+instruments or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the a nalyst judgement. 
+As a result of Deutsche Banks recent acquisition of BHF-Bank AG, a security may be covered by more than one analyst within the Deutsche Bank group. Each of these analysts may use differing methodologies to value the 
+security; as a result, the recommendations may differ and the price targets and estimates of each may vary widely. 
+Deutsche Bank has instituted a new policy whereby analysts may choose not to set or maintain a target price of certain issuers under coverage with a Hold rating. In particular, this will typically occur for "Hold" rated stocks 
+having a market cap smaller than  most other companies in its sector or region. We believe that such policy will allow us to mak e best use of our resources. Please visit our website at http://gm.db.com to determine the target 
+price of any stock. 
+The financial instruments discussed in this report may not be su itable for all investors and investors must make their own info rmed investment decisions. Stock transactions can lead to losses as a result of price fluctuations and 
+other factors. If a financial instrument is denominated in a curr ency other than an investor's currency, a change in exchange r ates may adversely affect the investment. Past performance is not necessarily indicative of future 
+results. Deutsche Bank may with respect to securities covered by this report, sell to or buy from customers on a principal basis, and consider this report in deciding to trade on a proprietary basis. 
+Unless governing law provides otherwise, all transactions should   be executed through the Deutsche Bank entity in the investor's   home jurisdiction. In the U.S. this report is approved and/or distributed by Deutsche Bank 
+Securities Inc., a member of the NYSE, the NASD, NFA and SIPC. In Germany this report is approved and/or communicated by Deutsc he Bank AG Frankfurt authorized by the BaFin. In the United Kingdom this report is approved 
+and/or communicated by Deutsche Bank AG London, a member of the London Stock Exchange and regulated by the Financial Services A  uthority for the conduct of investment business in the UK and authorized by the BaFin. 
+This report is distributed in Hong Kong by Deutsche Bank AG, Hong Kong Branch, in Korea by Deutsche Securities Korea Co. This report is distributed in Singapore by Deutsche Bank AG, Singapore Branch, and recipients in 
+Singapore of this report are to contact Deutsche Bank AG, Singap ore Branch in respect of any matters arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is 
+not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulati ons), Deutsche Bank AG, Singapore Branch accepts legal responsibility to such person for the contents 
+of this report. In Japan this report is approved and/or distri buted by Deutsche Securities Inc. The information contained in this report does not constitute the provision of investment advice. In Australia, retail clients should obtain 
+a copy of a Product Disclosure Statement (PDS) relating to any financial product referred to in this report and consider the PDS before making any decision about whether to acquire the product. Deutsche Bank AG 
+Johannesburg is incorporated in the Federal Republic of Germany (Branch Register Number in South Africa: 1998/003298/10). Addit  ional information relative to securities, other financial products or issuers discussed in this 
+report is available upon request. This report may not be reproduced, distributed or published by any person for any purpose wit hout Deutsche Bank's prior written consent. Please cite source when quoting. 
+Copyright © 2010 Deutsche Bank AG 
+ 
+
+ 
+
+ 
+
+                                                                                                                                                                                                               269
+
+                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                           

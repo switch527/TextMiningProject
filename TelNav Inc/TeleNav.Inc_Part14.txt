@@ -1,0 +1,592 @@
+---------------------Page 1---------------------
+
+                                                                                                                                       Company Note
+                                                                                                                                    January 28, 2011
+
+  Christopher M. Larsen, Sr. Research Analyst
+                                                           TeleNav, Inc.                                        (TNAV - $7.37)
+  212 284-9339, chris.m.larsen@pjc.com
+  Piper Jaffray & Co.                                      Neutral
+  Bradley W. Korch, Research Analyst
+  212 284-9402, brad.w.korch@pjc.com                       TeleNav Reports Strong Quarter, Raises Guidance
+  Piper Jaffray & Co.
+  Joseph A. Mastrogiovanni, Research Analyst               CONCLUSION:
+                                                           TeleNav reported fiscal 2Q11 results and hosted a conference call after the close on
+  212 284-9317, joseph.a.mastrogiovanni@pjc.com
+                                                           January  27.  Financial  results  and  subscriber  metrics  were  better  than  expected.
+  Piper Jaffray & Co.
+                                                           Management raised fiscal 2011 guidance and issued fiscal 3Q11 guidance above
+  Reason for Report:                                       our estimates.
+  Change in Price Target
+
+  Changes                        Previous                Current Financial  Results: Second  quarter revenues  were  4.1%  ahead  of  our  forecast,
+                                                              while adjusted EBITDA was 14.5% ahead. GAAP EPS of $0.22 was 6c ahead of
+  Rating                                                 --                    Neutral
+                                                              our estimate and 5c ahead of street consensus of $0.17.
+  Price Tgt                                   $6.00                      $8.00
+  FY11E Rev (mil)                $191.5                   $199.1
+  FY12E Rev (mil)                $208.3                   $231.4 Positive  Notables: TeleNav  and  AT&T  extended  their  contract  by  2  years;
+  FY11E EPS                             $0.69                      $0.80financial results were ahead of expectations; subscriber results were better than
+  FY12E EPS                             $0.62                      $0.73expected; management raised 2011 guidance; TeleNav signed an agreement with
+                                                              Delphi  to  bring  TeleNav's  navigation  software  to  select  models  from  a  global
+  Price:                                                                              $7.37
+                                                              vehicle  manufacturer;  TeleNav  is  growing  its  mobile  advertising  business;  the
+  52 Week High:                                                       $11.48
+                                                              company is looking to grow new markets and technologies through M&A.
+  52 Week Low:                                                           $4.65
+  12-Month Price Target:                                       $8.00
+      DCF with assumptions of 16% NT WACC,                  Negative Notables: R&D expenses continue to grow; headcount and comp costs
+  3% LT growth rate.                                          continue to grow; competition from free navigation services remain.
+  Shares Out (mil):                                                       44.9
+  Market Cap. (mil):                                                $330.9
+                                                            Net net, TeleNav's results were better than expected, the updated 2011 guidance
+  Avg Daily Vol (000):                                                  114
+                                                              should result in numbers moving up across the street, and the AT&T extension
+  Book Value/Share:                                                 $3.82
+                                                              resolves one overhang. The longer-term risks of future carrier renegotiations and
+  Debt to Total Capital:                                                 NA
+                                                              competition  from  other  (free)  navigation  services  remain,  but  we  are  getting
+  Est LT EPS Growth:                                                   4%
+                                                              increasingly  confident  that  new  revenue  sources  (advertising,  automotive  and
+  P/E to LT EPS Growth (FY11):                          2.3x
+                                                              enterprise LBS) can help to mitigate this risk. We are maintaining our Neutral
+  Fiscal Year End:                                                          Jun
+                                                              rating, but we are increasing our target to $8 on better long-term revenue growth.
+  Rev (mil)         2010A                 2011E                 2012E
+  Sep              $36.0A                $51.1A                $54.0E
+                                                            Changes to our model. We are raising our fiscal 2011 revenue estimate by 4%,
+  Dec              $40.5A                $48.0A                $56.8E
+                                                              in line with management's updated guidance. We are also raising GAAP EPS to
+  Mar              $45.1A                $49.2E                $59.1E
+                                                              $0.80 from $0.69.
+  Jun              $49.5A       $50.8E       $61.6E
+  FY              $171.2A             $199.1E             $231.4E
+  CY             $193.7A             $210.8E             $249.1EINVESTMENT RECOMMENDATION:
+                                                           We rate TeleNav Neutral with an $8 target price. We continue to base our target
+  FY RM              1.9x                      1.7x                      1.4x
+  CY RM             1.7x                      1.6x                      1.3xprice on our DCF valuation using a cost of capital of 16.0% and a 3.0% terminal
+                                                           growth rate.
+  EPS               2010A                 2011E                 2012E
+  Sep              $0.83A                $0.27A                $0.17E
+  Dec              $0.83A                $0.22A                $0.18E
+                                                           RISKS TO ACHIEVEMENT OF TARGET PRICE:
+  Mar              $0.83A                $0.16E                $0.19E
+                                                           Renegotiation  of  carrier  contracts  could  result  in  a  larger  revenue  and  customer
+  Jun              $0.24A       $0.15E       $0.19E
+                                                           declines  than  anticipated.  New  competitors  such  as  Google  could  widely  offer
+  FY               $0.83A                $0.80E                $0.73E
+                                                           mobile  navigation  for  free.  Smartphones  and  their  millions  of  apps  could  limit
+  CY               $1.56A                $0.66E                $0.77E
+                                                           TeleNav's customer penetration.
+  FY P/E              8.9x                      9.2x                    10.1x
+                                                           COMPANY DESCRIPTION:
+  CY P/E             4.7x                    11.2x                      9.6x
+                                                           TeleNav is a leading provider of mobile location based services.
+
+Piper Jaffray does and seeks to do business with companies covered in its research reports. As a result, investors should be
+aware that the firm may have a conflict of interest  that could affect the objectivity of this report. Investors should consider
+this report as only a single factor in making their investment decisions. This report should be read  in conjunction with
+important disclosure information, including  an attestation under Regulation Analyst certification, found on pages 9 - 11 of
+this report or at the following site: http://www.piperjaffray.com/researchdisclosures.
+
+TeleNav, Inc.                                                                                                                            Page 1 of 11
+                                                                                                                                                        103
+---------------------Page 2---------------------
+
+                                                                                                                           Company Note
+                                                                                                                         January 28, 2011
+
+ TeleNav Reports Strong Quarter And Raises Guidance
+
+ TeleNav reported fiscal 2Q11 results and hosted a conference call after the close on January 27. Second quarter revenues were 4.1%
+ ahead of our forecast, while adjusted EBITDA was 14.5% ahead. GAAP EPS of $0.22 was 6c ahead of our estimate and 5c ahead of
+ street consensus of $0.17. Management raised fiscal 2011 guidance and issued fiscal 3Q11 guidance above our estimates.
+
+  Exhibit 1: TNAV 2Q11 Results At A Glance
+  in millions, unless otherwise stated
+                                         2Q10 Act.  1Q11 Act.  2Q11 Est.  2Q11 Act.
+  Total Net Revenues                      $        40.5  $        51.1  $        46.1  $        48.0 
+  Adjusted EBITDA                         $        17.5  $        21.6  $        14.1  $        16.1 
+  Net Income                              $        10.1  $        12.4  $          7.2  $        10.0 *
+  Total Subscribers                                 12.7            17.7            19.2            19.6 
+  Total Net Adds                                     1.9              1.6              1.5              1.9 
+  ARPU (reported)                         $        1.04  $        0.94  $        0.75  $        0.80 
+  EPS - Piper Jaffray / Actual            $        0.19  $        0.27  $        0.16  $        0.22 *
+  EPS - Consensus Est.                                           $        0.17 
+  *Reported
+  Source: Company data, Piper Jaffray estimates
+
+    Highlights From the Conference Call
+
+ Positive Notables
+   TeleNav and AT&T extended their existing contract by 2 years. The contract was up for auto-renewal in March, and the extension
+    provides TeleNav with access to AT&T's subscriber base on the same terms as before until 2013.
+   Financial results were ahead of expectations; TeleNav beat our estimates and guidance for all key financial metrics.
+   Subscriber results were also better than expected. TeleNav provided service to an average of 19.6M subscribers in the quarter, ahead
+    of our 19.2M estimate. TeleNav exited the quarter providing service to more than 20 million subscribers.
+   Management raised its outlook for fiscal 2011. The midpoint of 2011 revenue guidance was raised by 4.2% while the midpoint of
+    net income guidance was raised over 19%. The company also raised gross margin guidance by 100 basis points. See Exhibits 2 and
+    3, below, for a comparison of TeleNav's guidance to our estimates.
+   TeleNav  signed  an  agreement  with  Delphi  to  bring  TeleNav's  navigation  software  to  select  models  from  a  global  vehicle
+    manufacturer.
+   TeleNav is growing its mobile advertising business. During the quarter, TeleNav increased its base of mobile advertisers by 50% to
+    750,000. TeleNav's click-through rates remained high at 3.6% while drive to rates exceeded 24%.
+   The  company  is  looking  to  grow  new  markets  and  technologies  through  M&A.  TeleNav  has  hired  a  new  VP  of  Corporate
+    Development and Strategy who will lead TeleNav's strategic M&A efforts. On the call, management noted that they could use M&A
+    both to extend their offerings internationally and also to add new technologies to the core product offerings.
+
+  Exhibit 2: TeleNav 3Q11 Guidance
+  in millions, unless otherwise stated
+                                                                                     PJC Prior        PJC New 
+                                                                                    Estimates         Estimates 
+                                                                                 (millions, except    (millions, 
+                                               Guidance                                EPS)         except EPS)
+  Total Revenue                   $48 - $50 million                                    46.8             49.2
+  Gross Margin                    80%                                                  78%              80%
+  Non-GAAP Operating Expenses      $26 - $27 million, excluding $1M in stock-based     24.4             26.5
+                                  comp 
+  GAAP Net Income                  $7.0 - $8.0 million                                  6.1              7.3
+  GAAP EPS                        $0.15 - $0.17                                        $0.13            $0.16
+  Non-GAAP Net Income              $7.5 - $8.5 million                                  6.7              7.9
+  Non-GAAP EPS                    $0.16 - $0.18                                        $0.15            $0.17
+  Effective Tax Rate              40%                                                  41%              40%
+  Wtd-Avg Diluted Shares           45 - 46 million                                     45.6             45.1
+  Source: Company data, Piper Jaffray estimates
+
+TeleNav, Inc.                                                                                                                Page 2 of 11
+                                                                                                                                          104
+---------------------Page 3---------------------
+
+                                                                                                                        Company Note
+                                                                                                                      January 28, 2011
+
+  Exhibit 3: TeleNav Fiscal 2011 Guidance
+  in millions, unless otherwise stated
+                                                                                     PJC Prior      PJC New 
+                                                                                     Estimates      Estimates 
+                                                                                     (millions,     (millions, 
+                                     Prior Guidance         Updated Guidance       except EPS)     except EPS)
+  Total Revenue                 $187 - $192 million      $195 - $200 million           191.5          199.1
+  Gross Margin                  78 - 80%                 80%                           79%             80%
+  Non-GAAP Operating Expenses  $90 - $94 million, excl.   $97 - $100 million, excl.    92.5            97.5
+                                $4M in stock-based comp  $4M in stock-based comp 
+  GAAP Net Income                $29 - $33 million        $36 - $38 million            31.6            36.3
+  GAAP EPS                      $0.64 - $0.72            $0.79 - $0.83                 $0.69          $0.80
+  Non-GAAP Net Income            $32 - $36 million        $38 - $40 million            33.9            38.7
+  Non-GAAP EPS                  $0.70 - $0.78            $0.84 - $0.88                 $0.75          $0.86
+  Effective Tax Rate            41%                      40%                           41%             39%
+  Wtd-Avg Diluted Shares         45 - 46 million          45 million                   45.4            45.0
+  Source: Company data, Piper Jaffray estimates
+
+ Negative Notables
+   Operating  expenses  grew  meaningfully  this  quarter  and  are  expected  to  grow  again  in  fiscal  3Q11.  TeleNav  saw  growth  in
+    compensation costs both from headcount increases and from greater competition for talent. R&D expenses grew as the company
+    continues to explore new technologies and services.
+   Despite management's assurances that TeleNav is not seeing a material impact from free navigation offerings, the competitive risks
+    from these services remain.
+
+ Net Net
+ TeleNav's results were better than expected, the updated 2011 guidance should result in numbers moving up across the street, and the
+ AT&T contract extension resolves one overhang. The longer-term risks of future carrier renegotiations and competition from other
+ (free) navigation services remain, but we are getting increasingly confident that new revenue sources (advertising, automotive and
+ enterprise LBS) can help to mitigate this risk. We are maintaining our Neutral rating, but we are increasing our target to $8 on better
+ long-term revenue growth.
+
+ Changes to Our Model
+ We are raising our fiscal 2011 revenue estimate by 4%, in line with management's updated guidance. We are also raising GAAP EPS
+ to $0.80 from $0.69.
+
+TeleNav, Inc.                                                                                                             Page 3 of 11
+                                                                                                                                       105
+---------------------Page 4---------------------
+
+     TeleNav
+     (Figures in millions, except per share)                                                       EstEst       Est       Est        Est
+     Income statement                                         FY 2008  FY 2009  FY 2010  FY 2011  FY 2012  FY 2013  FY 2014        FY 2015
+     Subscription revenue                                       48       109       169      184       210       238       264       279
+     Automotive, advertising and other revenue                   0        2         2        15        22       30         42        63
+     Total Revenue                                              48       111       171      199       231       268       307       342
+     Cost of revenue                                            11        20       29        39        47       55         64        72
+     R&D                                                        14        23       39        55        67       78         89        99
+     S&M                                                        13        16       17        22        28       33         37        42
+     G&A                                                         5        8        13        20        28       32         36        39
+     Adjusted EBITDA                                             5        43       73        63        60       70         80        90
+     D&A                                                         0        0         0        0         0         0         0          0
+     Operating income                                            5        43       73        63        60       70         80        90
+     Non-cash compensation                                      (0)       (1)      (5)       (4)       (6)       (8)       (9)       (10)
+     Interest, net                                               0        0         0        1         1         1         2          2
+     Other income (expense)                                      0        (1)      (0)       0         0         0         0          0
+     Pretax income                                              4.8      41.5     68.0      59.6      55.6      63.1      72.8      81.7
+     Income taxes (benefit)                                      0        12       27        23        22       25         29        33
+                                                                 0        0         0        0         0         0         0          0
+     Net income                                                  5        30       41        36        33       38         44        49
+     Preferred div and accretion                                 0        0         0        0         0         0         0          0
+     Net income to common stockholders                          4.6      29.6     41.4      36.3      33.4      37.9      43.7      49.0
+     Net Income to common, Adjusted                              5        30       41        36        33       38         44        49
+     Amount allocable to common shareholdersAmount allocable to common shareholders
+
+     Diluted Shares O/S                                                            37        45        46        47        48        49
+
+     EPS (Diluted)                                                                $0.83    $0.80     $0.73     $0.81     $0.92      $1.01
+
+     Margins
+     Cost of service                                           23.6%    18.3%     17.2%    19.5%     20.5%     20.6%     20.8%      21.0%
+     G&A                                                       10.3%     7.4%     7.4%     10.3%     12.3%     12.0%     11.8%      11.6%
+     S&M                                                       27.3%    14.8%     9.7%     11.2%     12.2%     12.2%     12.2%      12.2%
+     R&D                                                       28.4%    21.0%     22.8%    27.5%     29.0%     29.0%     29.0%      29.0%
+     EBITDA                                                    10.3%    38.6%     42.8%    31.5%     26.1%     26.1%     26.2%      26.2%
+     Operating Income                                          10.3%    39.4%     43.5%    34.1%     28.8%     29.4%     30.3%      32.2%
+     Tax rate                                                   4%       29%       39%      39%       40%       40%       40%       40%
+     Gross Margin                                                        82%       83%      80%       80%       79%       79%       79%
+
+     Annual growth
+     Total Revenue                                                       131%      54%      16%       16%       16%       15%       12%
+     EBITDA                                                                        71%      -15%      -4%       16%       15%       12%
+     Sequential growth
+     Total Revenue                                                       126%      55%       9%       14%       14%       11%        5%
+     EBITDA                                                              764%      71%      -15%      -4%       16%       15%       12%
+
+     1/27/2011                                                                                                                                              Christopher M. Larsen, Sr. Research Analyst
+     Source: Company data, Piper Jaffray estimates.  Current disclosure information for this company is located at http://www.piperjaffray.com/researchdisclosures.212 284-9339, chris.m.larsen@pjc.com  
+
+TeleNav, Inc.                                                                                                                                                                          Page 4 of 11
+                                                                                                                                                                                                     106
+---------------------Page 5---------------------
+
+     TeleNav                                                                                                                                  Est       Est
+     (Figures in millions, except per share)Sep-08  Dec-08  Mar-09       Jun-09  Sep-09  Dec-09  Mar-10        Jun-10  Sep-10  Dec-10  Mar-11         Jun-11
+     Income statement                        1Q09     2Q09      3Q09      4Q09     1Q10      2Q10      3Q10     4Q10      1Q11     2Q11      3Q11      4Q11
+     Subscription revenue                    21.1      24.9     29.0      33.6     35.6      39.6      44.5     48.9      48.0      44.7     45.1      46.0
+     Automotive, advertising and other revenue0.5      0.3       0.8      0.6       0.4       0.9      0.6       0.6       3.1      3.4       4.1       4.8
+     Total Revenue                           21.5      25.3     29.8      34.3     36.0      40.5      45.1     49.5      51.1      48.0     49.2      50.8
+     Cost of revenue                         4.0       4.5       5.3      6.5       7.1       6.9      7.2       8.3       8.8      8.8       9.8      11.4
+     R&D                                     4.6       5.5       6.1      7.1       7.8       9.1      10.5     11.6      12.5      13.0     14.5      14.7
+     S&M                                     3.8       4.0       4.1      4.5       3.8       4.0      4.4       4.5       4.6      5.6       5.9       6.2
+     G&A                                     1.6       1.9       2.3      2.4       2.5       3.0      3.5       3.8       3.6      4.5       6.1       6.3
+     Adjusted EBITDA                         7.4       9.5      12.1      13.8     14.9      17.5      19.6     21.2      21.6      16.1     12.8      12.1
+     D&A
+     Operating income                        7.4       9.5      12.1      13.8     14.9      17.5      19.6     21.2      21.6      16.1     12.8      12.1
+     Non-cash compensation                   (0.1)     (0.1)    (0.1)     (0.2)     (0.3)    (0.5)     (0.6)     (3.5)    (0.9)     (0.9)     (1.0)    (1.2)
+     Interest, net                                                                                               0.0       0.1      0.2       0.2       0.1
+     Other income (expense)                  0.1       0.1      (0.7)     (0.3)     (0.5)     0.2      (0.0)     (0.1)     0.1      0.1       0.1       0.1
+     Pretax income                           7.5       9.5      11.3      13.3     14.1      17.2      19.0     17.7      20.9      15.4     12.1      11.1
+     Income taxes (benefit)                  2.5       2.6       3.8      3.0       6.0       7.1      6.5       7.1       8.6      5.4       4.8       4.5
+
+     Net income                             4.975     6.862     7.448    10.333    8.121    10.136    12.541   10.612     12.4      10.0      7.3       6.7
+     Preferred div and accretion
+     Net income to common stockholders                                                                          8.936     12.4      10.0      7.3       6.7
+     Net Income to common, Adjusted                                                                              8.9      12.4      10.0      7.3       6.7
+     Amount allocable to common shareholders
+
+     Diluted Shares O/S                                                                                          37        45        45        45       45
+
+     EPS (Diluted)                                                                                              $0.24    $0.27     $0.22     $0.16     $0.15
+
+     Margins
+     Cost of service                        18.7%     17.6%     17.7%    18.9%     19.6%     17.0%    15.9%     16.9%    17.3%     18.3%     20.0%     22.5%
+     G&A                                     7.4%      7.4%     7.8%      7.0%     6.9%      7.4%      7.7%     7.7%      7.0%      9.4%     12.4%     12.4%
+     S&M                                    17.9%     15.9%     13.6%    13.0%     10.6%     9.8%      9.7%     9.1%      9.0%     11.6%     12.0%     12.2%
+     R&D                                    21.4%     21.6%     20.3%    20.8%     21.5%     22.5%    23.2%     23.4%    24.5%     27.2%     29.5%     29.0%
+     EBITDA                                 34.6%     37.5%     40.5%    40.3%     41.4%     43.3%    43.5%     42.9%    42.3%     33.5%     26.1%     23.9%
+     Operating Income                       35.4%     37.9%     41.6%    41.1%     41.8%     44.3%    44.1%     43.4%    45.0%     36.1%     28.4%     26.4%
+     Tax rate                                33%       28%      34%       22%       42%      41%       34%       40%      41%       35%       40%      40%
+     Gross Margin                            81%       82%      82%       81%       80%      83%       84%       83%      83%       82%       80%      78%
+
+     Annual growth
+     Total Revenue                           162%     155%      138%      97%       67%      60%       51%       45%      42%       19%       9%        3%
+     EBITDA                                  #N/A     9269%     757%      233%     100%      85%       63%       54%      45%       -8%      -35%      -43%
+     Sequential growth
+     Total Revenue                           23%       17%      18%       15%       5%       12%       11%       10%       3%       -6%       2%        3%
+     EBITDA                                  80%       27%      28%       14%       8%       18%       12%       8%        2%       -25%     -20%       -5%
+
+     1/27/2011                                                                                                                                                Christopher M. Larsen, Sr. Research Analyst
+     Source: Company data, Piper Jaffray estimates.   Current disclosure information for this company is located at http://www.piperjaffray.com/researchdisclosures.212 284-9339, chris.m.larsen@pjc.com  
+
+TeleNav, Inc.                                                                                                                                                                            Page 5 of 11
+                                                                                                                                                                                                        107
+---------------------Page 6---------------------
+
+      TeleNav
+      (Figures in millions, except per share)(Figures in millions, except per share)                                    EstEstEstEstEstEst
+      Balance Sheet                                    FY 2008 FY 2009 FY 2010 FY 2011 FY 2012 FY 2013  FY 2014  FY 2015
+      Cash & Cash Equivalents                            17       33      113       36      61        90       125       166
+      A/R                                                15       24       37       39      45        52        58        64
+      Deferred Tax Asset, ST                              0        2       2        3        3        3         3         3
+      Prepaid Expenses and Other C/A                      1        3       3       124      124      124       124       124
+      PPE, Net                                            3        7       10       11      13        16        20        23
+      Deferred Tax Asset, LT                              0        0       0        1        1        1         1         1
+      Dposits and Other Assets                            1        3       10       6        6        6         6         6
+      Total Assets                                       36       72      175      220      254      292       337       387
+      A/P                                                 1        2       3        3        3        3         5         6
+      Accrued Compensation                                2        4       6        7        7        7         7         7
+      Accrued Royalties                                   2        3       3        4        4        4         4         4
+      Other Accrued Expenses                              2        2       3        4        4        4         4         4
+      Deferred Revenue                                    2        3       7        11      11        11        11        11
+      Warrant Liability, current                          0        0       0        0        0        0         0         0
+      Income Taxes Payable                                0        3       2        0        0        0         0         0
+      S/T Debt                                            0        0       0        0        0        0         0         0
+      Other Liabilities                                   1        0       3        7        7        7         7         7
+      Warrant Liabilities                                 2        0       0        0        0        0         0         0
+      Commitments and Contingencies                       0        0       0        0        0        0         0         0
+      Long-term Debt                                      0        0       0        0        0        0         0         0
+      Convertible Preferred stock                        50       51       0        0        0        0         0         0
+      Equity                                             (26)      3      149      185      219      257       300       349
+      Liabilities + Equity                               36       72      175      220      254      292       337       387
+
+     Source: Company data, Piper Jaffray estimates.
+
+TeleNav, Inc.                                                                                                                                                                                 Page 6 of 11
+                                                                                                                                                                                                             108
+---------------------Page 7---------------------
+
+      TeleNav
+      (Figures in millions, except per share)(Figures in millions, except per share)                                                   EstEstEstEstEst
+      Statement of Cash Flows                                        FY 2009  FY 2010  FY 2011  FY 2012  FY 2013  FY 2014  FY 2015
+      Net income                                                       30        41        36         33        38        44        49
+      D&A                                                               2         5         8         8         9         10        11
+      Change in working capital                                        (8)       (13)       (1)       (6)       (6)       (6)        (4)
+      Accrued interest                                                  0         0         0         0         0          0         0
+      Other operating                                                   0        11         4         0         0          0         0
+      Net cash from operations                                         24        44        47         35        41        48        56
+
+      License cost                                                      0         0         0         0         0          0         0
+      Cap-x                                                            (8)       (7)        (8)      (10)      (12)       (13)      (14)
+      Other investing                                                   0        (2)      (114)       0         0          0         0
+      Net cash from investing                                          (8)       (10)     (122)      (10)      (12)       (13)      (14)
+
+      Issue stock / exercise options                                    0        44         (2)       0         0          0         0
+      Debt issues                                                       0         0         0         0         0          0         0
+      Other financing                                                   0         1         0         0         0          0         0
+      Net cash from financing                                           0        45         (2)       0         0          0         0
+
+      Effect of foreign exchange
+
+      Change in cash                                                  16.3      79.7      (76.5)     24.8      29.0      34.8       41.7
+      Cash at beginning                                               16.9      33.2      112.9      36.4      61.2      90.2      125.0
+      Cash at end                                                     33.2      112.9      36.4      61.2      90.2      125.0     166.6
+
+     Source: Company data, Piper Jaffray estimates.
+
+TeleNav, Inc.                                                                                                                                                                                       Page 7 of 11
+                                                                                                                                                                                                                    109
+---------------------Page 8---------------------
+
+      TeleNav
+      Valuation analysis                                                                     Est       Est        Est       Est        Est
+      ($ millions, except per share data)                               FY 2009 FY 2010    FY 2011  FY 2012  FY 2013  FY 2014  FY 2015
+      EBIT                                                            $42         $68        $59       $55       $62        $71       $79
+      Less: Tax Rate*EBIT                                             (15)        (24)       (21)      (19)       (22)      (25)       (28)
+      Plus: Depreciation                                               2           5          8         8          9        10         11
+      Less: Change in Working Capital                                 $8          $13        $1        $6         $6        $6         $4
+      Less: Capital Expenditures                                      ($8)        ($7)       ($8)      ($10)     ($12)      ($13)     ($14)
+      Free Cash Flow to the Firm                                      $31         $55        $39       $39       $43        $48       $53
+
+      After tax Interest Expense                                      $0          $0         $0        $0         $1        $1         $1
+      Equity Free Cash Flow                                           $31         $55        $40       $40       $44        $49       $54
+      Equity FCF per share                                                        1.48       0.88      0.87      0.94       1.04      1.11
+
+      Current Price
+      Cost of capital                                                                     Projected                                 Terminal
+      Risk free rate (10-yr UST)                                                            4.0%                                      5.0%
+      Risk premium                                                                          6.0%                                      5.0%
+      Beta                                                                                   2.0                                      1.75
+      Cost of equity (CAPM)                                                                 16.0%                                     13.8%
+      Weighted ave. cost of debt                                                            8.0%                                      8.0%
+      Debt to capital                                                                        0%                                       10%
+      WACC (k)                                                                              16.0%                                     12.9%
+
+      Terminal FCF growth rate (g)                                                                                                    3.0%
+      FCF Terminal Multiple (1+g)/(k-g)                                                                                               10.5x
+      Terminal Value of Firm                                                                                                          $550
+
+      Valuation (end of FY 2011)
+      PV FCF 2012 through 2015                                                              $126
+      PV Terminal Value                                                                     $304
+      PV of Firm                                                                            $430
+      Less: 2011 Net Debt                                                                    $0
+      Majority Equity Value                                                                 $430
+      Less Minority Discount                                                                 15%
+      Minority Equity Value                                                                 $366
+      DCF Valuation Per Share                                                                $8
+
+      Source: Company data, Piper Jaffray estimates.
+
+     Source: Company data, Piper Jaffray estimates.
+
+TeleNav, Inc.                                                                                                                                                                                      Page 8 of 11
+                                                                                                                                                                                                                  110
+---------------------Page 9---------------------
+
+                                                                                                                                                 Company Note
+                                                                                                                                               January 28, 2011
+
+  Important Research Disclosures
+
+                                                 Rating and Price Target History for: TeleNav, Inc. as of 01-27-2011
+
+             09/10/10
+              I:N:$6
+                                                                                                                                                            10
+
+                                                                                                                                                            8
+
+                                                                                                                                                            6
+
+                                                                                                                                                            4
+
+                                                                                                                                                            2
+                        Q1         Q2         Q3                   Q1         Q2         Q3                   Q1         Q2         Q3                   Q1
+             2008                                       2009                                       2010                                       2011
+
+                                                                                                                                     Created by BlueMatrix
+
+  Notes: The boxes on the Rating and Price Target History chart above indicate the date of the Research Note, the rating, and the price target. Each box
+  represents a date on which an analyst made a change to a rating or price target, except for the first box, which may only represent the first Note written during
+  the past three years.
+
+  Legend:
+
+  I: Initiating Coverage
+
+  R: Resuming Coverage
+
+  T: Transferring Coverage
+
+  D: Discontinuing Coverage
+
+  S: Suspending Coverage
+
+  OW: Overweight
+
+  N: Neutral
+
+  UW: Underweight
+
+  B: Buy (Piper Jaffray discontinued use of the B, N, and S ratings on June 30, 2009)
+
+  N: Neutral
+
+  S: Sell
+
+  AL On/AL Off: Placed on/removed from the Alpha List maintained by Piper Jaffray (AL use discontinued March 2010)
+
+  NA: Not Available
+
+  UR: Under Review
+
+                                                         Distribution of Ratings/IB Services
+                                                                      Piper Jaffray
+
+                                                                                                                                 IB Serv./Past 12 Mos.
+
+  Rating                                                                     Count                    Percent                Count              Percent
+
+  BUY [OW]                                                                      317                                            50.60                                         70                                22.08
+  HOLD [N]                                                                      266                                            42.40                                         29                                10.90
+  SELL [UW]                                                                      44                                              7.00                                            2                                   4.55
+
+  Note: Distribution of Ratings/IB Services shows the number of companies currently in each rating category from which Piper Jaffray and its affiliates received
+  compensation for investment banking services within the past 12 months. FINRA rules require disclosure of which ratings most closely correspond with
+  "buy," "hold," and "sell" recommendations. Piper Jaffray ratings are not the equivalent of buy, hold or sell, but instead represent recommended relative
+  weightings. Nevertheless, Overweight corresponds most closely with buy, Neutral with hold and Underweight with sell. See Stock Rating definitions below.
+
+TeleNav, Inc.                                                                                                                                      Page 9 of 11
+                                                                                                                                                                   111
+---------------------Page 10---------------------
+
+                                                                                                                              Company Note
+                                                                                                                            January 28, 2011
+
+ Important Research Disclosures
+
+ Analyst Certification  Christopher M. Larsen, Sr. Research Analyst
+
+ Analyst Certification  Bradley W. Korch, Research Analyst
+
+ Analyst Certification  Joseph A. Mastrogiovanni, Research Analyst
+ The views expressed in this report accurately reflect my personal views about the subject company and the subject security. In addition, no part of my
+ compensation was, is, or will be directly or indirectly related to the specific recommendations or views contained in this report.
+
+ Research Disclosures
+ Piper Jaffray was making a market in the securities of TeleNav, Inc. at the time this research report was published. Piper Jaffray will buy and sell
+ TeleNav, Inc. securities on a principal basis.
+ Piper Jaffray has received compensation for investment banking services from or has had a client relationship with TeleNav, Inc. within the past 12
+ months.
+ Within the past 12 months Piper Jaffray was a managing underwriter of a public offering of, or dealer manager of a tender offer for, the securities of
+ TeleNav, Inc. or the securities of an affiliate.
+ Within the past 3 years Piper Jaffray participated in a public offering of, or acted as a dealer manager for, TeleNav, Inc. securities.
+
+ Affiliate Disclosures: This report has been prepared by Piper Jaffray & Co. and/or its affiliate Piper Jaffray Asia Securities Limited, both of which are
+ subsidiaries of Piper Jaffray Companies (collectively Piper Jaffray). Piper Jaffray & Co. is regulated by FINRA, NYSE, and the United States Securities
+ and  Exchange  Commission,  and  its  headquarters  is  located  at  800  Nicollet  Mall,  Minneapolis,  MN  55402.  Piper  Jaffray  Asia  Securities  Limited  is  a
+ licensed corporation regulated by the Securities and Futures Commission of Hong Kong ("SFC"), entered on the SFC's register, no. ABO154, and is an
+ exchange participant of The Stock Exchange of Hong Kong Limited. Its headquarters is located at Suite 1308, 13/F Two Pacific Place, 88 Queensway,
+ Hong  Kong.  Disclosures  in  this  section  and  in  the  Other  Important  Information  section  referencing  Piper  Jaffray  include  all  affiliated  entities  unless
+ otherwise specified.
+
+ Piper Jaffray research analysts receive compensation that is based, in part, on overall firm revenues, which include investment banking revenues.
+
+ Rating Definitions
+
+     Stock Ratings: Piper Jaffray ratings are indicators of expected total return (price appreciation plus dividend) within the next 12 months. At
+     times analysts may specify a different investment horizon or may include additional investment time horizons for specific stocks. Stock
+     performance is measured relative to the group of stocks covered by each analyst. Lists of the stocks covered by each are available at
+     www.piperjaffray.com/researchdisclosures. Stock ratings and/or stock coverage may be suspended from time to time in the event that there
+     is no active analyst opinion or analyst coverage, but the opinion or coverage is expected to resume. Research reports and ratings should
+     not be relied upon as individual investment advice. As always, an investor's decision to buy or sell a security must depend on individual
+     circumstances, including existing holdings, time horizons and risk tolerance. Piper Jaffray sales and trading personnel may provide written
+     or oral commentary, trade ideas, or other information about a particular stock to clients or internal trading desks reflecting different opinions
+     than those expressed by the research analyst. In addition, Piper Jaffray technical research products are based on different methodologies
+     and may contradict the opinions contained in fundamental research reports.
+
+      Overweight (OW): Anticipated to outperform relative to the median of the group of stocks covered by the analyst.
+      Neutral (N): Anticipated to perform in line relative to the median of the group of stocks covered by the analyst.
+      Underweight (UW): Anticipated to underperform relative to the median of the group of stocks covered by the analyst.
+
+     An industry outlook represents the analyst's view of the industry represented by the stocks in the analyst's coverage group. A Favorable
+     industry outlook generally means that the analyst expects the fundamentals and/or valuations of the industry to improve over the investment
+     time horizon. A Neutral industry outlook generally means that the analyst does not expect the fundamentals and/or valuations of the industry
+     to either improve or deteriorate meaningfully from its current state. An Unfavorable industry outlook generally means that the analyst
+     expects the fundamentals and/or valuations of the industry to deteriorate meaningfully over the investment time horizon.
+
+TeleNav, Inc.                                                                                                                  Page 10 of 11
+                                                                                                                                              112
+---------------------Page 11---------------------
+
+                                                                                                                                        Company Note
+                                                                                                                                     January 28, 2011
+
+  Other Important Information
+
+  The material regarding the subject company is based on data obtained from sources we deem to be reliable; it is not guaranteed as to accuracy and
+  does  not  purport  to  be  complete.  This  report  is  solely  for  informational  purposes  and  is  not  intended  to  be  used  as  the  primary  basis  of  investment
+  decisions. Piper Jaffray has not assessed the suitability of the subject company for any person. Because of individual client requirements, it is not, and it
+  should not be construed as, advice designed to meet the particular investment needs of any investor. This report is not an offer or the solicitation of an
+  offer to sell or buy any security. Unless otherwise noted, the price of a security mentioned in this report is the market closing price as of the end of the
+  prior business day. Piper Jaffray does not maintain a predetermined schedule for publication of research and will not necessarily update this report. Piper
+  Jaffray policy generally prohibits research analysts from sending draft research reports to subject companies; however, it should be presumed that the
+  analyst(s)  who  authored  this  report  has  had  discussions  with  the  subject  company  to  ensure  factual  accuracy  prior  to  publication,  and  has  had
+  assistance   from   the   company   in   conducting   diligence,   including   visits   to   company   sites   and   meetings   with   company   management   and   other
+  representatives.
+
+  This report is published in accordance with a conflicts management policy, which is available at http://www.piperjaffray.com/researchdisclosures.
+
+  Notice  to  customers: This  material  is  not  directed  to,  or  intended  for  distribution  to  or  use  by,  any  person  or  entity  if  Piper  Jaffray  is  prohibited  or
+  restricted by any legislation or regulation in any jurisdiction from making it available to such person or entity. Customers in any of the jurisdictions where
+  Piper Jaffray and its affiliates do business who wish to effect a transaction in the securities discussed in this report should contact their local Piper Jaffray
+  representative. Europe: This material is for the use of intended recipients only and only for distribution to professional and institutional investors, i.e.
+  persons who are authorised persons or exempted persons within the meaning of the Financial Services and Markets Act 2000 of the United Kingdom, or
+  persons who have been categorised by Piper Jaffray Ltd. as professional clients under the rules of the Financial Services Authority. Asia: This report is
+  distributed in Hong Kong by Piper Jaffray Asia Securities Limited, which is regulated by the Hong Kong SFC. This report is intended only for distribution
+  to professional investors as defined in the Hong Kong Securities and Futures Ordinance and is for the use of intended recipients only. United States:
+  This report is distributed in the United States by Piper Jaffray & Co., member SIPC, FINRA and NYSE, Inc., which accepts responsibility for its contents.
+  The securities described in this report may not have been registered under the U.S. Securities Act of 1933 and, in such case, may not be offered or sold
+  in the United States or to U.S. persons unless they have been so registered, or an exemption from the registration requirements is available.
+
+  This report is produced for the use of Piper Jaffray customers and may not be reproduced, re-distributed or passed to any other person or published in
+  whole or in part for any purpose without the prior consent of Piper Jaffray & Co. Additional information is available upon request.
+
+  Copyright 2011 Piper Jaffray. All rights reserved.
+
+TeleNav, Inc.                                                                                                                           Page 11 of 11
+                                                                                                                                                         113

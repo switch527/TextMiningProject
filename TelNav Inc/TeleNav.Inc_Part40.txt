@@ -1,0 +1,599 @@
+---------------------Page 1---------------------
+
+ 
+                                                                                                                                       Computers - Software
+                                                                                        
+                                                              
+                                                                  TeleNav                   (TNAV)              
+                                           2-June-2010 
+                              
+                                                                  Leading provider of mobile navigation services on the Sprint and AT&T networks. 
+
+                                                                                                                  Investment Rating: Marketperform
+                                                             
+Pricing Update 
+      
+Stock Data    (in mil, except per share)                                Rating Analysis                   Very  Weak           Neutral            Very  Strong   
+                                                                   
+Current Price (2-Jun-2010)                                              $8.39 Long-Term 
+Shares Outstanding                                                              45.7 Company Fundamentals
+Market Capitalization                                                      $383.1 Corporate Governance
+Enterprise Value                                                               $292.3 Short-Term 
+                                                                                   Relative Valuation
+IPO Data                                                                          Technical Strength
+                                                                   
+Offer Date                                                                  5/12/2010 
+                                                                  Telenav prices -33% below the midpoint of its original range, fills overallotment.  
+Offer Price                                                                            $8.00 TeleNav, raised $56 million on May 12 by offering 7 million shares at $8, 33% below 
+Price Range                                                        $11.00 - $13.00 the midpoint of its original $11-$13 range.   In a May 11 filing, the company lowered its 
+Shares Offered (% insider)                                      7.0 (21%) proposed range to $9-$10, and indicated that key VC backer Menlo Ventures planned to 
+                                                                  buy $7 million worth of shares on the IPO.   Though the company posted a solid 23% 
+Deal Size                                                                                $56.0 
+                                                                  first day return and filled the 100% primar y, $8.4 million overallotment, the stock has 
+Use of Proceeds                                              Working capital 
+                                                                  given back 14% in aftermarket trading.  
+                                                                   
+IPO Underwriters       (*bookrunner)                              Valuation suggests at least 40% upside.   At 3.7x EV/CY11 EBITDA, Telenav is 
+J.P. Morgan*                              Deutsche Bank Securities* trading at a 28% implied discount (40% upsi       de) to the 5.6x average multiple of its 
+Baird Canaccord Genuity                                           telecom systems/navigation peer group.  Adm  ittedly, peer multiples have contracted 
+Piper Jaffray                                                          Pacific Crest since our pre-IPO report, punctuated by a 18% selloff for mobile navigation competitor 
+                                                                  TeleCommunication Systems.  However, the   lack of a pure-play comparable should 
+Key Financial Data                                                compel investors to apply a greater weight        to our perpetuity DCF approach, which 
+                                                                  implies nearly 50% upside. 
+                                                                   
+ Income Model                            FY Ended Jun     Intriguing growth story at                 an attractive valuatio       n; Waiting for technical 
+ ($ in mil)                2009A 2010E 2011E 
+                                                                  headwinds to ease.  TeleNav has leveraged exclusive relationships with Sprint and 
+ Sales                       $110.9 $170.3 $212.7                 AT&T to drive strong adoption of its core mo bile navigation services.  This rapid user 
+ EBITDA              45.2 76.8 72.7                               growth, coupled with its scalable, web-ba           sed platform has driven impressive 
+ Adj. EPS                             0.85                1.08               0.89     profitability and cash flow.  Looking forward, however, management expects the 
+ EBITDA Margin 40.8% 45.1% 34.2%                              downward trend in ARPU and platform upgr  ades to pressure margins.  Additionally, 
+ Net Margin            27.0% 25.8% 19.3%                              the company faces stiff competition from major software providers and OEMs, such as 
+                                                                  Google and Nokia, which are offering free navigation services to gain a foothold in the 
+                                                                  potentially lucrative mobile advertising busine ss.  While an attractive valuation should 
+ Balance Sheet                      As of 3/31/10 (adj. for IPO)  compensate investors for these competitiv  e risks, lackluster deal demand and weak 
+ Cash $90.8                                                       aftermarket trading lead us to initiate coverage with a high-end marketperform rating. 
+                                                                   
+ Total Assets                                                                      154.8 Bull Insights 
+ Total Debt                                                                              0.0     ●      Highly profitable and grew sales at a 100% CAGR from FY07-FY09 
+ Shareholders' Equity                                                      134.9 
+                                                                  ●      Is only ~10% penetrated in its core partners combined subscriber base 
+ 
+                                                                  ●      US mobile navigation market is expected to exceed $2B by 2012 (52% CAGR) 
+ 
+                                                                  ●      Perpetuity DCF analysis suggests 49% valuation upside 
+Corporate Data                                                     
+Employees 878                                                     Bear Insights 
+Year Founded                                                                        1999    ●      Free services from Nokia and Google may intensify margin pressures 
+Headquarters Sunnyvale, CA                                                                 ● ARPU fell by 16% in the fiscal 3Q10 and gross margins are projected to fall 
+Phone Number                                                    408-245-3800    ●      Operates in a litigious industry and is party to multiple infringement claims 
+Web Address                                                www.telenav.com    ●      Key peer TSYS has traded poorly after a disappointing 1Q outlook 
+ 
+                                                                                                                                RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research               visit www.IPOIntelligence.com/research.                                            Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                      www.renaissancecapital.com 
+                                                                                                                                                           Page 1 
+                                                                                                                                                                380
+---------------------Page 2---------------------
+
+      
+ 
+
+                                                                                                                     TeleNav (TNAV)   2-June-2010
+                                                                                                                                                     
+ Company Fundamentals                                                                                                             Rating:   Neutral
+ 
+ Overview: 
+ TeleNav is the leading provider of locati on based services (LBS) for mobile devices,  including the carrier-branded navigation applications offered 
+ by Sprint and AT&T.  Its scalable, web-based platform integrates        third party map, point of interest and traffic data, deliverin g voice guided 
+ directions on more than 500 types of mobile phones.  The company          has grown revenues rapidly by ta pping into its carriers vast  distribution 
+ networks, and hopes to leverage its 14.5 million installed user base to gain a foothold in the nascent-but-promising mobile advertising market. 
+  
+ Rating Rationale: 
+ TeleNavs hosted service model drives recurri ng, subscription-based revenues and strong  cash flows.  The company has rapidly an d profitably 
+ grown sales of its core navigation product by leveraging the ma rketing and distribution infrastructure of key carrier partners,  though maintaining 
+ exclusivity is a key concern given the high levels of revenue co ncentration.  Overall, its large installed user base provides a  first mover advantage, 
+ but pressure from OEMs and OS providers with free navigation applications could intensify anticipated margin pressures.  
+  
+ Business: 
+ Provides voice guided navigation services  for GPS-enabled mobile phones (94%), includ ing the turn-by-turn navigation applicatio ns offered by 
+ leading US wireless carriers Sprint (55% of revenues) and AT&T (34% ).  In total, has 14.5 million end users and partners with 1 5 wireless carriers 
+ in 29 countries. US is 97% of sales.  In tegrates third party content to provide 3D moving maps, points of interest (POIs), traf fic alerts, gas prices 
+ and weather updates.  TeleNavs web-based delivery platform su pports more than 500 types of handsets and all major operating sy stems.  Client 
+ software is typically pre-installed on mobile phones, allowing us    ers to access updated information and routing services without       using device 
+ memory for map and POI storage.  End users are generally bille  d on a monthly basis through their wireless carrier, which offer   services on a 
+ bundled (Sprint) or stand-alone basis ($10/month for AT&T).  Carri ers pay TeleNav monthly fees on a per-subscriber or revenue s haring basis.  
+ Other 6% of revenue is generated from mobile phone-based workfo  rce management/tracking systems  (Xerox) and in-dash navigation s ystems 
+ (Ford).  Also targets mobile/location based advertising.  Relie  s on the marketing and distribution channels of its wireless net  work partners to 
+ drive adoption; also sells directly to end users through its website and mobile phone application stores (iTunes App Store).  R&D team consists of 
+ 670 employees, primarily located in China.  Leases data center space in Sunnyvale, Sacramento and Santa Clara. 
+  
+                                                                                       Income Statement Data 
+ Competition: 
+ Has roughly a 20-25% share of the US        mobile navigation market based on      FY Jun ($ in mil)               2007 2008        2009        YTD
+ calendar 2009 revenues.  The LBS market is highly competitive, with free              Sales $27.7 $48.1     $110.9                             $121.7
+ services available from Nokia and Google.  Other competitors include                  Gross Profit                              19.8         36.7          90.6100.5
+ Navigon, TeleCommunication Systems   (which supports Verizons VZ                    EBITDA -9.3 6.7          45.2                              55.6
+ Navigator application) and Telmap, as well as personal navigation device             Operating Income                 -10.4            4.8          42.350.6
+ providers Garmin and TomTom.                                                          Adjusted Net Income          -9.5 5.0          30.0       32.2
+                                                                                       Adjusted EPS    
+                                                                                                         -0.88 0.14          0.85                $1.12
+ Key Issues:                                                                           Margins                                                                  
+ Free mobile phone-based navigation services from OEMs (Nokia) and OS                  Gross Margin                       71.3%     76.4%      81.7%82.6%
+ providers (Google) may pose a significant threat.   Relies on Sprint (55%) and        EBITDA Margin               -33.7%     14.0%      40.8%  45.7%
+ AT&T (34%) for a substantial portion of   revenues, though exclusivity rights         Operating Margin              -37.4%        9.9%      38.1%41.6%
+ roll off on Dec. 31, 2010 and March 19, 2011, respectively.  ARPU has                 Adjusted Net Margin    -34.8%  9.6%      26.7%          26.5%
+ declined sequentially for 8 consecutive quarters, and fell 16% y/y in the fiscal      Cash Flow Data                                                  
+ 3Q10.  Gross margins will continue to decline due to bundling and                     CFFO -$6.6 -$0.3        $23.9                             $19.9
+ investments in new products.  Faces mu ltiple unresolved infringement claims          Less: Capex                                  2.5            1.7            7.87.2
+ and may be forced to defend carrier part ners from similar IP litigation.  Relies     Free Cash Flow                         -9.1          -2.0          16.012.7
+ on third-party data and content from Tele Atlas and NAVTEQ, which are 
+                                                                                       Additional Data                                                  
+ owned by competitors TomTom and Nokia,  respectively.  YTD cash flow has 
+                                                                                       Monthly ARPU                     $5.21       $3.58        $1.28$1.05
+ trailed net income due to a spike in r  eceivables.  Has a lengthy and complex 
+                                                                                       Avg. end users (in mil) 0.4 1.1            7.1             12.7
+ sales process for new wireless carriers,  particularly in new geographic markets 
+                                                                                       Sprint (% of sales) 90% 62%         61%                    55%
+ which have language and regulatory hurd les.   The company receives a fixed 
+                                                                                       AT&T (% of sales) 2% 26%         29%                       34%
+ fee or revenue share per user, regardless of usage.    
+                                                                                       Adjusted net income excludes tax adjusted stock compensation. 
+                                                                                                                         RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research             visit www.IPOIntelligence.com/research.                                       Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                              www.renaissancecapital.com 
+                                                                                                                                                  Page 2 
+                                                                                                                                                       381
+---------------------Page 3---------------------
+
+      
+  
+
+                                                                                                                                   TeleNav (TNAV)   2-June-2010
+                                                                                                                                                                      
+ Latest Results and Outlook 
+ 
+ Recent Financial Trends: 
+ For the nine months ended March 2010, revenue increased 59% as a result of a 102% increase in average monthly paying end users, primarily due 
+ to adoption of Sprint's bundled "Simply Ev erything" plans, which provide navigation se rvices at no additional charge.  The stro ng user growth 
+ was partly offset by a 21% decline in monthly ARPU driven by an   increasing mix of carrier-branded and bundled channels, in addi tion to a fee 
+ reduction from key partner Sprint; in July   2009, TeleNav agreed to lower Sprints per-us  er fees in exchange for an extension of   its exclusive 
+ agreement through calendar 2010.  Gross profit grew 60% as the re sult of lower content and customer support costs, which were p artially offset 
+ by the decrease in ARPU and rising per-subscriber usage rates.   Operating profit grew 77% due to strong leverage on sales and m arketing costs, 
+ though adjusted net income grew more slowly  at 64% as the result of a tax benefit in th e prior stub period.  Cash flow from ope rations declined 
+ by 9% due to a $14 million increase in receivables. 
+  
+                                                                                                
+ Outlook:                                                                                       Interim Results - 9 months ended 
+ After impressive 51% y/y revenue growth in the March fiscal 3Q, we project      ($ in mil)                       Mar-09 Mar-10                                % Chg
+ 42% growth for the June 4Q, producing full-year revenue and EBITDA of                          Sales $76.6 $121.7                                                                    59%
+ $170 million (+54%) and $77 million (+70%), respectively.                                      Gross Profit                                     62.9              100.5          60%
+                                                                                                EBITDA 30.6 55.6                                                            81%
+ Though management's target model calls for 20-25% long term revenue                            Operating Income                         28.7                50.6          77%
+ growth, it anticipates moderate gross margin erosion (to 72%-75%) as a result                  Adjusted Net Income                   19.6                32.2          64%
+ of the mix shift toward bundled mobile navigation sales, increased per-             Adjusted EPS                                0.71                 1.12         58%
+ subscriber usage and investments in its platform.  Consequently, the company 
+                                                                                                Margins                                                       
+ sees long term EBITDA margins               between 33%-36% and adjusted net 
+                                                                                                Gross Margin                              82.0%            82.6%
+ margins in the 16%-19% range, with ca            pex running at 5% of sales.  We 
+                                                                                                EBITDA Margin                       40.0%            45.7%
+ project 25% top line growth for FY11, at the high end of the target range, 
+                                                                                                Operating Margin                      37.4%            41.6%
+ with gross margins contracting to 78%            .  Further, we expect near-term 
+                                                                                                Adjusted Net Margin                25.6%            26.5%
+ overhead pressure due to administrative and R&D headcount additions.  As a 
+ result, we model a y/y decline in EBITDA to $73 million (34% margin),                          Cash Flow Data                                      
+ though in later years, leverage on opera         ting costs should at least partially          CFFO $21.9 $19.9
+ offset gross margin declines.  With   EBITDA and net margins stabilizing at                    Less: Capex                                        3.8                   7.2
+ 35% and 19%, respectively, the company could approach $1.50 in adjusted                        Free Cash Flow                              18.1                12.7
+ EPS by 2014.                                                                                   Additional Data                                        
+                                                                                                Monthly ARPU                            $1.33              $1.05
+   Interim Results - 3 months ended                                                             Avg. end users (in mil)                   6.3                12.7
+   ($ in mil)                    Mar-09 Jun-09 Sep-09 Dec-09     Mar-10               Sprint (% of sales)                              --                55%
+   Sales $29.8 $34.3 $36.0 $40.5          $45.1                                                 AT&T (% of sales)                             --                34%
+   Gross Margin                         82.3%      81.1%       80.4%        83.0%        84.1%      
+                                                                                                
+   EBITDA Margin                  42.6%      42.5%       44.2%        46.2%        46.4%
+                                                                                                Balance Sheet Data                         Actual                 Post IPO
+   Operating Margin                 40.1% 39.8% 40.5%  42.0%        42.2%
+                                                                                                ($ in mil)                               3/31/10                  3/31/10
+   Adjusted Net Margin           25.2%      30.6%       23.0%        25.8%        28.7%
+                                                                                                Cash $46.1                        $90.8
+   Cash Flow Data                                                                                       Working Capital                                             74.9                        119.6
+   CFFO $19.4 $2.0 $15.4 $7.0          -$2.6                                                    Total Assets                                                  110.1                        154.8
+   Less: Capex                                   1.7             4.0             3.7              1.8              1.7Total Debt                                                         0.0                             0.0
+   Free Cash Flow                         17.7           -2.0           11.8              5.2             -4.2Shareholders' Equity                                    34.2                        134.9
+   Additional Data                                                                                        
+                                                                                                
+   Monthly ARPU                       $1.21        $1.18         $1.10          $1.04          $1.02
+   Avg. end users (in mil) 8.0 9.5 10.8 12.7            14.5
+  
+
+                                                                                                                                       RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research                 visit www.IPOIntelligence.com/research.                                                Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                             www.renaissancecapital.com 
+                                                                                                                                                                   Page 3 
+                                                                                                                                                                         382
+---------------------Page 4---------------------
+
+      
+  
+
+                                                                                                                           TeleNav (TNAV)   2-June-2010
+      
+ Corporate      Governance                                                                                                               Rating:   Strong 
+ 
+ Management has built an impressive track r ecord of rapid-yet-profitable growth and m aintains a respectable 12% ownership stake  following the 
+ IPO.  The CFO has public company experien ce and executive compensation is very reasona ble.  That said, only one of six board me  mbers is 
+ independent by our standards, and there was modest insider se lling on the deal ($12 million).  Nonetheless, managements solid  execution keeps 
+ our governance rating at strong.   
+  
+  
+  Key Executive                         Age                   Position Corporate Background 
+
+  H.P. Jin                                        46                       CEO & Chairman      Co-founder.  Chairman and CEO since inception in 1999.  Previously served 
+                                                                         in strategy consulting roles at McKenna Group and McKinsey & Co.  Earlier, 
+                                                                         was technical director at LINC           SS, a division of Loral Space & 
+                                                                         Communications. 
+
+  Douglas Miller                          52                      CFO                               Since 2006.  From 2005 to 2006 was CFO of  telecom software provider 
+                                                                         Longboard.  Earlier, held various positions at Synplicity 
+  
+  
+  
+  Key Shareholder                                                  Holdings                      Additional Details 
+
+  Samuel Chen                                                         26.9%                            Angel investor.  Director since 2002.  Invested $5.2 million in a 2004 
+                                                                         convertible notes offering and $1.4 million in a 2006 preferred stock deal.  
+                                                                         Sold 2.2% of his holdings ($2.1 million) on the IPO. 
+
+  Menlo Ventures                                                   14.6%                            Menlo Park, CA-based venture firm.  Invested $16.2 million in a 2006 
+                                                                         preferred stock deal.  Includes 875,000        shares that it indicated it would 
+                                                                         purchase on the IPO.  Holds one board seat. 
+
+  Executives                                                               12.0%                             Includes the CEO (4.0%).  Roughly  half represents options at $6.12 or below.  
+                                                                         As a group, sold 71,743 shares ($574k) on the IPO. 
+
+  iGlobe Partners Fund                                          7.5%                                Singapore-based venture firm.  Invested $250,000 in a 2004 convertible notes 
+                                                                         offering and $594,000 in a 2006 preferred stock deal.  Sold 11.4% of its 
+                                                                         holdings ($3.3 million) on the IPO.  Holds two board seats. 
+  
+
+                                                                                                                              RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research               visit www.IPOIntelligence.com/research.                                           Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                    www.renaissancecapital.com 
+                                                                                                                                                         Page 4 
+                                                                                                                                                              383
+---------------------Page 5---------------------
+
+         
+   
+
+                                                                                                                                                                                          TeleNav (TNAV)   2-June-2010
+ 
+  Relative Valuation                                                                                                                                                                                  Rating:   Very Strong 
+ 
+  At 3.7x EV/CY11 EBITDA, Telenav is trading at a 28% implied                                                                     
+  discount (40% upside) to the 5.6x average multiple of its telecom                                                                Valuation Methods 
+  systems/navigation peer group.  Admittedly, peer multiples have                                                                                                                                     DCF Relative               
+  contracted since our pre-IPO report,                             punctuated by a 18% selloff for                                 Methodology                                    Perpetuity                    5.6x 2011 EBITDA 
+  mobile navigation competitor TeleCommunication Systems.  However,                                                                Implied Value                                      $12.51                                    $11.71 
+  the lack of a pure-play comparable s                           hould compel investors to apply a                                 Upside/Downside                      +49% +40% 
+  greater weight to our perpetuity DCF approach, which implies nearly                                                                                                                                            
+  50% upside.                                                                                                                     
+                                                                                                                                  
+                                                                                                                                 View DCF Model at www.ipointelligence.com/iporesearch/ 
+ 
+Comparable Financial Analysis 
+ 
+                                                                                                                                                                                          Debt-to-              MRQ                Capex/ 
+  IPO and Key Peers                               FY        Sales (US$)        GM %      EBITDA %       EBIT %             Net %          ROE %                                            Capital             Growth                Sales 
+  TeleNav                                         Jun                 $155.9           82.3%                   45.0%              41.2%               26.4%               32.5%                  0.0%                 51%               7.2%
+  TeleCommunication Systems                       Dec                $320.5            38.1%                   14.4%              10.2%                8.9%               22.7%                48.4%                  29%                1.7% 
+  Syniverse Holdings                             Dec                   $523.1           63.8%                    40.6%             27.7%               13.4%                22.1%                 44.3%                   37%                 8.5% 
+  NeuStar Dec $496.2 76.9% 44.0% 36.1% 20.6% 26.2% 3.4% 14% 6.3% 
+  Garmin Dec $2,940.8 50.3% 30.9% 27.6% 23.6% 21.6% 0.0% -1% 1.4% 
+  TomTom Dec $1,888.9 50.0% 23.9% 16.9% 8.2% 14.4% 43.5% 26% 1.0% 
+  Openwave Systems                            Jun                    $187.6           59.5%                       2.9%              -1.2%                -3.4%                10.4%                   0.0%                 -10%                 1.7% 
+  Group Average                                                                     52.9%                    23.6%              17.5%                11.0% 18.0%  19.9%   22%                 3.1%
+
+  Note: All dollars are in millions.  All financial metrics are based on LTM data; return metrics are based on forward estimates. 
+ 
+ 
+Comparable Valuation Analysis 
+ 
+                                                                                             Market         Enterprise       EV-to-EBITDA P/E                                       LT                          P/E/G
+  IPO and Key Peers                                Ticker Price Value                Value        2010 2011 2010 2011 Growth 2011 P/CF 
+  TeleNav                                      TNAV                        $8.39               $383.1               $292.3           3.8x            3.7x            8.2x           8.7x            15%               0.6x            17.5x 
+  TeleCommunication Systems                    TSYS                        $5.12               $344.3                $451.0          5.8x            4.9x            8.1x           7.8x            14%               0.6x             4.4x 
+  Syniverse Holdings                         SVR                           $19.73             $1,353.1              $1,761.1          6.9x              6.3x            10.5x           9.7x              14%                0.7x               9.4x 
+  NeuStar NSR $21.03 $1,597.1              $1,261.3 5.4x 4.8x 13.2x 11.4x 14% 0.8x 10.7x 
+  Garmin GRMN $33.10 $6,656.1              $5,345.1 6.9x 7.2x 11.4x 12.0x 9% 1.4x 6.7x 
+  TomTom TOM2 NA 5.33 $1,456.3              $2,021.6 5.6x 5.6x 8.5x 8.0x 10% 0.8x 3.7x 
+  Openwave Systems                         OPWV                        $2.11                 $176.3                    $67.3          6.3x              4.6x            55.5x          22.7x             20%                1.1x               n/a 
+  Group Average                                                                                                                                    6.2x 5.6x 17.9x 11.9x 13%  0.9x 7.0x 
+
+  Note: All dollars are in millions except for per share amounts.  Multiples based on calendar year estimates.  EV/EBITDA averages exclude INSP.  P/E averages exclude OPWV. 
+ 
+ 
+
+                                                                                                                                                                                                RENAISSANCE CAPITAL LLC 
+ For    Pre-IPO Research                              visit www.IPOIntelligence.com/research.                                                                                      Two Greenwich Plaza, Greenwich, CT 06830 
+  Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                                                                                         www.renaissancecapital.com 
+                                                                                                                                                                                                                                         Page 5 
+                                                                                                                                                                                                                                                384
+---------------------Page 6---------------------
+
+        
+   
+
+                                                                                                                                                                          TeleNav (TNAV)   2-June-2010
+        
+  Technical Strength                                                                                                                                                                            Rating:   Weak 
+ 
+ 
+   Stock Performance of IPO and its Peer Group 
+  TNAV                                                                                                       IPO Performance Data 
+                                                                                                             First Day                                                                                                                    23%
+                                                                                                             Aftermarket                                                                                                             -14%
+                                                                                                             Total Return                                                                                                                5%
+                                                                                                              
+                                                                                                             Quiet Period Release                                                                                  6/22/2010
+                                                                                                             Lock-up Release                                                                                          11/8/2010
+                                                                                                              
+                                                                                                             Days to Lock-Up Release                                                                                       159
+                                                                                                             Shares Available for Sale                                                                           34,929,220
+                                                                                                             Percent of Total Shares Outstanding                                                                76%
+                                                                                                            
+
+                                                                                                         
+   
+ 
+  TNAV vs Key Publicly-Traded Peers vs Index                               Publicly - Traded Peer Group
+                                                                                                            
+                                                                                                                                                                            Stock        1-Mo.       3-Mo.        YTD 
+                                                                                                             Key Peers                                             Ticker   Price        Return      Return       Return 
+                                                                                                             TeleCommunication Systems        TSYS                       $5.12       -26%        -34%        -47% 
+                                                                                                             Syniverse Holdings                           SVR                       $19.73        -2%          17%          13% 
+                                                                                                             NeuStar NSR $21.03 -14% -12% -9% 
+                                                                                                             Garmin GRMN $33.10 -11% 0% 8% 
+                                                                                                             TomTom TOM2 NA 5.33 -13% -8% -15% 
+                                                                                                             Openwave Systems                           OPWV                   $2.11        -5%         -22%          -7% 
+
+                                                                                                             Indexes                                                                                                                    
+                                                                                                             Nasdaq Composite Index               CCMP               2,281.07        -7%           0%            1% 
+                                                                                                             S&P 500 Index                                   SPX                   1,098.38        -7%          -2%           -1% 
+                                                                                                             FTSE Renaissance IPO Index IPOS               212.35   -5%     -2%     -2% 
+
+                                                                                                             Stock prices as of 06/02/10                                                                                                  
+                                                                                                            
+
+                                                                                                                                                                               RENAISSANCE CAPITAL LLC 
+ For   Pre-IPO Research                          visit www.IPOIntelligence.com/research.                                                                           Two Greenwich Plaza, Greenwich, CT 06830 
+  Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                                                                      www.renaissancecapital.com 
+                                                                                                                                                                                                                    Page 6 
+                                                                                                                                                                                                                           385
+---------------------Page 7---------------------
+
+     
+
+                                                                                                  TeleNav (TNAV)   2-June-2010
+                                                                   
+                                                                   
+                                                     About Renaissance Capital 
+                                                                   
+Renaissance Capital LLC (Renaissance Capital or RC), founde d in Greenwich, Connecticut in 1991, is the global leader in 
+IPO research.  Its clients represent the Whos Who list of t he largest and most active institutional IPO investors.  As an 
+independent research provider, Renaissance Capital does not rece  ive payment for research or investment banking services 
+from companies under coverage.   
+ 
+In addition to IPO research, Renaissance Capital maintain     s the FTSE Renaissance IPO Composite Index, the definitive 
+benchmark of IPO performance and activity, and it manages the IPO Plus Fund, the first mutual fund to focus solely on investing 
+in IPOs.  The Fund has a 10 year track record.  FTSE is jointly owned by the Financial Times of London and the London Stock 
+Exchange. 
+ 
+Renaissance Capital was established by three Wharton MBA gra duates after they spent over a decade on Wall Street (Merrill 
+Lynch, Citi, Bear Stearns, Kidder Peabody   and Credit Suisse First Boston) where they   worked in the areas of investment 
+banking, helping young companies raise capital via initial public  offerings, as well as portfolio management, equity research and 
+corporate financial restructuring.   
+ 
+Institutional clients have valued Renaissance Capitals IPO research for nearly two decades because of its timely, market savvy 
+insights on every US initial public offering and a growing roster  of non-US IPOs.  Renaissance  Capital augments its seasoned 
+judgment with a proprietary, expert system for evaluating newly public companies. 
+     
+                                                                   
+                                                       Important Disclosures 
+                                                                   
+                                                                   
+Renaissance Capital Rating Distribution 
+ 
+Renaissance Capitals composite investment ratings fall into three categories:  Outperform (15 to 20), Marketperform (10 to 
+14) and Underperform (4 to 9).  These categories are defined as follows: Abov e Average: the subject company is expected to 
+perform better than the relevant broad market benchmark over the next 3 months.  Average: the subject company is expected to 
+perform in-line with the relevant broad market benchmark over   the next 3 months.  Below Average: the subject company is 
+expected to perform below the relevant broad market benchmark over the next 3 months. 
+ 
+For purposes of FINRA/N YSE disclosure rules, RCs  Outperform rating most closely corresponds to a buy recommendation; 
+RCs Marketperform rating most closely corresponds to a hold/neutral rating; and RCs     Underperform rating most closely 
+corresponds to a sell rating.  However Above Average, Average  and Below Average are not the same as buy, hold/neutral and 
+sell ratings, as RCs stock ratings are determined on a relative  basis.  An investors decision to buy or sell a stock should 
+depend on individual circumstances and risk tolerance.  For the y ear 2009, the distribution of RCs research opinions were as 
+follows:  
+ 
+ 
+                                                                   
+                                 Outperform 20% 
+                                 Marketperform 74.9% 
+                                 Underperform 5.1% 
+                                                                   
+                                                                   
+RC does not have an investment banking operation, and does not have investment banking relationships with any of the companies it 
+researches, therefore no distribution of research ratings by investment banking clients are shown above. 
+
+                                                                                                     RENAISSANCE CAPITAL LLC 
+                                                                                              Two Greenwich Plaza, Greenwich, CT 06830 
+                                                                                                          www.renaissancecapital.com 
+                                                                                                                            386
+---------------------Page 8---------------------
+
+     
+
+                                                                                                   TeleNav (TNAV)   2-June-2010
+ 
+Historical Recommendations and Price  
+ 
+The following table details the history of all RC research recommendations on TNAV since its initial public offering.   
+ 
+                                                                   
+                                                                  
+Firm Certifications  
+ 
+RCs research team is responsible for the rating and recommendat ion expressed herein.  Each member of the research team 
+responsible for this report has certified  to RC that the views expressed herein accu rately reflect his or her personal views ab out 
+the subject securities and issuer.  Accordingly, RC certif  ies that the recommendation, rating and views expressed herein 
+represent the personal views of each member of the research team.  Further, no member of the research team was, is or will be 
+paid compensation directly related to the specific recommendation, rating or views expressed herein.   
+ 
+RC is a registered investment   adviser providing portfolio management services  to a diversified mutual fund, the IPO Plus 
+Aftermarket Fund (the Fund), which is r egistered as an investment company with the Securities and Exchange Commission.  
+The Fund may take positions that are contrary to recommendati  ons expressed in a public research report published by RC.  
+Also, the Fund may invest to a limited extent in the securities  of public companies that are the subject of a research report 
+published by RC.  As a diversified mutual fund, the Fund is limite d to investing no greater than 5% of Fund assets in the share s 
+of any one issuer.  As of the date of this report, the Fund does   not beneficially own 1% or more of  the securities of the issue r 
+subject to this report.   
+ 
+Members of the research team are compensat ed primarily from firm revenue on the basis of several factors, including quality of 
+research, client feedback, stock picking, comp etitive factors and overall revenues of RC  consisting of fees from research and 
+money management.  Members of the research team may also rece ive, as one aspect of overall compensation, benefits from a 
+compensation program based upon an increase in the net asset value of the Fund. Although members of RCs research team 
+(and their households) are prohibited from making direct inve    stments in the securities about   which they report, research 
+personnel are permitted to invest in the Fund.  While the Fund       is limited in the amount it can invest in a single stock, 
+compensation tied to the Fund or the performance of an investment  in the Fund, could indirectly influence a recommendation or 
+rating on such a stock expressed in the report.   
+ 
+In as much as neither RC nor any affiliate has investment banking functions, no research personnel are compensated directly 
+or indirectly from investment banking revenue. 
+
+                                                                                                     RENAISSANCE CAPITAL LLC 
+                                                                                               Two Greenwich Plaza, Greenwich, CT 06830 
+                                                                                                           www.renaissancecapital.com387 
+     
+---------------------Page 9---------------------
+
+  
+
+                                                                                                       TeleNav (TNAV)   2-June-2010
+     
+Other Important Disclosures 
+ 
+This report is for the general information of clients of RC.   Any unauthorized use or disclosure is prohibited.  No part of thi  s 
+report may be (i) copied, photocopied, or duplicated in any form     by any means or (ii) redistributed without RCs prior written 
+permission.  The information contained in this report was obtai ned from various sources believed to be reliable; however we do 
+not guarantee its accuracy or completeness.   All trademarks, service marks and logos   used in this report are trademarks or 
+service marks or registered trademarks of RC. 
+ 
+This report is not directed to, or intended   for distribution to or use by, any person or   entity who is a citizen or resident of   or 
+located in any locality, state, country or  other jurisdiction where dist ribution, publication, availability or use would be con trary to 
+law or regulation or which would subject RC or its affiliates to  any registration or licensing requirement within such jurisdic tion.  
+This report may discuss numerous securities, some of which ma y not be qualified for sale in certain states and may, therefore, 
+not be offered to investors in such states. 
+ 
+Neither the information contained in this report nor any opinion expressed herein constitutes an offer, or an invitation to make an 
+offer, to buy or sell any securities.  Opinions expressed herein   reflect the opinion of RC as of the date of this report and ar e 
+subject to change without notice.  RC has no obligation to update,  modify or amend this report or to otherwise notify a reader 
+thereof in the event that any matter stated  herein, or any opinion, projection, foreca st or estimate set forth herein, changes  or 
+subsequently becomes inaccurate, or if research on the subject company is withdrawn.  This report has been prepared as of the 
+date indicated and may become unreliable for various reasons including, but not limited to, changes in market or economic 
+circumstances. RC is not soliciting any action based on this material.  The recommendation and rating herein do not constitute a 
+personal recommendation or take into account the particular inve stment objectives, financial si tuations, or needs of individual  
+clients.  Before acting on any advice or recommendation in this  material, clients should consider whether it is suitable for th eir 
+particular circumstances and, if necessary, seek professional advic e. This report is being furnished for informational purposes  
+only and on the condition that it will not form a primary basis  for any investment decision. Inve stors should consider this rep ort 
+as only a single factor in making their investment decision. By  virtue of this report, neither RC nor any of its employees shal l be 
+responsible for any investment decision. Each investor must        make its own determination of the appropriateness of an 
+investment in any securities referred to herein based on t     he legal, tax, and accounting considerations applicable to such 
+investor and its own investment strategy. The price and value of the investments referred to in this material and the income from 
+them may go down as well as go up, and investors may realize losses on any investments.   
+ 
+Some of the companies mentioned in this  report may have a high level of volatility .  High volatility investments may experience 
+sudden and large falls in their value causing losses when that       investment is realized.  Prices and availability of financial 
+instruments are subject to change without notice. In addition, income from an investment may fluctuate and the price or value of 
+financial instruments described in this report, either directly or   indirectly, may rise or fall. Past performance is not a guid  e to 
+future performance.  Future returns are not guaranteed, and a lo     ss of original capital may oc cur.  RC does not provide tax 
+advice to its clients, and all investors are strongly advised to  consult with their tax advisers regarding any potential invest ment.  
+Certain transactions - including investments in initial public o fferings and other equities - give rise to substantial risk and  are not 
+suitable for all investors.  RC may have issued, and may in the  future issue, other reports that are inconsistent with, and rea ch 
+different conclusions from, the information presented in this repo  rt. Each report reflects the different assumptions, views and   
+analytical methods of the analysts who prepared, or will prepare,  them and RC is under no obligation to ensure that such other 
+reports are brought to the attention of any  recipient of this report.  RC accepts no liability for loss  arising from the use of  the 
+material presented in this report, except that this exclusion  of liability does not apply to the extent that liability arises under 
+specific statutes or regulations applicable to RC. 
+
+                                                                                                        RENAISSANCE CAPITAL LLC 
+                                                                                                 Two Greenwich Plaza, Greenwich, CT 06830 
+                                                                                                              www.renaissancecapital.com388 
+     
+---------------------Page 10---------------------
+
+     
+
+                                                                                       TeleNav (TNAV)   2-June-2010
+ 
+This research report contains both fundamental and technica l analysis.  Technical analysis is generally based on the 
+study of trading volumes and price movements in an attemp t to identify and project price trends.  Technical analysis, 
+taken alone, does not consider the fundamentals of the under lying corporate issuer and may indicate an investment 
+opinion that conflicts with the conclusions derived from an opinion based solely on fundamental analysis.   
+ 
+Neither RC, its affiliates (other than the Fund), officers,  directors, and employees, incl uding persons involved in the 
+preparation of this report, have long or short positions in   the companies mentioned herein.  RC is affiliated with a 
+broker-dealer that introduces soft dollar trades on behalf of it s institutional clients who purchase research from RC. 
+To the extent technologically feasible, a ll clients of RC receive this report at the same time.  RC does not have any 
+investment banking operations or individual brokerage accounts.   
+ 
+This report may provide the addresses of, or contain hyperlinks to, websites.  Except to the extent to which the report 
+refers to RCs own website material, RC has not reviewed th e linked site and takes no responsibility for the content 
+contained therein.  Such address or hyperlink (including add  resses or hyperlinks to RCs own website material) is 
+provided solely for your convenience and information and the  content of the linked site does not in any way form part 
+of this report.  Accessing such website or following such lin k through this report or RCs website shall be at your own 
+risk.   
+ 
+TO THE EXTENT PERMITTED BY LAW, RC SHALL NO           T BE LIABLE FOR ANY DAMAGES SUFFERED OR 
+INCURRED BY ANY PERSON OR ENTITY ARISING OUT OF ANY INACCURACIES, ERRORS OR OMISSIONS IN 
+ANY REPORT PROVIDED BY RC.           THERE ARE NO WARRANTIES,          CONDITIONS, GUARANTIES OR 
+REPRESENTATIONS AS TO MERCHANTABILITY, FITN  ESS FOR A PARTICULAR PURPOSE, OR OTHER 
+WARRANTIES, CONDITIONS, GUAR ANTIES OR REPRESENTATIONS, WHETHER EXPRESS OR IMPLIED, IN 
+LAW OR IN FACT, ORAL OR IN WR ITING.  WITHOUT LIMITING THE FOREGOING, THERE IS NO WARRANTY 
+OF ANY KIND, EXPRESS OR IMPLIED, REGARDING THE REPORTS. 
+ 
+RC WILL NOT BE LIABLE UNDER ANY CIRCUMSTANCES FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL 
+OR INDIRECT DAMAGES EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS INCLUDES, BUT 
+IS NOT LIMITED TO, CLAIMS FOR LOST PROFITS,  TRADING LOSSES AND DAMAGES THAT MAY RESULT 
+FROM THE USE, INCONVENIENCE, DE LAY OR LOSS OF USE OF ANY R EPORT PROVIDED BY RC OR FOR 
+OMISSIONS OR INACCURACIES IN ANY SUCH REPORT. AS A CONDITION TO ACCESSING OR RECEIVING 
+THE REPORT, YOU EXPRESSLY AG  REE TO WAIVE ANY CLAIM YOU MAY HAVE AGAINST RC, ANY 
+INFORMATION PROVIDER, RESEARCH PROVIDER, OR ANY OTHER PERSONS INVOLVED IN TRANSMITTING 
+ANY INFORMATION RC MAKES AVAILABLE TO YOU. 
+ 
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANY            AND ALL IMPLIED WARR ANTIES ARISING FROM 
+TRADE USAGE, COURSE OF DEALING, OR COURSE             OF PERFORMANCE, AND ANY AND ALL IMPLIED 
+WARRANTIES OF MERCHANTABILITY OR FITNESS              FOR A PARTICULAR USE OR PURPOSE, ARE 
+EXPRESSLY EXCLUDED AND DISCLAIMED, AND RC SHALL  HAVE NO LIABILITY FOR THE ACCURACY OF, 
+OR FOR DELAYS OR OMISSIONS IN, ANY OF THE INFORMATION PROVIDED BY RC. 
+ 
+Recipients of this report should seek the advice of their  independent financial advisor prior to making any investment 
+decision based on this report or for any necessary explanation of its contents.  
+ 
+©  Copyright 2010, Renaissance Capital LLC.   All rights reserved 
+    
+    
+    
+    
+    
+
+                                                                                    RENAISSANCE CAPITAL LLC 
+                                                                              Two Greenwich Plaza, Greenwich, CT 06830 
+        For important disclosures, please refer to the end of this report.                www.IPOIntelligence.com 
+                                                                                                            
+                                                                                                            389
+    

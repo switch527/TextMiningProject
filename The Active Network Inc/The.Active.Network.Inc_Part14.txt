@@ -1,0 +1,177 @@
+---------------------Page 1---------------------
+
+                                                                                                         December 29, 2011
+                                                                                        Morning Research Summary
+
+                                                          Rating      Price Target
+Company                Ticker Price     Mkt. Cap       To      From      To      From     ThinkAction
+                                        (M)
+
+Initiations
+The Active Network, Inc. ACTV  $13.01  $817.0           B              $18.00            ACTV: Initiating Coverage With A
+                                                                                          Buy Rating And $18 Price Target
+
+Industry Update
+Broadband Mobility                                                                        Broadband Mobility and
+and Communications                                                                      Communications Infrastructure:
+Infrastructure                                                                              Year Ahead 2012
+Infrastructure Software                                                                     Infrastructure Software: Year Ahead
+                                                                                          2012
+
+Initiations
+
+The Active Network, Inc.  (ACTV, $13.01, Buy)
+                                              ACTV: Initiating Coverage With A Buy Rating And $18 Price Target
+                       To         From
+Changes              (Current)   (Previous)
+                                              We initiate coverage of The Active Network with a Buy rating and $18 price target.
+Rating                    Buy
+                                              We believe The Active Network will continue to deliver strong growth because event
+Price Target            $18.00                organizations  increasingly  realize  they  need  a  SaaS-based  registrations  lifecycle
+FY11 REV (M)          $334.3E                 management platform to increase participation rates, automate online registrations,
+FY12 REV (M)          $388.5E                 and better manage business operations. Additionally, a deep competitive moat, strong
+                                              secular  trends  (offline-to-online  registrations/transactions/advertisement  trends),  a
+FY11 EPS              ($0.05)E
+                                              proven predictable & profitable operating model and with the shares declining ~23%
+FY12 EPS               $0.15E
+                                              over the past four months (versus the NASDAQ +6%), it now looks like a buying
+                                              opportunity for long-term investors, in our view.
+
+                                              Brian Schwartz Application Software 415-249-1982bschwartz@thinkequity.com
+
+Industry Update
+
+                                              Broadband  Mobility  and  Communications  Infrastructure:  Year  Ahead
+Broadband Mobility and                        2012
+Communications Infrastructure
+                                              While we have no call on the global macro outlook, we see Broadband Mobility as a
+                                              major theme in 2012 with several major disruptors and technology upgrades on the way.
+                                              Specifically, we believe 1) 4G/LTE will come to mass market smart phones and tablets
+                                              in 2H12 and drive new infrastructure shifts including carrier WiFi, small cells, and IP
+                                              adaptive traffic management, 2) we believe Windows8 on ARM will offer low-cost/high
+                                              performance/longer battery life as mobile technologies penetrate the PC market from
+                                              the bottom-up, 3) Apple will disrupt the TV industry with its iTV, and 4) lower cost access
+                                              solutions will bring broadband to the "have nots" in developed and developing regions.
+
+                                              Mark McKechnie Broadband Mobility and Communications Infrastructure 415-249-1988
+                                              mmckechnie@thinkequity.com
+
+All relevant disclosures and certifications appear on pages 3 - 4 of this report                                 Page 1
+                                                                                                                             100
+---------------------Page 2---------------------
+
+                                                                                                          December 29, 2011
+                                                                                         Morning Research Summary
+
+                                               Infrastructure Software: Year Ahead 2012
+Infrastructure Software
+                                               We expect the security group to have an especially strong year on fundamentals
+                                               in 2012, with solid demand (e.g. revenue growth of 12%, 2-3x the rate of global IT
+                                               spending growth) and product news in firewall, intrusion prevention, encryption, and
+                                               data protection. Key underlying trends in IT which are driving demand for security
+                                               should continue to be virtualization in the data center, cloud adoption, managed service
+                                               adoption, and the nightly news. We regard newsflow, apart from product introductions
+                                               and potential IPOs, as a regular catalyst for the security group. While unfortunate,
+                                               network-driven attacks on institutions and brands, denial of service extortion, data theft
+                                               and cyber-warfare are part of the new normal of online communication, commerce and
+                                               social dependency.
+
+                                               Daniel Cummins Infrastructure Software 212-468-7010dcummins@thinkequity.com
+
+                                                                                                                        Page 2
+                                                                                                                               101
+---------------------Page 3---------------------
+
+                                                                                                                December 29, 2011
+                                                                                              Morning Research Summary
+
+                                                 Important Disclosures
+
+Analyst Certification
+I, Brian Schwartz, hereby certify that all of the views expressed in this research report accurately reflect my personal views about the
+subject securities and issuers. I also certify that no part of my compensation was, is, or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+I, Daniel Cummins, hereby certify that all of the views expressed in this research report accurately reflect my personal views about the
+subject securities and issuers. I also certify that no part of my compensation was, is, or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+I, Mark McKechnie, hereby certify that all of the views expressed in this research report accurately reflect my personal views about the
+subject securities and issuers. I also certify that no part of my compensation was, is, or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+
+The analyst(s) responsible for preparing this report has/have received compensation based on various factors, including the firm's total
+revenues, a portion of which is generated by investment banking activities. The analyst(s) also receive compensation in the form of a
+percentage of commissions from trades made through the firm in the securities of the subject company of this report, although not for any
+investment banking transactions with or involving the subject company.
+
+ThinkEquity LLC and/or an affiliate managed or co-managed a public offering of securities for The Active Network, Inc., InvenSense, Inc.
+and Ubiquiti Networks, Inc. in the past 12 months.
+The analyst(s) principally responsible for the preparation of this report, Mark McKechnie, and/or a member of his/her household currently
+has a financial interest in ARM Holdings, plc in the form of a long position in the common stock.
+ThinkEquity LLC makes a market in The Active Network, Inc., Apple Inc., EMC Corporation, Fortinet, Inc., Harmonic Inc., InvenSense, Inc.,
+Motorola Mobility Holdings, Inc., Microsoft Corporation, Mindspeed Technologies, Inc., Nokia Corporation, QUALCOMM Inc., Research
+In Motion Limited, Ubiquiti Networks, Inc. and VeriSign, Inc. securities; and/or associated persons may sell to or buy from customers on
+a principal basis.
+
+ThinkEquity LLC has made affirmative disclosures concerning each of the covered securities mentioned in this report, including analyst
+holdings (if any), rating definitions and overall ratings distributions. These disclosures can be found in the most recent complete research
+report for each of the respective companies. Reports are available upon request.
+
+                                                                                                                              Page 3
+                                                                                                                                     102
+---------------------Page 4---------------------
+
+                                                                                                              December 29, 2011
+                                                                                            Morning Research Summary
+
+Rating Definitions
+
+Effective October 7, 2009, ThinkEquity LLC moved from a four-tier Buy/Accumulate/Source of Funds/Sell rating system to a three-tier
+Buy/Hold/Sell system. The new ratings appear in our Distribution of Ratings, Firmwide chart. To request historical information, including
+previously published reports or statistical information, please call: 866-288-8206, or write to: Director of Research, ThinkEquity LLC, 600
+Montgomery Street, San Francisco, California, 94111.
+
+Buy: ThinkEquity expects the stock to generate positive risk-adjusted returns of more than 10% over the next 12 months. ThinkEquity
+recommends initiating or increasing exposure to the stock.
+
+Hold: ThinkEquity expects the stock to generate risk-adjusted returns of +/-10% over the next 12 months. ThinkEquity believes the stock
+is fairly valued.
+
+Sell: ThinkEquity expects the stock to generate negative risk-adjusted returns of more than 10% during the next 12 months. ThinkEquity
+recommends decreasing exposure to the stock.
+
+                                              Distribution of Ratings, Firmwide
+
+                                                       ThinkEquity LLC
+
+                                                                                                         IB Serv./Past 12 Mos.
+Rating                                                         Count               Percent               Count         Percent
+BUY [B]                                                           109                64.90                  14           12.84
+HOLD [H]                                                           47                28.00                    2           4.26
+SELL [S]                                                           12                 7.10                    0           0.00
+                                                                  
+
+This report does not purport to be a complete statement of all material facts related to any company, industry, or security mentioned.
+The information provided, while not guaranteed as to accuracy or completeness, has been obtained from sources believed to be reliable.
+The opinions expressed reflect our judgment at this time and are subject to change without notice and may or may not be updated. Past
+performance should not be taken as an indication or guarantee of future performance, and no representation or warranty, express or
+implied, is made regarding future performance. This notice shall not constitute an offer to sell or the solicitation of an offer to buy, nor
+shall there be any sale of these securities in any state in which said offer, solicitation, or sale would be unlawful prior to registration or
+qualification under the securities laws of any such state. This research report was originally prepared and distributed to institutional clients
+of ThinkEquity LLC.
+
+Recipients who are not market professionals or institutional clients of ThinkEquity LLC should seek the advice of their personal financial
+advisors before making any investment decisions based on this report. Stocks mentioned in this report are not covered by ThinkEquity
+LLC unless otherwise mentioned.
+
+Additional information on the securities mentioned is available on request. In the event that this is a compendium report (covers more than
+six ThinkEquity LLC-covered subject companies), ThinkEquity LLC may choose to provide specific disclosures for the subject companies
+by reference. To request more information regarding these disclosures, please call: 866-288-8206, or write to: Director of Research,
+ThinkEquity LLC, 600 Montgomery Street, San Francisco, California, 94111. Stocks mentioned in this report are not covered by ThinkEquity
+LLC unless otherwise mentioned.
+
+Member of FINRA and SIPC.
+
+Copyright 2011 ThinkEquity LLC, A Panmure Gordon Company
+
+                                                                                                                            Page 4
+                                                                                                                                   103

@@ -1,0 +1,338 @@
+---------------------Page 1---------------------
+
+                                                                                                    
+         
+ab                                                                                                Global Equity Research 
+                                                                                                   Americas 
+        UBS Investment Research                             
+                                                                                                   Equity Strategy 
+        Alpha Preferences - US 
+                                                                                                   Market Comment  
+         
+
+        Changes to US Alpha Preferences   
+                                                                                                                          5 December 2011
+          Adding ACTV to Most Preferred (Analyst: Brian Pitz)                                       
+                                                                                                                  www.ubs.com/investmentresearch
+        Adding Active Network (ACTV) to the Most Preferred list.  With its sizeable
+        recurring revenue stream and modest annual revenue churn, we have a positive
+        view on near term earnings.  ACTV is  the leader in a large and highly fragmented           
+        market with low levels of penetration, and while it has built strong competitive                                  Michael Ching
+        moats based on scale, technology, and deep domain expertise, we expect the                                    COO US Equities Research
+        company to make some acquisitions to further build out its platform.                                             michael.ching@ubs.com
+                                                                                                                               +1 212 713 2037
+           
+         
+        Table 1: US Alpha Preferences Most / Least Preferred 
+                                                                                                                  Price          Market          
+         Action   PreferenceStock                                                     TickerAnalystRating       Local cc          Cap
+         Add           Most     The Active Network, Inc.         ACTV      Brian Pitz                                               Buy                        12.50                                677.50                 
+        Source: UBS; as of 2 December 2011  
+
+         
+
+         
+
+         
+
+        This report has been prepared by UBS Securities LLC
+        ANALYST CERTIFICATION AND REQUIRED DISCLOSURES BEGIN ON PAGE 2.      
+        UBS does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that t he firm may 
+        have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a s ingle factor in making 
+        their investment decision. 
+                                                                                                                                              151
+---------------------Page 2---------------------
+
+ 
+Alpha Preferences - US   5 December 2011 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+   Statement of Risk 
+
+Forecast earnings and corporate financial behaviour is difficult because it is 
+affected by a wide variety of economic, financial, accounting, and regulatory 
+trends, as well as changes in tax policy 
+
+ 
+
+   Analyst Certification 
+
+Each research analyst primarily responsible for the content of this research 
+report, in whole or in part, certifies that with respect to each security or issuer 
+that the analyst covered in this report: (1) all of the views expressed accurately 
+reflect his or her personal views about those securities or issuers and were 
+prepared in an independent manner, including with respect to UBS, and (2) no 
+part of his or her compensation was, is, or will be, directly or indirectly, related 
+to the specific recommendations or views expressed by that research analyst in 
+the research report. 
+
+ 
+
+ 
+
+                                                                                                                        UBS 2 
+ 
+                                                                                                                                    152
+---------------------Page 3---------------------
+
+ 
+Alpha Preferences - US   5 December 2011 
+ 
+Required Disclosures 
+ 
+This report has been prepared by UBS Securities LLC, an affiliate of UBS AG. UBS AG, its subsidiaries, branches and 
+affiliates are referred to herein as UBS. 
+
+For information on the ways in which UBS manages conflicts                        and maintains independence of its research product; 
+historical performance information; and certain additional disclosures concerning UBS research recommendations, 
+please visit www.ubs.com/disclosures. The figures contained in performance charts refer to the past; past performance is 
+not a reliable indicator of future results. Additional information will be made available upon request. UBS Securities Co. 
+Limited is licensed to conduct securities investment co                   nsultancy businesses by the China Securities Regulatory 
+Commission. 
+
+UBS Investment Research: Global Equity Rating Allocations 
+                                                                                                                1                                    2
+ UBS 12-Month Rating                   Rating Category                                                                           CoverageIB Services
+ Buy                                 Buy 59%                                                            35%
+ Neutral                            Hold/Neutral 35%                                                            33%
+ Sell                                 Sell 6%                                                             14%
+                                                                                                                3                                    4
+ UBS Short-Term Rating              Rating Category                                                                           Coverage IB Services
+ Buy                                 Buy less than 1%                                                               0%
+ Sell                                 Sell less than 1%                                                             20%
+1:Percentage of companies under coverage globally within the 12-month rating category. 
+2:Percentage of companies within the 12-month rating category for which investment banking (IB) services were provided within 
+the past 12 months. 
+3:Percentage of companies under coverage globally within the Short-Term rating category. 
+4:Percentage of companies within the Short-Term rating category for which investment banking (IB) services were provided 
+within the past 12 months. 
+ 
+Source: UBS. Rating allocations are as of 30 September 2011. 
+ 
+UBS Investment Research: Global Equity Rating Definitions 
+
+ UBS 12-Month Rating                   Definition 
+ Buy                                                             FSR is > 6% above the MRA. 
+ Neutral                                                     FSR is between -6% and 6% of the MRA. 
+ Sell                                                             FSR is > 6% below the MRA. 
+ UBS Short-Term Rating              Definition 
+                                       Buy: Stock price expected to rise within three months from the time the rating was assigned 
+ Buy 
+                                       because of a specific catalyst or event. 
+                                       Sell: Stock price expected to fall within three months from the time the rating was assigned 
+ Sell 
+                                       because of a specific catalyst or event. 
+
+                                                                                                                                                 UBS 3 
+ 
+                                                                                                                                                              153
+---------------------Page 4---------------------
+
+ 
+Alpha Preferences - US   5 December 2011 
+
+KEY DEFINITIONS 
+ Forecast Stock Return (FSR) is defined as expected percentage price appreciation plus gross dividend yield over the next 12 
+months. 
+ Market Return Assumption (MRA) is defined as the one-year local market interest rate plus 5% (a proxy for, and not a 
+forecast of, the equity risk premium). 
+ Under Review (UR) Stocks may be flagged as UR by the analyst, indicating that the stock's price target and/or rating are 
+subject to possible change in the near term, usually in response to an event that may affect the investment case or valuation. 
+ Short-Term Ratings  reflect the expected near-term (up to three months) performance of the stock and do not reflect any 
+change in the fundamental view or investment case. 
+Equity Price Targets have an investment horizon of 12 months. 
+ 
+EXCEPTIONS AND SPECIAL CASES 
+UK and European Investment Fund ratings and definitions are: Buy: Positive on factors such as structure, management, 
+performance record, discount; Neutral: Neutral on factors such as structure, management, performance record, discount; Sell: 
+Negative on factors such as structure, management, performance record, discount. 
+Core Banding Exceptions (CBE): Exceptions to the standard +/-6% bands may be granted by the Investment Review 
+Committee (IRC). Factors considered by the IRC include the stock's volatility and the credit spread of the respective company's  
+debt. As a result, stocks deemed to be very high or low risk may be subject to higher or lower bands as they relate to the rating. 
+When such exceptions apply, they will be identified in the Company Disclosures table in the relevant research piece. 
+ 
+  
+Research analysts contributing to this report who are employed by any non-US affiliate of UBS Securities LLC are not 
+registered/qualified as research analysts with the NASD and NYSE and therefore are not subject to the restrictions contained in 
+the NASD and NYSE rules on communications with a subject company, public appearances, and trading securities held by a 
+research analyst account. The name of each affiliate and analyst employed by that affiliate contributing to this report, if any , 
+follows. 
+ 
+  
+  
+Company Disclosures 
+
+ Company Name                                                            Reuters        12-mo rating   Short-term rating                         Price              Price date 
+                            16
+ The Active Network, Inc.                  ACTV.N                             Buy                                    N/A               US$12.50         02 Dec 2011 
+Source: UBS. All prices as of local market close. 
+Ratings in this table are the most current published ratings prior to this report. They may be more recent than the stock pricing 
+date 
+  
+16.        UBS Securities LLC makes a market in the securities and/or ADRs of this company. 
+        
+Unless otherwise indicated, please refer to the Valuation and Risk sections within the body of this report. 
+ 
+
+                                                                                                                             UBS 4 
+ 
+                                                                                                                                         154
+---------------------Page 5---------------------
+
+ 
+Alpha Preferences - US   5 December 2011 
+
+The Active Network, Inc. (US$) 
+                                                            Price Target (US$)      Stock Price (US$)
+              20.0
+
+              15.0
+
+              10.0
+
+               5.0
+
+               0.0
+
+         No Rating
+
+Source: UBS; as of 02 Dec 2011 
+ 
+        
+
+                                                                                                                                                          UBS 5 
+ 
+
+                                                                                                                                                                         155
+
+                                                                                                                                                                         01-Oct-06
+
+                                                                                                                                                                         01-Jan-07
+
+                                                                                                                                                                         01-Apr-07
+
+                                                                                                                                                                          01-Jul-07
+
+                                                                                                                                                                         01-Oct-07
+
+                                                                                                                                                                         01-Jan-08
+
+                                                                                                                                                                         01-Apr-08
+
+                                                                                                                                                                          01-Jul-08
+
+                                                                                                                                                                         01-Oct-08
+
+                                                                                                                                                                         01-Jan-09
+
+                                                                                                                                                                         01-Apr-09
+
+                                                                                                                                                                          01-Jul-09
+
+                                                                                                                                                                         01-Oct-09
+
+                                                                                                                                                                         01-Jan-10
+
+                                                                                                                                                                         01-Apr-10
+
+                                                                                                                                                                          01-Jul-10
+
+                                                                                                                                                                         01-Oct-10
+
+                                                                                                                                                                         01-Jan-11
+
+                                                                                                                                                                         01-Apr-11
+
+                                                                                                                                                                          01-Jul-11
+
+                                                                                                                                                                         01-Oct-11
+---------------------Page 6---------------------
+
+ 
+Alpha Preferences - US   5 December 2011 
+
+Global Disclaimer 
+
+ 
+
+This report has been prepared by UBS Securities LLC, an affiliat e of UBS AG. UBS AG, its subsidiaries, branches and affiliates  are referred to herein as UBS. In certain countries, UBS AG is 
+referred to as UBS SA. 
+ 
+This report is for distribution only under such circumstances as may be permitted by applicable law. Nothing in this report con     stitutes a representation that any investment strategy or 
+recommendation contained herein is suitable or appropriate to a recipients individual circumstances or otherwise constitutes a  personal recommendation. It is published solely for information 
+purposes, it does not constitute an advertisement and is not to be construed as a solicitation or an offer to buy or sell any securities or related financial instruments in any jurisdiction. No 
+representation or warranty, either express or implied, is provided in relation to the accuracy, completeness or reliability of  the information contained herein, except with respect to information 
+concerning UBS AG, its subsidiaries and affiliates, nor is it intended to be a complete statement or summary of the securities,  markets or developments referred to in the report. UBS does not 
+undertake that investors will obtain profits, nor will it share with investors any investment profits nor accept any liability for any investment losses. Investments involve risks and investors should 
+exercise prudence in making their investment decisions. The report should not be regarded by recipients as a substitute for the    exercise of their own judgement. Past performance is not 
+necessarily a guide to future performance. The value of any investment or income may go down as well as up and you may not get back the full amount invested. Any opinions expressed in this 
+report are subject to change without notice and may differ or be contrary to opinions expressed by other business areas or groups of UBS as a result of using different assumptions and criteria. 
+Research will initiate, update and cease coverage solely at the discretion of UBS Investment Bank Research Management. The anal ysis contained herein is based on numerous assumptions. 
+Different assumptions could result in materially different results. The analyst(s) responsible for the preparation of this report may interact with trading desk personnel, sales personnel and other 
+constituencies for the purpose of gathering, synthesizing and interpreting market information. UBS is under no obligation to update or keep current the information contained herein. UBS relies 
+on information barriers to control the flow of information contained in one or more areas within UBS, into other areas, units,   groups or affiliates of UBS. The compensation of the analyst who 
+prepared this report is determined exclusively by research management and senior management (not including investment banking). Analyst compensation is not based on investment banking 
+revenues, however, compensation may relate to the revenues of UBS Investment Bank as a whole, of which investment banking, sales and trading are a part. 
+The securities described herein may not be eligible for sale in all jurisdictions or to certain categories of investors. Options, derivative products and futures are not suitable for all investors, and 
+trading in these instruments is considered risky. Mortgage and asset-backed securities may involve a high degree of risk and ma y be highly volatile in response to fluctuations in interest rates 
+and other market conditions. Past performance is not necessarily indicative of future results. Foreign currency rates of exchange may adversely affect the value, price or income of any security 
+or related instrument mentioned in this report. For investment advice, trade execution or other enquiries, clients should contact their local sales representative. Neither UBS nor any of its 
+affiliates, nor any of UBS' or any of its affiliates, directors, employees or agents accepts any liability for any loss or dama  ge arising out of the use of all or any part of this report. For financial 
+instruments admitted to trading on an EU regulated market: UBS AG, its affiliates or subsidiaries (excluding UBS Securities LLC   and/or UBS Capital Markets LP) acts as a market maker or 
+liquidity provider (in accordance with the interpretation of these terms in the UK) in the financial instruments of the issuer save that where the activity of liquidity provider is carried out in 
+accordance with the definition given to it by the laws and regulations of any other EU jurisdictions, such information is separ  ately disclosed in this research report. UBS and its affiliates and 
+employees may have long or short positions, trade as principal and buy and sell in instruments or derivatives identified herein. 
+Any prices stated in this report are for information purposes only and do not represent valuations for individual securities or  other instruments. There is no representation that any transaction 
+can or could have been effected at those prices and any prices do not necessarily reflect UBS's internal books and records or theoretical model-based valuations and may be based on certain 
+assumptions. Different assumptions, by UBS or any other source, may yield substantially different results. 
+United Kingdom and the rest of Europe:    Except as otherwise specified herein, this material is communicated by UBS Limited, a subsidiary of UBS AG, to persons who are               eligible 
+counterparties or professional clients and is only available to such persons. The information contained herein does not apply t o, and should not be relied upon by, retail clients. UBS Limited is 
+authorised and regulated by the Financial Services Authority (FSA). UBS research complies with all the FSA requirements and law      s concerning disclosures and these are indicated on the 
+research where applicable.  France: Prepared by UBS Limited and distributed by UBS Limited and UBS Securities France SA. UBS Securities France S.A. is regulated b          y the Autorité des 
+Marchés Financiers (AMF). Where an analyst of UBS Securities France S.A. has contributed to this report, the report is also dee  med to have been prepared by UBS Securities France S.A. 
+Germany: Prepared by UBS Limited and distributed by UBS Limited and UBS Deutschland AG. UBS Deutschland AG is regulated by the Bundesan                 stalt fur Finanzdienstleistungsaufsicht 
+(BaFin).  Spain: Prepared by UBS Limited and distributed by UBS Limited and UBS Securities España SV, SA. UBS Securities España SV, SA is regul            ated by the Comisión Nacional del 
+Mercado de Valores (CNMV).  Turkey: Prepared by UBS Menkul Degerler AS on behalf of and distributed by UBS Limited.         Russia: Prepared and distributed by UBS Securities CJSC. 
+Switzerland: Distributed by UBS AG to persons who are institutional investors only.  Italy: Prepared by UBS Limited and distributed by UBS Limited and UBS Italia Sim S.p.A.. UBS Italia Sim 
+S.p.A. is regulated by the Bank of Italy and by the Commissione Nazionale per le Società e la Borsa (CONSOB). Where an analyst  of UBS Italia Sim S.p.A. has contributed to this report, the 
+report is also deemed to have been prepared by UBS Italia Sim S.p.A..  South Africa: UBS South Africa (Pty) Limited (Registration No. 1995/011140/07) is a member of the JSE Limited, the 
+South African Futures Exchange and the Bond Exchange of South Africa. UBS South Africa (Pty) Limited is an authorised Financial Services Provider. Details of its postal and physical address 
+and a list of its directors are available on request or may be accessed at http:www.ubs.co.za.    United States: Distributed to US persons by either UBS Securities LLC or by UBS Financial 
+Services Inc., subsidiaries of UBS AG; or by a group, subsidiary or affiliate of UBS AG that is not registered as a US broker-dealer (a 'non-US affiliate'), to major US institutional investors only. 
+UBS Securities LLC or UBS Financial Services Inc. accepts responsibility for the content of a report prepared by another non-US affiliate when distributed to US persons by UBS Securities LLC 
+or UBS Financial Services Inc. All transactions by a US person in the securities mentioned in this report must be effected thro ugh UBS Securities LLC or UBS Financial Services Inc., and not 
+through a non-US affiliate. Canada: Distributed by UBS Securities Canada Inc., a subsidiary of UBS AG and a member of the principal Canadian stock exchanges & CIP  F. A statement of its 
+financial condition and a list of its directors and senior officers will be provided upon request. Hong Kong: Distributed by UBS Securities Asia Limited. Singapore: Distributed by UBS Securities 
+Pte. Ltd [mica (p) 039/11/2009 and Co. Reg. No.: 198500648C] or UBS AG, Singapore Branch. Please contact UBS Securities Pte Ltd           , an exempt financial advisor under the Singapore 
+Financial Advisers Act (Cap. 110); or UBS AG Singapore branch, an exempt financial adviser under the Singapore Financial Advise rs Act (Cap. 110) and a wholesale bank licensed under the 
+Singapore Banking Act (Cap. 19) regulated by the Monetary Authority of Singapore, in respect of any matters arising from, or in   connection with, the analysis or report.  The recipient of this 
+report represent and warrant that they are accredited and institutional investors as defined in the Securities and Futures Act (Cap. 289). Japan: Distributed by UBS Securities Japan Ltd to 
+institutional investors only. Where this report has been prepared by UBS Securities Japan Ltd, UBS Securities Japan Ltd is the      author, publisher and distributor of the report.  Australia: 
+Distributed by UBS AG (Holder of Australian Financial Services License No. 231087) and UBS Securities Australia Ltd (Holder of   Australian Financial Services License No. 231098) only to 
+'Wholesale' clients as defined by s761G of the Corporations Act 2001.  New Zealand: Distributed by UBS New Zealand Ltd. An investment adviser and investment broker disclosure statement 
+is available on request and free of charge by writing to PO Box 45, Auckland, NZ. Dubai: The research prepared and distributed by UBS AG Dubai Branch, is intended for Professional Clients 
+only and is not for further distribution within the United Arab Emirates.  Korea: Distributed in Korea by UBS Securities Pte. Ltd., Seoul Branch. This report may have been edited or contributed 
+to from time to time by affiliates of UBS Securities Pte. Ltd., Seoul Branch.  Malaysia: This material is authorized to be distributed in Malaysia by UBS Securities Malaysia Sdn. Bhd (253825-
+x).India :  Prepared by UBS Securities India Private Ltd. 2/F,2 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai (I       ndia) 400051. Phone: +912261556000 SEBI 
+Registration Numbers: NSE (Capital Market Segment): INB230951431 , NSE (F&O Segment) INF230951431, BSE (Capital Market Segment) INB010951437. 
+The disclosures contained in research reports produced by UBS Limited shall be governed by and construed in accordance with English law. 
+ 
+UBS specifically prohibits the redistribution of this material in whole or in part without the written permission of UBS and UBS accepts no liability whatsoever for the actions of third parties in this 
+respect. Images may depict objects or elements which are protected by third party copyright, trademarks and other intellectual   property rights. © UBS 2011. The key symbol and UBS are 
+among the registered and unregistered trademarks of UBS. All rights reserved. 
+ 
+
+a     b             
+
+                                                                                                                                                                                       UBS 6 
+
+ 
+
+                                                                                                                                                                                                        156

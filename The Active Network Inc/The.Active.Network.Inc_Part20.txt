@@ -1,0 +1,1002 @@
+---------------------Page 1---------------------
+
+                                                                                                     August 22, 2011
+
+                                                                                                  Industry Report
+
+Think Piece: Equity Strategy                                                    Reason for Report:
+
+Think Conviction: Confidence in the Fundamentals                                Equity Strategy
+                                                                                Atul Bagga
+Should Drive Outperformance
+                                                                                415-249-6362, abagga@thinkequity.com
+
+THINK SUMMARY:                                                                  Robert Coolbrith
+With this report, we identify those stocks under our current research coverage  415-249-6363, rcoolbrith@thinkequity.com
+in    which    our    analysts    have    the    highest    degree    of    conviction    in    theDaniel Cummins
+fundamentals   of   the   company.   Given   our   belief   that   stock   prices   reflect212-468-7010, dcummins@thinkequity.com
+fundamentals over the intermediate and longer term, we believe these stocks     Sujeeva (Suji) De Silva, CFA
+will outperform the broader market over the next 6-12 months.
+                                                                                415-249-1987, sdesilva@thinkequity.com
+
+KEY POINTS:                                                                     Rajesh Ghai, CFA
+  We   are   adding LSI   (LSI) and Skyworks   Solutions   (SWKS) to   the     415-249-6365, rghai@thinkequity.com
+ ThinkEquity Conviction List and believe these companies are well positioned    Sameer Harish
+ for future growth and outperformance. While we still rate the shares Buy, we   415-249-1989, sharish@thinkequity.com
+ are        removing   Entropic        Communications        (ENTR),        FairchildAaron Kessler, CFA
+ Semiconductor (FCS), NetApp (NTAP) and Ultra Clean Holdings (UCTT)
+                                                                                415-249-6366, akessler@thinkequity.com
+ from the list.
+                                                                                Marko Kozul, M.D.
+                                                                                415-249-6364, mkozul@thinkequity.com
+The  rest  of  the  list  remains  unchanged  as  follows  (see  below  for  individual
+                                                                                Mark McKechnie
+Investment Thesis by company):
+                                                                                415-249-1988,
+                                                                                mmckechnie@thinkequity.com
+  In   the   Technology/Communications   sector,   we   have   confidence   in   theColin Rusch
+ fundamentals of ANSYS (ANSS), Fortinet (FTNT), Mellanox Technologies
+                                                                                212-468-7015, crusch@thinkequity.com
+ (MLNX),      OPNET      Technologies      (OPNT),      Oracle      Corp.      (ORCL),
+                                                                                Brian Schwartz
+ QUALCOMM    (QCOM),    RightNow    Technologies    (RNOW),    Spansion
+                                                                                415-249-1982, bschwartz@thinkequity.com
+ (CODE), and VMware (VMW) and expect outperformance for the shares of
+ these companies.                                                               Shawn Severson
+                                                                                415-249-1986, sseverson@thinkequity.com
+
+  In  the  Internet/Media  vertical,  we  expect  continued  solid  growth  for ActiveKrishna Shankar
+ Network  (ACTV),  Baidu  (BIDU),  eBay  (EBAY) and Velti  (VELT). In  the      415-249-6367, kshankar@thinkequity.com
+ Games space, we like the prospects for Electronic Arts (ERTS).                 Ed Weller
+                                                                                415-249-1377, eweller@thinkequity.com
+  In     the     Healthcare/Medical     Devices     industry,     we     believe  Alnylam
+ Pharmaceuticals (ALNY), and NuVasive (NUVA) are attractive investment
+ ideas.
+
+  In the Cleantech area, we have confidence in the fundamentals of Ceradyne
+ (CRDN), Johnson Controls (JCI) and Rogers Corp. (ROG).
+
+  In  the  Consumer  vertical,  we  continue  to  view Costco  (COST) as  a  key
+ investment idea.
+
+Please see analyst certification (Reg. AC) and other important disclosures on pages 15-16 of this report.
+                                                                                                                       168
+---------------------Page 2---------------------
+
+                                                                                                                                                                                                               August 22, 2011   
+
+                                                                                                                                                                                                          Industry Report                              
+
+                                                                                                         
+ 
+ 
+ThinkEquity LLC 
+
+Conviction List  
+ 
+                                                                                 Price           Price              %               FY EPS                         CY P/E                                                     P/E/GSecular                                                          Mkt Cap
+Company                                          Symbol          Rating         22-Aug         Target         Upside           2011E          2012E        2011E        2012E         Growth              2011E         2012E          ($MM)
+
+Technology / Communications 
+Ansys Inc.                                                ANSS                Buy            $45.98              $62           35%          $2.50          $2.75            18x           17x              13%                  1.4x           1.3x             $4,241
+Fortinet Inc.                                            FTNT                 Buy            $17.54              $29           65%          $0.39          $0.48            45x           37x              15%3.0x           2.4x             $2,685
+LSI Corp.                                                  LSI                      Buy               $6.29                 $9           43%          $0.48          $0.58            13x           11x              14%                  0.9x           0.8x             $3,603
+Mellanox Technologies Ltd.          MLNX                Buy            $26.48              $35           32%          $1.07          $1.60            25x           17x              20%                  1.2x           0.8x                 $939
+OPNET Technologies Inc.             OPNT                Buy            $29.55              $43           46%          $0.66          $1.00            31x           24x              15%                  2.1x           1.6x                 $663
+Oracle Corp.                                          ORCL                Buy            $24.78              $40           61%          $2.22          $2.45            11x           10x              15%                  0.7x           0.6x       $125,523
+QUALCOMM Inc.                                QCOM              Buy            $46.52              $75           61%          $3.20          $3.50            14x           13x              18%               0.8x           0.7x          $78,014
+RightNow Technologies Inc.        RNOW              Buy            $27.52              $38           38%          $0.58          $0.83            47x           33x              25%                  1.9x           1.3x                 $915
+Skyworks Solutions Inc.                  SWKS              Buy            $18.78              $30           60%          $1.88          $2.04            10x              9x              17%                  0.6x           0.5x             $3,498
+Spansion Inc. Cl A                              CODE               Buy            $14.16              $25           77%          $2.55          $2.90               6x              5x     12%                  0.5x           0.4x                 $875
+VMware Inc.                                           VMW                 Buy            $76.76            $110           43%          $2.03          $2.22            38x           35x              30%                  1.3x           1.2x             $9,387
+
+Internet / Media
+Active Network Inc.                            ACTV                Buy            $16.23              $23           42%        ($0.07)        $0.17            n/m           n/m              35%                   n/m            n/m                 $880
+Baidu Inc. ADS                                     BIDU                  Buy         $126.98            $200           58%          $2.91          $4.32            44x           29x      35%                  1.2x           0.8x          $34,399
+eBay Inc.                                                  EBAY                Buy            $27.16              $41           51%          $2.00          $2.34            14x           12x              10%                  1.4x1.2x          $35,003
+Electronic Arts Inc.                             ERTS                Buy            $19.31              $28           45%          $0.70          $0.87            23x           17x              20%                  1.2x           0.9x             $6,371
+Velti PLC                                                  VELT                 Buy            $10.64              $22        107%          $0.37          $0.74            29x           14x              35%                  0.8x           0.4x                 $655
+
+Healthcare / Life Sciences
+Alnylam Pharmaceuticals Inc.     ALNY                Buy               $6.62              $18        172%        ($1.61)      ($2.25)          n/m           n/m                n/m                   n/m            n/m                 $282
+NuVasive Inc.                                        NUVA                Buy            $21.08              $39           85%          $1.11          $1.28            19x           16x              10%     1.9x           1.6x                 $841
+
+Cleantechnology
+Ceradyne Inc.                                        CRDN               Buy            $27.17              $45           66%          $3.18          $3.43               9x              8x              25%                  0.3x           0.3x             $4,306
+Johnson Controls Inc.                      JCI                      Buy            $28.83              $50           73%          $2.33          $3.31            11x              8x              20%                  0.5x           0.4x             $4,570
+Rogers Corp.                                         ROG                  Buy            $43.15              $64           48%          $2.85          $3.50            15x           12x              15%                  1.0x           0.8x             $6,839
+
+Consumer
+Costco Wholesale Corp.                COST                Buy            $74.36              $90           21%          $3.36          $4.05                   21x           19x              12%                  1.8x           1.5x          $32,556
+
+AVERAGE                                                                                                                                                        22x           17x              20%                  1.2x           1.0x          $16,229
+MEDIAN                                                                                                                                                         19x           15x              17%                  1.2x           0.8x             $3,922
+
+Source: ThinkEquity LLC estimates, FactSet.                                                                                                                                                                                                           
+ 
+ 
+ 
+
+                                                                                                                                                                                                                                                        
+
+ 
+
+                                                                                                                                                                                                                                    Page 2
+                                                                                                                                                                                                                                                 169
+---------------------Page 3---------------------
+
+                                                                                                    August 22, 2011  
+                                                                                                 Industry Report       
+
+                                                   
+ 
+TECHNOLOGY / COMMUNICATIONS 
+ 
+ANSYS, Inc. (NASDAQ: ANSS, $45.98, Buy, Price Target: $62)   
+Daniel Cummins | (212) 468-7010 | dcummins@thinkequity.com 
+ 
+Investment Thesis 
+We like what we view as ANSYS global franchise in advanced simulation applications, and expect the companys cyclical 
+demand fundamentals to continue strengthening over the course of 2011 and 2012. Additionally, we like the alignment 
+between global wireless technology demand, and integration of electro-magnetic simulation with fluid and mechanical 
+multiphysics in the flagship ANSYS product platform. We believe the companys acquisition of Apache Design Solutions, a 
+successful startup with a strategic focus on semiconductor power integrity and low power requirements, will further solidify 
+the companys position as the scale leader in simulation software technology.   
+ 
+Valuation  
+Our $62 price target is based on a 22.5x P/E on our revised CY2012 EPS estimate of $2.75. ANSS shares trade at a 20x 
+P/E based on our revised CY2011 pro forma EPS estimate of $2.50. Shares of the design peer group median current-year 
+P/E multiple is currently 19x. We believe that ANSS shares deserve a premium valuation compared to the peer group, 
+based on what we view as the company's global franchise, unique competitive strengths, and first-ever scale attributes in 
+fluid, and electromagnetic simulation software applications. 
+ 
+Risks to Price Target  
+ANSYS is historically acquisitive; acquisitions may involve product and organizational integration challenges: We believe 
+CY11 will see ANSYS more active again with its M&A strategy, perhaps to consolidate market share or possibly add 
+selected vertical market depth to its applications. ANSYS has capital-intensive end markets. Several of ANSYS' largest 
+verticals,  including aerospace, automobiles and  industrial  equipment are  very  cyclical and subject to the more harsh 
+capital constraints of those particular end markets.     
+ 
+ 
+Fortinet Inc.  (NASDAQ: FTNT, $17.54, Buy, Price Target: $29)  
+Dan Cummins | 212-468-7010 | dcummins@thinkequity.com 
+ 
+Investment Thesis  
+We regard the recent slump in Fortinets share price as a buying opportunity because, above all, recent results continue to 
+point to global market share gain, notwithstanding EMEA mid-year deceleration. In 2Q, revenues grew by 40%, or more, 
+in the Americas and Asia-Pacific. Deferred revenue was up qtr/qtr, despite EMEA, implying a healthy pipeline overall for 
+2H-2011. In our model, we project billings growth of 25% for 2011E. Growth in product revenue (45% of total), which, in 
+turn, generates software subscriptions, which drives deferred revenue, is showing a strong positive trend, up 30-35% yr/yr 
+for the first half of 2011, and renewal rates remain at record high levels. While developments in Europe raise the risk 
+profile of FTNT shares, we continue to have high confidence in the companys competitive position and fundamentals.  
+ 
+Valuation  
+We base our $29 price target on a FCF per share multiple of 30x our FY12 FCF/share estimate of $0.95, above the 
+current 26x based on our 2011E FCF estimate of $0.84. The security group peer median FCF multiple is currently 21x. 
+We believe investors will continue to pay a premium multiple for the company's ability to potentially outperform estimates. 
+Accordingly, we believe a 31x multiple is appropriate. 
+ 
+Risks to Price Target   
+Although Fortinet is a leader in high-growth, unified-threat, management technology and appliances, there is a demand 
+relationship to the core firewall technology market, which is mature and likely to experience increasing commoditization 
+over time. As the market of firewall/VPN continues to mature over time, competitive pressures could erode margins and 
+result in market share loss. 
+ 
+ 
+ 
+
+                                                                                                                        
+ 
+
+                                                                                                              Page 3
+                                                                                                                    170
+---------------------Page 4---------------------
+
+                                                                                                     August 22, 2011  
+                                                                                                  Industry Report       
+
+                                                   
+ 
+LSI Corp. (NYSE: LSI, $6.29, Buy, Price Target: $9)  
+Suji De Silva | 415-249-1987 | sdesilva@thinkequity.com  
+ 
+Investment Thesis  
+We are adding  LSI to  our Conviction  List, following  our recent  upgrade  of the stock. While demand across key end 
+markets such as server/computing, data center storage, and wireless infrastructure has become increasingly uncertain, 
+we nonetheless are encouraged by recent success in converting design wins across storage and networking into revenue. 
+We expect revenue uplift from additional hard drive, server and networking design wins in the coming quarters. With room 
+for additional operating leverage, we also expect company operating margins to progress toward the stated goal of 17% 
+versus 2Q11 operating margin of 12.4%.  
+ 
+Valuation  
+Our price target of $9 represents 15x our new CY12 EPS estimate of $0.58. Our new price target implies a PEG of 1.1x, a 
+slight premium the comparable median of 0.9x reflecting improving design win and share momentum. 
+ 
+Risks to Price Target 
+The key risks for LSI Corporation include the following: 1) The market for storage and hard drive semiconductors remains 
+competitive  and  it  faces  competition  from  a  number  of  established  companies  as  well  as  emerging  solid-state  drive 
+vendors.  2)  The  market  for  networking  is  highly  competitive  and  it  faces  competition  from  a  number  of  established 
+companies. 3) The company's revenue stream is exposed to any macro-driven slowdown in the spending in the enterprise 
+and infrastructure end-markets, 4) The company's revenue is concentrated at two large customers, and is exposed to 
+either slowing demand for these customers and/or potential design losses to competitors. 
+ 
+ 
+Mellanox Technologies Ltd. (NASDAQ: MLNX, $26.48, Buy, Price Target: $35)   
+Rajesh Ghai, CFA | 415-249-6365 | rghai@thinkequity.com 
+ 
+Investment Thesis  
+A strong beat-and-raise quarter with no apparent signs of weakness in any specific geography and vertical showcased 
+MLNX's growth momentum and re-affirmed our conviction in one of our favorite names in our coverage universe. Based 
+on  this  quarter's  performance,  we  have  further  evidence  to  believe  that  the  scale,  low  latency,  and  I/O  speed 
+requirements,  hitherto  restricted  to  the  High  Performance  Computing  (HPC)  market,  are  now  becoming  increasingly 
+common in mainstream Enterprise and Cloud applications, which should continue to drive MLNX on a strong growth path 
+in the foreseeable future. Hence, we reiterate our Buy rating on MLNX shares and continue to include it on our Conviction 
+Buy list. 
+ 
+Valuation  
+Our price target for MLNX shares is $35, which is based on a 20x P/E multiple on our FY12 EPS estimate of $1.60 and 
+$2.78 cash per share. We believe a 20x P/E multiple is appropriate as it reflects a PEG ratio of 1x on our assumption of 
+an earnings growth rate of 20%. 
+ 
+Risks to Price Target 
+Mellanox is a component supplier to powerful OEMs that enjoy pricing leverage and are likely to change order patterns 
+rapidly, which may affect revenue visibility for MLNX. Although Mellanox has enjoyed a virtual monopoly in InfiniBand, 
+serious competition in the form of QLogic has begun to emerge in the market. QLogic could potentially cause severe price 
+competition in the future as it tries to gain market share from MLNX. With the acquisition of VOLT, the InfiniBand market 
+has become a two-horse race, in our view. If OEMs determine that they need to dual source their InfiniBand adaptors, 
+QLGC could gain significant share in the market.  Additionally, customer inertia may prevent InfiniBand from moving 
+beyond its current niche of High Performance Computing. 
+ 
+ 
+
+                                                                                                                         
+ 
+
+                                                                                                               Page 4
+                                                                                                                     171
+---------------------Page 5---------------------
+
+                                                                                                     August 22, 2011  
+                                                                                                  Industry Report       
+
+                                                   
+ 
+OPNET Technologies, Inc. (NASDAQ: OPNT, $29.55, Buy, Price Target: $43)   
+Daniel Cummins | (212) 468-7010 | dcummins@thinkequity.com 
+ 
+Investment Thesis 
+We like OPNETs product strategy and execution in application performance monitoring (APM), where new challenges of 
+complexity and network diversity among next generation, process-driven applications are creating growth opportunities. 
+We believe OPNET will continue to raise its competitive profile in strategic APM, while taking share from a range of larger 
+incumbents; the company has been reaping benefits of focused efforts to expand and improve the capabilities of its sales 
+function, and we expect this trend to continue.    
+ 
+Valuation   
+Our $43 per-share price target is based on a P/FCF multiple of 28x based on our FY13E FCF estimate of $1.55 (+25% 
+yr/yr). OPNT shares currently trade at 27x our FY12E FCF per share estimate of $1.24. At our $43 price target 12 months 
+from now, OPNT shares would trade at a 32x P/E based on our FY2013 pro forma EPS estimate of $1.34, compared to 
+the current 33x P/E multiple based on our FY12 estimate of $1.00. We believe investors will continue to pay a high 
+multiple of FCF for OPNT shares in anticipation of strong revenue growth and margin accretion. Accordingly, we believe a 
+28x multiple is appropriate. 
+ 
+Risks to Price Target 
+The  Network  instrumentation  market  is  fragmented,  and  competition  amongst  existing  vendors  could  be  a  source  of 
+margin compression. Large players could develop their own solutions and infringe upon OPNET's turf. OPNET occupies a 
+niche in the broader Network Management space. The niche does not have a large vendor in this space. We believe that 
+continued macroeconomic uncertainty could lead to a larger portion of deals getting consummated over longer cycles, 
+hence, delaying revenue recognition. 
+ 
+ 
+Oracle Corp. (NASDAQ: ORCL, $24.78, Buy, Price Target: $40)   
+Brian Schwartz | 415-249-1982 | bschwartz@thinkequity.com 
+ 
+Investment Thesis 
+We believe Oracle today exerts greater global account control than ever, resulting in share gains of customers IT budgets 
+and a stronger ability to enter new markets. Supplemented by its successful acquisition strategy, Oracle has attained the 
+#1 market share position in both the database and middleware markets, and a #2 position in the application software 
+market.  Because  this  stack  is  increasingly  based  on  industry  standards  for  programming  and  exposing  data,  the 
+marketplace is gravitating toward Oracle's offerings over those of second-tier providers, in our view.  Additionally, ORCL 
+has only reported a full-year EPS decline once in the last 12 years (and even then, only 4%), and we believe ORCL's 
+earnings resiliency has improved, as recurring maintenance revenue comprises 50% of revenue, versus 37% in FY02, 
+and Oracle is advantaged by greater economies of scale today. In our view, this earnings resiliency and earnings growth 
+that are more attractive to that of the S&P 500 deserve a premium valuation rather than a discount or market-average 
+valuation, and we believe this equilibrium will be restored over time.   
+ 
+Valuation   
+On CY: 2012E P/E basis, ORCL trades at 13x (ex-cash) our CY:2012 estimate of $2.54, which is in line with the S&P 500 
+group average of 13x. Our $40 price target for ORCL shares is based on a 15x (ex-cash) multiple applied to our FY:2013 
+EPS estimate of $2.67/share. We believe that ORCL maintains a slightly higher valuation multiple for its out-year and 
+believe this multiple is appropriate since, historically, ORCL shares have traded at an in-line to slight premium to the 
+average market multiple of 15x, and we expect the shares to continue to trade at a multiple that is in line with the historical 
+level. 
+ 
+Risks to Price Target 
+Risks  to  our  price  target  include  but  are  not  limited  to:  1)  Prolonged  weakness  in  IT  spending;  2)  macroeconomic 
+fluctuations;  3)  acquisition  integration  challenges;  4)  competition;  5)  departure  of  key  management  personnel  could 
+impede our price target. 
+ 
+
+                                                                                                                         
+ 
+
+                                                                                                               Page 5
+                                                                                                                     172
+---------------------Page 6---------------------
+
+                                                                                                    August 22, 2011  
+                                                                                                 Industry Report       
+
+                                                   
+ 
+ 
+QUALCOMM Inc.  (NASDAQ: QCOM, $46.52, Buy, Price Target: $75)  
+Mark McKechnie | 415-249-1988 | mmckechnie@thinkequity.com 
+ 
+Investment Thesis 
+QUALCOMM delivered a solid report and outlook in what we view as a "transitional" quarter ahead of two major 2H11 
+drivers: Apples iPhone5 and Nokia's WindowsPhone7 (WP7) models. The quarter confirmed our thesis on QCOM as the 
+best large cap semi play on smart phones and tablets as it powered through rough overall industry waters with improved 
+earnings prospects. We look for potential upside relative to our new forecast to become more apparent as we approach 
+the September reporting period.   
+ 
+Valuation   
+Our QCOM $75 price target is based on 21.4x our FY12 (September) EPS estimate of $3.50 and does not include $11.97 
+per share in net cash. We justify the multiple on 1) our view of QCOM's leading royalty and chip position in smart phones, 
+2) what we see as near-term potential upside from increased chips share with the iPhone5 and NOK's WindowsPhone7, 
+and 3) what we see as potential upside from SnapDragon tablet wins.   
+ 
+Risks to Price Target 
+Risks to our price target include: 1) Slower-than-anticipated industry unit growth; 2) Faster erosion of handset average 
+selling prices; 3) Increased chip competition; and 4) general compression of market multiples.    
+ 
+ 
+RightNow Technologies Inc. (NASDAQ: RNOW, $27.52, Buy, Price Target: $38)   
+Brian Schwartz | 415-249-1982 | bschwartz@thinkequity.com 
+ 
+Investment Thesis 
+Our recent survey work indicates the marketplace momentum of replacing legacy, single-channel on premise Customer 
+Experience  solutions  with  multi-channel  cloud  based  solutions  is  accelerating  compared  to  six  month  ago.  We  think 
+RNOW will benefit disproportionately from this replacement cycle since RightNow Technologies is the farthest along in 
+building an Enterprise-scale cloud-based Customer Experience suite of solutions for large B2C businesses, in our view.  
+Additionally, RightNows business model is positively levered to the mobile tsunami trend due to its volume-based usage 
+pricing  model.  These  strong  market  tailwinds  plus  reported  TTM  current  software  backlog  growth  of  27%  gives  us 
+confidence that new business and cash flow trends are accelerating, and we maintain a positive bias to current consensus 
+expectations.  We believe the shares could appreciate through either higher estimate revisions or multiple expansion as 
+the current discount valuation to the SaaS group average narrows over time.    
+ 
+Valuation  
+Our $38 price target is based on approximately 27x our EV/2012E OCF of $48M (cash from operations), which is a slight 
+discount to the current average SaaS companies' EV/FTM OCF estimated multiple of 29. We use a 27 multiple to derive 
+our price target, as we expect the shares to trade at a multiple that is essentially in line with the SaaS group average.    
+ 
+Risks to Price Target   
+Risks to our price target include: 1) Competition; 2) macroeconomic fluctuations; 3) acquisition integration challenges; 4) 
+increased churn; and 5) slow customer adoption of Cx solutions. 
+ 
+ 
+Skyworks Solutions Inc.   (NASDAQ: SWKS, $18.78, Buy, Price Target: $30)  
+Suji De Silva | 415-249-1987 | sdesilva@thinkequity.com  
+ 
+Investment Thesis 
+We are adding SWKS to our Conviction List. We expect relative resilience in the smartphone and tablet markets given 
+strong customer interest and product cycles. With multiple smartphone customers ramping new models in the next few 
+quarters, we expect SWKS to benefit from its market leading position in the handset radio frequency components market. 
+We  also  expect  benefit  from  increasing  use  of  wireless  connectivity  beyond  traditional  handsets.  Lastly,  we  are 
+
+                                                                                                                        
+ 
+
+                                                                                                              Page 6
+                                                                                                                    173
+---------------------Page 7---------------------
+
+                                                                                                      August 22, 2011  
+                                                                                                   Industry Report       
+
+                                                    
+ 
+encouraged by the company's ramp of new competitive filter products to more aggressively address a broader array of 
+market opportunities. 
+ 
+Valuation  
+Our $30 price target is based on a 14x target multiple on our CY12 EPS estimate of $2.10, implying a PEG of 0.8x, a 
+slight premium to the comparable average 0.7x, which we believe is deserved, given the company's market position and 
+share gain opportunity. 
+ 
+Risks to Price Target   
+The key risks for Skyworks Solutions include the following: 1) The markets for handset front-end components and analog 
+are  highly  competitive,  and  the  company  faces  competition  from  a  number  of  established  competitors,  along  with 
+competition in analog. 2) Consistency in financial results in recent years leaves the stock more vulnerable than peers to a 
+management  execution  misstep,  in  our  view.  3)  We  believe  that  the  increasing  complexity  of  wireless  front-end 
+components could expand the risk of product delays and/or issues versus in the past. 
+ 
+ 
+Spansion, Inc.  (NYSE: CODE, $14.16, Buy, Price Target: $25)  
+Krishna Shankar | 415-249-6367 | kshankar@thinkequity.com  
+ 
+Investment Thesis    
+We   view   Spansion   as   the   leader   in   the   embedded   NOR  flash   memory  market   for   diversified   end   markets   in 
+industrial/automotive,  telecom/networking,  computing  and  consumer  electronics.  Since  emerging  from  bankruptcy,  we 
+believe that Spansion has executed well in regaining share in the embedded flash market with consistent revenue growth, 
+higher margins, and free cash flow using its proprietary MirrorBit flash memory technology and a "FabLite" manufacturing 
+strategy. Spansion has what we view as: a diversified customer base of over 4,000 global customers, good design win 
+momentum, a focused new management team, a flexible Fab Lite manufacturing strategy and recent strong revenue and 
+earnings growth.   
+ 
+Valuation   
+Our $25 price target is based on an approximate 10x P/E on our calendar 2011E pro forma EPS estimate of $2.55 relative 
+to our outlook for 12% secular earnings growth. Given the consolidation in the NOR industry likely leading to more stable 
+pricing with Spansion and Micron technology being the two main competitors in the high-performance embedded NOR 
+flash  market,  strong  demand  drivers  currently  in  the  embedded  NOR  market,  technology  leadership,  and  good 
+management execution, we believe that a forward multiple of 10x on our calendar 2011E EPS is justified relative to our 
+Spansion secular earnings growth outlook. 
+ 
+Risks to Price Target  
+The  following  risks  are  inherent  to  investing  in  Spansion:  general  business  and  economic  conditions;  demand  for 
+products; changes in customer order patterns; the pricing of products driven by capacity versus demand; the continued 
+development, qualification, and availability of innovative products in a rapidly changing technological environment; the 
+ability to reduce costs; manufacturing risks; inventory risk; manufacturing yield risks, the ability to recruit and retain skilled 
+engineers and other personnel; and currency risks. In addition, Spansion's recent emergence from Chapter 11 implies that 
+the company has to re-engage and win back new and existing customers who may not have a business relationship. 
+Spansion also has to rapidly transition to a "Fab Lite" flexible, manufacturing strategy of using its captive Fab in Austin, 
+coupled with foundries such as Elpida, SMIC etc. Additionally, Spansion still has significant debt load which may constrain 
+its operational flexibility; especially in weak economic times.     
+ 
+ 
+
+                                                                                                                          
+ 
+
+                                                                                                                Page 7
+                                                                                                                      174
+---------------------Page 8---------------------
+
+                                                                                                     August 22, 2011  
+                                                                                                   Industry Report       
+
+                                                    
+ 
+VMware Inc. (NYSE: VMW, $76.76, Buy, Price Target: $110)   
+Rajesh Ghai, CFA | 415-249-6365 | rghai@thinkequity.com 
+ 
+Investment Thesis    
+Our conviction in VMWs growth story is further enhanced after yet another beat-and-raise in VMWs 2QFY11, driven by 
+broad-based growth across geographies, verticals and product-lines. FCF/share was, once again, well ahead of EPS, 
+indicating to us that VMW continues to be a very strategic vendor for its customers, who remain willing to sign multi-year 
+contracts with VMW and keep driving VMW's deferred revenue higher. We remind investors that, despite VMW's strong 
+investment mode, we think it remains likely to see significant operating margin expansion in future yearspotentially a 
+1000-point expansion over the next three years. In our view, this could lead to a very significant increase in earnings 
+power and FCF generation, well ahead of current, long-term Street estimates. We believe VMW is the undisputed leader 
+in virtualization and Cloud build-outthe top IT secular growth trends today in our view. In our opinion, VMW is poised to 
+extend  this  lead  as  it  innovates  ahead  of  its  competitors  and  executes  effectively,  potentially  driving  stronger  FCF 
+generation  and  significant  operating  margin  expansion  in  the  future.  With  a  new  product  cycle  (vSphere  5)  and  an 
+upcoming trade show as likely upside catalysts, we continue to include the name on our Conviction Buy list. 
+ 
+Valuation   
+Our $110 price target is based on an approximate, ex-cash per share, 31x multiple to our FY12 FCF estimate of $3.30 per 
+share. The 31x multiple implies a PEG ratio of 1.03x, assuming a long-term FCF growth rate of ~30%, which, we believe 
+is appropriate, given the early stage of the company's opportunity and its strong strategic positioning. 
+ 
+Risks to Price Target  
+Competition  with  Microsoft  and  the  open-source  community.  Challenges  associated  with  any  new  technology.  EMC 
+owning 97% of voting rights and likely competing with VMware in some areas. Acquisitions could lead to dilution.   
+ 
+ 
+ 
+
+                                                                                                                          
+ 
+
+                                                                                                                Page 8
+                                                                                                                      175
+---------------------Page 9---------------------
+
+                                                                                                    August 22, 2011  
+                                                                                                 Industry Report       
+
+                                                   
+ 
+INTERNET / MEDIA  
+ 
+Active Network Inc. (NYSE: ACTV, $16.23, Buy, Price Target: $23)    
+Aaron Kessler, CFA | (415) 249-6366 | akessler@thinkequity.com 
+ 
+Investment Thesis    
+Active is a leading provider of cloud-based reservation and marketing solutions serving a variety of customer groups, 
+including  business  events,  community  activities,  outdoors,  and  sports.  Our  Buy  rating  is  based  on:  1)  strong  growth 
+potential  in  an  underpenetrated  $10B  North  American  technology  fee  opportunity,  2)  Active  provides  a  strong  value 
+proposition to both organizations and consumers, 3) numerous growth drivers that should lead to mid-teens long-term 
+growth, and 4) attractive financial characteristics with highly predictable revenues and high incremental EBITDA margins.   
+ 
+Valuation   
+Our $23 per-share price target for ACTV shares is based on 25x our 2012 EBITDA estimate of $54M. We believe a 25x 
+multiple is justified given our view for 35%-plus long-term EBITDA growth. 
+ 
+Risks to Price Target  
+Risks for Active Network include risks of integrating acquisitions; competition; slower adoption of web-based reservation 
+systems; the macroeconomic environment; transition to the ActiveWorks platform; expansion into new businesses and 
+risks surrounding International expansion.   
+ 
+ 
+Baidu Inc. (NASDAQ: BIDU, $126.98, Buy, Price Target: $200)    
+Aaron Kessler, CFA | (415) 249-6366 | akessler@thinkequity.com 
+ 
+Investment Thesis    
+We  remain  positive  on  BIDU  shares,  and  expect  continued  strong  growth  driven  by  1)  continued  consumer  Internet 
+adoption  we expect China to add another 70 million Internet users in 2011 up from approximately 450M at the end of 
+2010 (33% online penetration); 2) continued merchant adoption  we estimate Baidu has approximately 5% market share 
+among  its  addressable  market  of  5 million  larger  SMEs  in  China;  3)  strong  growth  in  emerging  categories  including 
+eCommerce; 4) continued monetization improvements. We believe these factors should lead to 60% plus top-line growth 
+in 2011 and we expect continued strong incremental margins which we expect to lead to 70% plus EPS growth.    
+ 
+Valuation   
+Our $200 price target for BIDU shares is based on a 45x P/E to our 2012 pro forma EPS estimate. We believe a 45x 
+multiple is justified, given our outlook for 40%-plus long-term EPS growth. 
+ 
+Risks to Price Target  
+Key risks for Baidu include an economic slowdown in China, increased regulatory action, increased competition, and lack 
+of a developed eCommerce market.    
+ 
+ 
+eBay Inc. (NASDAQ: EBAY, $27.16, Buy, Price Target: $41)    
+Aaron Kessler, CFA | (415) 249-6366 | akessler@thinkequity.com 
+ 
+Investment Thesis 
+eBay reported a solid quarter with strength in both Payments (29% Y/Y FX neutral vs. 27% last quarter) and improved 
+Marketplace GMV (10% Y/Y vs. 8% in 1Q). U.S. GMV accelerated to 14% Y/Y, driven primarily by an improved user 
+experience, better search, and more top- rated sellers. We are encouraged by the improved business fundamentals and 
+solid traction of the company's growth initiatives, such as mobile payment. Payments growth momentum continued with 
+total payment revenue up 29% Y/Y FX neutral (vs. 27% last quarter), driven by further penetration on both Merchant 
+Services and on-eBay. Segment margin expanded 200 bps Y/Y benefiting from stable transaction margin, continuing 
+operating leverage and improvement in BML.  Both U.S. and international were solid in the quarter: U.S. non-vehicle GMV 
+accelerated 400 bps sequentially, mainly driven by improvement in the user interface, search experience (i.e., removal of 
+
+                                                                                                                        
+ 
+
+                                                                                                              Page 9
+                                                                                                                   176
+---------------------Page 10---------------------
+
+                                                                                                    August 22, 2011  
+                                                                                                 Industry Report       
+
+                                                   
+ 
+duplicate listings), and more sales from trusted sellers. Solid European growth and stabilizing Korean growth led to 200 
+bps sequential growth acceleration for international in 2Q.  
+ 
+Valuation  
+Our $41 EBAY price target is based on approximately 16x our 2012 PF EPS estimate of $2.34 plus net cash, which we 
+believe is appropriate given our outlook of 5-10% long-term growth for the marketplace business and 15-20% long-term 
+growth for the payment business. For our price target, we apply a 12x multiple to Marketplace 2012E PF EPS, a 25x 
+multiple to Payments 2012E EPS, and add $4 in cash/investments, which equates to our $41 PT. 
+ 
+Risks to Price Target 
+Key risks for eBay include competition, adverse currency movements, inability to improve eBay's user experience, and 
+economic weakness. 
+ 
+ 
+Electronic Arts Inc. (NASDAQ: ERTS, $19.31, Buy, Price Target: $28)    
+Atul Bagga | 415-249-6362 | abagga@thinkequity.com 
+ 
+Investment Thesis 
+We are positive on ERTS's proposed acquisition of PopCap, given growth in social and smart phone games that was 
+faster than we had expected; better than we expected EPS accretion from the deal; the quality of PopCap assets; and a 
+potential to accelerate growth in higher-quality Games-as-a-Service business.  We are raising our estimates and  now 
+expect EPS growth at 21% Y/Y and 39% Y/Y EPS during FY12 and FY13 respectively, driven largely by growing revenue 
+contribution from relatively lucrative Games-as-a-Service segment.   
+ 
+Valuation 
+Our $28 price target on ERTS shares is based on a 26x PE (net of cash) on our FY12 EPS estimate of $0.82 versus a 13x 
+average  for  the  shares  of  the  peer  group. We  think  that  the  premium  is  appropriate,  given  that  we  believe  that  the 
+company  has strong franchises and the  potential to monetize these franchises on emerging platforms and given the 
+company's focus on the faster-growing Games-as-a-Service segment.    
+ 
+Risks to Price Target 
+Gaming  continues  to  be  a  hit-or-miss-driven  business,  and  predicting  successful  titles  versus  unsuccessful  titles  is 
+extremely difficult. The risk is especially high for the new and unproven IPs, and a company's reliance on the new IPs and 
+the titles in the established franchises to reach the revenue target opens it to risk of a revenue miss. Additionally, we 
+believe there are macro headwinds given the increasing popularity of the used games and free-to-play online games.   
+ 
+ 
+Velti PLC (NASDAQ: VELT, $10.64, Buy, Price Target: $22)    
+Robert Coolbrith | (415) 249-6363 | rcoolbrith@thinkequity.com 
+ 
+Investment Thesis 
+Velti reported a strong Q2 result (revenue of $34.4M was up 57% Y/Y and came in 8% higher than our forecast), but the 
+stock traded down we believe in reaction to higher OpEx investments and negative (and we believe misplaced) read-
+through from Motricitys negative Q2 earnings report. We believe that the sell-off in VELT shares is misguided and that 
+shares represent a compelling value at 8.2x our FY12E EBITDA estimate of $87M. At current levels, we believe investors 
+have  the  unique  opportunity  to  acquire  a  leading  SaaS  tools/solutions  provider  serving  the  rapidly  emerging  mobile 
+marketing and advertising ecosystem for a traditional media multiple. We believe that shares will rebound during the 
+companys seasonally strong 2H and that shares should be aggressively acquired at the current valuation.  
+ 
+Valuation 
+We note that shares of interactive marketing services peers currently trade at an average FY12E EV/EBITDA multiple of 
+approximately 8x, while SaaS companies currently trade at an average of 16x FY12E EV/EBITDA. Given the company's 
+growing SaaS revenue streams and what we view as its superior growth and long-term margin prospects, we believe 
+VELT shares should trade toward the higher end of the 8-16x range, especially given the fact that the company is likely to 
+
+                                                                                                                        
+ 
+
+                                                                                                             Page 10
+                                                                                                                    177
+---------------------Page 11---------------------
+
+                                                                                                    August 22, 2011  
+                                                                                                 Industry Report        
+
+                                                   
+ 
+grow significantly faster than SaaS peers for the foreseeable future, in our view. Accordingly, we apply a 14x multiple 
+against our 2012 EBITDA estimate of $86.8M to derive our $22 12-month price target. 
+ 
+Risks to Price Target  
+Risks to our price target  include the  very early stage of development of the mobile marketing/advertising technology 
+opportunity, customer/category concentration, geographic risk, ongoing development of internal controls, working capital 
+requirements, competition, and the high degree of seasonality present in the business.  
+ 
+HEALTHCARE / LIFE SCIENCES  
+ 
+Alnylam Pharmaceuticals Inc. (NASDAQ: ALNY, $6.62, Buy, Price Target: $18)    
+Marko Kozul, M.D. | 415-249-6364 | mkozul@thinkequity.com 
+ 
+Investment Thesis 
+ALNY is making solid progress towards its 5x15 goals by advancing numerous early stage programs and preparing for 2 
+important 4Q11 dataset announcements. In 4Q11, we are primarily focused on ALN-TTR proof of concept (POC) data that 
+will be presented at a major Amyloid meeting. We view ALN-TTR as one of ALNY's most promising emerging pipeline 
+compounds based on due diligence with our KOLs and therapeutic potential in a disease with unmet medical need and 
+clear genetically defined targets. Given a low $60M EV and near-term drivers, ALNY represents an attractive risk reward, 
+in our view.  
+ 
+2H11 Drivers: We believe the next two years (and especially 2H11) will show two additional important pipeline proof of 
+concept (POC) data sets that we expect could drive shares significantly from current levels. In 3Q11, ALNY plans to 
+announce Phase 1 POC data for ALN-TTR01 in TTR Amyloidosis. The trial's primary goal is to evaluate safety, but it also 
+includes secondary end points the Street should find meaningful, such as ALN-TTR treatment's effect on circulating TTR 
+plasma levels measured as percentage (%) lowering of TTR from pretreatment/baseline TTR levels. Our TTR consultants 
+would be encouraged to observe 10-20% plasma TTR reductions while they believe up to 50% is also possible in this trial. 
+They generally believe a 50% plasma TTR reduction is enough to cause TTR plaque regression or slow progression of 
+the disease by 50% (factor of 2). By YE11, we believe ALN-PCS data for hypercholesterolemia patients should become 
+available. ALNY has not yet specified the end points for this trial, but we believe it is also committed to measuring efficacy 
+in a manner that would be appreciated by the Street. In 2011, ALNY further plans to disclose two additional pipeline 
+programs. In 2012, ALNY plans to enter ALN-ALN-HTT for Huntington's Disease and ALN-HPN for refractory anemia into 
+the clinic. 
+ 
+Valuation   
+Our 12-month price target of $18 is based on a sum-of-parts analysis by estimating YE11 cash (12-month forward) at 
+approximately $8-9 per share and adding $9 per share ($410M) in pipeline technology value. Risks include IP litigation; 
+delivery failures; clinical, regulatory, and competitive risks for pipeline candidates; and extended timelines to potential 
+profitability.   
+ 
+Risks to Price Target  
+ALNYs  lead  product  candidates  appear  to  be  at  least  a  few  years  from  market  and  may  face  significant  clinical, 
+regulatory, and competitive risks. Additionally, IP litigation and failure to make advances in RNAi delivery could lead to 
+extended timelines to potential profitability. We also anticipate significant changes to the marketplace as new medicines 
+are  introduced.  To  reiterate,  primary  investment  risks  include  IP  litigation;  delivery  failures;  clinical,  regulatory,  and 
+competitive risks for pipeline candidates; and future financing risk. 
+ 
+ 
+
+                                                                                                                         
+ 
+
+                                                                                                             Page 11
+                                                                                                                    178
+---------------------Page 12---------------------
+
+                                                                                                     August 22, 2011  
+                                                                                                  Industry Report       
+
+                                                   
+ 
+NuVasive Inc. (NASDAQ: NUVA, $21.08, Buy, Price Target: $39)    
+Sameer Harish | 415-249-1989 | sharish@thinkequity.com 
+ 
+Investment Thesis 
+We expect NuVasive sales growth to accelerate through 2012.  We expect significant upside to NUVAs share price if the 
+company continues to meet or beat numbers and demonstrates additional leverage in 2011. NuVasives suite of minimally 
+invasive spine implants and instruments are designed to improve surgical outcomes, reduce blood loss and pain, and 
+speed recovery. The company has successfully created a market for its lateral access spine products and continues to 
+increase the number of physician users. Additionally, NuVasive has a high-margin business model boasting 80%+ gross 
+margins implant business and serves the robust and fast growing minimally-invasive spine market.   
+ 
+Momentum in minimally invasive and lateral spine surgery is building. NuVasive expects this segment of the spine market 
+to grow 15% in 2011 despite a flat to down market for total spine procedures. However, a key driver for the market interest 
+is the recent flurry of competitive product introductions. Ultimately, we believe the heightened interest in minimally invasive 
+and lateral access surgery may increase overall surgeon interest in XLIF and NeuroVision. We believe NuVasive will be 
+able to convert many of these surgeons to XLIF in the future with superior nerve avoidance technology, supportive clinical 
+data, and a market-leading portfolio of lateral focused implants and tools. Channel checks have shown more established 
+physicians tend to seek XLIF training, often seeking better techniques to benefit their patients after years of limited clinical 
+success. These surgeons tend to be stickier, longer-term adopters of technology, we believe, and less likely to pursue 
+lower cost alternatives which may lack critical features. Notably, driving physician utilization through training is at the 
+center of NuVasives near-term growth strategy. Operating leverage will also be driven by sale force maturation, as well as 
+an expanding product offering, and fixed-cost efficiencies, in our view.    
+ 
+We believe international markets offer significant potential growth opportunities to complement U.S. growth. We expect 
+NuVasive to invest heavily in international markets, which represent approximately $20% of the global $9 billion spine 
+market.  Currently  international  revenues  comprise  only  5%  of  NuVasives  revenues;  however,  the  company  expects 
+international revenues to comprise approximately 10% of revenues as the company approaches $1B in revenues. 
+ 
+Valuation   
+Our $39 price target is based upon 3x our 2012 revenue estimate of $602.9 million. This is a discount to the comparable 
+medtech companies' averages of 3.8x 2012 revenues. NuVasive shares are trading at 1.8x our 2012 revenues and 2.1x 
+our 2011 revenues of $532.8 million, compared to the medtech companies'' average of 3.9x 2011 revenues. 
+ 
+Risks to Price Target  
+NuVasive   operates   in   a   highly   competitive   and   dynamic   industrynew   technology   and   innovation   from   other 
+organizations  may  change  NuVasives  ability  to  successfully  grow  in  their  markets  and  may  make  the  companys 
+technology  obsolete. Additional  near-term risks include pricing  or reimbursement pressures, slowing market for spine 
+surgery, timing and/or loss of orders to large hospital or physician groups, clinical guideline changes, delays in regulatory 
+filings and supply and manufacturing disruptions. 
+ 
+ 
+CLEANTECHNOLOGY 
+ 
+Ceradyne Inc.  (NASDAQ: CRDN, $27.17, Buy, Price Target: $45)    
+Colin Rusch | 212-468-7015 | crusch@thinkequity.com 
+ 
+Investment Thesis  
+We believe CRDN is uniquely positioned to benefit from the secular trend toward increased applications of advanced 
+ceramics in the industrial and energy market due to lightweight, heat, and wear advantages versus incumbent materials. 
+Near term, we believe the company is getting better yield on its military business as it more effectively meets product 
+specs. Second, the company is getting better utilization of its manufacturing assets having closed two facilities in 2010 
+and getting better utilization as revenue increases. Third, the company's mix of products is migrating to higher margin 
+opportunities in solar and industrial applications. We believe these three drivers will remain intact going forward. We are 
+also encouraged by the company's investment in additional Boron separation capacity this year along with the accelerated 
+
+                                                                                                                         
+ 
+
+                                                                                                              Page 12
+                                                                                                                     179
+---------------------Page 13---------------------
+
+                                                                                                      August 22, 2011  
+                                                                                                   Industry Report       
+
+                                                    
+ 
+traction of its Petrochem and bioglass products. We believe CRDN's improving product mix and end-market exposure are 
+sufficient to drive material growth over the next several years.    
+ 
+Valuation 
+We give shares of CRDN a Buy rating and a price target of $45 based on 13x our 2012E EPS of $3.43, which we believe 
+is appropriate as it is in line with peers.    
+ 
+Risks to Price Target  
+1) Defense Demand Risk; 2) Non-Defense Demand Risk; 3) Operational Risk; 4) Competition Risk; 5) Foreign Market 
+Risk. 
+ 
+ 
+Johnson Controls Inc.  (NYSE: JCI, $28.83, Buy, Price Target: $50)    
+Colin Rusch | 212-468-7015 | crusch@thinkequity.com 
+ 
+Investment Thesis  
+We  continue  to  highlight  JCI  as  a  core  holding  for  Cleantech  investors  with  exposure  to  energy  efficiency  and  the 
+electrification  of  the  transportation  market.  We  continue  to  believe  the  company's  Power  Solutions  and  Automotive 
+Experience segments are positioned for improvement. We also continue to believe that the company is well positioned to 
+benefit from multi-year revenue and margin growth in its Building Efficiency segment. In addition, we note that JCI's entry 
+into the demand response (DR) market signals that the DR market is a large enough addressable opportunity to warrant 
+investment and that the economics of DR contracts are likely to change substantially over time and move more toward 
+commodity pricing. We believe that JCI's entry into the DR market may be driven in part by a desire to retain customers. 
+We also note interest from global energy regulators. In the United States, we note that FERC's Order 745 sets up a 
+framework for DR providers to receive Locational Marginal Pricing, while the TVA's recent Integrated Resource Plan has 
+increased focus on Energy Efficiency and DR. The European Energy Commission's recent communication on its 2011 
+Energy Efficiency Plan states continued focus on Building Efficiency improvements. We also note statements from various 
+news sources that Germany plans to increase its focus on Offshore Wind and Building Efficiency.   
+ 
+Valuation  
+We gives shares of JCI a Buy rating and price target of $50, based on 15x our FY2012E EPS estimate of $3.31, a modest 
+premium to diversified industrial peers due to our expectation for JCI to grow faster than peers. JCI is at a slight premium 
+to shares of diversified industrial peers due to its exposure to strong growth markets and positive product mix shift, in our 
+opinion.  We  also  view  JCI  as  a  core  holding  for  cleantech  investors  with  exposure  to  energy  efficiency  and  the 
+electrification of the transportation market. 
+ 
+Risks to Price Target  
+Operating Risk, Market Acceptance Risk, Customer Concentration Risk, Competition Risk, Subsidy Risk, and Intellectual 
+Property Risk. 
+ 
+ 
+Rogers Corp. (NYSE: ROG, $43.15, Buy, Price Target: $64)    
+Shawn Severson | 415-249-1986 | sseverson@thinkequity.com 
+ 
+Investment Thesis  
+We are of the belief that Rogers is only in the early stages of a multi-year growth story built on key applications in the 
+cleantech,  Internet  and  mass  transit  markets.  We  think  many  of  the  company's  products  are  high  value  added 
+components, yet account for a relatively small portion of the bill of materials. This is a very important distinction as it can 
+provide some price protection and insulation from competition as commercial volumes scale in markets such as electric 
+vehicles  and  smart  phones/tablets,  in  our  view.  We  think  the  current  valuation  provides  a  significant  opportunity  for 
+investors to build a position and we expect multiple expansion and solid earnings growth to prevail over the coming 12 
+months.   
+ 
+ 
+
+                                                                                                                          
+ 
+
+                                                                                                               Page 13
+                                                                                                                      180
+---------------------Page 14---------------------
+
+                                                                                                       August 22, 2011  
+                                                                                                    Industry Report        
+
+                                                    
+ 
+Valuation  
+Our price target for ROG shares is $64, based on a PE of 18x our FY12 EPS estimate of $3.43. Our target multiple is in 
+line with the shares' average valuation since 2005. We believe the multiple expansion from the current level will be driven 
+by investors recognizing what we view as strong secular megatrends developing for the company and the potential effect 
+on earnings over the next three years. 
+ 
+Risks to Price Target  
+Although we believe the company is likely to benefit from positive megatrends, the company is still likely to be sensitive to 
+broader  economic  conditions.  As  was  displayed  clearly  during  the  financial  crisis  and  subsequent  recession,  ROG's 
+products and, hence, revenues are subject to cyclical trends. As we have stated previously, we believe ROG has solid 
+growth  opportunities in some key sectors, but this  would not be enough to offset a meaningful decline in the  global 
+economy. Failure of key growth markets to materialize. Our investment thesis is dependent a couple key markets and any 
+significant or permanent disruption in those markets could have a sustained negative effect on the shares. Specifically, the 
+prospects for 4G deployment, rail infrastructure in developing countries, and the adoption rate of HEV/EV around the 
+world. 
+ 
+ 
+CONSUMER  
+ 
+Costco Wholesale (NASDAQ: COST, $74.36, Buy, Price Target: $90)  
+Edward Weller | 415 249 1377 | eweller@thinkequity.com  
+ 
+Investment Thesis  
+With high gas prices and food inflation both intensifying the consumers usual quest for value, the combination of Costcos 
+always  extremely  aggressive  pricing  and  what  appears  to  be  improving  customer  service  seem  to  us  to  be  driving 
+increased frequency among existing members and new customer sign-ups, as well. Comp store customer traffic has been 
+rising by 4% month after month for more than two years now and we believe that customers will continue to favor Costco 
+for more of their purchases. Whats more, international operations (ex the UK business) seems to be firing on all cylinders 
+and   an   incipient   recovery   in   Southern   California,   historically   Costcos   most   profitable   regions,   can   have   a 
+disproportionately favorable impact on profitability for the next couple of years. We expect that ROIs will continue to rise, 
+that  Costco  will  increase  its  growth  rate  and,  by  putting  more  capital  to  work  at  those  high  ROIs,  drive  increasing 
+shareholder value. We reiterate our Buy on Costco.   
+ 
+Valuation  
+The rising valuations that we foresee in coming years derive directly from this recovery to normal  or recently normal  
+returns, and those rising returns should drive richer valuations in our view. These generally rising returns, in combination 
+with our estimates of slowly rising company investment suggest a price target a year from now of $90. (See our extensive 
+valuation methodology in our report entitled  COST: Closes Quarter Strong, Recovery Still Building in Southern California , 
+             th
+dated May 18  , 2011.     
+ 
+Risks to Price Target  
+Potential risks to our forecasts and to our estimates and price target for Costco include: yet a further general economic 
+slowdown  in  the  United  States,  Canada,  or  other  region  important  to  the  company;  interruptions  in  merchandise 
+availability; continued upward pressure on operating expenses; and greater-than-anticipated competitive pressures.     
+ 
+ 
+
+                                                                                                                            
+ 
+
+                                                                                                                Page 14
+                                                                                                                       181
+---------------------Page 15---------------------
+
+                                                                                                                                                                                  August 22, 2011
+
+                                                                                                                                                                             Industry Report
+
+COMPANIES MENTIONED IN THIS REPORT:
+Company                                                                                                                           Exchange                             Symbol                          Price                   Rating
+Alnylam Pharmaceuticals, Inc.                                                                                NASDAQ                                ALNY                            $6.62                      Buy
+ANSYS, Inc.                                                                                                                        NASDAQ                                ANSS                           $45.98                    Buy
+Apple Inc.                                                                                                                             NASDAQ                                 AAPL                          $356.03                   Buy
+Baidu, Inc.                                                                                                                            NASDAQ                                 BIDU                          $126.98                   Buy
+Ceradyne, Inc.                                                                                                                   NASDAQ                                CRDN                          $27.17                    Buy
+Costco Wholesale Corporation                                                                                NASDAQ                                COST                           $74.36                    Buy
+eBay Inc.                                                                                                                               NASDAQ                                EBAY                           $27.16                    Buy
+Electronic Arts Inc.                                                                                                          NASDAQ                                ERTS                           $19.31                    Buy
+EMC Corporation                                                                                                                NYSE                                     EMC                            $20.28                    Buy
+Entropic Communications, Inc.                                                                                NASDAQ                                ENTR                            $3.61                      Buy
+Fairchild Semiconductor International                                                                     NYSE                                      FCS                             $12.04                    Buy
+Fortinet, Inc.                                                                                                                        NASDAQ                                 FTNT                           $17.54                    Buy
+Johnson Controls Inc.                                                                                                       NYSE                                       JCI                              $28.83                    Buy
+LSI Corp.                                                                                                                                  NYSE                                       LSI                               $6.29                      Buy
+Mellanox Technologies, Ltd.                                                                                     NASDAQ                                MLNX                           $26.48                    Buy
+NetApp, Inc.                                                                                                                        NASDAQ                                NTAP                           $35.95                    Buy
+Nokia                                                                                                                                          NYSE                                     NOK                              $5.80                     Hold
+NuVasive, Inc.                                                                                                                   NASDAQ                                NUVA                           $21.08                    Buy
+OPNET Technologies, Inc.                                                                                        NASDAQ                                OPNT                           $29.55                    Buy
+Oracle Corporation                                                                                                         NASDAQ                                ORCL                           $24.78                    Buy
+QLogic Corporation                                                                                                        NASDAQ                                QLGC                          $12.31                   Hold
+QUALCOMM Inc.                                                                                                            NASDAQ                               QCOM                          $46.52                    Buy
+RightNow Technologies, Inc.                                                                                    NASDAQ                               RNOW                          $27.52                    Buy
+Rogers Corporation                                                                                                           NYSE                                     ROG                            $43.15                    Buy
+Skyworks Solutions, Inc.                                                                                             NASDAQ                                SWKS                          $18.78                    Buy
+Spansion Inc.                                                                                                                         NYSE                                   CODE                          $14.16                    Buy
+The Active Network, Inc.                                                                                                 NYSE                                    ACTV                           $16.23                    Buy
+Ultra Clean Holdings, Inc.                                                                                           NASDAQ                                UCTT                            $4.90                      Buy
+Velti plc                                                                                                                                  NASDAQ                                 VELT                           $10.64                    Buy
+VMware, Inc.                                                                                                                          NYSE                                     VMW                           $76.76                    Buy
+
+Important Research Disclosures
+
+Analyst Certification
+We, Atul Bagga, Robert Coolbrith, Daniel Cummins, Sujeeva (Suji) De Silva, CFA, Rajesh Ghai, CFA, Sameer Harish, Aaron Kessler,
+CFA,  Marko  Kozul,  M.D.,  Mark  McKechnie,  Colin  Rusch,  Brian  Schwartz,  Shawn  Severson,  Krishna  Shankar,  and  Ed  Weller,  hereby
+certify that all of the views expressed in this research report accurately reflect our personal views about the subject securities and issuers.
+We also certify that no part of our compensation was, is, or will be directly or indirectly related to the specific recommendations or views
+expressed in this research report.
+
+The analyst(s) responsible for preparing this report has/have received compensation based on various factors, including the firm's total
+revenues,  a  portion  of  which  is  generated  by  investment  banking  activities.  The  analyst(s)  also  receive  compensation  in  the  form  of  a
+percentage of commissions from trades made through the firm in the securities of the subject company of this report, although not for any
+investment banking transactions with or involving the subject company.
+
+ThinkEquity LLC and/or an affiliate managed or co-managed a public offering of securities for The Active Network, Inc. in the past 12
+months.
+ThinkEquity LLC and/or an affiliate managed or co-managed a public offering of securities for Spansion Inc. in the past 12 months.
+ThinkEquity LLC and/or an affiliate received compensation for investment banking services from Ceradyne, Inc. in the past 12 months.
+ThinkEquity LLC and/or an affiliate managed or co-managed a public offering of securities for Velti plc in the past 12 months.
+ThinkEquity LLC makes a market in The Active Network, Inc., Alnylam Pharmaceuticals, Inc., ANSYS, Inc., Baidu, Inc., Spansion Inc.,
+
+                                                                                                                                                                                                   Page 15
+                                                                                                                                                                                                                182
+---------------------Page 16---------------------
+
+                                                                                                                               August 22, 2011
+
+                                                                                                                           Industry Report
+
+Costco Wholesale Corporation, Ceradyne, Inc., eBay Inc., Entropic Communications, Inc., Electronic Arts Inc., Fairchild Semiconductor
+International, Fortinet, Inc., Johnson Controls Inc., LSI Corp., Mellanox Technologies, Ltd., NetApp, Inc., NuVasive, Inc., OPNET
+Technologies, Inc., Oracle Corporation, QUALCOMM Inc., RightNow Technologies, Inc., Rogers Corporation, Skyworks Solutions, Inc.,
+Ultra Clean Holdings, Inc., Velti plc, VMware, Inc., Apple Inc., Nokia, QLogic Corporation, and EMC Corporation securities; and/or
+associated persons may sell to or buy from customers on a principal basis.
+ThinkEquity LLC has made affirmative disclosures concerning each of the covered securities mentioned in this report, including analyst
+holdings (if any), rating definitions and overall ratings distributions. These disclosures can be found in the most recent complete research
+report for each of the respective companies. Reports are available upon request.
+
+Rating Definitions
+
+Effective  October  7,  2009,  ThinkEquity  LLC  moved  from  a  four-tier  Buy/Accumulate/Source  of  Funds/Sell  rating  system  to  a  three-tier
+Buy/Hold/Sell system. The new ratings appear in our Distribution of Ratings, Firmwide chart. To request historical information, including
+previously published reports or statistical information, please call: 866-288-8206, or write to: Director of Research, ThinkEquity LLC, 600
+Montgomery Street, San Francisco, California, 94111.
+
+Buy: ThinkEquity expects the stock to generate positive risk-adjusted returns of more than 10% over the next 12 months. ThinkEquity
+recommends initiating or increasing exposure to the stock.
+
+Hold: ThinkEquity expects the stock to generate risk-adjusted returns of +/-10% over the next 12 months. ThinkEquity believes the stock
+is fairly valued.
+
+Sell: ThinkEquity expects the stock to generate negative risk-adjusted returns of more than 10% during the next 12 months. ThinkEquity
+recommends decreasing exposure to the stock.
+
+                                                    Distribution of Ratings, Firmwide
+
+                                                              ThinkEquity LLC
+
+                                                                                                                      IB Serv./Past 12 Mos.
+
+Rating                                                                 Count                 Percent                  Count           Percent
+
+BUY [B]                                                                                                                                           138                                     63.00                                            20                        14.49
+HOLD [H]                                                                                                                                          78                                     35.60                                               6                          7.69
+SELL [S]                                                                                                                                               3                                        1.40                                               0                          0.00
+
+This report does not purport to be a complete statement of all material facts related to any company, industry, or security mentioned. The
+information provided, while not guaranteed as to accuracy or completeness, has been obtained from sources believed to be reliable. The
+opinions  expressed  reflect  our  judgment  at  this  time  and  are  subject  to  change  without  notice  and  may  or  may  not  be  updated.  Past
+performance  should  not  be  taken  as  an  indication  or  guarantee  of  future  performance,  and  no  representation  or  warranty,  express  or
+implied, is made regarding future performance. This notice shall not constitute an offer to sell or the solicitation of an offer to buy, nor shall
+there  be  any  sale  of  these  securities  in  any  state  in  which  said  offer,  solicitation,  or  sale  would  be  unlawful  prior  to  registration  or
+qualification under the securities laws of any such state. This research report was originally prepared and distributed to institutional clients
+of ThinkEquity LLC. Recipients who are not market professionals or institutional clients of ThinkEquity LLC should seek the advice of their
+personal  financial  advisors  before  making  any  investment  decisions  based  on  this  report.  Additional  information  on  the  securities
+referenced  is  available  upon  request.  In  the  event  that  this  is  a  compendium  report  (covers  more  than  six  ThinkEquity  LLC-covered
+subject  companies),  ThinkEquity  LLC  may  choose  to  provide  specific  disclosures  for  the  subject  companies  by  reference.  To  request
+more  information  regarding  these  disclosures,  please  call:  866-288-8206,  or  write  to:  Director  of  Research,  ThinkEquity  LLC,  600
+Montgomery  Street,  San  Francisco,  California,  94111.  Stocks  mentioned  in  this  report  are  not  covered  by  ThinkEquity  LLC  unless
+otherwise mentioned. Member of FINRA and SIPC. Copyright 2011 ThinkEquity LLC, A Panmure Gordon Company
+
+                                                                                                                                            Page 16
+                                                                                                                                                    183

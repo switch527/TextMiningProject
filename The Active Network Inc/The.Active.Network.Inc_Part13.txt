@@ -1,0 +1,405 @@
+---------------------Page 1---------------------
+
+                                                                                                      January 5, 2012
+                                                                                                  Industry Report
+
+Technology: Application Software                                                Reason for Report:
+
+SaaS/Application Software: Year Ahead 2012                                      Industry Update
+                                                                                Brian Schwartz
+THINK SUMMARY:                                                                  415-249-1982, bschwartz@thinkequity.com
+In   selecting   our   2012   "Fab   Four",   ACTV,   KNXA,   LPSN,   &   ULTI   scored
+exceptionally well in five critical areas: SaaS business model, horizontal solutions,
+high  scarcity  value,  Enterprise-wide  deployments  and  a  cost-savings  value
+proposition. On an application segment basis, we remain most bullish on the
+Talent Management sector owing to its strong secular and cyclical trends and top
+segment rank scoring among our five critical areas.
+
+KEY POINTS:
+In choosing our "Fab Four" ideas for 2012, we evaluated a dozen small, mid and
+large cap Enterprise software companies that we follow in the following five critical
+areas and selected companies that we viewed as strong in all five categories:
+Company-specific secular trends and brief snapshots are located on page 2.
+1. SaaS  business  model.  We  are  seeing  a  monumental  shift  occurring  in
+Enterprise  Software  as  CIOs  transition  from  legacy,  client  server  software
+infrastructure  to  SaaS  platforms.  Although  many  Enterprises  are  still  buying
+software in the traditional, on-premise format, we prefer the predictability, stability,
+and faster innovation cycles of the SaaS business model.
+2.  Horizontal  solutions.  The  ability  to  sell  to  almost  any  size  organization
+or industry vertical with little to no customization makes it easier to add new
+customers and provides diversification from vertical slowdowns (i.e., such as the
+current Housing industry is experiencing). This can also lead to higher operating
+margins from lower C.O.G.S. and R&D requirements.
+3. High scarcity value. With organic growth rates slowing among most of the
+largest Enterprise software companies, it is logical to assume an organic growth
+challenged large software vendor will attempt to identify a unique technology
+asset and consider acquiring them as one of their eventual options.
+4. Enterprise-wide deployments. Solutions that are adopted by every employee
+increases  stickiness,  demonstrates  scale,  and  should  provide  better  data
+analytics capabilities for the Enterprise than solutions sold solely into divisions. In
+our view, pervasive usage makes a more compelling case for CIOs to standardize
+on an Enterprise-wide platform and procure additional solutions over time from
+this type of vendor than a divisional platform. This is not to say that companies
+can not generate strong growth simply by selling into divisions. Years ago, who
+would have ever envisioned salesforce.com becoming a $15B company simply by
+selling salesforce automation software to the sales and marketing departments.
+However, if divisional solutions never gain adoption Enterprise-wide than they
+lack a compelling case around data integration and analytics, in our opinion.
+Additionally, vendors solely selling into divisions will likely eventually succumb to
+market saturation and risk a slow descent in their new business growth rates as
+available runway shrinks.
+5. Cost savings value proposition. Though we have no call on the global
+macro outlook, clearly there are heightened concerns around slowing growth
+rates among the BRIC economies and the sovereign debt crisis in Europe. We
+recently experienced elements of a more cautious IT buyer and elongated sales
+cycles in our November/December field checks, and from recent new business
+results from industry bellwethers such as Oracle and salesforce.com. In a slowing
+macro environment the IT buyer tends to be more focused on a quick ROI. And
+we believe it is easier to validate a quick ROI with a cost-savings solution than a
+demand generation solution, in most cases. Thus winning new business with a
+demand generation value proposition tends to be more vulnerable to customer
+business cycles in this type of macro backdrop, in our opinion.
+Please see analyst certification (Reg. AC) and other important disclosures on pages 7-8 of this report.
+                                                                                                                      92
+---------------------Page 2---------------------
+
+                                                                                                                                                January 5, 2012
+
+                                                                                                                                            Industry Report
+
+THE FAB FOUR - ACTV, KNXA, LPSN, ULTI
+
+                                               The Active Network
+Pros:  Dominant brand with ~80M+ annual        Cons:  Investment story could be better known   Overall:  Although The Active Network will 
+transactions;  a deep competitive moat; sticky and no good comps;  duplicative platform make duplicative C.O.G.S. and R&D 
+business; substantial margin expansion potential;  support will temper margins til 2014; vulnerable  investments in 2012 in support of their 
+reasonable valuation                     to inclement weather                    unified platform strategy; we believe growth 
+                                                                                 prospects for all four business segments 
+                                                                                 remain attractive and estimates appear 
+                                                                                 conservative.
+                                                      Kenexa
+Pros:  Strong secular and cyclical market trends;    Cons:  Increased rate of investments will temper  Overall:  A compelling value proposition for 
+dominates Enterprise RPO landscape; margin margin expansion slightly in 2012;  higher Enterprises combined with robust industry 
+recovery story; reasonable valuation     services revenue mix; vulnerable to employment  trends should lead to solid organic top-line 
+                                         trends                                  growth and expanding margins. Revenue 
+                                                                                 estimates appear conservative.
+                                                    LivePerson
+Pros:  Dominates proactive online chat market;     Cons:  Q4 revenue expectation is a lofty target;   Overall:  Expect above industry growth as 
+morphing into a data analysis company; high low-end chat is becoming commoditized; higher  more Enterprises adopt a real-time 
+scarcity value; enters 2012 with ~30% more recent management churn               behavioral targeting platform to improve 
+Enterprise sales capacity                                                        conversion rates.  Higher sales capacity and 
+                                                                                 new product cycles could lead to faster 
+                                                                                 growth in 2012.
+
+                                          The Ultimate Software Group
+Pros:  Sticky business; high barriers to entry;      Cons:  Tends to guide aggressively on margins;   Overall:  We see robust top-line growth in 
+growing attach rates & deal sizes; balanced growth  increased competitor noise from Workday;  2012 for ULTI driven by increasing end-market 
+& profitability; highly seasoned salesforcechallenge to expand overseas          demand as the Enterprise payroll market tips 
+                                                                                 to SaaS and the companies attractive value 
+                                                                                 proposition against the payroll processors.  
+                                                                                 Also view ULTI's unified talent management 
+                                                                                 platform as an attractive M&A characteristic.
+
+Source: ThinkEquity LLC.
+
+KEY COMPANY-SPECIFIC SECULAR TRENDS
+
+ACTV: SaaS-based online registrations lifecycle management platform is imperative in our view for events management
+organizations  to  increase  participation  rates  and  enhance  customer  service;  shift  from  offline  to  online  registrations,
+transactions and advertisement
+
+KNXA: Skilled labor shortages; higher employee attrition; automating and outsourcing HR department requirements
+
+LPSN: Real-time customer behavioral analysis are essential in our view for effective online selling and customer support
+
+ULTI: SaaS payroll is starting to tip into the Enterprise market = larger deal sizes & improved revenue visibility; automating
+HR department requirements
+
+                                                                                                                                                                Page 2
+                                                                                                                                                                        93
+---------------------Page 3---------------------
+
+                                                                                                     January 5, 2012
+                                                                                                 Industry Report
+
+VALUATION AND PRICE TARGETS
+
+ACTV: Currently, ACTV shares trade 18x EV/2011E EBITDA. Our $18 price target for ACTV shares is based on a 18x EV/
+EBITDA multiple applied to our 2012 estimate of $54M. We assume ACTV maintains a similar valuation multiple and believe
+this multiple is appropriate since the business has a highly predictable revenue stream and the multiple is in the middle of
+our 15-20% long-term CAGR expectation.
+
+KNXA: At approximately 14x our EV/FTM OCF estimate of $43M, we believe KNXA is one of the more attractively valued
+stocks in our SaaS software universe. On an EV/2012E revenue basis, KNXA shares trade at just 2.1x versus the SaaS
+companies group average of 4.3x. The stock also trades at a noticeable discount to the 2.9x group average on an EV/2012E
+revenue basis for our Non-SaaS application companies. Our $32 price target is based on our assumption that the shares will
+trade at 2.4x EV/2012E revenue, which we think is appropriate, as it is a noticeable discount to the SaaS group average. We
+think KNXA shares should continue to trade at a discount to the SaaS group average owing to its higher services revenue mix
+than most SaaS vendors. However, we don't think the shares should trade at a discount to the Non-SaaS group average due
+to the higher visibility of its subscription model and faster organic revenue growth, cash flow growth and EPS growth than the
+Non- SaaS group average, but we use a slight discount group average multiple to the Non-SaaS group to be conservative.
+
+LPSN: Currently, LPSN shares trade at approximately 21x our EV/FTM cash from operations estimate of $29M, which is below
+the entire SaaS group average of 27x. Our $14 per-share price target for LPSN shares is based on 23x our EV/2012 cash from
+operations estimate of $31M, as we assume that LPSN will maintain essentially a similar valuation multiple in the out year and
+we believe this multiple to be appropriate and conservative since we think that LPSN shares warrant at least a group average
+multiple because of what we believe is LivePerson's leading market positioning in the Customer Intelligent Engagement market
+and higher profitability profile than most other SaaS providers.
+
+ULTI: ULTI currently trades at 5.3x our EV/FTM Rev estimate of $312M, which is a premium to the current SaaS Group average
+of 4.3x. Our valuation analysis yields a $63 per-share price target for ULTI shares, which is based on 5.1x 2012E EV/ Rev. We
+assume ULTI will maintain a slightly more conservative valuation multiple in the out-year and believe this multiple is appropriate
+since historically ULTI trades at ~5x Ev/Rev.
+
+RISKS TO PRICE TARGETS
+
+ACTV: 1) acquisition integration challenges; 2) macroeconomic fluctuations; 3) increased churn; 4) failure to demonstrate
+leverage to R&D spend; and 5) failure to expand into other verticals and geographies.
+
+KNXA: 1) Prolonged weakness in IT spending; 2) macroeconomic fluctuations; 3) increase in customer churn; 4) slow customer
+adoption of talent management software; 5) rising unemployment; 6) acquisition integration challenges; 7) competition.
+
+LPSN: 1) Competition. The above-average industry growth and increasing strategic value of customer intelligent solutions
+could attract the attention of larger software players. These larger software companies could then leverage the scale of their
+business, and size of their customer bases, to price competing solutions aggressively; which could make new customer
+additions and growth more challenging for LivePerson. 2) Macroeconomic fluctuations. LivePerson, like most other software
+companies, are exposed to changes in customer demand caused by macro fluctuations such as a recession. Any significant
+downturn in the economy most likely would result in a tightening of corporate IT budgets that could cause customers to defer
+investing in customer intelligent solutions. 3) Increased churn. SaaS companies are focused on customer renewals to sustain
+the business models. If renewals dip below historical levels, growth will become more of a challenge. 4) Legal Risk. The
+company is currently involved in two patent infringement litigation suits. While we can not predict the ultimate outcome of
+any legal proceedings, the suits could cause new customers from deferring purchases of LivePerson or existing customers
+canceling service as a result of these cases. Additionally, there could be monetary damages that could have an adverse effect
+on the companys financial position. The company has not accrued any monies for these cases as they believe the cases are
+without merit and any amount of loss, if any, cannot be reasonably estimated at this time.
+
+                                                                                                               Page 3
+                                                                                                                     94
+---------------------Page 4---------------------
+
+                                                                                                January 5, 2012
+                                                                                             Industry Report
+
+ULTI: 1) competition; 2) macroeconomic fluctuations; 3) rapid increase in the unemployment rate 4) increase in customer
+churn; 5) slow customer adoption of talent management solutions; 6) longer deployment cycles.
+
+                                                                                                          Page 4
+                                                                                                                95
+---------------------Page 5---------------------
+
+                                                                                                                                                                      Brian Schwartz
+                                                                                                                                                                  Sr. Research Analyst
+                                                                                                                                                                       415.249.1982
+                                                                                                                                                             bschwartz@thinkequity.com
+
+ThinkEquity
+
+Software Company Comparable Analysis
+
+                                                                                                                         LTM/
+                                                                     Market  Enterprise   LTM        FTM      2013E    FTM est.    EV/        EV/       EV/
+                                               Last        Shares     Cap      Value      Sales   Sales est.  Sales     Sales      LTM     FTM est.   2013E
+                                               1/4/12        (M)      ($M)      ($M)      ($M)       ($M)      ($M)    Growth     Sales      Sales     Sales
+Think SaaS Universe *
+CRM               salesforce.com              $97.48       142.2     13,862    13,055     2,092     2,737     3,554      31%       6.2x      4.8x      3.7x
+SFSF              SuccessFactors             $39.81         87.0      3,463     3,216      298       404       501       36%       10.8x     8.0x      6.4x
+N                 NetSuite                    $38.82        71.0      2,756     2,629      224       282       364       26%       11.7x     9.3x      7.2x
+CNQR              Concur Technologies        $49.52         55.7      2,758     2,390      350       438       541       25%       6.8x      5.5x      4.4x
+ULTI              Ultimate Software Group      $64.43       26.7      1,720     1,668      257       312       398       21%       6.5x      5.3x      4.2x
+TLEO              Taleo                       $37.97        43.7      1,659     1,548      309       368       437       19%       5.0x      4.2x      3.5x
+RNOW              RightNow Technologies      $42.73         36.0      1,538     1,457      207       246       321       19%       7.0x      5.9x      4.5x
+ACTV              The Active Network          $13.19        62.8      828        690       323       375       454       16%       2.1x      1.8x      1.5x
+KNXA              Kenexa                     $24.97         27.9      697        603       276       281       371       2%        2.2x      2.1x      1.6x
+LPSN              LivePerson                  $12.01        55.7      669        588       127       155       192       22%       4.6x      3.8x      3.1x
+CTCT              Constant Contact            $22.26        30.4      677        548       204       241       296       18%       2.7x      2.3x      1.9x
+Other SaaS Software
+ARBA              Ariba                       $27.69        97.6      2,701     2,476      444       527       604       19%       5.6x      4.7x      4.1x
+CALD              Callidus Software             $6.53       32.4      211        214       80        94        112       17%       2.7x      2.3x      1.9x
+CNVO              Convio                      $11.12        18.3      203        152       77        89        106       16%       2.0x      1.7x      1.4x
+CSOD              Cornerstone Ondemand      $17.86          48.1      858        758       47        99        151      112%       16.3x     7.7x      5.0x
+DMAN              DemandTec                 $13.15          33.3      438        374       89        100       112       12%       4.2x      3.7x      3.3x
+IL                Intralinks                    $6.39       54.1      346        390       171       211       233       24%       2.3x      1.8x      1.7x
+JCOM              J2 Global                   $28.26        46.3      1,308     1,145      326       353       375       8%        3.5x      3.2x      3.0x
+LOGM              Logmein                    $37.71         24.2      913        727       118       135       174       14%       6.2x      5.4x      4.2x
+RP                RealPage                   $25.33         70.9      1,795     1,785      241       315       399       31%       7.4x      5.7x      4.5x
+MKTG              Responsys                  $9.04          47.1      425        339       128       153       189       19%       2.6x      2.2x      1.8x
+SPSC              SPS Commerce              $24.88          12.0      298        266       54        67         82       24%       4.9x      4.0x      3.2x
+VOCS              Vocus                      $21.60         20.8      450        344       110       127       149       15%       3.1x      2.7x      2.3x
+Non-SaaS Software
+ORCL              Oracle*                     $26.01       5123.0    133,249   117,015   36,822     38,992    42,297     6%        3.2x      3.0x      2.8x
+CTXS              Citrix Systems               $61.87      188.3     11,648    10,873     2,117     2,416     2,781      14%       5.1x      4.5x      3.9x
+INFA              Informatica                  $35.52      106.7      3,789     3,235      755       867      1,039      15%       4.3x      3.7x      3.1x
+OTEX              Open Text                   $51.57        57.3      2,955     3,180     1,104     1,244     1,315      13%       2.9x      2.6x      2.4x
+PEGA              PegaSystems                $28.17         37.5      1,058      959       391       460       589       18%       2.5x      2.1x      1.6x
+SREV              ServiceSource               $15.50        68.0      1,054      981       189       229       289       21%       5.2x      4.3x      3.4x
+BLKB              Blackbaud Inc.               $28.31       44.6      1,263     1,190      363       407       453       12%       3.3x      2.9x      2.6x
+BIRT              Actuate                      $5.75        47.2      271        208       132       143       156       8%        1.6x      1.5x      1.3x
+SABA              Saba                        $7.62         29.3      224        204       120       136       171       13%       1.7x      1.5x      1.2x
+Group Multiples
+Think SaaS Universe
+Average                                                              2,784      2,581      424       531       675       21%       6.0x      4.8x      3.8x
+Median                                                               1,659      1,548      276       312       398       21%       6.2x      4.8x      3.7x
+All SaaS Companies 
+Average                                                              1,764      1,624      285       353       440       24%       5.5x      4.3x      3.4x
+Median                                                                858        727       207       246       321       19%       4.9x      4.0x      3.3x
+Non-SaaS Companies
+AVG                                                                 34,426     29,709    10,067     10,702    10,661     11%       3.2x      2.9x      2.5x
+Median                                                               3,372      3,208      929      1,056     1,068      12%       3.1x      2.9x      2.6x
+Sources:  FactSet, company reports and ThinkEquity LLC estimates
+* = ThinkEquity LLC estimates only
+
+                                                                                                                                                                             Page 5
+
+                                                                                                                                                                                     96
+---------------------Page 6---------------------
+
+                                                                                                                                                                                     Brian Schwartz
+                                                                                                                                                                                 Sr. Research Analyst
+                                                                                                                                                                                      415.249.1982
+                                                                                                                                                                            bschwartz@thinkequity.com
+
+ThinkEquity
+
+Software Company Comparable Analysis
+
+                                                                                                       EPS     EPS     EPS      LTM               FTM                    FTM
+                                               Last       EPS     EPS     EPS     P/E    P/E    P/E  Growth Growth Growth       OCF       EV/    OCF est.     EV/      FCF est.      EV/
+                                               1/4/12     2011E  2012E  2013E  2011E 2012E 2013E  2011E  2012E  2013E           ($M)   LTM OCF     ($M)   FTM OCF est.   ($M)   FTM FCF est.
+Think SaaS Universe *
+CRM               salesforce.com              $97.48      $1.32  $1.77    $2.14   74x    55x    46x     8%     34%     21%     516.9     25.3x    648.0      20.1x       479.2      27.2x
+SFSF              SuccessFactors             $39.81       $0.13  $0.18    $0.24    ...    ...    ...   44%     100%    85%      36.5     88.1x     42.6      75.5x       31.8      101.1x
+N                 NetSuite                    $38.82      $0.16  $0.23    $0.34    ...    ...    ...   23%     44%     48%      29.1     90.4x     46.8      56.2x       36.0       73.0x
+CNQR              Concur Technologies        $49.52       $0.77  $0.85    $1.19   64x    58x    42x     -4%    10%     40%      77.0     31.0x     83.1      28.8x       44.9       53.2x
+ULTI              Ultimate Software Group      $64.43     $0.65  $1.00    $1.45   99x    64x    44x    38%     54%     45%      32.8     50.9x     50.2      33.2x       34.0       49.1x
+TLEO              Taleo                       $37.97      $1.03  $1.18    $1.27   37x    32x    30x    32%     15%      8%      24.1     64.2x     59.5      26.0x       43.1       35.9x
+RNOW              RightNow Technologies      $42.73       $0.58  $0.83    $1.14   74x    51x    37x    18%     43%     37%      20.9     69.7x     38.6      37.8x       22.2       65.6x
+ACTV              The Active Network          $13.19      -$0.05  $0.15   $0.18    …    88x     73x     …    -400%     20%      0.0                44.6      15.5x       19.2       36.0x
+KNXA              Kenexa                     $24.97       $0.82  $1.07    $1.38   30x    23x    18x    32%     30%     29%      42.8     14.1x     43.3      13.9x       24.3       24.8x
+LPSN              LivePerson                  $12.01      $0.34  $0.40    $0.46   35x    30x    26x    13%     18%     15%      23.0     25.6x     28.7      20.5x       21.0       28.0x
+CTCT              Constant Contact            $22.26      $0.67  $0.95    $1.19   33x    23x    19x    76%     42%     25%      32.8     16.7x     45.6      12.0x       25.8       21.2x
+Other SaaS Software
+ARBA              Ariba                       $27.69      $0.84  $1.00    $1.15   33x    28x    24x    11%     19%     15%      66.0     37.5x     95.8      25.9x       82.1       30.1x
+CALD              Callidus Software             $6.53     $0.03  $0.14    $0.46    ...   47x    14x     ...      …      ...     -1.5      …       0.0         …                      …
+CNVO              Convio                      $11.12      $0.39  $0.50    $0.66   29x    22x    17x     3%     28%     32%      8.0      19.0x     13.2      11.5x        7.6       20.1x
+CSOD              Cornerstone Ondemand      $17.86        -$0.29  -$0.08  $0.10    …     ...     ...     …    -72%     -225%    -2.1      …      11.9        63.7x        5.9        …
+DMAN              DemandTec                 $13.15        -$0.05  $0.11   $0.11    …     ...     ...   67%     -320%    0%      7.5      49.6x     11.1      33.7x        7.7       48.7x
+IL                Intralinks                    $6.39     $0.44  $0.47    $0.56   15x    14x    11x     …     7%       19%      35.4     11.0x     54.1       7.2x       31.8       12.2x
+JCOM              J2 Global                   $28.26      $2.52  $2.62    $2.72   11x    11x    10x    29%      4%      4%     101.8     11.2x    141.9       8.1x       139.1       8.2x
+LOGM              Logmein                    $37.71       $0.67  $0.81    $0.97   56x    47x    39x     …     21%      20%      30.1     24.2x     40.0      18.2x       31.8       22.9x
+RP                RealPage                   $25.33       $0.35  $0.49    $0.66   72x    52x    38x     …     40%      35%      27.7     64.4x     62.4      28.6x       45.3       39.4x
+MKTG              Responsys                  $9.04        $0.19  $0.22    $0.33   48x    41x    27x     …     16%      50%      19.5     17.4x     27.6      12.2x       17.5       19.4x
+SPSC              SPS Commerce              $24.88        $0.25  $0.46    $0.63   100x   54x    39x    -19%    84%     37%      4.9      54.1x     8.1       33.0x        6.3       42.2x
+VOCS              Vocus                      $21.60       $0.79  $0.90    $1.04   27x    24x    21x    11%     14%     15%      15.9     21.6x     29.0      11.9x       24.9       13.8x
+Non-SaaS Software
+ORCL              Oracle*                     $26.01      $2.31  $2.50    $2.69   11x    10x    10x    21%      8%      8%    13,129.0   8.9x    13,447.0     8.7x     12,913.0      9.1x
+CTXS              Citrix Systems               $61.87     $2.46  $2.79    $3.15   25x    22x    20x    18%     13%     13%     468.1     23.2x    827.9      13.1x       689.8      15.8x
+INFA              Informatica                  $35.52     $1.39  $1.66    $1.93   26x    21x    18x    23%     19%     16%      95.3     33.9x    209.5      15.4x       194.5      16.6x
+OTEX              Open Text                   $51.57      $4.19  $5.00    $5.50   12x    10x     9x    13%     19%     10%     132.9     23.9x    288.2      11.0x       242.0      13.1x
+PEGA              PegaSystems                $28.17       $0.61  $0.97    $1.41   46x    29x    20x     7%     59%     45%                                   …                   58.1x
+SREV              ServiceSource               $15.50      $0.05  $0.14    $0.21    ...    ...   74x    -50%    180%    50%                         18.3      53.7x        3.6        …
+BLKB              Blackbaud Inc.               $28.31     $1.08  $1.22    $1.39   26x    23x    20x    16%     13%     14%      72.6     16.4x     78.7      15.1x                  23.7x
+BIRT              Actuate                      $5.75      $0.50  $0.51    $0.63   12x    11x     9x    11%      2%     24%      16.8     12.4x     16.5      12.6x       15.7       13.2x
+SABA              Saba                        $7.62       -$0.28  $0.02   $0.04    ...    ...    ...     …    -107%  100%       12.6     16.2x     14.5      14.0x
+Group Multiples
+Think SaaS Universe
+Average                                                   $0.58  $0.78    $1.00   56x    47x    37x    28%      -1%    34%      76.0     47.6x    102.8      30.9x       71.0       46.8x
+Median                                                   $0.65  $0.85     $1.19   51x    51x    37x    28%     34%     29%      32.8     40.9x     45.6      26.0x       31.8       36.0x
+All SaaS Companies 
+Average                                                   $0.55  $0.71    $0.89   49x    40x    30x    24%      -8%    17%      50.0     39.3x     70.7      27.0x       53.7       36.8x
+Median                                                   $0.44  $0.50     $0.66   37x    41x    27x    21%     20%     23%      27.7     28.3x     43.3      23.2x       28.8       30.1x
+Non-SaaS Companies
+AVG                                                      $1.86  $2.13     $2.46   19x    16x    18x    16%     18%     25%     3,442.7   17.0x   3,952.8     15.1x      4,040.1     17.7x
+Median                                                   $2.27  $2.41     $2.65   16x    15x    15x    18%     12%     14%     300.5     16.3x    288.2      13.1x       465.9      13.2x
+Sources:  FactSet, company reports and ThinkEquity LLC estimates
+* = ThinkEquity LLC estimates only
+
+                                                                                                                                                                                            Page 6
+
+                                                                                                                                                                                                    97
+---------------------Page 7---------------------
+
+                                                                                                              January 5, 2012
+                                                                                                           Industry Report
+
+COMPANIES MENTIONED IN THIS REPORT:
+Company                                                    Exchange              Symbol            Price        Rating
+Concur Technologies, Inc.                                   NASDAQ               CNQR             $49.52         Hold
+Constant Contact, Inc.                                      NASDAQ                CTCT            $22.26         Hold
+Kenexa Corporation                                          NASDAQ                KNXA            $24.97         Buy
+LivePerson, Inc.                                            NASDAQ                LPSN            $12.01         Buy
+NetSuite Inc.                                                NYSE                   N             $38.82         Hold
+Oracle Corporation                                          NASDAQ                ORCL            $26.01         Buy
+RightNow Technologies, Inc.                                 NASDAQ               RNOW             $42.73         Hold
+salesforce.com, Inc.                                         NYSE                 CRM             $97.48         Hold
+Taleo Corp.                                                 NASDAQ                TLEO            $37.97         Hold
+The Active Network, Inc.                                     NYSE                 ACTV            $13.19         Buy
+The Ultimate Software Group, Inc.                           NASDAQ                ULTI            $64.43         Buy
+
+Important Research Disclosures
+
+Analyst Certification
+I, Brian Schwartz, hereby certify that all of the views expressed in this research report accurately reflect my personal views about the
+subject securities and issuers. I also certify that no part of my compensation was, is, or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+The analyst(s) responsible for preparing this report has/have received compensation based on various factors, including the firm's total
+revenues, a portion of which is generated by investment banking activities. The analyst(s) also receive compensation in the form of a
+percentage of commissions from trades made through the firm in the securities of the subject company of this report, although not for any
+investment banking transactions with or involving the subject company.
+ThinkEquity LLC and/or an affiliate managed or co-managed a public offering of securities for The Active Network, Inc. in the past 12
+months.
+ThinkEquity LLC makes a market in The Active Network, Inc., Concur Technologies, Inc., salesforce.com, Inc., Constant Contact, Inc.,
+Kenexa Corporation, LivePerson, Inc., NetSuite Inc., Oracle Corporation, RightNow Technologies, Inc., Taleo Corp. and The Ultimate
+Software Group, Inc. securities; and/or associated persons may sell to or buy from customers on a principal basis.
+ThinkEquity LLC has made affirmative disclosures concerning each of the covered securities mentioned in this report, including analyst
+holdings (if any), rating definitions and overall ratings distributions. These disclosures can be found in the most recent complete research
+report for each of the respective companies. Reports are available upon request.
+
+Rating Definitions
+
+Effective October 7, 2009, ThinkEquity LLC moved from a four-tier Buy/Accumulate/Source of Funds/Sell rating system to a three-tier Buy/
+Hold/Sell system. The new ratings appear in our Distribution of Ratings, Firmwide chart. To request historical information, including previously
+published reports or statistical information, please call: 866-288-8206, or write to: Director of Research, ThinkEquity LLC, 600 Montgomery
+Street, San Francisco, California, 94111.
+Buy: ThinkEquity expects the stock to generate positive risk-adjusted returns of more than 10% over the next 12 months. ThinkEquity
+recommends initiating or increasing exposure to the stock.
+Hold: ThinkEquity expects the stock to generate risk-adjusted returns of +/-10% over the next 12 months. ThinkEquity believes the stock
+is fairly valued.
+Sell: ThinkEquity expects the stock to generate negative risk-adjusted returns of more than 10% during the next 12 months. ThinkEquity
+recommends decreasing exposure to the stock.
+
+                                             Distribution of Ratings, Firmwide
+
+                                                      ThinkEquity LLC
+
+                                                                                                       IB Serv./Past 12 Mos.
+Rating                                                        Count              Percent               Count        Percent
+BUY [B]                                                         110                65.10                  15          13.64
+HOLD [H]                                                         47                27.80                   2           4.26
+SELL [S]                                                         12                 7.10                   0           0.00
+
+                                                                                                                          Page 7
+                                                                                                                                98
+---------------------Page 8---------------------
+
+                                                                                                                  January 5, 2012
+                                                                                                              Industry Report
+
+ 
+
+This report does not purport to be a complete statement of all material facts related to any company, industry, or security mentioned.
+The information provided, while not guaranteed as to accuracy or completeness, has been obtained from sources believed to be reliable.
+The opinions expressed reflect our judgment at this time and are subject to change without notice and may or may not be updated. Past
+performance should not be taken as an indication or guarantee of future performance, and no representation or warranty, express or implied,
+is made regarding future performance. This notice shall not constitute an offer to sell or the solicitation of an offer to buy, nor shall there be
+any sale of these securities in any state in which said offer, solicitation, or sale would be unlawful prior to registration or qualification under
+the securities laws of any such state. This research report was originally prepared and distributed to institutional clients of ThinkEquity LLC.
+Recipients who are not market professionals or institutional clients of ThinkEquity LLC should seek the advice of their personal financial
+advisors before making any investment decisions based on this report. Additional information on the securities referenced is available upon
+request. In the event that this is a compendium report (covers more than six ThinkEquity LLC-covered subject companies), ThinkEquity LLC
+may choose to provide specific disclosures for the subject companies by reference. To request more information regarding these disclosures,
+please call: 866-288-8206, or write to: Director of Research, ThinkEquity LLC, 600 Montgomery Street, San Francisco, California, 94111.
+Stocks mentioned in this report are not covered by ThinkEquity LLC unless otherwise mentioned. Member of FINRA and SIPC. Copyright
+2011 ThinkEquity LLC, A Panmure Gordon Company
+
+                                                                                                                              Page 8
+                                                                                                                                     99

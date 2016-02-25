@@ -1,0 +1,467 @@
+---------------------Page 1---------------------
+
+                                                                                                       March 6, 2012
+                                                                                                Company Report
+                                                                                                 Company Update
+
+The Active Network, Inc.                               ACTV: $15.86
+
+Buy                                          Price Target: $19.00                           Application Software
+
+ACTV: Key Takeaways From Investors HQ Meeting;
+Reiterate Buy Rating
+
+                                                                                                         Brian Schwartz
+THINK ACTION:
+We remain positive on The Active Network following a recent investors meeting      415-249-1982, bschwartz@thinkequity.com
+at their headquarters. Our comfort level with the current business momentum     Changes            Current    Previous
+is increasing, and we believe management's approach in the meetings             Rating                 Buy           --
+management market is visionary that could generate faster organic growth and
+                                                                                Price Target        $19.00           --
+higher profit margins. We also came away positive on the potential 2012 growth  FY11A REV (M)     $337.3A            --
+opportunities given a strong pipeline, new product cycles, improving win rates, FY12E REV (M)     $430.0E            --
+greater distribution capacity y/y, and solid end-market demand as companies     FY11A EPS         $0.07A             --
+of all sizes increasingly realize they need a SaaS-based event registration     FY12E EPS          ($0.05)E     $0.05E
+lifecycle management platform to improve ROI.
+                                                                                52-Week High:                   $19.99
+KEY POINTS:                                                                     52-Week Low:                    $12.30
+  Upward bias to growth trajectory. We maintain an upward bias to our ACTV      Shares O/S-Diluted (M):            63.0
+  revenue growth forecast and are increasingly comfortable with the current     Market Cap (M):                 $999.2
+  business  momentum.  Additionally,  our  job  postings  analysis  indicates  theAverage Daily Volume:        279,086
+  number of open sales positions has increased to 94, up from 64 at the start ofShort Interest:                   2.5%
+  Q1(+47% intraquarter), which likely reflects pipeline expansion activity and isDebt/Total Cap:                  0.3%
+  a positive trend. Data is on page 3.                                          Net Cash Per Share:               $1.98
+  Multiple expansion potential. Since the Street is not currently valuing the   P/E (12-month forward):             NA
+  business on Price/Sales, despite a highly recurring revenue stream and SaaS   Est. Long-Term EPS Growth:       35.0%
+  industry-leading retention rates, we believe consistent execution and further P/E/G:                             NM
+  ActiveWorks adoption could expand the company's trading multiple. In contrast Fiscal Year-End:                   Dec
+  to older products, ActiveWorks is not a point-product but a platform that couldREV (M)  $    2010A   2011A     2012E
+  be used by other divisions within a business. Thus, the organic growth potentialMar         63.2A     72.7A     91.1E
+  with existing customers is more attractive with ActiveWorks than the legacy   Jun           81.7A     99.0A    123.9E
+  solutions, in our opinion.                                                    Sep           73.1A     89.6A    115.1E
+                                                                                Dec           61.6A     76.0A     99.9E
+  Believe  Starcite  acquisition  is  visionary,  expect  the  market  to  follow
+                                                                                FY           279.6A    337.3A    430.0E
+  in  12-24  months.  The  Active  Network  is  the  only  vendor  we  are  aware
+  of that offers an integrated attendee management and spend management         FY P/S          3.6x     3.0x      2.3x
+  solution in the market today. We think it is a logical direction for the MeetingsEPS  $        2010A 2011A     2012E
+  Management  market  to  combine  attendee  management  capabilities  with
+  spend management capabilities in an integrated platform. By combining these   Mar          (0.19)A   (0.12)A  (0.41)E
+                                                                                Jun           0.05A     0.18A     0.13E
+  technologies, business will have greater visibility in forecasting event ROI.
+                                                                                Sep           0.01A     0.05A     0.15E
+  Latest   platform   architecture   could   lead   to   larger   deals   &   fasterDec      (0.12)A   (0.03)A    0.08E
+  innovation. ActiveWorks' service-oriented architecture, along with acquired   FY           (0.25)A    0.07A   (0.05)E
+  IP, allows for easy customizations and includes embedded capabilities that    FY P/E          NM     226.6x      NM
+  make larger events a more attractive ROI for the business, in our opinion.    EPS is Non-GAAP
+  Additionally, we expect The Active Network to leverage existing IP, along with
+  new innovations and acquired technologies like Starcite, to succeed in altering
+  its own architecture to accelerate new product introductions like Schwaggle,
+  over the next couple of years.
+  Increased  confidence  in  a  potential  multibillion  dollar  trajectory.  We
+  came away from the investor meetings with the impression that management
+  is focused on becoming a multi-billion dollar business. And we believe the
+  business strategy and product strategy are well-aligned as The Active Network
+  has mastered the art of event registration lifecycle management. Given the
+  fact that The Active Network is the 800-lb gorilla in the space, in our view,
+  we foresee strong pricing power and attractive cross selling opportunities in
+  the future. We also believe having a technological advantage, along with a
+  dominant brand, sets the stage for an enduring business model that will grow
+  rapidly with high profit margins.
+Please see analyst certification (Reg. AC) and other important disclosures on pages 6-7 of this report.
+                                                                                                                     22
+---------------------Page 2---------------------
+
+                                                                                                      March 6, 2012
+                                                                                              Company Report
+                                                                                                Company Update
+
+Bears' theses partially misguided, in our view. We've heard two bear theses recently and believe one thesis is overblown.
+First, some bears believe ACTV's IP is easy to replicate, indefensible and simply a payment processing engine. Our
+customer due diligence sessions have revealed quite the opposite. Customers indicate high satisfaction levels, in general,
+and especially with the workflow automation, ease of customization, and the back-end capabilities in addition to the payment
+processing engine. So while consumers/investors tend to only see the front-end of the solution (payment processing
+engine), the customers we spoke with tend to rave about the solution capabilities to manage their overall business not
+just the payments engine. We also think the level of annual R&D spend should allow ACTV to maintain a compelling
+technological advantage over the competition, in our view. Second and the other bear thesis is around technology-acquisition
+integration risk, which we view as a legitimate risk. As further discussed below, we expect The Active Network to be an
+aggressive consolidator of the space. And while acquisition waves create advantages in terms of pricing power and cross-
+sell opportunities, it also poses operational risks and could make it difficult for investors to discern The Active Network's
+underlying organic growth rate. We think as more customers migrate to the ActiveWorks platform (and the legacy product
+R&D spend diminishes) investors will see the margins accrete more meaningfully, which likely will dispel the bears thesis,
+though this could take a couple quarters or more to play out.
+Believe aggressive M&A strategy makes sense for an 800 lb gorilla. We view The Active Network as the undisputed
+leader in the registrations lifecycle management industry with 5x the scale of the nearest competitor and an annual R&D
+spend (~$80M in 2012) that is likely greater than most competitors' annual revenue. Our research indicates that The Active
+Network is automatically called in to the vast majority of deals and enjoys an unusual level of pricing power for its products.
+We therefore believe it is unlikely a small competitor or a new entrant can overcome ACTV's dominant market share, pricing
+power and large technological advantage. However, the registrations lifecycle management market is very large, highly
+fragmented and despite ACTV's size, the business is less than 10% penetrated in the market today and is less than 5%
+penetrated within the Enterprise customer base, in our view. Therefore, given the scale of the Active Network's infrastructure
+and existing service-oriented architecture, it makes sense for The Active Network to be "the big consolidator" in the space
+and enlarge its market share through an acquisition strategy, in our opinion. The Active Network typically acquires companies
+to enter new markets or add new products and/or capabilities to the suite.
+Believe Starcite acquisition is visionary, expect the market to follow in 12-24 months. The Active Network is the only
+vendor we are aware of that offers an integrated attendee management and spend management solution in the market
+today. We think The Active Network is showing significant market vision with the Starcite acquisition and likely has a 12-24
+month first-mover advantage before the competition follows. ACTV's strategy for the Meetings Management market could
+turn out analogous with Concur's vision to integrate expense management with travel management in 2006, in our view.
+We remember the nay sayers at first did not believe travel and expense management capabilities needed to be integrated
+and should be stand-alone, but this viewpoint was dispelled by customer purchasing habits, which forced the competition to
+follow Concur's market strategy. We think it is a logical direction for the Meetings Management market to combine attendee
+management solutions with spend management solutions in an integrated platform. By combining these technologies,
+businesses will have greater visibility in forecasting ROI for their events. We also note that the larger ERPs like Oracle
+already use The Active Network for their OpenWorld conferences in the US and China, which we think indicates the high-
+value of the technology.
+Latest platform architecture could lead to larger deals & faster innovation. Most of the largest SaaS companies
+we  follow  CRM,  CNQR,  ULTI,  RNOW  have  previously  upgraded  their  platforms  to  the  latest  technologies,  similar  to
+Active Network's development of the ActiveWorks platform. ActiveWorks' service-oriented architecture allows for easy
+customizations and includes embedded capabilities that make larger events a more attractive ROI for the business, in
+our opinion. Additionally, we expect The Active Network to leverage existing IP, along with new innovations and acquired
+technologies like Starcite, to succeed in altering its own architecture to accelerate new product introductions like Schwaggle,
+over the next couple of years.
+Increased confidence in a potential multibillion dollar trajectory. We came away from the investor meetings with the
+impression management has its sights set on becoming a multibillion business. And we believe the business strategy
+and  product  strategy  are  aligned  to  achieve  this  long-term  goal  since  The  Active  Network  has  mastered  the  art  of
+event registration lifecycle management. Because The Active Network has harnessed more than 10 years of technology
+development, it enjoys a lower long-term cost structure and faster rate of evolution of its technology, relative to other event
+registration lifecycle management vendors, in our opinion. And given the fact that we think The Active Network is the 800-
+lb gorilla in the space, we foresee strong pricing power and attractive cross selling opportunities in the future. We believe
+this technological advantage, along with a dominant brand, sets the stage for an enduring business model that will grow
+rapidly with high profit margins.
+
+                                                                                                              Page 2
+                                                                                                                    23
+---------------------Page 3---------------------
+
+                                                                                                         March 6, 2012
+                                                                                                 Company Report
+                                                                                                   Company Update
+
+  Margin expansion thesis appears on track. Part of the ACTV bull thesis revolves around on-going margin expansion in
+  the model. For the past two years EBITDA margins have grown ~200-300 bps annum and guidance assumes a similar
+  300bps expansion, excluding acquisitions. Margins are likely to stay flat in 1H:2012 (vs. 2H: 2011) owing to higher integration
+  costs and lower revenue recognized upfront from Starcite, but likely to accrete more meaningfully in 2H:2012 and 2013 from
+  salesforce efficiency gains, lower R&D spend, and higher bookings, in our view.
+
+  Multiple expansion potential. Since the Street is not currently valuing the business on Price/Sales, despite a highly,
+  recurring revenue stream and SaaS industry leading retention rates, we believe consistent execution and further ActiveWorks
+  adoption could expand the company's trading multiple. In contrast to older products, ActiveWorks is not a stand-alone point-
+  product but a platform that could be used by other divisions within a business. Thus, the organic growth potential with existing
+  customers is more attractive with ActiveWorks than the legacy solutions. One hurdle for revenue growth is migrating the
+  customer to the new platform, which typically involves a more consultative engagement.
+
+Exhibit 1: Q1 Open Job Positions Trend
+
+                       1/6/20121/13/20121/20/20121/27/20122/3/20122/10/20122/17/20122/24/20123/2/12
+Open Sales Positions       64      66     69      67    69      84     82      82   94
+% change since start of quarter   3%     8%      5%     8%    31%     28%     28%  47%
+Total Open Positions      139     147    161     164    163    192     193    185  194
+% change since start of quarter   6%     16%    18%    17%    38%     39%     33%  40%
+
+Source: Active.com
+
+VALUATION:
+Currently, ACTV shares trade 19x EV/2012E EBITDA. Our $19 price target for ACTV shares is based on the same EV/EBITDA
+multiple (i.e., 19x) applied to our 2013 EBITDA estimate of $60M. We roll over the valuation multiple to the out year and believe
+this multiple is appropriate since the business has a highly predictable revenue stream and the multiple is below our 20% long-
+term CAGR expectation. ACTV shares also trade at 2.1x EV/FTM estimated revenue, which is a 50% discount to the current
+SaaS companies' group average of 4.2x. Our $19 per-share price target for ACTV shares is also based on 2.2x our EV/2013E
+revenue estimate of $485M, as we use a similar valuation multiple in the out year. We think ACTV shares should continue to
+trade at a discount to the SaaS group average on EV/Rev's owing to its higher services revenue mix and lower gross margins
+than most SaaS vendors. We use a 50% multiple discount to the group average to reflect the model differences.
+
+RISKS TO PRICE TARGET:
+Risks to our price target include: 1) acquisition integration challenges; 2) macroeconomic fluctuations; 3) increased churn; 4)
+failure to demonstrate leverage to R&D spend; and 5) failure to expand into other verticals and geographies.
+
+COMPANY DESCRIPTION:
+Active Network is a cloud computing applications provider serving the outdoor, sports, community, and corporate business
+segments. Its products and solutions allow organizations to automate online registrations, automate workflow processes and
+better manage their activities. The company introduced its technology platform in 1999 and has become over time one of the
+largest online sites for a broad range of consumer and corporate activities. Active Network maintains its headquarters in San
+Diego, California.
+
+                                                                                                                 Page 3
+                                                                                                                       24
+---------------------Page 4---------------------
+
+                                                                                                                                                                                                               Brian J. Schwartz
+                                                                                                                                                                                                            Sr. Research Analyst
+                                                                                                                                                                                                                  415.249.1982
+                                                                                                                                                                                                       bschwartz@thinkequity.com
+The Active Network                                                                                                                                                                                                    3/6/2012
+Income Statement
+($ in millions, except per share)
+
+                                                                                   2011                                                 2012E                                              2013E
+
+                                                              Q1        Q2        Q3        Q4          FY         Q1E         Q2E         Q3E        Q4E       FY       Q1E      Q2E       Q3E      Q4E        FY
+
+                                         2009      2010     Mar-11    Jun-11    Sep-11    Dec-11       2011       Mar-12      Jun-12      Sep-12    Dec-12    2012E    Mar-13  Jun-13  Sep-13  Dec-13         2013E
+
+Technology                               210.5     237.7      63.1      85.6      76.3      65.5       290.4        79.5       107.8       99.2       87.2     373.7     89.4     122.0    111.3      96.9     419.7
+     Y/Y % Change                                   13%       15%       20%       22%      33%         22%          26%        26%         30%        33%      29%       12%      13%       12%       11%      12%
+     Q/Q % Change                                             28%       36%      -11%      -14%                     21%        35%         -8%       -12%                3%       36%       -9%      -13%
+     % of Total Rev                     86.7%      85.0%    86.8%     86.4%     85.2%     86.1%       86.1%       87.3%       87.0%       86.1%      87.3%     86.9%    87.0%    86.7%     85.7%    86.8%     86.5%
+
+Marketing Services                        32.4      41.9      9.6       13.5      13.3      10.6       46.9         11.5       16.1        16.0       12.7     56.3      13.4      18.7     18.5      14.7     65.3
+     Y/Y % Change                                   29%       16%       28%       24%      -15%        12%          20%        20%         20%        20%      20%       16%      16%       16%       16%      16%
+     Q/Q % Change                                            -23%       40%       -1%      -21%                     9%         40%         -1%       -21%                5%       40%       -1%      -21%
+
+ Total Revenue                           242.9     279.6     72.7      99.0      89.6      76.0       337.3         91.1       123.9      115.1       99.9     430.0    102.8     140.8    129.8     111.6    485.0
+     Y/Y % Change                         40%       15%       15%       21%       23%      23%         21%          25%        25%         29%        31%      27%       13%      14%       13%       12%      13%
+     Q/Q % Change                                             18%       36%      -10%      -15%                     20%        36%         -7%       -13%                3%       37%       -8%      -14%
+
+ Cost of Revenue
+
+Cost of Technology Revenue                          91.0      26.0      33.1      32.4      28.2       119.7        33.4       43.1        40.7       35.8     152.9     36.7      50.0     45.6      39.7     172.1
+                     Technology Margin                      58.8%     61.3%     57.6%     56.9%                   58.0%       60.0%       59.0%      59.0%              59.0%    59.0%     59.0%    59.0%
+Cost of Marketing Services                          6.2       1.2       1.5       1.6       1.7         6.0         1.6         2.3         2.2       1.8       7.9      1.9       2.6       2.6      2.1       9.1
+               Marketing Services Margin                    87.9%     89.0%     88.0%     83.8%                   86.0%       86.0%       86.0%      86.0%              86.0%    86.0%     86.0%    86.0%
+
+Gross Profit                             153.2     182.3      45.6      64.4      55.6      46.1       211.7        56.0       78.5        72.2       62.4     269.2     64.3      88.1     81.6      69.8     303.8
+                           Gross Margin  63.1%     65.2%    62.7%     65.0%     62.1%     60.7%       62.8%       61.5%       63.4%       62.7%      62.4%    62.6%     62.5%    62.6%     62.9%    62.6%     62.6%
+
+ Operating Expense
+
+Sales and Marketing                       49.8      58.5      16.8      18.3      16.8      16.9       68.8         22.0       23.1        20.3       20.1     85.5      24.1      26.5     23.9      23.6     98.2
+  % of Total Revenue                    20.5%     20.9%     23.0%     18.5%     18.8%     22.2%       20.4%       24.1%       18.6%       17.6%      20.1%    19.9%     23.5%    18.9%     18.4%    21.2%     20.2%
+     Y/Y % Change                         3%        18%       15%       22%       13%      20%         18%          31%        26%         21%        19%      24%       10%      15%       18%       18%      15%
+
+Research and Development                  58.2      60.9      16.1      16.2      17.3      16.3       65.8         20.4       21.2        19.9       17.9     79.4      19.2      23.0     21.9      20.8     84.8
+  % of Total Revenue                    23.9%     21.8%     22.1%     16.3%     19.3%     21.4%       19.5%       22.4%       17.1%       17.3%      17.9%    18.5%     18.6%    16.3%     16.8%    18.6%     17.5%
+
+General and Administrative                29.7      38.0      10.2      11.1      10.4      14.2       45.8         17.5       17.6        15.5       12.4     63.0      15.1      19.7     18.7      17.8     71.3
+  % of Total Revenue                    12.2%     13.6%     14.0%     11.2%     11.6%     18.7%       13.6%       19.2%       14.2%       13.5%      12.4%    14.7%     14.7%    14.0%     14.4%    15.9%     14.7%
+
+Total Costs and Expenses                 245.8     270.8      73.8      83.9      82.1      81.2       321.0       102.7       113.6       105.0      94.3     415.7    103.4     128.3    119.0     110.3     461.0
+
+ PF Operating Income                      3.0       5.8      (1.1)     15.1       7.4      (5.1)       16.3        (11.6)      10.3        10.1       5.6      14.3      (0.5)    12.5      10.8      1.3      24.0
+
+                   PF Operating Margin   1.2%      2.1%      (1.5%)   15.3%      8.3%      (6.7%)     4.8%        (12.8%)      8.3%       8.8%       5.6%      3.3%     (0.5%)    8.9%     8.3%      1.1%     4.9%
+
+Non-Cash Items/Stock Comp./Other         35.1      26.7       (7.5)    (7.3)     (7.9)     (9.7)      (32.3)       (13.5)      (13.9)      (12.8)    (11.7)    (51.8)   (12.8)    (14.7)   (14.2)    (13.2)   (54.9)
+
+Total Other Income                        (3.8)     (4.8)     (1.3)    (1.2)     (0.0)     (0.2)       (2.7)        1.0         1.0        1.0        1.0       4.0      1.0       1.1      1.2       1.3      4.6
+
+PF Net Income                           (15.3)     (10.1)     (5.3)    10.2       3.1      (1.8)       6.2         (26.5)       8.8        10.0       5.3      (3.2)    (18.2)    10.6      10.2     (1.8)     (0.0)
+PF Net Income %                          -6.3%     -3.6%     -7.3%     10.3%     3.4%      -2.4%       1.8%       -29.0%       7.1%        8.7%       5.3%     -0.7%    -17.7%    7.5%      7.9%     -1.6%     0.0%
+
+GAAP Net Income                        (37.9)      (27.2)    (10.9)     5.5      (1.4)     (8.5)      (14.6)       (28.9)      (3.1)       (2.1)      (5.9)    (40.0)   (16.7)    (1.5)     (2.9)    (14.4)   (35.5)
+
+ PF EPS                                 ($0.38)   ($0.25)   ($0.13)    $0.18     $0.05    ($0.03)     $0.07       ($0.41)     $0.13       $0.15      $0.08    ($0.05)   ($0.26)  $0.15     $0.14    ($0.02)   ($0.00)
+     Y/Y % Change                       44.0%     35.8%     30.3%     256.3%    377.7%    76.8%        N/A        (217.5%)    (24.4%)    209.5%       N/A       N/A     36.5%    11.8%     (5.9%)     N/A     99.3%
+
+GAAP EPS                              ($1.57)     ($1.33)   ($0.43)    $0.03    ($0.03)   ($0.16)     ($0.58)     ($0.53)     ($0.06)     ($0.04)    ($0.10)  ($0.73)   ($0.29)  ($0.03)   ($0.05)  ($0.25)   ($0.62)
+
+Fully Diluted Shares Outstanding (M)       40.5     41.7      49.0      57.4      62.8      63.5       58.2         63.8       65.0        66.3       67.7     65.7      69.0      70.4     71.8      73.2     71.1
+
+Adj. EBITDA                               15.7      25.1      2.6       20.8      12.7      2.3        38.0         -4.1       18.3        18.8       14.9     47.9      7.5       21.2     20.1      11.3     60.1
+    Y/Y Change %                                    60%      145%      76%       37%       -20%        51%         -259%       -12%        48%       558%      26%      -284%     16%       7%       -24%      26%
+
+Adj. EBITDA margin (%)                    6%        9%        4%        21%       14%       3%         11%          -5%        15%         16%        15%      11%       7%       15%       15%       10%      12%
+ Adj. EBITDA/Share                       $0.39     $0.60     $0.05     $0.36     $0.20    $0.04       $0.65       ($0.06)     $0.28       $0.28      $0.22    $0.73     $0.11    $0.30     $0.28     $0.15    $0.85
+
+                                                                                              Management Guidance
+Net Revenues ($M)                                                               84-88      72-76     333-337       89-93                                      425-435
+Registration Growth                                                            5% to 7% 12% to 14%              13% to 15%
+Rev Per Registration Growth                                                    6% to 8% 1% to 3%                 3% to 5%
+Net Loss ($M)                                                                  (3.5)-(1.5) (15)-(13) (22) - (20) (27) - (25)                                 (39) - (35)
+interest, taxes & other ($M)                                                         0.9
+Depreciation & Amortization ($M)                                                             11.6      44.0         15.2                                       60.0
+SBC ($M)                                                                         1.6                    8.0         5.8                                        21.0
+Adjusted EBITDA ($M)                                                            10-12       1-3      36.7-38.7    (5) - (3)                                    46-50
+
+                                                                                  Source:  Company reports and ThinkEquity LLC estimates
+
+                                                                                                                                                                                                                        Page 4
+
+                                                                                                                                                                                                                                 25
+---------------------Page 5---------------------
+
+                                                                                                                                                                                                                                                                Brian J. Schwartz
+The Active Network                                                                                                                                                                                                                                           Sr. Research Analyst
+Balance Sheet and Cash Flow Model                                                                                                                                                                                                                                  415.249.1982
+US $ Millions, except per share                                                                                                                                                                                                                        bschwartz@thinkequity.com
+                                                                                                                                                                                                                                                                       3/6/2012
+                                                                                 Q1           Q2          Q3           Q4          Q1           Q2          Q3           Q4
+
+Balance Sheet                                                      2009        Mar-10       Jun-10      Sep-10      Dec-10       Mar-11       Jun-11      Sep-11       Dec-11
+Current Assets:
+Cash and Equivalents                                               $26.4                                 $36.9       $31.4        $60.8       $157.5      $139.0       $108.7
+Restricted cash                                                     $5.0                                 $5.0         $5.0        $5.0         $5.0         $5.0        $1.5
+Accounts Receivable                                                27.6                                  39.1         34.1        45.8         55.7        61.2         66.5
+Inventories                                                                                                                                                             1.7
+Prepaid expense and other current assets                            3.7                                   4.4         4.2          4.9         6.9          6.0         6.2
+                                            Total Current Assets    62.6                                 85.4         74.7        116.5       225.1        211.2       184.5
+Long-term Assets:
+PP&E                                                               26.7                                  28.0         28.2        27.5         26.9        28.9         33.8
+Software development costs                                         27.0                                  35.7         37.0        39.5         42.2        43.6         45.1
+Goodwill                                                           203.0                                206.4        207.1       213.5        213.4        213.4       333.7
+Deposits and other assets                                           2.3                                   2.4         2.3          3.3         2.2          2.0         2.1
+                                                    Total Assets   381.9                                 402.8       390.5        440.7       545.0        531.6       599.3
+Current Liabilities:
+Accounts Payable                                                    3.4                                   4.0         5.4          6.4         5.0          4.5         8.5
+Registration fees payable                                          30.2                                  47.3         40.7        81.2         99.6        76.2         72.4
+Accrued expenses                                                   27.6                                  34.4         32.2        39.6         31.7        36.1         41.1
+Deferred Revenue                                                   25.0                                  35.9         34.0        36.1         46.1        52.7         54.9
+Current portion of debt                                            13.0                                  14.8         16.9        14.1         0.0          0.0         5.0
+Capital lease obligations, current                                  1.9                                   2.0         2.0          2.1         2.0          2.9         3.3
+Other current liabilities                                           0.1                                   2.3         1.6          1.7         2.6          2.6         42.6
+                                         Total Current Liabilities 101.3                                 140.8       132.7        181.2       187.0        174.9       227.9
+Long-term Liabilities
+Debt, net of current portion                                       35.7                                  28.5         27.5        27.1         0.0          0.0         0.0
+Capital lease obligations, net of current                           3.6                                   1.8         1.7          1.0         1.0          0.6         1.7
+Other Long-term liabilities                                         2.0                                   1.9         4.4          5.1         5.3          5.6         6.1
+Deferred tax liability                                             16.3                                  17.8         18.0        19.0         19.7        19.6         16.9
+                                                 Total Liabilities 159.0                                 162.3       156.7        206.3       213.0        200.8       252.6
+
+Total Preferred Stock                                              364.2                                 385.0        0.0
+
+                                    Total Shareholders' Equity     -141.3                               -144.6       233.9        234.4       332.0        330.8       346.7
+                                    Total Liabilities and Equity   381.9                                 402.8       390.5        440.7       545.0        531.6       599.3
+
+Net Cash 
+Net Cash                                                                     23                                    35             30             60            157             138             107
+   Q/Q growth in net cash                                                                                            -15%         101%        162%         -12%         -23%
+Days Sales Outstanding                                                                                                 7            6           4            5           2
+Net Cash / Share                                                                                        $0.84        $0.71       $1.22        $2.73        $2.20       $1.69
+
+Deferred Revenue & Billings Analysis
+Total Deferred Revenue                                               27                                   38           38          41           51          58           61
+     Deferred Revenue Q/Q Absolute Change                                                                              1            3          10            7           3
+     Q/Q % Change                                                                                                       1%         7%          25%         13%           5%
+     Y/Y % Change                                                    24%                                              42%                                  54%          59%
+Billings                                                                                                               62          76          109          96           79
+     Q/Q % Change                                                                                                                   22%        45%         -12%         -18%
+     Y/Y % Change                                                                                                                                                         27%
+LTM Billings/FTM Revenue                                                         0%          0%           0%          18%         39%          65%         85%          84%
+Billings (based only on Short-term Deferred Rev)                                 38           82          109          60          75          109          96           78
+     Q/Q % Change                                                                             114%       33%         -45%         25%          46%         -12%         -19%
+     Y/Y % Change                                                                                                                   96%        33%         -12%         31%
+Billings (based upon Cashflow chg. In Deferred Rev)                           63             82           73          70           75          109          95           82
+     Q/Q % Change                                                                             29%        -10%         -4%          6%          46%         -12%         -14%
+     Y/Y % Change                                                                                                                   18%        33%         31%          17%
+
+                                                                                 Q1           Q2          Q3           Q4          Q1           Q2          Q3           Q4          Q1E         Q2E          Q3E         Q4E          Q1E         Q2E         Q3E       Q4E
+
+Cash Flow Model                                                    2009        Mar-10       Jun-10      Sep-10      Dec-10       Mar-11       Jun-11      Sep-11       Dec-11      Mar-12       Jun-12      Sep-12       Dec-12      Mar-13       Jun-13     Sep-13     Dec-13
+
+Cash from operations                                               27.5                                               42.1        30.1         26.5        (5.0)        10.4        37.3         36.9        (8.6)        (9.3)       48.7         36.5        (8.6)     (12.1)
+OCF per Share                                                                                                      $        1.01  $        0.61  $        0.46  $      (0.08) $        0.16  $        0.58  $        0.57  $      (0.13) $      (0.14) $        0.71  $        0.52  $   (0.12) $   (0.17) 
+                                                     LTM Total     27.5                                               42.1                                 93.7         62.0        69.2         79.6        76.0         56.2        67.7         67.3       67.3       64.5
+                                            LTM Y/Y Change %                                                          53%                                               47%                                  -19%         -9%                                 -11%       15%
+                          LTM total cash from operations per share                                                 $        1.01                         $        1.49  $        0.98  $        1.08  $        1.22  $        1.15  $        0.83  $        0.98  $        0.96  $     0.94  $     0.88
+                                                   % of Billings                                                      68%         40%          24%          -5%         13%
+
+CapEx                                                              (25.0)                                            (30.4)       (4.5)        (4.5)       (11.0)      (11.0)       (4.8)        (4.8)       (7.9)        (3.1)        (5.2)       (5.3)       (8.7)     (3.1)
+                                                     LTM Total      (25)                                              (30)                                  (50)        (31)         (31)        (32)         (28)        (21)         (21)        (22)        (22)       (22)
+                                            LTM Y/Y Change %       250%                                               22%                                                2%                                  -44%         -34%                                -22%        9%
+
+Free cash flow                                                      2.5                                               11.7        25.6         22.0        (16.0)       (0.6)       32.5         32.1        (16.5)      (12.4)       43.5         31.2       (17.3)     (15.2)
+FCF per Share                                                                                                      $        0.28  $        0.52  $        0.38  $      (0.25) $      (0.01) $        0.56  $        0.50  $      (0.25) $      (0.19) $        0.63  $        0.44  $   (0.24) $   (0.21) 
+                                                     LTM Total      2.5                                               11.7                                  43.3        31.0         37.9        48.0         47.5        35.7         46.6        45.8        45.0       42.2
+                                            LTM Y/Y Change %                                                                                                           164%                                   10%         15%                                  -5%       18%
+                                 LTM total free cash flow per share                                                $        0.28                         $        0.69  $        0.49  $        0.59  $        0.74  $        0.72  $        0.53  $        0.68  $        0.65  $     0.63  $     0.58
+
+                                                                                            Sources for balance sheet and cash flow:  Company reports and ThinkEquity LLC estimates
+
+                                                                                                                                                                                                                                                                         Page 5
+
+                                                                                                                                                                                                                                                                                    26
+---------------------Page 6---------------------
+
+                                                                                                                 March 6, 2012
+                                                                                                         Company Report
+                                                                                                          Company Update
+
+COMPANIES MENTIONED IN THIS REPORT:
+Company                                                    Exchange              Symbol            Price        Rating
+Concur Technologies, Inc.                                   NASDAQ                CNQR             $58.95        Hold
+Oracle Corporation                                          NASDAQ                ORCL             $30.24        Buy
+RightNow Technologies, Inc.                                 NASDAQ               RNOW              $43.00        Hold
+salesforce.com, Inc.                                         NYSE                 CRM             $142.08        Buy
+The Ultimate Software Group, Inc.                           NASDAQ                 ULTI            $69.93        Hold
+
+Important Disclosures
+
+Analyst Certification
+I, Brian Schwartz, hereby certify that all of the views expressed in this research report accurately reflect my personal views about the
+subject securities and issuers. I also certify that no part of my compensation was, is, or will be directly or indirectly related to the specific
+recommendations or views expressed in this research report.
+
+The analyst(s) responsible for preparing this report has/have received compensation based on various factors, including the firm's total
+revenues, a portion of which is generated by investment banking activities. The analyst(s) also receive compensation in the form of a
+percentage of commissions from trades made through the firm in the securities of the subject company of this report, although not for any
+investment banking transactions with or involving the subject company.
+
+ThinkEquity LLC and/or an affiliate managed or co-managed a public offering of securities for The Active Network, Inc. in the past 12
+months.
+ThinkEquity LLC makes a market in The Active Network, Inc., Concur Technologies, Inc., salesforce.com, Inc., Oracle Corporation,
+RightNow Technologies, Inc. and The Ultimate Software Group, Inc. securities; and/or associated persons may sell to or buy from
+customers on a principal basis.
+
+ThinkEquity LLC has made affirmative disclosures concerning each of the covered securities mentioned in this report, including analyst
+holdings (if any), rating definitions and overall ratings distributions. These disclosures can be found in the most recent complete research
+report for each of the respective companies. Reports are available upon request.
+
+Rating Definitions
+
+Effective October 7, 2009, ThinkEquity LLC moved from a four-tier Buy/Accumulate/Source of Funds/Sell rating system to a three-tier Buy/
+Hold/Sell system. The new ratings appear in our Distribution of Ratings, Firmwide chart. To request historical information, including previously
+published reports or statistical information, please call: 866-288-8206, or write to: Director of Research, ThinkEquity LLC, 600 Montgomery
+Street, San Francisco, California, 94111.
+
+Buy: ThinkEquity expects the stock to generate positive risk-adjusted returns of more than 10% over the next 12 months. ThinkEquity
+recommends initiating or increasing exposure to the stock.
+
+Hold: ThinkEquity expects the stock to generate risk-adjusted returns of +/-10% over the next 12 months. ThinkEquity believes the stock
+is fairly valued.
+
+Sell: ThinkEquity expects the stock to generate negative risk-adjusted returns of more than 10% during the next 12 months. ThinkEquity
+recommends decreasing exposure to the stock.
+
+                                             Distribution of Ratings, Firmwide
+
+                                                      ThinkEquity LLC
+
+                                                                                                       IB Serv./Past 12 Mos.
+Rating                                                        Count              Percent               Count        Percent
+BUY [B]                                                         125                65.40                  13          10.40
+HOLD [H]                                                         53                27.70                   2           3.77
+SELL [S]                                                         13                 6.80                   0           0.00
+ 
+
+                                                                                                                          Page 6
+                                                                                                                                 27
+---------------------Page 7---------------------
+
+                                                                                                                   March 6, 2012
+                                                                                                            Company Report
+                                                                                                             Company Update
+
+This report does not purport to be a complete statement of all material facts related to any company, industry, or security mentioned.
+The information provided, while not guaranteed as to accuracy or completeness, has been obtained from sources believed to be reliable.
+The opinions expressed reflect our judgment at this time and are subject to change without notice and may or may not be updated. Past
+performance should not be taken as an indication or guarantee of future performance, and no representation or warranty, express or implied,
+is made regarding future performance. This notice shall not constitute an offer to sell or the solicitation of an offer to buy, nor shall there be
+any sale of these securities in any state in which said offer, solicitation, or sale would be unlawful prior to registration or qualification under
+the securities laws of any such state. This research report was originally prepared and distributed to institutional clients of ThinkEquity LLC.
+
+Recipients who are not market professionals or institutional clients of ThinkEquity LLC should seek the advice of their personal financial
+advisors before making any investment decisions based on this report. Stocks mentioned in this report are not covered by ThinkEquity LLC
+unless otherwise mentioned.
+
+Additional information on the securities mentioned is available on request. In the event that this is a compendium report (covers more than
+six ThinkEquity LLC-covered subject companies), ThinkEquity LLC may choose to provide specific disclosures for the subject companies by
+reference. To request more information regarding these disclosures, please call: 866-288-8206, or write to: Director of Research, ThinkEquity
+LLC, 600 Montgomery Street, San Francisco, California, 94111. Stocks mentioned in this report are not covered by ThinkEquity LLC unless
+otherwise mentioned.
+
+Member of FINRA and SIPC.
+
+Copyright 2012 ThinkEquity LLC, A Panmure Gordon Company
+
+                                                                                                                             Page 7
+                                                                                                                                    28

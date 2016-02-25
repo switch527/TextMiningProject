@@ -1,0 +1,333 @@
+{
+    "beaker": "2",
+    "evaluators": [
+        {
+            "name": "HTML",
+            "plugin": "HTML",
+            "view": {
+                "cm": {
+                    "mode": "htmlmixed"
+                }
+            }
+        },
+        {
+            "name": "TeX",
+            "plugin": "TeX",
+            "view": {
+                "cm": {
+                    "mode": "stex"
+                }
+            }
+        },
+        {
+            "name": "JavaScript",
+            "plugin": "JavaScript",
+            "view": {
+                "cm": {
+                    "mode": "javascript",
+                    "background": "#FFE0F0"
+                }
+            }
+        },
+        {
+            "name": "IPython",
+            "plugin": "IPython",
+            "imports": "",
+            "supplementalClassPath": "",
+            "setup": "%matplotlib inline\nimport numpy\nimport matplotlib\nfrom matplotlib import pylab, mlab, pyplot\nnp = numpy\nplt = pyplot\nfrom IPython.display import display\nfrom IPython.core.pylabtools import figsize, getfigs\nfrom pylab import *\nfrom numpy import *\n",
+            "view": {
+                "cm": {
+                    "mode": "python"
+                }
+            }
+        }
+    ],
+    "cells": [
+        {
+            "id": "codei0WRpF",
+            "evaluator": "IPython",
+            "type": "code",
+            "input": {
+                "body": [
+                    "#library imports",
+                    "import string",
+                    "import math",
+                    "from nltk.corpus import stopwords",
+                    "from nltk.tokenize import sent_tokenize as sentTok, word_tokenize as wordTok",
+                    "from nltk.stem import PorterStemmer, LancasterStemmer",
+                    "from nltk.tag import pos_tag",
+                    "from sklearn.metrics import jaccard_similarity_score as jscore",
+                    "from sklearn.feature_extraction.text import TfidfVectorizer",
+                    "from sklearn.metrics.pairwise import cosine_similarity",
+                    "from collections import Counter",
+                    "import bs4",
+                    "import pickle"
+                ]
+            },
+            "output": {
+                "selectedType": "Hidden",
+                "state": {},
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 269,
+                "height": 52
+            },
+            "evaluatorReader": true,
+            "lineCount": 13
+        },
+        {
+            "id": "codeja54xk",
+            "evaluator": "IPython",
+            "type": "code",
+            "input": {
+                "body": [
+                    "#tool declaration",
+                    "portStem = PorterStemmer()",
+                    "lanStem = LancasterStemmer()",
+                    "stopWords = set(stopwords.words(\"english\"))",
+                    "tfidf_vectorizer = TfidfVectorizer()"
+                ]
+            },
+            "output": {
+                "selectedType": "Hidden",
+                "state": {},
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 274
+            },
+            "evaluatorReader": true,
+            "lineCount": 5
+        },
+        {
+            "id": "codekDdsSv",
+            "type": "code",
+            "evaluator": "IPython",
+            "input": {
+                "body": [
+                    "#remove non ascii characters that keep causing problems",
+                    "def removeNonAscii(text):",
+                    "    return ''.join(i for i in text if ord(i)<128)"
+                ]
+            },
+            "output": {
+                "state": {},
+                "selectedType": "Hidden",
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 269
+            },
+            "evaluatorReader": true,
+            "lineCount": 3
+        },
+        {
+            "id": "codeZudsD1",
+            "evaluator": "IPython",
+            "type": "code",
+            "input": {
+                "body": [
+                    "#semi-clean the text",
+                    "def cleanText(File):",
+                    "    readFile = File.read()",
+                    "    def removeNonAscii(text):",
+                    "        return ''.join(i for i in text if ord(i)<128)",
+                    "    readFile = removeNonAscii(readFile)",
+                    "    #readFile = readFile.lower()",
+                    "    #readFile = readFile.translate(None, string.punctuation)",
+                    "    return readFile"
+                ]
+            },
+            "output": {
+                "selectedType": "Hidden",
+                "state": {},
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 268
+            },
+            "evaluatorReader": true,
+            "lineCount": 9
+        },
+        {
+            "id": "codeLDKWqa",
+            "evaluator": "IPython",
+            "type": "code",
+            "input": {
+                "body": [
+                    "#creates the file path to each document for loading",
+                    "def createPath(start, y, end):",
+                    "    path = start + str(y) + end",
+                    "    return path"
+                ]
+            },
+            "output": {
+                "selectedType": "Hidden",
+                "state": {},
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 269
+            },
+            "evaluatorReader": true,
+            "lineCount": 4
+        },
+        {
+            "id": "codepLkWAd",
+            "type": "code",
+            "evaluator": "IPython",
+            "input": {
+                "body": [
+                    "#load all text data",
+                    "x = 21",
+                    "y = 1",
+                    "tangoe = []",
+                    "tangoeTok = []",
+                    "while x > y:",
+                    "    path = createPath('D:\\Google Drive\\Grad School\\UIC\\MS-MIS\\IDS566\\IPOFiles-Folder 18\\Tangoe Inc\\Tangoe Inc_Part', str(y), '.txt')",
+                    "    tangoe.insert(y, [portStem.stem(w) for w in (wordTok((cleanText(open(path, \"r\"))).lower().translate(None, string.punctuation))) if not w in stopWords])",
+                    "    tangoeTok.insert(y, [pos_tag(sentence) for sentence in [wordTok(sentence) for sentence in (sentTok(cleanText(open(path, \"r\"))))]])",
+                    "    y += 1",
+                    "",
+                    "x = 38",
+                    "y = 1",
+                    "teavana = []",
+                    "teavanaTok = []",
+                    "while x > y:",
+                    "    path = createPath('D:\\Google Drive\\Grad School\\UIC\\MS-MIS\\IDS566\\IPOFiles-Folder 18\\Teavana Holdings Inc\\Teavana Holdings Inc_Part', str(y), '.txt')",
+                    "    teavana.insert(y, [portStem.stem(w) for w in (wordTok((cleanText(open(path, \"r\"))).lower().translate(None, string.punctuation))) if not w in stopWords])",
+                    "    teavanaTok.insert(y, [pos_tag(sentence) for sentence in [wordTok(sentence) for sentence in (sentTok(cleanText(open(path, \"r\"))))]])",
+                    "    y += 1",
+                    "",
+                    "x = 41",
+                    "y = 1",
+                    "telNav = []",
+                    "telNavTok = []",
+                    "while x > y:",
+                    "    path = createPath('D:\\Google Drive\\Grad School\\UIC\\MS-MIS\\IDS566\\IPOFiles-Folder 18\\TelNav Inc\\TeleNav Inc_Part', str(y), '.txt')",
+                    "    telNav.insert(y, [portStem.stem(w) for w in (wordTok((cleanText(open(path, \"r\"))).lower().translate(None, string.punctuation))) if not w in stopWords])",
+                    "    telNavTok.insert(y, [pos_tag(sentence) for sentence in [wordTok(sentence) for sentence in (sentTok(cleanText(open(path, \"r\"))))]])",
+                    "    y += 1",
+                    "    ",
+                    "x = 42",
+                    "y = 1",
+                    "tesla = []",
+                    "teslaTok = []",
+                    "while x > y:",
+                    "    path = createPath('D:\\Google Drive\\Grad School\\UIC\\MS-MIS\\IDS566\\IPOFiles-Folder 18\\Tesla Motors Inc\\Tesla Motors Inc_Part', str(y), '.txt')",
+                    "    tesla.insert(y, [portStem.stem(w) for w in (wordTok((cleanText(open(path, \"r\"))).lower().translate(None, string.punctuation))) if not w in stopWords])",
+                    "    teslaTok.insert(y, [pos_tag(sentence) for sentence in [wordTok(sentence) for sentence in (sentTok(cleanText(open(path, \"r\"))))]])",
+                    "    y += 1",
+                    "    ",
+                    "x = 36",
+                    "y = 1",
+                    "tesoro = []",
+                    "tesoroTok = []",
+                    "while x > y:",
+                    "    path = createPath('D:\\Google Drive\\Grad School\\UIC\\MS-MIS\\IDS566\\IPOFiles-Folder 18\\Tesoro Logistics LP\\Tesoro Logistics LP_Part', str(y), '.txt')",
+                    "    tesoro.insert(y, [portStem.stem(w) for w in (wordTok((cleanText(open(path, \"r\"))).lower().translate(None, string.punctuation))) if not w in stopWords])",
+                    "    tesoroTok.insert(y, [pos_tag(sentence) for sentence in [wordTok(sentence) for sentence in (sentTok(cleanText(open(path, \"r\"))))]])",
+                    "    y += 1",
+                    "    ",
+                    "x = 27",
+                    "y = 1",
+                    "activeNet = [] ",
+                    "activeNetTok = []",
+                    "while x > y:",
+                    "    path = createPath('D:\\Google Drive\\Grad School\\UIC\\MS-MIS\\IDS566\\IPOFiles-Folder 18\\The Active Network Inc\\The Active Network Inc_Part', str(y), '.txt')",
+                    "    activeNet.insert(y, [portStem.stem(w) for w in (wordTok((cleanText(open(path, \"r\"))).lower().translate(None, string.punctuation))) if not w in stopWords])",
+                    "    activeNetTok.insert(y, [pos_tag(sentence) for sentence in [wordTok(sentence) for sentence in (sentTok(cleanText(open(path, \"r\"))))]])",
+                    "    y += 1",
+                    "    ",
+                    "x = 44",
+                    "y = 1",
+                    "chefs = []  ",
+                    "chefsTok = []",
+                    "while x > y:",
+                    "    path = createPath('D:\\Google Drive\\Grad School\\UIC\\MS-MIS\\IDS566\\IPOFiles-Folder 18\\The Chefs Warehouse Inc\\The Chefs Warehouse Inc_Part', str(y), '.txt')",
+                    "    chefs.insert(y, [portStem.stem(w) for w in (wordTok((cleanText(open(path, \"r\"))).lower().translate(None, string.punctuation))) if not w in stopWords])",
+                    "    chefsTok.insert(y, [pos_tag(sentence) for sentence in [wordTok(sentence) for sentence in (sentTok(cleanText(open(path, \"r\"))))]])",
+                    "    y += 1"
+                ]
+            },
+            "output": {
+                "state": {},
+                "selectedType": "Hidden",
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 29349328,
+                "height": 68
+            },
+            "evaluatorReader": true,
+            "lineCount": 70
+        },
+        {
+            "id": "codeFMm0Ux",
+            "type": "code",
+            "evaluator": "IPython",
+            "input": {
+                "body": [
+                    "outFileTangoe = open('D:\\\\Google Drive\\\\Grad School\\\\UIC\\MS-MIS\\\\IDS566\\\\Project\\\\tangoe.p', 'wb')",
+                    "outFileTeavana = open('D:\\\\Google Drive\\\\Grad School\\\\UIC\\MS-MIS\\\\IDS566\\\\Project\\\\teavana.p', 'wb')",
+                    "outFileTelNav = open('D:\\\\Google Drive\\\\Grad School\\\\UIC\\MS-MIS\\\\IDS566\\\\Project\\\\telnav.p', 'wb')",
+                    "outFileTesla = open('D:\\\\Google Drive\\\\Grad School\\\\UIC\\MS-MIS\\\\IDS566\\\\Project\\\\tesla.p', 'wb')",
+                    "outFileTesoro = open('D:\\\\Google Drive\\\\Grad School\\\\UIC\\MS-MIS\\\\IDS566\\\\Project\\\\tesoro.p', 'wb')",
+                    "outFileActiveNet = open('D:\\\\Google Drive\\\\Grad School\\\\UIC\\MS-MIS\\\\IDS566\\\\Project\\\\activenet.p', 'wb')",
+                    "outFileChefs = open('D:\\\\Google Drive\\\\Grad School\\\\UIC\\MS-MIS\\\\IDS566\\\\Project\\\\chefs.p', 'wb')"
+                ]
+            },
+            "output": {
+                "state": {},
+                "selectedType": "Hidden",
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 274
+            },
+            "evaluatorReader": true,
+            "lineCount": 7
+        },
+        {
+            "id": "codegpLtFE",
+            "type": "code",
+            "evaluator": "IPython",
+            "input": {
+                "body": [
+                    "pickle.dump(tangoeTok, outFileTangoe)",
+                    "pickle.dump(teavanaTok, outFileTeavana)",
+                    "pickle.dump(telNavTok, outFileTelNav)",
+                    "pickle.dump(teslaTok, outFileTesla)",
+                    "pickle.dump(tesoroTok, outFileTesoro)",
+                    "pickle.dump(activeNetTok, outFileActiveNet)",
+                    "pickle.dump(chefsTok, outFileChefs)"
+                ]
+            },
+            "output": {
+                "state": {},
+                "selectedType": "Hidden",
+                "pluginName": "IPython",
+                "shellId": "89562A21D1214C6B801C7E356CE85AE9",
+                "elapsedTime": 11223
+            },
+            "evaluatorReader": true,
+            "lineCount": 7
+        }
+    ],
+    "tagMap": {
+        "root": [
+            "codei0WRpF",
+            "codeja54xk",
+            "codeZudsD1",
+            "codeLDKWqa",
+            "codeGiDp2k",
+            "codea8aRwc"
+        ]
+    },
+    "tagMap2": {
+        "initialization": [],
+        "IPython": [
+            "codei0WRpF",
+            "codeja54xk",
+            "codeZudsD1",
+            "codeLDKWqa",
+            "codeGiDp2k",
+            "codea8aRwc"
+        ]
+    },
+    "namespace": {}
+}

@@ -1,0 +1,492 @@
+---------------------Page 1---------------------
+
+ 
+
+                                                                                                                North America Equity Research 
+                                                                                                                24 January 2011 
+                      
+
+                                                                                                            
+                                                                                                                Overweight 
+                      Tesla Motors                                                                              TSLA, TSLA US 
+                                                                                                                Price:  $23.04 
+                      Mgmt. & Plant Visit; Model S On Track; Reiterate 
+                                                                                                                Price Target: $30.00 
+                      Overweight 
+
+                     We recently met Teslas senior management and toured its facilities in                     Automobile Manufacture 
+                     both Northern CA and Southern  CA including the recently acquired                                               AC 
+                     Freemont assembly plant for Model S production.   Nothing we heard                         Himanshu Patel, CFA
+                                                                                                                (1-212) 622-3906 
+                     substantively altered our bullish view on Tesla though our findings made us,               himanshu.patel@jpmorgan.com 
+                     at the margin, more comfortable on many fronts including overall Model S 
+                     launch timing, manufacturing ramp at Freemont, organizational development,                 Vivek Aalok 
+                                                                                                                (1-212) 622-0798 
+                     and the future of Tesla beyond the Model S. We continue to believe the                     vivek.x.aalok@jpmorgan.com 
+                     majority of the investment community (and the majority of the automotive 
+                                                                                                                Michael Kimlat 
+                     industry) is substantially  underrating Teslas potential, not just on electric            (1-212) 622-0458 
+                     vehicle power-train technology (where converts arguably have been made of                  michael.x.kimlat@jpmorgan.com 
+                     Toyota and Daimler) but more broadly on its ability to deliver world-class                 J.P. Morgan Securities LLC 
+                     non-powertrain related vehicle engineering and to eventually grow into a full-
+                     line premium carmaker with atypical             cost competitiveness. Reiterate            Price Performance
+                                                                                                                                   
+                     Overweight with a DCF-derived $30 Dec 2011 price target and see a three 
+                     year upside potential to $40-50. It is worth noting that our DCF uses a 8.3%                35
+                     terminal value operating margin as  sumption (German luxury carmakers                      $                                     
+                     typically achieve 6-9%); while it is too early to see if TSLA can establish a               25
+                     mid-teens operating margin structure sustainably as per management 
+                     guidance, it is worth noting that each  1 percentage point higher operating                 15
+                                                                                                                  Jun-10                           Sep-10                           Dec-10
+                     margin assumption adds $4 to the stocks fair value in our DCF. 
+                                                                                                                 YTD            1m            3m          12m
+                     • Model S timing update. Everything we heard continues to support mid-                     Abs -13.4%     -28.6%      11.0%      35.5%
+                                                                                                                 
+                        2012 timing for first customer deliveries of the Model S sedan. Major 
+                        design freeze has occurred, and an Alpha version was just very recently 
+                        released to internal executives for t  esting. From here onwards, a Beta 
+                        version is expected to be availabl e on Sept 1, 2011, manufacturing start-
+                        of-production is expected in mi d-March 2012, implying full commercial 
+                        start-of-production should occur sometime in Q2.2012 assuming no 
+                        bumps along the way. On a side note, a video of the Alpha version 
+                        engaged in real world road driving        was released earlier this week, an 
+                        event that apparently sparked 85,000   website hits in just the first few 
+                        hours. It is difficult to read too much into this figure, but at the margin, it 
+                        does suggests TSLAs 20,000 unit Model S volume target could be 
+                        handily beaten if final production vers ion remains true to its originally 
+                        promised design, specs, and price point.  
+
+                      Tesla Motors, Inc. (TSLA;TSLA US)                                                         
+                       2010E            2011E            2012E            2013E            2014E            2015ECompany Data
+                      EPS Reported  ($)                                                                        Price ($) 23.04
+                       Q1 (Mar)                                                                                Date Of Price                                         21 Jan 11
+                       Q2 (Jun)                                                                                52-week Range ($)                     36.42 - 14.98
+                       Q3 (Sep)                                                                                Mkt Cap ($ mn)                                        2,149.63
+                       Q4 (Dec)                                                                                Fiscal Year End                                                 Dec
+                       F Y                       (1.38)    (1.88)    (1.46)      1.51                1.07                3.12Shares O/S (mn)      93
+                      Source: Company data, J.P. Morgan estimates.                                             Price Target ($)                                              30.00
+                                                                                                               Price Target End Date                     31 Dec 11 
+                       
+                     See page 6 for analyst certification and important disclosures.          
+                     J.P. Morgan does and seeks to do business with companies covered in its research reports. As a result, investors should be awar  e that the firm may 
+                     have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their 
+                     investment decision.  
+
+                                                                                                                                                 262
+---------------------Page 2---------------------
+
+Himanshu Patel, CFA                             North America Equity Research 
+(1-212) 622-3906                  24 January 2011
+himanshu.patel@jpmorgan.com 
+
+       
+
+                                • Future Vehicle Beyond Model S:  Beyond the Model S, it appears TSLAs 
+                                  next focus will be on a crossover (generically referred to as Model X 
+                                  internally) of the same footprint roughly as the Model S (i.e., a top hat of the 
+                                  Model S). CEO Musk has started discussing this in public, and Teslas design 
+                                  head estimated that he spends about 85% of his time today on Model S, and 
+                                  the remaining 15% on the Model X (the CUV) and some non-model specific 
+                                  creative responsibilities he has for the co rporation. The Model X is obviously 
+                                  planned to be on the same platform as the Model S  while common platform 
+                                  usage is a regular theme across the globa l auto industry, it is worth stepping 
+                                  back and remembering that most glob      al OEMs are trying to harmonize 
+                                  existing different platforms down to a few common platforms while Tesla is 
+                                  going the other way (trying to proliferate a single models platform). The 
+                                  execution of this strategy is probably easier for Tesla, suggesting its top hats 
+                                  may be considerably more profitable than what is typical for most OEMs. 
+
+                                • Freemont Plant Manufacturing Ramp Observations.       The site is 
+                                  breathtaking in its scale, and equally so   in how little TSLA  paid for it and 
+                                  some of its key assets. NUMMI was cont  ractually obliged to fully exit the 
+                                  Freemont facility by March 31, 2011,       but it has already done so and 
+                                  Toyota/GM seem to have done an impressive job of fully clearing out the old 
+                                  equipment within the facility. The f   actory floor is clutter free for large 
+                                  swathes except for pieces of equipment  TSLA has specifically chosen to buy 
+                                  from NUMMI, and except for a staging ground area for the on-site re-
+                                  assembly of five massive stamping presses bought from Tower Automotive 
+                                  and recently relocated to the Freemont  plant from Detroit. Tesla plans to use 
+                                  about 15% of the square footage of   the NUMMI facility for its immediate 
+                                  needs, although this could be expanded if Toyota asks TSLA to do 
+                                  partial/final electric RAV4 assembly at NUMMI (to which TSLA 
+                                  management seems largely agnostic). As an  outsider, it is hard for us to fully 
+                                  understand all of the work being done behind the scenes on the manufacturing 
+                                  side. But we could observe that the in-ground metal structural foundations of 
+                                  the five presses were lowered into their   respective concrete pits in just the 
+                                  past few weeks, and the above-ground   portion of these stamps were being 
+                                  prepped to be assembled in the coming weeks. Manufacturing head Gilbert 
+                                  Passins organization currently has 80 employees (all white collar) and it 
+                                  plans to add another 500 (largely blue-collar workers) by Dec 2011. When 
+                                  fully ramped, TSLA expects the Freemont facility to be a fully integrated 
+                                  manufacturing site which, in addition to vehicle assembly, does powertrain 
+                                  assembly, plastics, and critical sub-component work on-site.  
+
+                                • Freemont Plant Economics   Tesla paid $42MM for the Freemont facility 
+                                  (which built nearly 500k units at    peak under NUMMIs ownership) and 
+                                  another $17MM for the factory assets with in the Freemont plant it chose to 
+                                  purchase. The $17MM included critical high cost items such as two paint 
+                                  shops (bought by TSLA for about $7MM excluding some refurbishment costs 
+                                  yet to be incurred) which would typi  cally cost $150-250MM each to build 
+                                  from scratch. On top of the $42    MM and $17MM, TSLA has agreed to 
+                                  contribute $15MM into an environmen tal liability claims fund, and NUMMI 
+2      
+
+                                                                                                                   263
+---------------------Page 3---------------------
+
+Himanshu Patel, CFA                             North America Equity Research 
+(1-212) 622-3906                   24 January 2011
+himanshu.patel@jpmorgan.com 
+
+                                   has agreed to put in that much as well. However, TSLAs portion of the 
+                                   contribution is not required for four years and NUMMI will lend Tesla funds 
+                                   for environment claims up to that $15MM amount during that four year 
+                                   period. Should environment liabilities   exceed the funds $30MM size, all 
+                                   such costs beyond that are 100% Tesla responsibility, although there appear 
+                                   so far to be nothing more than modest soil and ground water contamination 
+                                   clean up costs. 
+
+                                • OEM Partnership Update   1) Daimler Daimler has recently expanded its 
+                                   order of Smart battery packs to 1,800 now (the figure has been steadily rising 
+                                   since it was originally announced at 1, 000 units). The new order size was not 
+                                   revealed but it appears we will hear this on the next quarterly conference call. 
+                                   2)  Toyota continues to aim for an electric RAV4 powered by Teslas 
+                                   electrical powertrain (not just its battery pack) in 2012. It seems like the 
+                                   electric RAV4 assembly job could be shared between Toyotas Canada plant 
+                                   (the home of ICE RAV4 production today) and Teslas Freemont plant. 
+                                   Beyond the electric RAV4, we sense the two companies are discussing one or 
+                                   two other vehicles (an electric luxury  SUV has been reported in the media). 
+                                   On a separate note, the Magnesium ba  ttery chemistry Toyota was recently 
+                                   reported to be studying was characteriz ed by Tesla as being largely for HEV 
+                                   (not EV) applications. On balance,   both the Daimler and Toyota strategic 
+                                   partnerships seem to be progressing well,  and we did not sense any conflicts 
+                                   of interest (at least not yet) between the two. 
+
+                                • Panasonic Relationship Update   Tesla and Panasonic continue to have a 
+                                   deep technical alliance, and are join  tly developing a somewhat customized 
+                                   18650 form factor battery for use in   Teslas electric vehicles. Management 
+                                   estimated that Teslas eventual volume needs with the Model S could account 
+                                   for 20% of Panasonics 18650 battery capacity today although this figure is 
+                                   rapidly changing as Panasonic is expanding capacity. The timing of 
+                                   Panasonics investment in Tesla seems      to have been partly driven by 
+                                   encouraging progress Panasonic saw      on Model S development (though 
+                                   Panasonic apparently approached Tesla  to make such an investment a few 
+                                   years ago as well and Tesla rebuffed at that time) and Panasonics own 
+                                   internal initiatives to refocus the company on green initiatives.  
+
+                                • Organization Observations    The organization has grown by several 
+                                   hundred people since we last met the company face to face in CA 
+                                   immediately before the IPO. One of the things perhaps most under-
+                                   appreciated about Tesla by outsiders is   the simple fact that it continues to 
+                                   attract some of the highest quality   professionals from both automotive and 
+                                   non-automotive backgrounds. The credibilit y CEO Musk brings to Tesla in 
+                                   terms of engineering and technical prowess is likely one of its most critical 
+                                   assets. Anecdotal observations from ex  ecutives suggests recruiting efforts 
+                                   reached some type of tipping point about six months ago when the supply of 
+                                   candidates looking to work for Tesl     a now seem to vastly exceed the 
+                                   companys hiring pace.   
+
+                                                                                                                     3 
+
+                                                                                                                    264
+---------------------Page 4---------------------
+
+Himanshu Patel, CFA                              North America Equity Research 
+(1-212) 622-3906                    24 January 2011
+himanshu.patel@jpmorgan.com 
+
+                                 • Revisiting the Tesla Investment Thesis   We continue to be highly bullish 
+                                    on Tesla shares. While there are many   electric company upstarts, we think 
+                                    TSLA stands unique in that it is focused on so much more than the electric 
+                                    powertrain which itself seems years ahead of anything we have seen so far in 
+                                    the global auto industry. At its heart, T esla is a hardcore technical firm that 
+                                    strives for excellence in  multiple areas of vehicle engineering (e.g., safety, 
+                                    suspension, paint finish, manufacturing co st efficiency, etc.). On the electric 
+                                    powertrain front, we continue to believe Teslas cost per kWh for the Model S 
+                                    will likely be in the $200-300 range,      about 50% better than all other 
+                                    carmakers. Lower cost per kWh in the electrified vehicle business translates 
+                                    into either a lower priced car (fewer batteries) or greater range (more 
+                                    batteries)  TSLA has effectively chosen the latter approach with the Model S 
+                                    and its impressive range. While othe  r carmakers, who are largely working 
+                                    with large format prismatic batteries, are likely to see about a 50% 
+                                    improvement in their cost per kWh /e  nergy density over five years, TSLA 
+                                    believes its 18650 form factor pack still   offers 8% per year energy density 
+                                    improvement potential, suggesting it      s range/cost advantage with the 
+                                    competition may not necessarily narrow un  til the end of this decade. The 
+                                    strategic imperative for TSLA, therefore, must be to establish itself as a 
+                                    premium vehicle brand that just happens to make electric cars, hence why we 
+                                    believe the early focus on best-in-class vehicle engineering, service, 
+                                    distribution, etc. will pay long-term dividends.  
+
+       
+
+4      
+
+                                                                                                                       265
+---------------------Page 5---------------------
+
+Himanshu Patel, CFA                    North America Equity Research 
+(1-212) 622-3906                       24 January 2011
+himanshu.patel@jpmorgan.com 
+
+                                      Valuation 
+                                      We get to our $30 Dec-11 price target using both a DCF (11.7% discount rate, 4% 
+                                      terminal growth, exclusive of 2011 burn) and price/sales (1.4x which is the 1.5x 
+                                      average 2012 p/sales of A123, Ener1, BYD discounted one year as we apply it to 
+                                      Teslas 2013 sales). Our $30 price target implies a somewhat lofty 26.1x P/E on tax 
+                                      rate adjusted 2013 EPS, although implied P/E is 16.5x if 10% EBIT margin is used 
+                                      (our margin forecast may be conservative at least in the initial years (guidance is 14-
+                                      16%)). Since its 2003 start, Tesla has been singularly focused on developing pure 
+                                      electric vehicles (EVs). We think EVs and plug-in hybrids (PHEVs) both hold strong 
+                                      long-term promise given tightening environment regulations and an increasingly 
+                                      green global consumer. Maintain Overweight. 
+
+                                       
+                                      Risk to Rating 
+                                      Downside Risks: (1) Established luxury carmakers introduce competing vehicles that 
+                                      eventually prove performance and cost competitive to Teslas technology. Audi, for 
+                                      example, is targeting a 2012 launch of its E-tron EV ultra luxury sports car, and 
+                                      Mercedes and Porsche have pure EV sports car plans in the works as well. (2) The 
+                                      manufacturing ramp of Model S is delayed notably. (3) Model S sales start 
+                                      cannibalizing Roadster sales. (4) Elon Musk (CEO) is a key executive whose loss to 
+                                      the company could potentially be fairly detrimental (he has a history of moving on 
+                                      once companies become successful). We see him as a visionary who drives Tesla to 
+                                      high technical and commercial targets. 
+
+                                                                                                                         5 
+
+                                                                                                                              266
+---------------------Page 6---------------------
+
+Himanshu Patel, CFA                         North America Equity Research 
+(1-212) 622-3906                            24 January 2011
+himanshu.patel@jpmorgan.com 
+
+Analyst Certification:   
+The research analyst(s) denoted by an AC on the cover of this report certifies (or, where multiple research analysts are primarily 
+responsible for this report, the research analyst denoted by an AC on the cover or within the document individually certifies, with 
+respect to each security or issuer that the research analyst covers in this research) that: (1) all of the views expressed in this report 
+accurately reflect his or her personal views about any and all of the subject securities or issuers; and (2) no part of any of  the research 
+analysts compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the 
+research analyst(s) in this report.  
+
+Important Disclosures       
+                                                                                                                                            
+•    Market Maker: JPMS makes a market in the stock of Tesla Motors.  
+•    Lead or Co-manager: J.P. Morgan acted as lead or co-manager in a public offering of equity and/or debt securities for Tesla Motors 
+     within the past 12 months.  
+•    Client of the Firm: Tesla Motors is or was in the past 12 months a client of JPM; during the past 12 months, JPM provided to the 
+     company investment banking services.  
+•    Investment Banking (past 12 months): J.P. Morgan received, in the past 12 months, compensation for investment banking services 
+     from Tesla Motors.  
+•    Investment Banking (next 3 months): J.P. Morgan expects to receive, or intends to seek, compensation for investment banking 
+     services in the next three months from Tesla Motors.  
+                                                                                                   
+Tesla Motors (TSLA)  Price Chart
+                                                 
+                                                                                                   Date Rating Share Price         Price Target 
+                                                                                                                      ($)          ($) 
+      55
+                                                                                                   09-Aug-10 OW       19.60                25.00 
+                                                                OW $30                             10-Nov-10 OW       29.36                30.00 
+      44
+                               OW $25
+Price($) 33                                                                                       
+
+      22
+
+      11
+
+       0
+        Jun       Jun       Jul      Aug       Sep      Oct       Nov       Dec      Jan
+         10        10       10        10       10        10        10       10        11
+Source: Bloomberg and J.P. Morgan; price data adjusted for stock splits and dividends.
+Initiated coverage Aug 09, 2010. This chart shows J.P. Morgan's continuing coverage of this stock; the current analyst
+may or may not have covered it over the entire period.
+J.P. Morgan ratings: OW = Overweight, N = Neutral, UW = Underweight.
+
+ 
+Explanation of Equity Research Ratings and Analyst(s) Coverage Universe:   
+J.P. Morgan uses the following rating system:  Overweight [Over the next six to twelve months, we expect this stock will outperform the 
+average total return of the stocks in the analysts (or the analysts teams) coverage universe.]  Neutral [Over the next six to twelve 
+months, we expect this stock will perform in line with the average total return of the stocks in the analysts (or the analysts teams) 
+coverage universe.]  Underweight [Over the next six to twelve months, we expect this stock will underperform the average total return of 
+the stocks in the analysts (or the analysts teams) coverage universe.] J.P. Morgan Cazenoves UK Small/Mid-Cap dedicated research 
+analysts use the same rating categories; however, each stocks expected total return is compared to the expected total return of the FTSE 
+All Share Index, not to those analysts coverage universe. A list of these analysts is available on request. The analyst or ana lysts teams 
+coverage universe is the sector and/or country shown on the cover of each publication.  See below for the specific stocks in the certifying 
+analyst(s) coverage universe.  
+  
+
+  
+Coverage Universe: Himanshu Patel, CFA: American Axle (AXL), ArvinMeritor, Inc. (ARM), AutoNation, Inc. (AN), 
+Autoliv (ALV), Avis Budget Group, Inc. (CAR), Borg Warner Inc. (BWA), CarMax Inc. (KMX), Cooper Tire & Rubber 
+(CTB), Dana Holding Corporation (DAN), Dollar Thrifty Automotive (DTG), Ford Motor Company (F), General Motors 
+(GM), Gentex Corporation (GNTX), Genuine Parts Company (GPC), Goodyear Tire & Rubber (GT), Group 1 Automotive, 
+
+6                                           
+
+                                                                                                                                                267
+---------------------Page 7---------------------
+
+Himanshu Patel, CFA                          North America Equity Research 
+(1-212) 622-3906                            24 Januar y 2011
+himanshu.patel@jpmorgan.com 
+
+Inc (GPI), Harley-Davidson (HOG), Harman International (HAR), Hertz Global Holdings, Inc. (HTZ), Johnson Controls, 
+Inc. (JCI), KAR Auction Services, Inc. (KAR), Lear Corporation (LEA), Lithia Motors (LAD), Magna International, Inc. 
+(MGA), Penske Automotive Group, Inc. (PAG), Sonic Automotive, Inc. (SAH), TRW Automotive (TRW), Tenneco 
+Automotive (TEN), Tesla Motors (TSLA), Tower International (TOWR) 
+  
+
+J.P. Morgan Equity Research Ratings Distribution, as of December 31, 2010 
+
+                                              Overweight   Neutral   Underweight 
+                                              (buy)         (hold)     (sell) 
+J.P. Morgan Global Equity Research Coverage       46%                      42%             12% 
+    IB clients*                                                                          53%                      50%             38% 
+JPMS Equity Research Coverage                                  43%                      49%             8% 
+    IB clients*                                                                          71%                      63%             59% 
+*Percentage of investment banking clients in each rating category. 
+For purposes only of FINRA/NYSE ratings distribution rules, our Overweight rating falls into a buy rating category; our Neutral rating falls into a hold 
+rating category; and our Underweight rating falls into a sell rating category. 
+ 
+
+Valuation and Risks:  Please see the most recent company-specific research report for an analysis of valuation methodology and risks on 
+any securities recommended herein. Research is available at http://www.morganmarkets.com , or you can contact the analyst named on 
+the front of this note or your J.P. Morgan representative.  
+
+Analysts Compensation:  The equity research analysts responsible for the preparation of this report receive compensation based upon 
+various factors, including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues, which 
+include revenues from, among other business units, Institutional Equities and Investment Banking.  
+
+Other Disclosures 
+                                                                                                                                               
+J.P. Morgan ("JPM") is the global brand name for J.P. Morgan Securities LLC ("JPMS") and its affiliates worldwide. J.P. Morgan Cazenove is a 
+marketing name for the U.K. investment banking businesses and EMEA cash equities and equity research businesses of JPMorgan Chase & Co. 
+and its subsidiaries.  
+  
+Options related research: If the information contained herein regards options related research, such information is available only to persons who 
+have received the proper option risk disclosure documents. For a copy of the Option Clearing Corporations Characteristics and Risks of 
+Standardized Options, please contact your J.P. Morgan Representative or visit the OCCs website at 
+http://www.optionsclearing.com/publications/risks/riskstoc.pdf.  
+  
+Legal Entities Disclosures   
+U.S.: JPMS is a member of NYSE, FINRA and SIPC.  J.P. Morgan Futures Inc. is a member of the NFA. JPMorgan Chase Bank, N.A. is a 
+member of FDIC and is authorized and regulated in the UK by the Financial Services Authority. U.K.: J.P. Morgan Securities Ltd. (JPMSL) is a 
+member of the London Stock Exchange and is authorized and regulated by the Financial Services Authority. Registered in England & Wales No. 
+2711006. Registered Office 125 London Wall, London EC2Y 5AJ. South Africa: J.P. Morgan Equities Limited is a member of the Johannesburg 
+Securities Exchange and is regulated by the FSB. Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is regulated 
+by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong. Korea: J.P. Morgan Securities (Far East) Ltd, 
+Seoul Branch, is regulated by the Korea Financial Supervisory Service. Australia: J.P. Morgan Australia Limited (ABN 52 002 888 011/AFS 
+Licence No: 238188) is regulated by ASIC and J.P. Morgan Securities Australia Limited (ABN 61 003 245 234/AFS Licence No: 238066) is a 
+Market Participant with the ASX and regulated by ASIC. Taiwan: J.P.Morgan Securities (Taiwan) Limited is a participant of the Taiwan Stock 
+Exchange (company-type) and regulated by the Taiwan Securities and Futures Bureau. India: J.P. Morgan India Private Limited, having its 
+registered office at J.P. Morgan Tower, Off. C.S.T. Road, Kalina, Santacruz East, Mumbai - 400098, is a member of the National Stock Exchange 
+of India Limited (SEBI Registration Number - INB 230675231/INF 230675231/INE 230675231) and Bombay Stock Exchange Limited (SEBI 
+Registration Number - INB010675237/INB010675237) and is regulated by Securities and Exchange Board of India. Thailand: JPMorgan 
+Securities (Thailand) Limited is a member of the Stock Exchange of Thailand and is regulated by the Ministry of Finance and the Securities and 
+Exchange Commission. Indonesia: PT J.P. Morgan Securities Indonesia is a member of the Indonesia Stock Exchange and is regulated by the 
+BAPEPAM LK. Philippines: J.P. Morgan Securities Philippines Inc. is a member of the Philippine Stock Exchange and is regulated by the 
+Securities and Exchange Commission. Brazil: Banco J.P. Morgan S.A. is regulated by the Comissao de Valores Mobiliarios (CVM) and by the 
+Central Bank of Brazil. Mexico: J.P. Morgan Casa de Bolsa, S.A. de C.V., J.P. Morgan Grupo Financiero is a member of the Mexican Stock 
+Exchange and authorized to act as a broker dealer by the National Banking and Securities Exchange Commission. Singapore: This material is 
+issued and distributed in Singapore by J.P. Morgan Securities Singapore Private Limited (JPMSS) [MICA (P) 025/01/2011 and Co. Reg. No.: 
+199405335R] which is a member of the Singapore Exchange Securities Trading Limited and is regulated by the Monetary Authority of Singapore 
+(MAS) and/or JPMorgan Chase Bank, N.A., Singapore branch (JPMCB Singapore) which is regulated by the MAS. Malaysia: This material is 
+issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X) which is a Participating Organization of Bursa 
+Malaysia Berhad and a holder of Capital Markets Services License issued by the Securities Commission in Malaysia. Pakistan: J. P. Morgan 
+
+                                                                                                                                             7 
+
+                                                                                                                                                   268
+---------------------Page 8---------------------
+
+Himanshu Patel, CFA                           North America Equity Research 
+(1-212) 622-3906                             24 Januar y 2011
+himanshu.patel@jpmorgan.com 
+
+Pakistan Broking (Pvt.) Ltd is a member of the Karachi Stock Exchange and regulated by the Securities and Exchange Commission of Pakistan. 
+Saudi Arabia: J.P. Morgan Saudi Arabia Ltd. is authorized by the Capital Market Authority of the Kingdom of Saudi Arabia (CMA) to carry out 
+dealing as an agent, arranging, advising and custody, with respect to securities business under licence number 35-07079 and its registered address 
+is at 8th Floor, Al-Faisaliyah Tower, King Fahad Road, P.O. Box 51907, Riyadh 11553, Kingdom of Saudi Arabia. Dubai: JPMorgan Chase 
+Bank, N.A., Dubai Branch is regulated by the Dubai Financial Services Authority (DFSA) and its registered address is Dubai International 
+Financial Centre - Building 3, Level 7, PO Box 506551, Dubai, UAE. 
+  
+Country and Region Specific Disclosures   
+U.K. and European Economic Area (EEA):  Unless specified to the contrary, issued and approved for distribution in the U.K. and the EEA by 
+JPMSL. Investment research issued by JPMSL has been prepared in accordance with JPMSL's policies for managing conflicts of interest arising 
+as a result of publication and distribution of investment research. Many European regulators require a firm to establish, implement and maintain 
+such a policy. This report has been issued in the U.K. only to persons of a kind described in Article 19 (5), 38, 47 and 49 of the Financial Services 
+and Markets Act 2000 (Financial Promotion) Order 2005 (all such persons being referred to as "relevant persons"). This document must not be 
+acted on or relied on by persons who are not relevant persons. Any investment or investment activity to which this document relates is only 
+available to relevant persons and will be engaged in only with relevant persons. In other EEA countries, the report has been issued to persons 
+regarded as professional investors (or equivalent) in their home jurisdiction. Australia:  This material is issued and distributed by JPMSAL in 
+Australia to wholesale clients only.  JPMSAL does not issue or distribute this material to retail clients.  The recipient of this material must not 
+distribute it to any third party or outside Australia without the prior written consent of JPMSAL.  For the purposes of this paragraph the terms 
+wholesale client and retail client have the meanings given to them in section 761G of the Corporations Act 2001.  Germany:  This material is 
+distributed in Germany by J.P. Morgan Securities Ltd., Frankfurt Branch and J.P.Morgan Chase Bank, N.A., Frankfurt Branch which are 
+regulated by the Bundesanstalt für Finanzdienstleistungsaufsicht.  Hong Kong:  The 1% ownership disclosure as of the previous month end 
+satisfies the requirements under Paragraph 16.5(a) of the Hong Kong Code of Conduct for Persons Licensed by or Registered with the Securities 
+and Futures Commission. (For research published within the first ten days of the month, the disclosure may be based on the month end data from 
+two months prior.) J.P. Morgan Broking (Hong Kong) Limited is the liquidity provider/market maker for derivative warrants, callable bull bear 
+contracts and stock options listed on the Stock Exchange of Hong Kong Limited. An updated list can be found on HKEx website: 
+http://www.hkex.com.hk.  Japan: There is a risk that a loss may occur due to a change in the price of the shares in the case of share trading, and 
+that a loss may occur due to the exchange rate in the case of foreign share trading. In the case of share trading, JPMorgan Securities Japan Co., 
+Ltd., will be receiving a brokerage fee and consumption tax (shouhizei) calculated by multiplying the executed price by the commission rate 
+which was individually agreed between JPMorgan Securities Japan Co., Ltd., and the customer in advance. Financial Instruments Firms: 
+JPMorgan Securities Japan Co., Ltd., Kanto Local Finance Bureau (kinsho) No. 82 Participating Association / Japan Securities Dealers 
+Association, The Financial Futures Association of Japan.  Korea:  This report may have been edited or contributed to from time to time by 
+affiliates of J.P. Morgan Securities (Far East) Ltd, Seoul Branch.  Singapore:  JPMSS and/or its affiliates may have a holding in any of the 
+securities discussed in this report; for securities where the holding is 1% or greater, the specific holding is disclosed in the Important Disclosures 
+section above.  India:  For private circulation only, not for sale. Pakistan:  For private circulation only, not for sale. New Zealand:   This 
+material is issued and distributed by JPMSAL in New Zealand only to persons whose principal business is the investment of money or who, in the 
+course of and for the purposes of their business, habitually invest money. JPMSAL does not issue or distribute this material to members of "the 
+public" as determined in accordance with section 3 of the Securities Act 1978. The recipient of this material must not distribute it to any third 
+party or outside New Zealand without the prior written consent of JPMSAL.  Canada:  The information contained herein is not, and under no 
+circumstances is to be construed as, a prospectus, an advertisement, a public offering, an offer to sell securities described herein, or solicitation of 
+an offer to buy securities described herein, in Canada or any province or territory thereof. Any offer or sale of the securities described herein in 
+Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and only 
+by a dealer properly registered under applicable securities laws or, alternatively, pursuant to an exemption from the dealer registration requirement 
+in the relevant province or territory of Canada in which such offer or sale is made. The information contained herein is under no circumstances to 
+be construed as investment advice in any province or territory of Canada and is not tailored to the needs of the recipient. To the extent that the 
+information contained herein references securities of an issuer incorporated, formed or created under the laws of Canada or a province or territory 
+of Canada, any trades in such securities must be conducted through a dealer registered in Canada. No securities commission or similar regulatory 
+authority in Canada has reviewed or in any way passed judgment upon these materials, the information contained herein or the merits of the 
+securities described herein, and any representation to the contrary is an offence. Dubai:  This report has been issued to persons regarded as 
+professional clients as defined under the DFSA rules. 
+  
+General:  Additional information is available upon request. Information has been obtained from sources believed to be reliable but JPMorgan 
+Chase & Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) do not warrant its completeness or accuracy except with respect to any 
+disclosures relative to JPMS and/or its affiliates and the analysts involvement with the issuer that is the subject of the research. All pricing is as 
+of the close of market for the securities discussed, unless otherwise stated. Opinions and estimates constitute our judgment as of the date of this 
+material and are subject to change without notice. Past performance is not indicative of future results. This material is not intended as an offer or 
+solicitation for the purchase or sale of any financial instrument. The opinions and recommendations herein do not take into account individual 
+client circumstances, objectives, or needs and are not intended as recommendations of particular securities, financial instruments or strategies to 
+particular clients. The recipient of this report must make its own independent decisions regarding any securities or financial instruments 
+mentioned herein. JPMS distributes in the U.S. research published by non-U.S. affiliates and accepts responsibility for its contents. Periodic 
+updates may be provided on companies/industries based on company specific developments or announcements, market conditions or any other 
+publicly available information. Clients should contact analysts and execute transactions through a J.P. Morgan subsidiary or affiliate in their home 
+jurisdiction unless governing law permits otherwise.  
+  
+Other Disclosures last revised January 8, 2011.  
+                                                                                                                                                   
+
+8                                             
+
+                                                                                                                                                       269
+---------------------Page 9---------------------
+
+Himanshu Patel, CFA                       North America Equity Research 
+(1-212) 622-3906                         24 Januar y 2011
+himanshu.patel@jpmorgan.com 
+
+Copyright 2011 JPMorgan Chase & Co. All rights reserved. This report or any portion hereof may not be reprinted, sold or 
+redistributed without the written consent of J.P. Morgan.#$J&098$#*P  
+
+ 
+ 
+
+                                                                                                                                  9 
+
+                                                                                                                                        270

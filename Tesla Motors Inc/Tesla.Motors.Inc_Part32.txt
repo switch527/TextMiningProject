@@ -1,0 +1,625 @@
+---------------------Page 1---------------------
+
+      North America United States 
+      Consumer Autos & Auto Parts 
+       
+      10 November 2010 
+
+                                                                                                     Results 
+      Tesla Motors                                                                                  
+      Reuters: TSLA.OQ Bloomberg:   TSLA UN Exchange:   NMS Ticker:   TSLA                            Hold 
+                                                                                                     Price at 9 Nov 2010 (USD)                  24.63
+
+      Remains On Track                                                                               Price target                              17.00
+                                                                                                     52-week range                     24.98 - 15.80
+                                                                                                    
+                                                                                                      Key changes 
+                                                                                                     EPS (USD)                                     -3.08 to -2.67   -13.2%
+                                                                                                     Revenue (USDm)                   110.5 to 110.7     0.2%
+      Dan Galves                    Rod Lache                      Patrick Nolan, CFA               
+      Associate Analyst             Research Analyst               Associate Analyst                 Price/price relative 
+      (+1) 212 250-3738             (+1) 212 250-5551              (+1) 212 250-5267 
+                                                                                                        32
+      dan.galves@db.com             rod.lache@db.com               patrick.nolan@db.com 
+                                                                                                        28
+      Tesla reports higher-than-consensus results                                                       24
+      Tesla reported EPS of -$0.37 (ex items) vs cons of -$0.43.  Rev was up 10%                        20
+      sequentially and product gross margin rose to 19.1% (vs 15.6% in 2Q10). After an                  16
+      est'd ~$45 MM cash burn in the quart er, Tesla still has $242 MM cash and $408                    12
+      MM avail under its DOE loan facility. We believe this should be sufficient to bridge                6/10
+      the company to estd FCF-positive in late  2012, particularly given recent positives                       Tesla Motors
+      ($30MM investment from Panasonic (i n Q4) and $60MM development contract                                   S&P 500 INDEX (Rebased)    
+      with Toyota. We maintain Hold on valuation.                                                    Performance (%)        1m                          3m                       12m
+                                                                                                     Absolute        20.6 25.      7           
+      Model S development on-track                                                                  S&P 500 INDEX    4.1 7.       6        11.0
+      Although Teslas 3Q financials were not           particularly meaningful in terms of         
+      assessing the companys long term earnings potential, we were nonetheless                      Stock & option liquidity data 
+      encouraged by continued progress in two  important areas:  1) Progress towards                 Market Cap (USDm)                                                           1,240.3
+                                                                                                     Shares outstanding (m)                                                            50.4
+      comml production of the (20,000 unit/yr) Model S, expected to launch in mid-2012              Free float (%)                                                                                  100
+      is on-track - Tesla completed the purchase of its production facility in Fremont, Ca;          Volume (9 Nov 2010)                                                        956,200
+      Model S Powertrain prototypes are being ro ad tested; Alpha build prototypes of                Option volume (und. shrs., 1M avg.)       
+      the Model S vehicle (80-90% of a productio  n vehicle, but built as a low volume              
+      prototype) will be on the road  at the end of this quar ter; nearly 100% of supplier 
+      sourcing will be complete by the end of the quarter;  15 dealerships are now open.   
+      and external validations continue 
+      2) Tesla continues to gain external vali     dation of its technology, through supply 
+      agreements with Daimler (Tesla is now de livering production parts for the A-Class 
+      and Smart fortwo) and Toyota (Tesla formalized a $60 MM contract for 
+      development of an entire electric powertr        ain and battery pack for an electric 
+      version of the RAV4), and a new $30 MM investment from Panasonic, a world 
+      leader in lithium ion battery technology.    In addition, we have  noted that these 
+      development contracts are reasonably profitable in their own right (68% margin in 
+      Q3; likely 40%-45% over time).  In          other words, the new $60 MM Toyota 
+      development contract likely  reduces the cash burn that  we had been anticipating 
+      through Model S launch by $20-$25 MM. 
+      Maintain $17 target price based on DCF; our long-term thesis is unchanged 
+      We continue to view this company as a leader in the burgeoning Vehicle 
+      Electrification space.  Our DCF assumes   a 7% terminal growth rate, a terminal 
+      EBIT margin of 11.7% and a weighted av          erage cost of capital of 13.5%.  Key 
+      downside risks include execution on            the scale up from niche to volume 
+      manufacturing and risks associated with demand and average transaction price 
+      assumptions.  Upside could be derive          d from higher-than-expected Model S 
+      volumes or potential for the the compan  ys powertrain supply business (i.e. to 
+      third party automakers) become a significant long term earnings generator. 
+
+       Forecasts and ratios 
+      Year End Dec 31                                                                                                2009A           2010E           2011E
+      FY EPS (USD)                                                                                                                               -2.67            -2.08
+      OLD FY EPS (USD)                                                                                                                    -3.08            -2.15
+      Source: Deutsche Bank estimates, company data 
+      1
+        Includes the impact of FAS123R requiring the expensing of stock options. 
+       
+      Deutsche Bank Securities Inc. 
+      All prices are those current at the end of the previous trading se       ssion unless otherwise indicated. Prices are sourced from loc  al 
+      exchanges via Reuters, Bloomberg and other vendors. Data is s            ourced from Deutsche Bank and  subject companies. Deutsche 
+      Bank does and seeks to do business with companies covered in  its research reports. Thus, investors should be aware that the fir m 
+      may have a conflict of interest that could affect the objectivit y of this report. Investors should consider this report as only  a single 
+      factor in making their investment decision. DISCLOSURES             AND ANALYST CERTIFICATIONS ARE LOCATED IN APPENDIX 1. 
+      MICA(P) 007/05/2010 
+                                                                                                                                                 344
+
+                                                                                                                                                                                        Company 
+                                                                                                                                   Global Markets Research 
+---------------------Page 2---------------------
+
+10 November 2010       Autos & Auto Parts  Tesla Motors                                                                                                                                                                                                                                                        
+
+Model updated:10 November 2010                                                                             Fiscal year end 31-Dec                                                                                                                         2009          2010E          2011E
+                                                                              
+Running the numbers 
+                                                                                                           Financial Summary 
+North America                                                                                              DB EPS (USD)                                                                                                                                        na                 -2.67                 -2.08
+                                                                                                           Reported EPS (USD)                                                                                                                                                         -1.03                 -2.49                 -1.93
+United States                                                                                              DPS (USD)                                                                                                                                        0.00                   0.00                   0.00
+Autos & Auto Parts                                                                                         BVPS (USD)                                                                                                                                       1.30                   3.36                 -0.31
+                                                                                                           Valuation Metrics                                                                                              
+                                                                                                           Price/Sales (x)                                                                                                                                    nm                   11.2                   13.5
+Tesla Motors                                                                                               P/E (DB) (x)                                                                                                                                        na                      nm                      nm
+                                                                                                           P/E (Reported) (x)                                                                                                                                 nm                      nm                      nm
+Reuters: TSLA.OQ                       Bloomberg: TSLA UN                                                  P/BV (x)                                                                                                                                           0.0                      7.3                      nm
+
+Hold                                                                                                       FCF yield (%)                                                                                                                                       na                      nm                      nm
+                                                                                                           Dividend yield (%)                                                                                                                                  na                      0.0                      0.0
+Price (9 Nov 10)                                                     USD 24.63 
+                                                                                                           EV/Sales                                                                                                                                           nm                      9.9                   14.5
+Target price                                                              USD 17.00                        EV/EBITDA                                                                                                                                          nm                      nm                      nm
+52-week Range                                     USD 15.80 - 24.98                                        EV/EBIT                                                                                                                                            nm                      nm                      nm
+Market Cap (m)                                                  USDm 1,240 
+ EURm 892                                                                                                                                                               Income Statement (USDm) 
+                                                                                                           Sales                                                                                                                                             112                    111                    174
+Company Profile                                                                                            EBITDA                                                                                                                                             -45-120-162
+Tesla Motors designs, manufactures, and sells electri                                           c          EBIT                                                                                                                                               -52-131-190
+vehicles and EV powertrain components. Founded in 2003,                                                    Pre-tax profit                                                                                                                                     -56-134-198
+the company introduced the first widely available highway-
+capable electrick vehicle in 2008. They plan to produce a                  Net income                                                                                                                                                                         -56-134-198
+higher-volume product (Model S) in 2012. 
+ 
+                                                                                                           Cash Flow (USDm) 
+ 
+                                                                                                           Cash flow from operations                                                                                                                                             -81                   -104                   -181
+                                                                                                           Net Capex                                                                                                                                          -12-129-129
+                                                                                                           Free cash flow                                                                                                                                     -93-233-309
+                                                                                                           Equity raised/(bought back)                                                                                                                                              158                    269                          0
+                                                                                                           Dividends paid                                                                                                                                        000
+Price Performance                                                                                          Net inc/(dec) in borrowings                                                                                                                                                     0                          0                          0
+                                                                                                           Other investing/financing cash flows                                                                                                                               -5                    104                    194
+     32                                                                                                    Net cash flow                                                                                                                                       60                    141                   -116
+     28                                                                                                    Change in working capital                                                                                                                                                   -3824                     -10
+     24
+     20
+     16                                                                                                    Balance Sheet (USDm) 
+     12                                                                                                    Cash and cash equivalents                                                                                                                                                  70                    259                    143
+         Jun 10                                                                                            Property, plant & equipment                                                                                                                                                24                    152                    258
+                                                                                                           Goodwill                                                                                                                                              000
+                      Tesla Motors                    S&P 500 INDEX (Rebased  )                            Other assets                                                                                                                                        37                       70                       86
+                                                                                                           Total assets                                                                                                                                      130                    481                    487
+Margin Trends                                                                                              Debt                                                                                                                                                  0117316
+                                                                                                           Other liabilities                                                                                                                                   65                    195                    200
+         0
+                                                                                                           Total liabilities                                                                                                                                   65                    312                    516
+       -40                                                                                                 Total shareholders' equity                                                                                                                                                66                    169                     -29
+                                                                                                           Net debt                                                                                                                                           -70                -142                  173
+       -80
+
+     -120                                                                                                  Key Company Metrics 
+                            09                                 10E                               11E       Sales growth (%)                                                                                                                                   nm                    -1.1                   57.5
+                                                                                                           DB EPS growth (%)                                                                                                                                   na                       na                   22.0
+                             EBITDA Margin                       EBIT Margin
+                                                                                                           Payout ratio (%)                                                                                                                                   nm                      nm                      nm
+Growth & Profitability 
+                                                                                                           EBITDA Margin (%)                                                                                                                                                            -40.2              -108.5                 -93.0
+      70                                                                              0                    EBIT Margin (%)                                                                                                                                 -46.4              -118.3              -108.9
+      60
+      50                                                                              -50
+      40                                                                              -100                 ROE (%)                                                                                                                                         -84.8              -114.5              -283.6
+      30                                                                              -150
+      20                                                                              -200                 Net debt/equity (%)                                                                                                                                                           -106.0                 -84.2                      nm
+      10
+        0                                                                             -250                 Net interest cover (x)                                                                                                                                                              nm                      nm                      nm
+     -10                                                                              -300
+                        09                          10E                         11E
+                                                                                                           DuPont Analysis 
+                                                                                                           EBIT margin (%)                                                                                                                                 -46.4              -118.3              -108.9
+                                 Sales growth (LHS  )                      ROE (RHS)
+                                                                                                           x  Asset turnover (x)                                                                                                                                                                0.9                      0.4                      0.4
+Solvency                                                                                                   x  Financial cost ratio (x)                                                                                                                                                       1.0                      1.0                      1.0
+                                                                                                           x  Tax and other effects (x)                                                                                                                                                 1.0                      1.0                      1.0
+         0                                                                                                 =  ROA (post tax) (%)                                                                                                                                                      -42.7                 -44.0                 -41.0
+       -20
+                                                                                                           x  Financial leverage (x)                                                                                                                                                        2.0                      2.6                      6.9
+       -40
+       -60                                                                                                 =  ROE (%)                                                                                                                                      -84.8              -114.5              -283.6
+       -80                                                                                                 annual growth (%)                                                                                                                                   na                 -34.9              -147.8
+     -100                                                                                                  x  NTA/share (avg) (x)                                                                                                                                                            1.2                      2.2                      0.7
+     -120
+                           09                                 10E                                11E       =  Reported EPS                                                                                                                                 -1.03                 -2.49                 -1.93
+                                                                                                           annual growth (%)                                                                                                                                   na              -141.1                   22.3
+                        Net debt/equity (LHS)                    Net interest cover (RHS)
+                                                                                                           Source: Company data, Deutsche Bank estimates 
+ 
+Dan Galves 
++1 212 250-3738                                                 dan.galves@db.com 
+
+Page 2                                                                                                                                                                                                                                       Deutsche Bank Securities Inc. 
+
+                                                                                                                                                                                                                                                                                                              345
+---------------------Page 3---------------------
+
+10 November 2010       Autos & Auto Parts  Tesla Motors                                                                      
+
+                               Although Teslas 3Q financials were not particul  arly meaningful in terms of assessing the 
+                               companys long term earnings potential (Tes  las Q3 results were primarily driven by 151 
+                               Roadster units, and approximately $8 MM of Prod uct Development Services for Daimler and 
+                               Toyota), we were nonetheless encouraged by continued progress in two important areas:   
+
+                                    Tesla continues to make progress towards co mmercial production of the (20,000 unit/yr) 
+                                    Model S, expected to launch in mid-2012       Tesla completed the purchase of its 
+                                    production facility in Fremont, Ca; Model S Powertrain prototypes are being road tested; 
+                                    Alpha build prototypes of the Model S vehicle  (80-90% of a production vehicle, but built 
+                                    as a low volume prototype) will be on the road  at the end of this quarter; the company is 
+                                    on track to produce Beta Prototypes (95-   99% of production design, 50% built with 
+                                    production tooling) by the middle of next  year; nearly 100% of supplier sourcing will be 
+                                    complete by the end of the quarter;  15 dealerships are now open.   
+                                    Tesla continues to gain external validation  of its technology, through supply agreements 
+                                    with Daimler (Tesla is now delivering produ ction parts for the A-Class and Smart fortwo) 
+                                    and Toyota (Tesla formalized a $60 MM contract  for development of an entire electric 
+                                    powertrain and battery pack fo r an electric version of  the RAV4), and a new $30 MM 
+                                    investment from Panasonic, a world leader in lithium ion battery technology.  In addition, 
+                                    we have noted that these development contra cts are reasonably profitable in their own 
+                                    right (68% margin in Q3; likely 40%-45%  over time).  In other words, the new $60 MM 
+                                    Toyota development contract likely reduces th e cash burn that we had been anticipating 
+                                    through Model S launch by $20-$25 MM. 
+
+                               In terms of quarterly financia l performance, Teslas revenue rose by 10% sequentially but 
+                               declined yoy (Roadster production was strong  in 3Q09 while the company worked down a 
+                               large backlog of orders).  Gross profit rose  to $9.3 MM from $6.3 MM in Q2 and $7.7 MM in 
+                               3Q09.  Operating expenses rose to $47 MM,  which was slightly lower than the $52 MM we 
+                               were expecting due to timing of Supplier R&  D reimbursements.  Operating loss was $38 
+                               MM vs. our $46 MM estimate.  We estimate that  cash burn was ~$45 MM in the quarter, 
+                               and that Tesla still has $242 MM cash and $408 MM available under its DOE loan facility, 
+                               which we believe should be sufficient to bridge the company to the launch of the Model S.  
+
+                               Our long term investment thesis on Tesla is unchanged.  We continue to view this company 
+                               as a leader in the burgeoning Vehicle Electrif ication space.  Our DCF valuation implies a $17 
+                               target for TSLAs shares, with potential   upside should the company powertrain supply 
+                               business (i.e. to third party automakers) become a significant long term earnings generator. 
+
+                                
+
+                               Valuation / Risks 
+
+                               Our price target is based on a DCF analys      is. Valuing Tesla presents a unique set of 
+                               challenges, given the fact that company revenue won't accelerate until 2012 and beyond. We 
+                               believe that DCF is the most appropriate valuation method in this case. We assume 7% 
+                               terminal growth beginning in 2020 (given our proje ction that Tesla will still be building out its 
+                               vehicle portfolio and that only 9.5% of global sales will be vehicles able to be fueled from the 
+                               grid in 2020, we believe that a 7% growth rate   is reasonable). We assume a terminal EBIT 
+                               margin of 11.7% and a weighted average cost  of capital of 13.5% (we calculate WACC by 
+                               using 15% cost of equity and 3.3% cost of   DOE debt and weight this over the expected 
+                               capital structure from 2010 - 2014). 
+
+                                
+
+                                
+
+Deutsche Bank Securities Inc.                                                                                         Page 3 
+
+                                                                                                                            346
+---------------------Page 4---------------------
+
+10 November 2010       Autos & Auto Parts  Tesla Motors                                                                                                                                                                                                                                                                        
+
+                                                                                 Key downside risks include execution on the sc                                                                             ale up from niche to volume manufacturing, 
+
+                                                                                 risks associated with demand and average tran                                                                               saction price assumptions, risks associated 
+
+                                                                                 with costs projections, and unknowns associated                                                                                  with the future competitive landscape. In 
+
+                                                                                 addition, we anticipate                                        limited near term revenue/earni                                                         ngs to support the stock and, 
+
+                                                                                 consequently, we anticipate that Tesla's shares ca n exhibit high levels of near term volatility. 
+
+                                                                                 Upside could be derived from higher-than-ex                                                                          pected Model S volumes or Powertrain sales 
+
+                                                                                 contract wins. Given volumes of competitor ve                                                                               hicles in the 50k - 200k range, there is the 
+
+                                                                                 potential for Tesla Model S volume to be sign                                                                                     ificantly higher-than- expected. Additional 
+
+                                                                                 customers / contracts for Powertrain sales could add significantly to our revenue / profitability 
+
+                                                                                 targets (i.e. if current Toyota / Daimler de                                                                             velopment contracts turn into commercial 
+
+                                                                                 production contracts). 
+
+                                                                                  
+
+                                                                                  
+
+Figure 1: TSLA Earnings Model ($000s) 
+                                                      1Q10                  2Q10              3Q10           4Q10E           1Q11E           2Q11E           3Q11E           4Q11E                                    F2009           F2010E            F2011E       F2012E         F2013E            F2014
+Auto & PWT Revenue                               20.6                                     24.0                                    24.0                                  19.6                                  19.7                                  25.1                                  40.8                                  38.8                                                          94.8                                   88.2                                   124.4                                688.1                          1,953.0                            2,169.8    
+Development Services                                  0.2                                       4.4                                     7.9                                 10.0                                  12.5                                  12.5                                  12.5                                  12.5                                                          17.2                                   22.6                                     50.0                                  26.3                                15.0                                 15.0        
+Total Revenue                                             20.8                                     28.4                                    31.9                                  29.6                                  32.2                                  37.6                                  53.3                                  51.3                                                       111.9                                  110.7                                    174.4                                714.4                          1,968.0                            2,184.8    
+
+Auto COGS                                                     16.8                                     20.2                                    19.4        
+Development Service COGS                    0.1                                       1.9                                     2.5          
+COGS                                                                  16.9                                     22.1                                    21.9                                  22.2                                  23.0                                  26.8                                  39.2                                  38.0                                                       102.4                                    83.1                                   127.0                                596.2                          1,528.8                            1,670.4    
+
+Gross Profit                                                        3.9                                       6.3                                  10.0                                    7.4                                    9.1                                 10.9                                  14.1                                  13.3                                                            9.5                                  27.6                                     47.3                               118.1                              439.2                               514.4      
+Gross Margin                                              18.7%                22.2%            31.4%            25.1%            28.4%            28.9%            26.4%            25.9%                                                                 24.9%               27.1%           16.5%            22.3%            23.5%
+Product Gross Margin                            18.3%                15.6%            19.1%
+R&D                                                                     13.0                                     14.9                                    25.4                                  37.7                                  37.0                                  37.0                                  37.0                                  37.0                                                          19.3                                   91.0                                   148.0                                101.0                                 78.0                                 87.5        
+SG&A                                                                  13.5                                     16.7                                    17.9                                  19.5                                  20.7                                  21.8                                  23.0                                  23.8                                                          42.2                                   67.6                                     89.3                               110.4                              135.4                               156.5      
+
+Operating Profit                                       (22.6)                                    (25.2)                                   (33.4)                                 (49.8)                                 (48.5)                                 (48.0)                                 (46.0)                                 (47.5)                                                         (51.9)                               (131.0)                                   (190.0)                                  (93.2)                              225.9                               270.4      
+Operating Margin                                                 -108.6%                    -88.9%            -104.8%             -167.9%             -150.8%             -127.5%                -86.2%                -92.6%                                                                           -118.3%                -108.9%             -13.1%                11.5%                12.4%
+                                                                                                                                                                                                                                                                                17.9%                25.5%                20.6%
+                                                                         20.7%
+Interest Inc / (Exp)                                        (0.2)                                      (0.4)                                    (0.2)                                  (1.0)                                   (1.4)                                   (1.8)                                   (2.2)                                   (2.6)                                                           (2.4)                                    (1.8)                                      (8.0)                                (13.2)                               (14.3)                                (13.7)       
+Other gain / (loss)                                         (0.9)                                      (0.4)                                      -                                                                                                   (1.3)(1.4)                                         -                                   -                                  -                                  -          
+
+Pretax Income                                           (23.7)                                    (26.0)                                   (33.6)                                 (50.8)                                 (49.9)                                 (49.8)                                 (48.2)                                 (50.1)                                                         (55.7)                               (134.1)                                   (198.0)                               (106.5)                               211.5                               256.8      
+
+Taxes                                                                    (0.1)                                      (0.0)                                    (0.1)                                  (0.1)                                   (0.1)                                   (0.1)                                   (0.1)                                   (0.1)                                                           (0.0)                                    (0.3)                                      (0.3)                                  (0.3)                                 (0.3)                                  (4.0)         
+Tax Rate                                                                                                                            0%                   0%                   0%                   0%                                           0%                     0%                      0%                 0%                   0%                   0%
+
+Net Income                                                   (23.8)                                    (26.1)                                   (33.7)                                 (50.8)                                 (50.0)                                 (49.9)                                 (48.3)                                 (50.2)                                                         (55.7)                               (134.4)                                   (198.3)                               (106.8)                               211.2                               252.8      
+EPS                                                                     (3.26)                                    (3.41)                                   (0.37)                                 (0.54)                                 (0.53)                                 (0.52)                                 (0.51)                                 (0.52)                                                                                     (2.67)                                    (2.08)                                 (1.11)                                 2.02                                 2.39        
+
+Basic Shares                                                     7.3                                       7.6                                  92.3                                  94.2                                  94.9                                  95.2                                  95.5                                  95.7                                                          50.4                                   50.4                                     95.3                                  96.4                                97.4                                 98.4        
+Diluted Shares                                                  7.3                                       7.6                                  99.5                               101.4                                102.1                                102.4                                102.7                                102.9                                                           54.0                                   54.0                                   102.5                                103.6                              104.6                               105.6      
+
+EBITDA                                                            (20.5)                                    (22.8)                                   (30.4)                                 (46.5)                                 (43.1)                                 (41.6)                                 (38.6)                                 (38.9)                                                         (45.0)                               (120.1)                                   (162.2)                                  (50.2)                              275.6                               321.1      
+EBITDA Margin                                                                                                                                                                                                                                                    -93%                    -7%                     14%                     15%
+
+R&D as % of Revenue                            62.4%                52.3%            79.9%          127.2%          115.0%            98.3%            69.4%            72.2%                                         17%                  82%                   85%           14.1%              4.0%              4.0%
+SG&A as % of Revenue                        65.0%                58.7%            56.3%            65.8%            64.2%            58.0%            43.2%            46.4%                                         38%                  61%                   51%           15.5%              6.9%              7.2%
+
+Source: Company Filings, Deutsche Bank 
+
+                                                                                  
+
+Page 4                                                                                                                                                                                                                                                    Deutsche Bank Securities Inc. 
+
+                                                                                                                                                                                                                                                                                                                              347
+---------------------Page 5---------------------
+
+10 November 2010       Autos & Auto Parts  Tesla Motors                                                                                                                                              
+
+Figure 2: TSLA DCF Analysis ($MM) 
+                                          2010E           2011E          2012E        2013E        2014E        2015E        2016E      2017E       2018E          2019E          2020E
+Revenues                                        110.7                              174.4                             714.4                      1,968.0                    2,184.8                    2,550.1                    3,090.2                   3,339.9 3,797.5   4,230.6                         4,541.1    
+    Revenue Growth                                               57.5%        309.6%     175.5%        11.0%        16.7%        21.2%         8.1%       13.7%          11.4%            7.3%
+Operating Expenses                      241.8                              364.4                             807.6                      1,742.1                    1,914.4                    2,232.0                    2,647.0                   2,868.8 3,435.4   3,772.5                         4,018.2    
+
+Operating Income                           ($131)           ($190)            ($93)         $226          $270          $318          $443         $471          $362             $458             $523
+Operating Margin                        -118.3%        -108.9%         -13.1%        11.5%        12.4%        12.5%        14.3%       14.1%          9.5%          10.8%          11.5%
+
+Depreciation and Amortizatio                $11                $28               $43             $50             $51             $55             $67           $72            $82               $92               $98
+EBITDA ($120)           ($162)            ($50)         $276          $321          $373          $510         $544          $444             $550             $621
+EBITDA Margin                          -108.5%          -93.0%           -7.0%        14.0%        14.7%        14.6%        16.5%       16.3%       11.7%          13.0%          13.7%
+
+Taxes                                                      $0                   $0                 $0               $0             ($4)          ($91)       ($105)      ($104)         ($80)          ($101)          ($115)
+
+Change \Working Capital                                        ($10)              ($9)            ($2)           $78           ($10)          ($18)         ($10)       ($105)            ($25)            ($27)
+Capex to Sales %                        116.1%            73.8%          14.8%          3.0%          3.5%          5.1%          4.4%         3.9%          3.9%             3.9%            3.9%
+CAPEX                                             ($129)  ($129)         ($106)          ($59)         ($77)       ($131)        ($137)       ($130)       ($148)          ($165)         ($177)
+Incremental Investment                  ($129)           ($139)          ($115)          ($61)              $1         ($141)       ($155)      ($141)       ($253)          ($190)          ($204)
+
+Free Cash Flow                              ($248)           ($301)          ($165)         $215          $318          $141          $250         $299          $112             $259             $302
+Terminal Value                                                                                                                                                                           $4,644
+
+Present Value                                                          ($233)          ($113)         $129          $169             $66          $103         $109            $36               $73         $1,228
+    Sum of PVs                             $1,567
+
+Enterprise value                         $1,567                           Normalized Assumptions
+Cash  (post-offering)                      ($242)                         Sales Growth                 7.0% Terminal Value 
+Total Debt                                            $46                           Operating Margin 11.5% WACC - g          6.5%
+Shareholder Value                       $1,762                           Tax Rate                    22.0% WACC                  13.5%
+Shares Outstanding                        102.5                           W/C % Revenue                2.0%
+Per Share Value                                 $17                           CAPEX % Rev.             3.7%
+Source: Deutsche Bank 
+
+                                                   
+
+                                                   
+
+                                                   
+
+Deutsche Bank Securities Inc.                                                                                                                                                             Page 5 
+
+                                                                                                                                                                                                    348
+---------------------Page 6---------------------
+
+10 November 2010       Autos & Auto Parts  Tesla Motors                                                                            
+
+Appendix 1 
+
+Important Disclosures 
+
+Additional information available upon request 
+
+Disclosure checklist 
+Company Ticker Recent price* Disclosure 
+Tesla Motors                                                                           TSLA.OQ                     24.63 (USD) 9 Nov 10                      1,2,7,8 
+ 
+*Prices are sourced from local exchanges via Reuters, Bloomberg and other vendors.  Data is sourced from Deutsche Bank and subject companies. 
+                                  
+Important Disclosures Required by U.S. Regulators 
+Disclosures marked with an asterisk may al so be required by at least one jurisdiction  in addition to the  United States.  See 
+Important Disclosures Required by Non-US Regulators and Explanatory Notes. 
+1.     Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private offering for this 
+    company, for which it received fees. 
+
+2.     Deutsche Bank and/or its affiliate(s) makes a market in securities issued by this company. 
+
+7.    Deutsche Bank and/or its affiliate(s) has received com   pensation from this company fo  r the provision of investment 
+    banking or financial advisory services within the past year. 
+
+8.     Deutsche Bank and/or its affiliate(s) expects to receive, or intends to seek, compensation for investment banking services 
+    from this company in the next three months. 
+ 
+Important Disclosures Required by Non-U.S. Regulators 
+Please also refer to disclosures in the Important Disclosures Required by US Regulators and the Explanatory Notes. 
+1.     Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private offering for this 
+    company, for which it received fees. 
+
+2.     Deutsche Bank and/or its affiliate(s) makes a market in securities issued by this company. 
+
+7.    Deutsche Bank and/or its affiliate(s) has received com   pensation from this company fo  r the provision of investment 
+    banking or financial advisory services within the past year. 
+ 
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
+research, please see the most recently published company r eport or visit our global disclosure look-up page on our 
+website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=TSLA.OQ. 
+
+ 
+Analyst Certification 
+
+The views expressed in this report accurately reflect the person al views of the undersigned lead  analyst(s) about the subject 
+issuer and the securities of the issuer.    In addition, the undersigned lead ana     lyst(s) has not and   will not receive any 
+compensation for providing a specific recommendation or view in this report. Dan Galves 
+
+ 
+
+Page 6                                                                                                 Deutsche Bank Securities Inc. 
+
+                                                                                                                                  349
+---------------------Page 7---------------------
+
+10 November 2010       Autos & Auto Parts  Tesla Motors                                                                                       
+
+Historical recommendations and target price: Tesla Motors (TSLA.OQ) 
+ (as of 11/9/2010) 
+     30.00                                                                                                      Previous Recommendations 
+                                                                                                                   Strong Buy 
+     25.00                                                                                                         Buy 
+                                                                                                                   Market Perform 
+                                                                                                                   Underperform 
+                                         1                                                                         Not Rated  
+     20.00                                                                                                         Suspended Rating 
+                                                                                                                 Current Recommendations 
+
+     15.00                                                                                                         Buy 
+                                                                                                                   Hold 
+                                                                                                                   Sell 
+                                                                                                                   Not Rated  
+     10.00                                                                                                         Suspended Rating 
+                                                                                                             *New Recommendation Structure 
+                                                                                                                as of September 9, 2002 
+      5.00
+                                                                                                             
+
+      0.00
+          Jun 10                                                                                                                                             Sep 10
+                                                         Date                                                
+ 1.    8/9/2010:               Hold, Target Price Change USD17.00                                              
+                                     
+Equity rating key                                                Equity rating dispersion and banking relationships 
+
+Buy: Based on a current 12- month view of total share-  
+holder return (TSR = percentage change in share price                500
+                                                                                                     51 %
+from current price to projected target price plus  pro-              450         47 %
+                                                                     400
+jected dividend yield ) , we recommend that investors                350
+buy the stock.                                                       300
+Sell: Based on a current 12-month view of total share-               250               43 %
+                                                                     200                                   38 %
+holder return, we recommend that investors sell the                  150
+stock                                                                100                                                  2 %
+                                                                      50                                                        31 %
+Hold: We take a neutral view on the stock 12-months                    0
+out and, based on this time horizon, do not recommend 
+                                                                                   Buy                                   Hold                                   Sell
+either a Buy or Sell. 
+Notes: 
+1. Newly issued research recommendations and target                               Companies Covered      Cos. w/ Banking Relationship
+prices always supersede previously published research.                                      North American Universe
+2. Ratings definitions prior to 27 January, 2007 were: 
+     Buy:  Expected total return (including dividends) of 
+     10% or more over a 12-month period 
+     Hold: Expected total return (including dividends) 
+     between -10% and 10% over a 12-month period 
+     Sell: Expected total return (including dividends) of -
+     10% or worse over a 12-month period 
+ 
+
+                                     
+
+Deutsche Bank Securities Inc.                                                                                                         Page 7 
+
+                                                                                                                                             350
+
+                                                                                                                                                 Security Price
+---------------------Page 8---------------------
+
+10 November 2010       Autos & Auto Parts  Tesla Motors                                                                       
+
+Regulatory Disclosures 
+
+1. Important Additional Conflict Disclosures 
+
+Aside from within this report, important conflict disclosures  can also be found at https://gm.db.com/equities under the 
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
+
+ 
+
+2. Short-Term Trade Ideas 
+
+Deutsche Bank equity research analysts sometimes have shorter-term trade ideas (known as SOLAR ideas) that are consistent 
+or inconsistent with Deutsche Bank's existing longer term ratings. These trade ideas can be found at the SOLAR link at 
+http://gm.db.com. 
+
+ 
+
+3. Country-Specific Disclosures 
+
+Australia: This research, and any access to it, is intended only for "wholesale clients" within the meaning of the Australian 
+Corporations Act. 
+Brazil: The views expressed above accurately reflect personal vi  ews of the authors about the subject company(ies) and 
+its(their) securities, including in relation  to Deutsche Bank. The compensation of th e equity research ana lyst(s) is indirectly  
+affected by revenues deriving from the business and financial transactions of Deutsche Bank. 
+EU countries: Disclosures relating to our obligations under MiFiD can be found at http://globalmarkets.db.com/riskdisclosures. 
+Japan: Disclosures under the Financial Instruments and Exchange Law: Company name - Deutsche Securities Inc. Registration 
+number - Registered as a financ  ial instruments dealer by the Head of the   Kanto Local Finance Bureau (Kinsho) No. 117. 
+Member of associations: JSDA, The Financ     ial Futures Association of Japan. Co   mmissions and risks involved in stock 
+transactions - for stock transactions, we charge stock co  mmissions and consumption tax by multiplying the transaction 
+amount by the commission rate agreed with  each customer. Stock transactions can le ad to losses as a result of share price 
+fluctuations and other factors. Transactions in foreign stocks  can lead to additional losses stemming from foreign exchange 
+fluctuations. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report  are not registered as rating agency in Japan  
+unless specifically indicated as Japan entities of such rating agencies. 
+New Zealand: This research is not intended for, and should not be given to, "members of the public" within the meaning of the 
+New Zealand Securities Market Act 1988. 
+Russia: This information, interpretation and opinions submitted h erein are not in the context of , and do not constitute, any 
+appraisal or evaluation activity requiring a license in the Russian Federation. 
+                                  
+
+Page 8                                                                                            Deutsche Bank Securities Inc. 
+
+                                                                                                                             351
+---------------------Page 9---------------------
+
+                                                                                                                                                                                                               
+
+Deutsche Bank Securities Inc. 
+
+North American locations 
+
+Deutsche Bank Securities Inc.                     Deutsche Bank Securities Inc.                      Deutsche Bank Securities Inc.                      Deutsche Bank Securities Inc. 
+60 Wall Street                                    One International Place                            222 South Riverside Plaza                          3033 East First Avenue 
+New York, NY 10005                                12th Floor                                         30th Floor                                         Suite 303, Third Floor 
+Tel: (212) 250 2500                               Boston, MA 02110                                   Chicago, IL 60606                                  Denver, CO 80206 
+                                                  United States of America                           Tel: (312) 537-3758                                Tel: (303) 394 6800 
+                                                  Tel: (1) 617 217 6100 
+
+Deutsche Bank Securities Inc.                     Deutsche Bank Securities Inc.                      Deutsche Bank Securities Inc.                       
+1735 Market Street                                101 California Street                              700 Louisiana Street 
+24th Floor                                        46th Floor                                         Houston, TX 77002 
+Philadelphia, PA 19103                            San Francisco, CA 94111                            Tel: (832) 239-4600 
+Tel: (215) 854 1546                               Tel: (415) 617 2800 
+
+                                                   
+
+ 
+
+International locations 
+
+Deutsche Bank Securities Inc.                     Deutsche Bank AG London                            Deutsche Bank AG                                   Deutsche Bank AG 
+60 Wall Street                                    1 Great Winchester Street                          Große Gallusstraße 10-14                           Deutsche Bank Place 
+New York, NY 10005                                London EC2N 2EQ                                    60272 Frankfurt am Main                            Level 16 
+United States of America                          United Kingdom                                     Germany                                            Corner of Hunter & Phillip Streets 
+Tel: (1) 212 250 2500                             Tel: (44) 20 7545 8000                             Tel: (49) 69 910 00                                Sydney, NSW 2000 
+                                                                                                                                                        Australia 
+                                                                                                                                                        Tel: (61) 2 8258 1234 
+
+Deutsche Bank AG                                  Deutsche Securities Inc.                             
+Level 55                                          2-11-1 Nagatacho 
+Cheung Kong Center                                Sanno Park Tower 
+2 Queen's Road Central                            Chiyoda-ku, Tokyo 100-6171 
+Hong Kong                                         Japan 
+Tel: (852) 2203 8888                              Tel: (81) 3 5156 6770 
+
+Global Disclaimer 
+
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively "Deutsche   Bank"). The information herein is believed to be re liable and has been obtained from public sources 
+believed to be reliable. Deutsche Bank makes no representation as to the accuracy or completeness of such information. 
+Deutsche Bank may engage in securities transactions, on a proprietary basis or otherwise, in a manner inconsistent with the view taken in this research report. In addition, others within Deutsche Bank, including strategists and 
+sales staff, may take a view that is inconsistent  with that taken in this research report. 
+Opinions, estimates and projections in this  report constitute the current judgement of  the author as of the  date of this report. They do not necessarily reflect the opinions of Deutsche Bank and are subject to change without 
+notice. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient thereof in th e event that any opinion, forecast or estimate  set forth herein, changes or subsequently becomes 
+inaccurate. Prices and availability of financial instruments are  subject to change without notice. This report is provided for   informational purposes only. It is not an offer or a solicitation of an offer to buy or sell any financial 
+instruments or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the a nalyst judgement. 
+As a result of Deutsche Banks recent acquisition of BHF-Bank AG, a security may be covered by more than one analyst within the Deutsche Bank group. Each of these analysts may use differing methodologies to value the 
+security; as a result, the recommendations may differ and the price targets and estimates of each may vary widely. 
+Deutsche Bank has instituted a new policy whereby analysts may choose not to set or maintain a target price of certain issuers under coverage with a Hold rating. In particular, this will typically occur for "Hold" rated stocks 
+having a market cap smaller than  most other companies in its sector or region. We believe that such policy will allow us to mak e best use of our resources. Please visit our website at http://gm.db.com to determine the target 
+price of any stock. 
+The financial instruments discussed in this report may not be su itable for all investors and investors must make their own info rmed investment decisions. Stock transactions can lead to losses as a result of price fluctuations and 
+other factors. If a financial instrument is denominated in a curr ency other than an investor's currency, a change in exchange r ates may adversely affect the investment. Past performance is not necessarily indicative of future 
+results. Deutsche Bank may with respect to securities covered by this report, sell to or buy from customers on a principal basis, and consider this report in deciding to trade on a proprietary basis. 
+Unless governing law provides otherwise, all transactions should   be executed through the Deutsche Bank entity in the investor's   home jurisdiction. In the U.S. this report is approved and/or distributed by Deutsche Bank 
+Securities Inc., a member of the NYSE, the NASD, NFA and SIPC. In Germany this report is approved and/or communicated by Deutsc he Bank AG Frankfurt authorized by the BaFin. In the United Kingdom this report is approved 
+and/or communicated by Deutsche Bank AG London, a member of the London Stock Exchange and regulated by the Financial Services A  uthority for the conduct of investment business in the UK and authorized by the BaFin. 
+This report is distributed in Hong Kong by Deutsche Bank AG, Hong Kong Branch, in Korea by Deutsche Securities Korea Co. This report is distributed in Singapore by Deutsche Bank AG, Singapore Branch, and recipients in 
+Singapore of this report are to contact Deutsche Bank AG, Singap ore Branch in respect of any matters arising from, or in connection with, this report. Where this report is issued or promulgated in Singapore to a person who is 
+not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulati ons), Deutsche Bank AG, Singapore Branch accepts legal responsibility to such person for the contents 
+of this report. In Japan this report is approved and/or distri buted by Deutsche Securities Inc. The information contained in this report does not constitute the provision of investment advice. In Australia, retail clients should obtain 
+a copy of a Product Disclosure Statement (PDS) relating to any financial product referred to in this report and consider the PDS before making any decision about whether to acquire the product. Deutsche Bank AG 
+Johannesburg is incorporated in the Federal Republic of Germany (Branch Register Number in South Africa: 1998/003298/10). Addit  ional information relative to securities, other financial products or issuers discussed in this 
+report is available upon request. This report may not be reproduced, distributed or published by any person for any purpose wit hout Deutsche Bank's prior written consent. Please cite source when quoting. 
+Copyright © 2010 Deutsche Bank AG 
+ 
+
+ 
+
+ 
+
+                                                                                                                                                                                                               352
+
+                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                           

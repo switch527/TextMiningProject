@@ -1,0 +1,527 @@
+---------------------Page 1---------------------
+
+ 
+
+                                                                                                                          North America Equity Research 
+                                                                                                                          10 November 2010 
+                        
+
+                                                                                                                      
+                                                                                                                          Overweight 
+                        Tesla Motors                                                                                      TSLA, TSLA US 
+                                                                                                                          Price:  $24.63 
+                        Model S On-Track; Panasonic Tie-Up Further 
+                                                                                                                       ▲  Price Target: $30.00 
+                        Validates TSLA Technology                                                                         Previous: $25.00 
+
+                       Summary: Teslas Q3 financials were largely uneventful, but the combination of                     Automobile Manufacture 
+                       multiple qualitative developments and comments serve to 1) support the view that                                           AC 
+                                                                                                                          Himanshu Patel, CFA
+                       the Model S launch is progressing in a timely fashion and 2) that TSLA does have                   (1-212) 622-3906 
+                       a unique technology that is being increasingly recognized by others (most                          himanshu.patel@jpmorgan.com 
+                       recently, Panasonic). We leave future pe  riod estimates largely unchanged, and 
+                                                                                                                          Vivek Aalok 
+                       establish a Dec 2011 price target of $30 using DCF (prior $25 target was a Dec                     (1-212) 622-0798 
+                       2010 target). While positive earnings ar  e still a couple of years away, we are                   vivek.x.aalok@jpmorgan.com 
+                       bullish on TSLA as we believe it is at the vanguard of improving battery 
+                                                                                                                          Michael Kimlat 
+                       costs/durability which should support the creation of a well-received Tesla-badged                 (1-212) 622-0458 
+                       product line up in this decade but also        what seems like an increasingly viable              michael.x.kimlat@jpmorgan.com 
+                       powertrain supply revenue stream. Reiterate Overweight.                                            J.P. Morgan Securities LLC 
+
+                       •   3Q:10 Details: Roadster sales increased +7% y/y to 151 (vs. 141 in 2Q:10) in                   Price Performance
+                                                                                                                                               
+                            3Q:10 with half of the deliveries made outside the US, mainly Europe.                           26
+                            Revenues, however, were lower despite sequentially flat ASP due to higher 
+                            lease mix in the US and one-time catch  -up in options. Comp any stated that                    22
+                                                                                                                           $                                        
+                            balance of the leasing revenues will be recognized in 4Q. Gross margins                         18
+                            improved to 30% (vs. 22% in 2Q:10) driven by higher Development sales 
+                                                                                                                            14
+                            (+78% q/q) during the quarter. Automotive gross margin, net of Warranty 
+                                                                                                                             Jun-10                                         Sep-10
+                            costs, was 16.7% in the quarter (vs. 15.5% in 2Q), while margins at 
+                            Development business were 68.5% in 3Q:10 (vs. 57.6% in 2Q:10). Further,                        YTD            1m            3m          12m
+                            TSLA reported that Model S reservation increased to 3K units at 3Q-end (vs.                   Abs 44.9%      21.7%      25.7%      44.9%
+                                                                                                                           
+                            2.8K at the end of 2Q). 
+
+                        Tesla Motors, Inc. (TSLA;TSLA US)                                                                 
+                         2010E           2011E           2012E           2013E           2014E           2015E           Company Data 
+                        EPS Reported ($)                                                                                 Price ($)                                                             24.63
+                         Q1 (Mar)                                                                                        Date Of Price                                        09 Nov 10
+                         Q2 (Jun)                                                                                        52-week Range ($)                     30.42 - 14.98
+                         Q3 (Sep)                                                                                        Mkt Cap ($ mn) 
+                         Q4 (Dec)                                                                                        Fiscal Year End                                                Dec
+                         FY                                                      (1.38)             (1.88)             (1.46)                1.51                1.07                3.12Shares O/S (mn) 
+                        Source: Company data, J.P. Morgan estimates.                                                     Price Target ($)                                             30.00
+                                                                                                                         Price Target End Date                    31 Dec 11 
+                         
+                       See page 7 for analyst certification and important disclosures.          
+                       J.P. Morgan does and seeks to do business with companies covered in its research reports. As a result, investors should be awar  e that the firm may 
+                       have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their 
+                       investment decision.  
+
+                                                                                                                                                              334
+---------------------Page 2---------------------
+
+Himanshu Patel, CFA                                North America Equity Research 
+(1-212) 622-3906                      10 November 2010
+himanshu.patel@jpmorgan.com 
+
+        
+
+                                      •   Panasonic's $30MM Investment in Tesla:  The recent $30MM investment by 
+                                          Panasonic in TSLA equity offers yet another (in addition Daimlers and 
+                                          Toyotas) piece of a strong TSLA technology validation in our view. Panasonic is 
+                                          the world's leading supplier of small format lithium battery cells, and Panasonic 
+                                          (starting with its Sanyo subsidiary) has had deep commercial links with Tesla for 
+                                          six years. It is interesting to note that despite the investment, TSLA is not 
+                                          required to sole source batteries from Panasonic (the Model S batteries will be 
+                                          dual sourced, and we suspect TSLA is searching for another non-Japanese 
+                                          supplier, partly to limit Yen exposure). The CEO described the Panasonic 
+                                          investment as an endorsement of TSLA's technology and a sign of "friendship" 
+                                          between the two companies. Practically speaking, Panasonic was already TSLAs 
+                                          preferred battery vendor, and Panasonic  batteries will be the primary source for 
+                                          batteries to the Model S, and the packs for the EV versions of the Daimler smart, 
+                                          Mercedes A-Class, and the Toyota RAV4. More strategically, having Panasonic 
+                                          directly invested in TSLA's future prov  ides a greater level of confidence that 
+                                          TSLA will be able to further reduce battery cost per kwh, particularly relevant for 
+                                          the third-gen car to follow the Model S.  
+
+                                      •   TSLA could announce partnership wi          th one more global automaker:     
+                                          Management mentioned that TLSA is in discussions with several automotive 
+                                          companies for potential commercial relationships, but stayed away from specifics 
+                                          except to say that at least one additional relationship (in addition to Daimler and 
+                                          Toyota) was likely. We think this is a positive, as it would indicate that up to 
+                                          three traditional carmakers are seeing the virtues of Tesla's low cost battery 
+                                          technology.  
+
+                                      •   Model-S vehicle and launch updates: A few incremental points discussed in the 
+                                          call regarding launch of Model-S in mid-2012 are listed below:        (1) Mgmt. 
+                                          seemed confident on the mid-2012 launch timing and 20K volume in 2013 of 
+                                          Model-S vehicles and suggested that final systems integration (particularly 
+                                          related to crash testing) was one of the  major areas of risks to launch timing.  (2) 
+                                          Nearly 100% of supplier sourcing decisions are expected to be done by end of 
+                                          4Q:10. (3) Management suggested that TSLA is making good progress towards 
+                                          an 80kW fast charger (the default chargers with Model S will be a 10kW or 
+                                          20kW charger) which will require  just 45 minutes of charge Model-S (70kWh 
+                                          battery pack to be charged up-to 85%). Company is expecting to make these 
+                                          chargers available with the launch of Model-S and is now planning to install 
+                                          these chargers in public roadways.   (4) TSLA signaled it made some modest 
+                                          design tweaks to the Model S in recent m onths (eg, a Panoramic roof option, and 
+                                          the use of NVIDIA graphics  chips for the IP and cente r console) which broadly 
+                                          reinforces the view that this EV-pow  ertrain focused company is striving for 
+                                          equally high/impressive vehicle engineering attributes for the Model S.  
+
+2       
+
+                                                                                                                               335
+---------------------Page 3---------------------
+
+Himanshu Patel, CFA                                North America Equity Research 
+(1-212) 622-3906                     10 November 2010
+himanshu.patel@jpmorgan.com 
+
+                                      
+
+                                     •   Toyota RAV4 Details: Toyota earlier announced to plan to jointly develop a EV 
+                                          power-train for its future RAV4. TSLA mentioned that this contract will generate 
+                                          $60MM of development revenues and that it will be realized over 6 quarters after 
+                                          the commencement of the contract (which we suspect is sometime early next 
+                                          year). TSLA will also derive an additional $9MM of revenues to develop a 
+                                          prototype RAV4 for Toyota.  Mgmt. suggeste d that there are a lot of similarities 
+                                          between Model S and RAV4 power-trains but with a different systems 
+                                          integration challenge. Core IP in RAV4 development will be owned by TSLA 
+                                          and system integration related IP will generally be owned by Toyota. Company 
+                                          also mentioned that RAV4 will have a 40kWh battery pack (smaller than Model-
+                                          S 70kWh), similar to Mercedes A-cla    ss. It was suggested that RAV4 may 
+                                          initially be manufactured in NUMMI plant and may eventually be moved to 
+                                          Toyota plant depending on the volumes. 
+
+        
+
+                                                                                                                               3 
+
+                                                                                                                             336
+---------------------Page 4---------------------
+
+Himanshu Patel, CFA                                                                        North America Equity Research 
+(1-212) 622-3906                                                                           10 November 2010
+himanshu.patel@jpmorgan.com 
+
+Table 1: DCF Based Valuation Yields Dec-2011 Price Target of $30 
+
+                                                                      2009            2010E           2011E           2012E           2013E           2014E           2015E           2016E           2017E           2018E           2019E                2020E
+
+Revenues                                                                                112                 109                 147                 628               1,846             2,173             3,672             4,971             6,590             7,209             8,346                  8,420
+EBITDA                                                           -46                 -135               -182               -119                196                 149                 472                 610                 686                 619                 749                       748
+Less: D&A                                                                -5               -10               -16               -35               -43               -45               -45               -50               -50               -50               -50                   -50
+EBIT                                                                -51                 -145               -198               -154                153                 104                 427                 560                 636                 569                 699                       698
+Interest Expense                                                                   -2                     -3                    -10                  -14                  -13                  -10                    -9                     -7                     -6                      0                       0                            0
+Taxes                                                                    0                 0                 0                 0                 0                 0               -100              -133              -151              -137              -168                  -167
+
+Net Income                                                                            -54                 -148               -208               -168                140                  93                  318                 420                 479                 433                 531                       530
+
+Add: D&A                                                                                  +5                  +10                 +16                 +35                 +43                 +45                 +45                 +50                 +50                 +50                 +50                       +50
+Add: Stock based compensation                                                         +17                 +14                 +16                 +19                 +20                 +22                 +24                 +26                 +28                 +30                       +30
+Change in Working Capital                                              0                     36                    17                    25                    87                    35                  101                  96                  117                  59                    91                         27
+Capital Expenditure                                                     -68              -100              -136               -83              -136              -180              -360              -100              -138              -158              -195                  -213
+
+Free Cash Flow to Equity                                          -117               -185               -297               -175                153                  13                  126                 490                 534                 412                 507                       425
+
+PV of FCF to Equity                                                                                   -185               -266               -141                110                    8                     73                  255                 250                 173                 191                       144
+
+Terminal Value                                                                                                                                                                                                                                                                  5,919
+Implied Terminal Growth rate                                                                                                                                                                                                                                                     14x
+PV of Terminal Value                                                                                                                                                                                                                                                            1,999
+
+DCF Assumptions                                                                                                        Comments
+(1) Risk-free rate*                                                                                         2.656%
+(2) Beta                                                                                                                        1.0
+(3) Risk Premium**                                                                                           8.5%
+(1)+ (2)*(3) = Cost of Equity                                                                     11.5%
+
+LT Growth Rate                                                                                                  4.0%
+* US 10-yr Treasury yield
+** Source: Bloomberg's US Country Risk Premium
+
+Equity Value Calculation
+PV of FCFs                                                                                                          1,064
+PV of Terminal Value                                                                                     1,999
+Equity Value (fully distributed)                                                            3,062
+
+Implied Stock Price                                                                                             30                                                                                                                                                                                
+Source: Company reports and J.P. Morgan estimates. 
+
+4                                                                                          
+
+                                                                                                                                                                                                                                                                                                           337
+---------------------Page 5---------------------
+
+Himanshu Patel, CFA                    North America Equity Research 
+(1-212) 622-3906                       10 November 2010
+himanshu.patel@jpmorgan.com 
+
+                                      Valuation 
+                                      We get to our $30 Dec-11 price target using both a DCF (11.7% discount rate, 4% 
+                                      terminal growth, exclusive of 2011 burn) and price/sales (1.4x which is the 1.5x 
+                                      average 2012 p/sales of A123, Ener1, BYD discounted one year as we apply it to 
+                                      Teslas 2013 sales). Our $30 price target implies a somewhat lofty 26.1x P/E on tax 
+                                      rate adjusted 2013 EPS, although implied P/E is 16.5x if 10% EBIT margin is used 
+                                      (our margin forecast may be conservative at  least in the initial years (guidance is 14-
+                                      16%). Since its 2003 start, Tesla has been singularly focused on developing pure 
+                                      electric vehicles (EVs). We think EVs and plug-in hybrids (PHEVs) both hold strong 
+                                      long-term promise given tightening environment regulations and an increasingly 
+                                      green global consumer. Maintain Overweight. 
+
+                                      Risk to Rating 
+                                      Downside Risks: (1) Established luxury carmakers introduce competing vehicles that 
+                                      eventually prove performance and cost competitive to Teslas technology. Audi, for 
+                                      example, is targeting a 2012 launch of its   E-tron EV ultra luxu ry sports car, and 
+                                      Mercedes and Porsche have pure EV sp orts car plans in the works as well.  (2) The 
+                                      manufacturing ramp of Model S is delayed notably.        (3)  Model S sales start 
+                                      cannibalizing Roadster sales. (4) Elon Musk (CEO) is a key executive whose loss to 
+                                      the company could potentially be fairly detrimental (he has a history of moving on 
+                                      once companies become successful). We see  him as a visionary who drives Tesla to 
+                                      high technical and commercial targets. 
+
+                                                                                                                         5 
+
+                                                                                                                              338
+---------------------Page 6---------------------
+
+Himanshu Patel, CFA                                                                                              North America Equity Research 
+(1-212) 622-3906                                                                                       10 November 2010
+himanshu.patel@jpmorgan.com 
+
+          Tesla Motors: Summary of Financials 
+          Income Statement - Annual                                   FY09A    FY10E    FY11E    FY12E                                                                           Income Statement - Quarterly                  1Q10A    2Q10A    3Q10A    4Q10E
+           
+          Revenues 112 109           147           628  Revenues - -                 -                -
+          Cost of goods sold                                                                   102             84          115          520    Cost of goods sold                                                           -                -                 -                -
+          Gross profit                                                                                  10             25             32          108    Gross profit                                                                        -                -                 -                -
+                                                                                                                                                                             
+          SG&A - -                -                -  SG&A - -                 -                -
+          D&A - -                -                -  D&A - -                 -                -
+          Operating income                                                                    (51)        (145)        (198)        (154)    Operating income                                                             -                -                 -                -
+                                                                                                                                                                             
+          EBITDA (46) (135)        (182)        (119) EBITDA - -                 -                -
+                                                                                                                                                                             
+          Net interest income / (expense)                                                 -                -                -                -    Net interest income / (expense)                                    -                -                 -                -
+          Other income / (expense)                                                            -                -                -                -    Other income / (expense)                                               -                -                 -                -
+          Pretax income                                                                                -                -                -                -    Pretax income                                                                   -                -                 -                -
+                                                                                                                                                                             
+          Income taxes                                                                                  -                -                -                -     Income taxes                                                                    -                -                 -                -
+          Net income - GAAP                                                                       -                -                -                -     Net income - GAAP                                                         -                -                 -                -
+          Net income - recurring                                                                  -        (141)        (194)        (152)    Net income - recurring                                                    -                -                 -                -
+                                                                                                                                                                             
+          Diluted shares outstanding                                                          -          102          103          104    Diluted shares outstanding                                            -                -                 -                -
+                                                                                                                                                                             
+          EPS - GAAP                                                                                   -      (1.38)       (1.88)       (1.46)     EPS - GAAP                                                                      -                -                 -                -
+          EPS - recurring                                                                              -      (1.38)       (1.88)       (1.46)    EPS - recurring                                                                 -                -                 -                -
+                                                                                                                                                                              
+          Balance Sheet and Cash Flow Data                    FY09A    FY10E    FY11E    FY12E                                                                                   Ratio Analysis                                               FY09A    FY10E    FY11E    FY12E
+             
+          Cash and cash equivalents                                                         -                -                -                -    Sales growth                                                                     -                -                 -                -
+          Accounts receivable                                                                      -                -                -                -    EBITDA growth                                                                 -                -                 -                -
+          Inventories - -                -                -  EPS growth - -                 -                -
+          Other current assets                                                                     -                -                -                - 
+          Current assets                                                                                -                -                -                -    Gross margin                                                                    -                -                 -                -
+          PP&E - -                -                -  EBIT margin - -                 -                -
+          Total assets                                                                                    -                -                -                -    EBITDA margin                                                                -                -                 -                -
+                                                                                                                                                                             Tax rate                                                                          -             -                 -                -
+          Total debt                                                                                        -                -                -                -    Net margin                                                                         -                -                 -                -
+          Total liabilities                                                                                 -                -                -                - 
+          Shareholders' equity                                                                     -                -                -                -    Net debt / EBITDA                                                           -                -                 -                -
+                                                                                                                                                                                Net debt / capital (book)                                                 -                -                 -                -
+          Net income (including charges)                                                  -                -                -                - 
+          D&A                                                                                                  -                -                -                -    Return on assets (ROA)                                                 -                -                 -                -
+          Change in working capital                                                           -                -                -                -    Return on equity (ROE)                                                  -                -                 -                -
+          Other                                                                                                -                -                -                -    Return on invested capital (ROIC)                               -                -                 -                -
+          Cash flow from operations                                                           -                -                -                - 
+                                                                                                                                                                             
+          Capex - -                -                - 
+          Free cash flow                                                                                -                -                -                - 
+                                                                                                                                                                             
+          Cash flow from investing activities                                             -                -                -                - 
+          Cash flow from financing activities                                             -                -                -                - 
+          Dividends - -                -                - 
+                                                                                                                                                                                                                                                                                                                                                                 
+          Source: Company reports and J.P. Morgan estimates. 
+          Note: $ in millions (except per-share data). Fiscal year ends Dec                                                                                                                                                                                                                         
+           
+
+6          
+
+                                                                                                                                                                                                                                                                                                                                                      339
+---------------------Page 7---------------------
+
+Himanshu Patel, CFA                         North America Equity Research 
+(1-212) 622-3906                            10 November 2010
+himanshu.patel@jpmorgan.com 
+
+Analyst Certification:   
+The research analyst(s) denoted by an AC on the cover of this report certifies (or, where multiple research analysts are primarily 
+responsible for this report, the research analyst denoted by an AC on the cover or within the document individually certifies, with 
+respect to each security or issuer that the research analyst covers in this research) that: (1) all of the views expressed in this report 
+accurately reflect his or her personal views about any and all of the subject securities or issuers; and (2) no part of any of  the research 
+analysts compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the 
+research analyst(s) in this report.  
+
+Important Disclosures       
+                                                                                                                                            
+•    Market Maker: JPMS makes a market in the stock of Tesla Motors.  
+•    Lead or Co-manager: J.P. Morgan acted as lead or co-manager in a public offering of equity and/or debt securities for Tesla Motors 
+     within the past 12 months.  
+•    Client of the Firm: Tesla Motors is or was in the past 12 months a client of JPM; during the past 12 months, JPM provided to the 
+     company investment banking services.  
+•    Investment Banking (past 12 months): J.P. Morgan received, in the past 12 months, compensation for investment banking services 
+     from Tesla Motors.  
+•    Investment Banking (next 3 months): J.P. Morgan expects to receive, or intends to seek, compensation for investment banking 
+     services in the next three months from Tesla Motors.  
+                                                                                                   
+Tesla Motors (TSLA)  Price Chart
+                                                 
+                                                                                                  Date Rating Share Price         Price Target 
+      40                                                                                                             ($)          ($) 
+                                                                                                  09-Aug-10 OW       19.59                25.00 
+      32
+                                       OW $25
+      24
+Price($)                                                                                          
+
+      16
+
+       8
+
+       0
+        Jun          Jun          Jul         Aug           Sep          Oct         Nov
+         10           10           10          10           10           10           10
+Source: Bloomberg and J.P. Morgan; price data adjusted for stock splits and dividends.
+Initiated coverage Aug 09, 2010. This chart shows J.P. Morgan's continuing coverage of this stock; the current analyst
+may or may not have covered it over the entire period.
+J.P. Morgan ratings: OW = Overweight, N = Neutral, UW = Underweight.
+ 
+Explanation of Equity Research Ratings and Analyst(s) Coverage Universe:   
+J.P. Morgan uses the following rating system:  Overweight [Over the next six to twelve months, we expect this stock will outperform the 
+average total return of the stocks in the analysts (or the analysts teams) coverage universe.]  Neutral [Over the next six to twelve 
+months, we expect this stock will perform in line with the average total return of the stocks in the analysts (or the analysts teams) 
+coverage universe.]  Underweight [Over the next six to twelve months, we expect this stock will underperform the average total return of 
+the stocks in the analysts (or the analysts teams) coverage universe.] J.P. Morgan Cazenoves UK Small/Mid-Cap dedicated research 
+analysts use the same rating categories; however, each stocks expected total return is compared to the expected total return of the FTSE 
+All Share Index, not to those analysts coverage universe. A list of these analysts is available on request. The analyst or ana lysts teams 
+coverage universe is the sector and/or country shown on the cover of each publication.  See below for the specific stocks in the certifying 
+analyst(s) coverage universe.  
+  
+
+  
+Coverage Universe: Himanshu Patel, CFA: American Axle (AXL), ArvinMeritor, Inc. (ARM), AutoNation, Inc. (AN), 
+Autoliv (ALV), Avis Budget Group, Inc. (CAR), Borg Warner Inc. (BWA), CarMax Inc. (KMX), Cooper Tire & Rubber 
+(CTB), Dana Holding Corporation (DAN), Dollar Thrifty Automotive (DTG), Ford Motor Company (F), Gentex 
+Corporation (GNTX), Genuine Parts Company (GPC), Goodyear Tire & Rubber (GT), Group 1 Automotive, Inc (GPI), 
+
+                                                                                                                                          7 
+
+                                                                                                                                                340
+---------------------Page 8---------------------
+
+Himanshu Patel, CFA                          North America Equity Research 
+(1-212) 622-3906                            10 November 2010 
+himanshu.patel@jpmorgan.com 
+
+Harley-Davidson (HOG), Harman International (HAR), Hertz Global Holdings, Inc. (HTZ), Johnson Controls, Inc. (JCI), 
+KAR Auction Services, Inc. (KAR), Lear Corporation (LEA), Lithia Motors (LAD), Magna International, Inc. (MGA), 
+Penske Automotive Group, Inc. (PAG), Sonic Automotive, Inc. (SAH), TRW Automotive (TRW), Tenneco Automotive 
+(TEN), Tesla Motors (TSLA) 
+  
+
+J.P. Morgan Equity Research Ratings Distribution, as of September 30, 2010 
+
+                                            Overweight   Neutral   Underweight 
+                                            (buy)          (hold)    (sell) 
+J.P. Morgan Global Equity Research          46% 43% 12% 
+Coverage 
+    IB clients*                                                                      49%                      45%             33% 
+JPMS Equity Research Coverage                              43%                      48%             8% 
+    IB clients*                                                                      69%                      60%             50% 
+*Percentage of investment banking clients in each rating category. 
+For purposes only of FINRA/NYSE ratings distribution rules, our Overweight rating falls into a buy rating category; our Neutral rating falls into a hold 
+rating category; and our Underweight rating falls into a sell rating category. 
+ 
+
+Valuation and Risks:  Please see the most recent company-specific research report for an analysis of valuation methodology and risks on 
+any securities recommended herein. Research is available at http://www.morganmarkets.com , or you can contact the analyst named on 
+the front of this note or your J.P. Morgan representative.  
+
+Analysts Compensation:  The equity research analysts responsible for the preparation of this report receive compensation based upon 
+various factors, including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues, which 
+include revenues from, among other business units, Institutional Equities and Investment Banking.  
+
+Other Disclosures 
+                                                                                                                                               
+J.P. Morgan ("JPM") is the global brand name for J.P. Morgan Securities LLC ("JPMS") and its affiliates worldwide. J.P. Morgan Cazenove is a 
+marketing name for the U.K. investment banking businesses and EMEA cash equities and equity research businesses of JPMorgan Chase & Co. 
+and its subsidiaries.  
+  
+Options related research: If the information contained herein regards options related research, such information is available only to persons who 
+have received the proper option risk disclosure documents. For a copy of the Option Clearing Corporations Characteristics and Risks of 
+Standardized Options, please contact your J.P. Morgan Representative or visit the OCCs website at 
+http://www.optionsclearing.com/publications/risks/riskstoc.pdf.  
+  
+Legal Entities Disclosures   
+U.S.: JPMS is a member of NYSE, FINRA and SIPC.  J.P. Morgan Futures Inc. is a member of the NFA. JPMorgan Chase Bank, N.A. is a 
+member of FDIC and is authorized and regulated in the UK by the Financial Services Authority. U.K.: J.P. Morgan Securities Ltd. (JPMSL) is a 
+member of the London Stock Exchange and is authorized and regulated by the Financial Services Authority. Registered in England & Wales No. 
+2711006. Registered Office 125 London Wall, London EC2Y 5AJ. South Africa: J.P. Morgan Equities Limited is a member of the Johannesburg 
+Securities Exchange and is regulated by the FSB. Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is regulated 
+by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong. Korea: J.P. Morgan Securities (Far East) Ltd, 
+Seoul Branch, is regulated by the Korea Financial Supervisory Service. Australia: J.P. Morgan Australia Limited (ABN 52 002 888 011/AFS 
+Licence No: 238188) is regulated by ASIC and J.P. Morgan Securities Australia Limited (ABN 61 003 245 234/AFS Licence No: 238066) is a 
+Market Participant with the ASX and regulated by ASIC. Taiwan: J.P.Morgan Securities (Taiwan) Limited is a participant of the Taiwan Stock 
+Exchange (company-type) and regulated by the Taiwan Securities and Futures Bureau. India: J.P. Morgan India Private Limited is a member of 
+the National Stock Exchange of India Limited and Bombay Stock Exchange Limited and is regulated by the Securities and Exchange Board of 
+India. Thailand: JPMorgan Securities (Thailand) Limited is a member of the Stock Exchange of Thailand and is regulated by the Ministry of 
+Finance and the Securities and Exchange Commission. Indonesia: PT J.P. Morgan Securities Indonesia is a member of the Indonesia Stock 
+Exchange and is regulated by the BAPEPAM LK. Philippines: J.P. Morgan Securities Philippines Inc. is a member of the Philippine Stock 
+Exchange and is regulated by the Securities and Exchange Commission. Brazil: Banco J.P. Morgan S.A. is regulated by the Comissao de Valores 
+Mobiliarios (CVM) and by the Central Bank of Brazil. Mexico: J.P. Morgan Casa de Bolsa, S.A. de C.V., J.P. Morgan Grupo Financiero is a 
+member of the Mexican Stock Exchange and authorized to act as a broker dealer by the National Banking and Securities Exchange Commission. 
+Singapore: This material is issued and distributed in Singapore by J.P. Morgan Securities Singapore Private Limited (JPMSS) [MICA (P) 
+020/01/2010 and Co. Reg. No.: 199405335R] which is a member of the Singapore Exchange Securities Trading Limited and is regulated by the 
+Monetary Authority of Singapore (MAS) and/or JPMorgan Chase Bank, N.A., Singapore branch (JPMCB Singapore) which is regulated by the 
+MAS. Malaysia: This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X) which is a 
+Participating Organization of Bursa Malaysia Berhad and a holder of Capital Markets Services License issued by the Securities Commission in 
+Malaysia. Pakistan: J. P. Morgan Pakistan Broking (Pvt.) Ltd is a member of the Karachi Stock Exchange and regulated by the Securities and 
+
+8                                            
+
+                                                                                                                                                   341
+---------------------Page 9---------------------
+
+Himanshu Patel, CFA                           North America Equity Research 
+(1-212) 622-3906                             10 November 2010 
+himanshu.patel@jpmorgan.com 
+
+Exchange Commission of Pakistan. Saudi Arabia: J.P. Morgan Saudi Arabia Ltd. is authorized by the Capital Market Authority of the Kingdom 
+of Saudi Arabia (CMA) to carry out dealing as an agent, arranging, advising and custody, with respect to securities business under licence number 
+35-07079 and its registered address is at 8th Floor, Al-Faisaliyah Tower, King Fahad Road, P.O. Box 51907, Riyadh 11553, Kingdom of Saudi 
+Arabia. Dubai: JPMorgan Chase Bank, N.A., Dubai Branch is regulated by the Dubai Financial Services Authority (DFSA) and its registered 
+address is Dubai International Financial Centre - Building 3, Level 7, PO Box 506551, Dubai, UAE. 
+  
+Country and Region Specific Disclosures   
+U.K. and European Economic Area (EEA):  Unless specified to the contrary, issued and approved for distribution in the U.K. and the EEA by 
+JPMSL. Investment research issued by JPMSL has been prepared in accordance with JPMSL's policies for managing conflicts of interest arising 
+as a result of publication and distribution of investment research. Many European regulators require a firm to establish, implement and maintain 
+such a policy. This report has been issued in the U.K. only to persons of a kind described in Article 19 (5), 38, 47 and 49 of the Financial Services 
+and Markets Act 2000 (Financial Promotion) Order 2005 (all such persons being referred to as "relevant persons"). This document must not be 
+acted on or relied on by persons who are not relevant persons. Any investment or investment activity to which this document relates is only 
+available to relevant persons and will be engaged in only with relevant persons. In other EEA countries, the report has been issued to persons 
+regarded as professional investors (or equivalent) in their home jurisdiction. Australia:  This material is issued and distributed by JPMSAL in 
+Australia to wholesale clients only.  JPMSAL does not issue or distribute this material to retail clients.  The recipient of this material must not 
+distribute it to any third party or outside Australia without the prior written consent of JPMSAL.  For the purposes of this paragraph the terms 
+wholesale client and retail client have the meanings given to them in section 761G of the Corporations Act 2001.  Germany:  This material is 
+distributed in Germany by J.P. Morgan Securities Ltd., Frankfurt Branch and J.P.Morgan Chase Bank, N.A., Frankfurt Branch which are 
+regulated by the Bundesanstalt für Finanzdienstleistungsaufsicht.  Hong Kong:  The 1% ownership disclosure as of the previous month end 
+satisfies the requirements under Paragraph 16.5(a) of the Hong Kong Code of Conduct for Persons Licensed by or Registered with the Securities 
+and Futures Commission. (For research published within the first ten days of the month, the disclosure may be based on the month end data from 
+two months prior.) J.P. Morgan Broking (Hong Kong) Limited is the liquidity provider for derivative warrants issued by J.P. Morgan Structured 
+Products B.V. and listed on the Stock Exchange of Hong Kong Limited. An updated list can be found on HKEx website: 
+http://www.hkex.com.hk/prod/dw/Lp.htm.  Japan: There is a risk that a loss may occur due to a change in the price of the shares in the case of 
+share trading, and that a loss may occur due to the exchange rate in the case of foreign share trading. In the case of share trading, JPMorgan 
+Securities Japan Co., Ltd., will be receiving a brokerage fee and consumption tax (shouhizei) calculated by multiplying the executed price by the 
+commission rate which was individually agreed between JPMorgan Securities Japan Co., Ltd., and the customer in advance. Financial Instruments 
+Firms: JPMorgan Securities Japan Co., Ltd., Kanto Local Finance Bureau (kinsho) No. 82 Participating Association / Japan Securities Dealers 
+Association, The Financial Futures Association of Japan.  Korea:  This report may have been edited or contributed to from time to time by 
+affiliates of J.P. Morgan Securities (Far East) Ltd, Seoul Branch.  Singapore:  JPMSS and/or its affiliates may have a holding in any of the 
+securities discussed in this report; for securities where the holding is 1% or greater, the specific holding is disclosed in the Important Disclosures 
+section above.  India:  For private circulation only, not for sale. Pakistan:  For private circulation only, not for sale. New Zealand:   This 
+material is issued and distributed by JPMSAL in New Zealand only to persons whose principal business is the investment of money or who, in the 
+course of and for the purposes of their business, habitually invest money. JPMSAL does not issue or distribute this material to members of "the 
+public" as determined in accordance with section 3 of the Securities Act 1978. The recipient of this material must not distribute it to any third 
+party or outside New Zealand without the prior written consent of JPMSAL.  Canada:  The information contained herein is not, and under no 
+circumstances is to be construed as, a prospectus, an advertisement, a public offering, an offer to sell securities described herein, or solicitation of 
+an offer to buy securities described herein, in Canada or any province or territory thereof. Any offer or sale of the securities described herein in 
+Canada will be made only under an exemption from the requirements to file a prospectus with the relevant Canadian securities regulators and only 
+by a dealer properly registered under applicable securities laws or, alternatively, pursuant to an exemption from the dealer registration requirement 
+in the relevant province or territory of Canada in which such offer or sale is made. The information contained herein is under no circumstances to 
+be construed as investment advice in any province or territory of Canada and is not tailored to the needs of the recipient. To the extent that the 
+information contained herein references securities of an issuer incorporated, formed or created under the laws of Canada or a province or territory 
+of Canada, any trades in such securities must be conducted through a dealer registered in Canada. No securities commission or similar regulatory 
+authority in Canada has reviewed or in any way passed judgment upon these materials, the information contained herein or the merits of the 
+securities described herein, and any representation to the contrary is an offence. Dubai:  This report has been issued to persons regarded as 
+professional clients as defined under the DFSA rules. 
+  
+General:  Additional information is available upon request. Information has been obtained from sources believed to be reliable but JPMorgan 
+Chase & Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) do not warrant its completeness or accuracy except with respect to any 
+disclosures relative to JPMS and/or its affiliates and the analysts involvement with the issuer that is the subject of the research. All pricing is as 
+of the close of market for the securities discussed, unless otherwise stated. Opinions and estimates constitute our judgment as of the date of this 
+material and are subject to change without notice. Past performance is not indicative of future results. This material is not intended as an offer or 
+solicitation for the purchase or sale of any financial instrument. The opinions and recommendations herein do not take into account individual 
+client circumstances, objectives, or needs and are not intended as recommendations of particular securities, financial instruments or strategies to 
+particular clients. The recipient of this report must make its own independent decisions regarding any securities or financial instruments 
+mentioned herein. JPMS distributes in the U.S. research published by non-U.S. affiliates and accepts responsibility for its contents. Periodic 
+updates may be provided on companies/industries based on company specific developments or announcements, market conditions or any other 
+publicly available information. Clients should contact analysts and execute transactions through a J.P. Morgan subsidiary or affiliate in their home 
+jurisdiction unless governing law permits otherwise.  
+  
+Other Disclosures last revised September 1, 2010.  
+                                                                                                                                                   
+
+                                                                                                                                                 9 
+
+                                                                                                                                                       342
+---------------------Page 10---------------------
+
+Himanshu Patel, CFA                       North America Equity Research 
+(1-212) 622-3906                         10 November 2010 
+himanshu.patel@jpmorgan.com 
+
+Copyright 2010 JPMorgan Chase & Co. All rights reserved. This report or any portion hereof may not be reprinted, sold or 
+redistributed without the written consent of J.P. Morgan.#$J&098$#*P  
+
+ 
+
+10                                        
+
+                                                                                                                                       343

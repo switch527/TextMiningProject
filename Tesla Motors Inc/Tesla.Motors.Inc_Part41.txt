@@ -1,0 +1,622 @@
+---------------------Page 1---------------------
+
+ 
+                                                                                                                                                 Auto-Mfg U.S.
+                                                                                        
+                                                               
+                                                                   Tesla Motors                            (TSLA)             
+                                         6-August-2010 
+                              
+                                                                   Manufactures high-performance electric vehicles and powertrain components. 
+
+                                                                                                                   Investment Rating: Marketperform
+                                                             
+Pricing Update 
+      
+Stock Data    (in mil, except per share)                                Rating Analysis                    Very  Weak           Neutral            Very  Strong   
+                                                                   
+Current Price (6-Aug-2010)                                           $19.75 Long-Term 
+Shares Outstanding                                                            103.6 Company Fundamentals
+Market Capitalization                                                   $2,047.0 Corporate Governance
+Enterprise Value                                                            $1,911.7 Short-Term 
+                                                                                    Relative Valuation
+IPO Data                                                                           Technical Strength
+                                                                   
+Offer Date                                                                  6/28/2010    Tesla zooms off the line in strong debut; remains on track for 2012 sedan launch. 
+Offer Price                                                                          $17.00 Tesla Motors raised $226 million in its upsi zed IPO by offering 13.3 million shares at 
+Price Range                                                        $14.00 - $16.00 $17, above its $14 to $16 range.  The comp  any sold 20% more shares than originally 
+Shares Offered (% insider)                                    13.3 (10%) anticipated and filled the overallotment.  Heav y media coverage and investor interest in 
+                                                                  this intriguing growth story drove a 41% fi rst day return on high volume, although the 
+Deal Size                                                                              $226.1 
+                                                                  stock has since settled in the $20 range.  Following the IPO, the company announced a 
+Use of Proceeds                                                                 Capex strategic agreement with Toyota in July and  reiterated its mid-2012 target for the Model 
+                                                                  S launch on its 2Q earnings call.   
+                                                                   
+IPO Underwriters       (*bookrunner) 
+                                                                  Valuation hinges on a successful Model S debut.  We focused our valuation analysis 
+Goldman, Sachs & Co.*                            Morgan Stanley* 
+                                                                  on an absolute approach given Teslas lac         k of close comparables and the growth 
+J.P. Morgan*                              Deutsche Bank Securities* 
+                                                                  inflection point associated with the 2012 Mo  del S launch.  Looking out to 2014, our 
+ 
+                                                                  DCF analysis suggests that annual production of 20,000 Model S units supports a 
+Key Financial Data       ($ in mil) 
+                                                                  valuation in the $14-$16 range, without any   contribution from future model rollouts.  
+ 
+                                                                  For investors that believe this sales target is conservative, an annual production 
+ Income Model                                  FY Ended Dec 
+                                                                  assumption of roughly 30,000 units implies a fair value just above $30.     
+                      2009A 2010E 2011E 2012E               
+ Sales $111.9 $113.2 $126.0 $610.0                                                                Initiate coverage at marketperform.  Though the successful launch of the Roadster 
+ EBITDA -43.5 -90.8 -99.1 7.6                                     provides proof-of-concept and valuable bran d cachet, Tesla faces substantial execution 
+ Net Income                -55.7      -133.5      -161.0        -83.5 risk as it burns roughly $650 million to get   its luxury sedan to production.  Multiple 
+ EPS -0.72 -1.37 -1.55 -0.80                                                                       major auto firms plan to launch competing electric vehicles by 2011 and Teslas 
+                                                                  integrated sales model is untested at scale.   Given the early stage of the business, we are 
+ Gross %                         9%         21%         21%         23% disappointed by the insider selling and the fact that the CEO splits time with other 
+ EBITDA %               -39%       -80%        -79%           1%  companies.  That said, our DCF suggests th          at the valuation is not unreasonable if 
+                                                                  management can reach its sales targets for th e Model S, and we are encouraged to see 
+                                                                  the traction its technology has gained with st  rategic partners (and investors) Daimler 
+ Balance Sheet                             As of 3/31/10 (adj.)   and Toyota.  At its core, however, this deal   remains a bet that Tesla can evolve into a 
+ Cash $169.5                                                      legitimate player in the global automotive marketplace.   
+                                                                   
+ Total Assets                                                                      253.3 
+                                                                  Bull Insights 
+ Total Debt                                                                           46.4 
+                                                                  ●      Planned launch of mainstream models creates massive addressable market 
+ Shareholders' Equity                                                      229.2 
+                                                                  ●      Roadster sales and development agreements validate powertrain technology 
+ 
+                                                                  ●      $465 million in low interest DOE loans provide balance sheet flexibility 
+ 
+                                                                  ●      Raised more than $300 million from investors including Daimler and VCs 
+Corporate Data                                                     
+Employees 680                                                     Bear Insights 
+Year Founded                                                                        2003    ●      Highly unprofitable and expects cash burn to accelerate into sedan launch 
+Headquarters                                                        Palo Alto, CA    ●      Multiple major auto manufacturers plan to launch competing EVs by 2011 
+Phone Number                                                 (650) 413-4000    ●      CEO sold on the IPO and will split time with other companies 
+Web Address                                        www.teslamotors.com    ●      Relies on government subsidies and widespread EV acceptance is uncertain 
+ 
+                                                                                                                                 RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research               visit www.IPOIntelligence.com/research.                                             Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                       www.renaissancecapital.com 
+                                                                                                                                                            Page 1 
+                                                                                                                                                                 537
+---------------------Page 2---------------------
+
+      
+ 
+
+                                                                                                             Tesla Motors (TSLA)   6-August-2010
+                                                                                                                                                    
+ Company Fundamentals                                                                                                              Rating:   Weak
+ 
+ Overview: 
+ Backed by PayPal co-founder Elon Musk and a host of big-name in          vestors, Tesla Motors was the  first company to commercially prod uce a 
+ highway-capable, fully-electric vehicle (EV) . With access to $465 million in low-intere    st loans from the US Dept. of Energy, Te      sla recently 
+ acquired a production facility on the cheap  and seeks to leverage its proprietary el ectric powertrain technology to produce a l ine of mainstream 
+ EVs, starting with the launch of its Model S luxury sedan in      2012.  Initially targeting a 1% share of the global premium sedan      market, the 
+ company plans to use a common powertrain platform to support a diversified line of vehicles. 
+  
+ Rating Rationale: 
+ Tesla's successful commercialization of its high-performance Road ster provides proof-of-concept for its on-the-come mass market  products and 
+ helped build the company's brand without a significant marketing in vestment.  Though a low interest  loan from the DOE will help  offset cash 
+ burn, the company faces substantial execution  risk in launching its luxury sedan, which will be manufactured at a much larger s       cale and faces 
+ uncertain demand in a nascent end market.  Additionally, multiple major auto firms plan to roll out competing EVs by 2011. 
+  
+ Business: 
+ Designs and manufactures high-performance   fully electric vehicles (88%) and advanced          EV powertrain components (12%).  Its two-s        eat 
+ convertible Roadster, introduced in late 2008, is the first an  d currently only federally-complia nt, highway capable EV produced  at commercial 
+ scale.  Has sold over 1,200 Roadsters to customers in 28 countries,  primarily in the US and Europe (intl sales are 56%).  Road ster has a lithium 
+ ion battery pack with capacity of 53 kwh and a range of 236 mile  s on a single charge.  Base price is $109,000 before $7,500 fed  eral tax credit.  
+ Model S is a four-door, five-passenger luxury sedan with rang  e options between 160-300 miles and a base price of $57,400 before          federal tax 
+ credits; the company has already received 2,800 refundable reserv ations with commercial production slated for 2012.  Vehicles c an recharge in 7 
+ hours on a household appliance outlet (40 amp/240 volt) or 4.5 hours on a specially-installed 70 amp/240 volt high power connection.   Sells and 
+ services vehicles directly via a network of  13 major market stores (<5,000 sq. ft.); p lans to increase network to 50 stores in  coordination with the 
+ Model S launch.    Currently, Roadster body and chassis are manufa      ctured at a Lotus-owned facility in England.  In May 2010, pu     rchased an 
+ existing production facility in CA from a Toyota/GM joint ve nture for $42 million; targets initial annual production of 20,000  Model S units and 
+ capacity can be increased to 50,000 with minimal capex.   Is tr ansitioning its powertrain component manufacturing to its Palo A lto facility.   Has 
+ been approved for $465 million in DOE loans, which will cover 80%   of eligible costs for manufacturing build-out.  Plans to roll  out a suite of 
+ EVs over time, including a lower price point model (~$30k) in 2014 or later.  Holds 14 patents and 97 applications.  
+  
+ Competition:                                                                                      Income Statement Data                            
+ The launch of the Model S will put Tesla in the global premium sedan market (2 million        FY Dec ($ in mil)          2007           2008         2009
+ vehicles in 2008).  Existing luxury sedan    competitors include Audi, BMW, Lexus and             Sales $0.1           $14.7      $111.9
+ Mercedes.  Nissan, BYD Auto, Ford and GM all plan to introduce competing plug-in                  Gross Margin              87.7%          -7.7%         8.5%
+ vehicles by the end of 2011.  Other well-financed emerging EV vendors include Fisker,             EBITDA Margin                --     -501.4%     -38.9%
+ Coda, Wrightspeed and eWolf.                                                                      Operating Margin               --     -532.5%     -46.4%
+                                                                                                   Net Margin                           --     -561.5%     -49.8%
+ Key Issues:                                                                                       Cash Flow Data                                           
+ Is highly unprofitable and expects cash bu       rn to accelerate as it invests in R&D,           CFFO -$53.5         -$52.4       -$80.8
+ manufacturing capacity and new Tesla stores       .  Does not expect to reach operating           Less: Capex                        9.8             10.6           11.9
+ breakeven until it begins significant deliveri  es of the Model S in 2012, at the earliest.       Free Cash Flow             -63.3            -63.0         -92.7
+ Electric vehicle demand is subject to quality/sa fety concerns, grid capacity and reliability, 
+                                                                                                   Additional Data                                           
+ availability of government incentives and deve  lopments in competing technologies (e.g. 
+ internal combustion, fuel cells, ethanol, CNG).  Currently has a drivable early prototype of      Roadsters Sold                     --              107            830
+                                                                                                   ASP (in $k)                            --            $105          $125
+ the Model S, but faces significant hurdles to  commercialization including finalized design, 
+                                                                                                   Roadster revenue                --           $11.2      $103.7
+ component sourcing, safety testing and manu facturing plant build-out.  Experienced an 
+                                                                                                  
+ eight month delay in launching the Tesla Road ster and could experience similar delays for 
+                                                                                                  
+ the Model S.  Sales & service model is unproven and may result in slower expansion than a 
+ franchising strategy.  Anticipates that IPO an d private placement proceeds, plus cash on 
+ hand and DOE loan ($689 million) will fund operations for only 24 months.   
+
+                                                                                                                       RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research             visit www.IPOIntelligence.com/research.                                      Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                             www.renaissancecapital.com 
+                                                                                                                                                 Page 2 
+                                                                                                                                                     538
+---------------------Page 3---------------------
+
+      
+  
+
+                                                                                                                        Tesla Motors (TSLA)   6-August-2010
+                                                                                                                                                                  
+ Latest Results and Outlook 
+ 
+ Recent Financial Trends: 
+ For the three months ended June 2010, sales grew 5% despite a 23%                   decline in Roadster volume, whic  h was more than offset by a 2              4% 
+ improvement in Roadster ASP and the commencement of development reve nues from Daimler ($4.4 million).  Gross margin improved to  22%, 
+ compared with 8% in the 2Q09, as a result of Roadster component  cost reductions and the timing of costs related to the Daimler   development 
+ agreement.  However, cash operating losses expanded sharply as a  result of continued investments in R&D and SG&A headcount and  cash flow 
+ from operations fell to -$18 million. 
+  
+ In July, the company announced an agreement with Toyota to deve                lop an electric powertrain for the RAV4 and expects to begin rec            ognizing 
+ development revenues in the 2H10.   The company provided guidance for full year revenues in the range of $100-$115 million. 
+  
+                                                                             
+ Outlook:                                                                    Interim Results - 3 months ended 
+ Tesla's fortunes are closely tied to the development and rollout     ($ in mil)                   Jun-09     Sep-09 Dec-09 Mar-10        Jun-10
+ of its second generation Model S sedan, and with the support                Sales                                 $26.9         $45.5 $18.6 $20.8           $28.4
+ of up to $465 million in low-interest loans from the                        Gross Profit                  2.1             7.7 1.8 3.9                6.3
+ government, the company plans to  invest heavily in its newly               EBITDA                          -6.2            -2.1 -20.0 -20.5            -22.8
+ acquired production facility.  Leading up to the 2012 sedan                 Operating Income         -8.1            -4.3 -22.9 -26.0            -31.4
+ launch, Tesla should continue to generate revenue from the                  Net Income                   -10.9            -4.6 -24.2 -29.5            -38.5
+ sale of roughly 600 Roadsters per year (~$100 million) in            EPS -0.14         -0.06 -0.31 -0.38           -0.37
+ addition to increasing component and development business 
+                                                                             Margins                                                                                                          
+ from Daimler and Toyota.  Nonetheless, the company will 
+                                                                             Gross Margin                          7.8%       16.9%           9.6%         18.5%         22.0%
+ continue to incur significant  operating losses due to ramping 
+                                                                             Operating Margin              -30.0%        -9.4% -123.4% -124.9%     -110.4%
+ R&D and SG&A expense, and will borrow heavily under its 
+                                                                             Net Margin                      -40.3%     -10.1% -130.4% -141.8%     -135.6%
+ DOE loan to fund expected capex of $100-$125 million in 
+ 2010, followed by an estimated $250 million in 2011.                        Cash Flow Data                                                                                          
+                                                                             Operating Income         -8.1            -4.3 -22.9 -26.0            -31.4
+ Assuming Model S deliveries begin by mid 2012, we currently                 Plus: D&A/Non-Cash             1.8             2.2 2.9 5.5                8.6
+ expect EBITDA to reach breakeven in 2012 on sales of 10,000                 EBITDA                          -6.2            -2.1 -20.0 -20.5            -22.8
+ units at an expected ASP of roughly $60,000 (~$600 million).                CFFO                              -12.2          -23.5 -29.0 -27.3            -17.9
+ However, Tesla expects existing sources of funding to dry up                Less: Capex                   2.5             2.3 6.2 5.5                9.2
+ within 24 months, and we assume it adds $200 million in debt                Free Cash Flow                       -14.7          -25.7           -35.2           -32.8            -27.1
+ in 2012 to offset continuing cash burn.  At targeted production 
+                                                                             Additional Data                                                                                          
+ levels in 2013 (20,000 units), th      e company could generate 
+                                                                             Tesla Roadsters Sold  200            324 124 126              141
+ revenue of $1.5 billion, EBITDA of $175 million and EPS of 
+                                                                             ASP (in $k)                               $127          $127            $143            $159            $158
+ $0.63.  That said, we note that a 10,000 unit swing in our 
+                                                                             Roadster revenue        $25.4         $41.0 $17.7 $20.1           $22.2
+ volume assumption causes EPS to  rise (fall) to approximately     
+ $2.00 (breakeven).  Managements long-term operating model      
+ calls for gross margins of 25% and operating margins ranging                Balance Sheet Data                      Actual Actual                Post IPO
+ from 12-16%, though our model falls at the lower end of this       ($ in mil)                            3/31/10 6/30/10                6/30/10
+ range (11%), owing to expected          competitive forces.  The            Cash $77.0 $47.3                     $181.6
+ company plans to launch additi  onal models in 2014 or later                Total Assets                                              160.8                       148.0                       382.3
+ (van, cabriolet, SUV), which would materially expand its                    Total Debt                                                   46.4                         46.4                         46.4
+ addressable market and could support $4-$5 billion in annual                Shareholders' Equity                                44.2                         26.2                       260.5
+ sales or greater.                                                          
+                                                                             
+
+                                                                                                                                   RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research                visit www.IPOIntelligence.com/research.                                              Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                          www.renaissancecapital.com 
+                                                                                                                                                               Page 3 
+                                                                                                                                                                    539
+---------------------Page 4---------------------
+
+      
+  
+
+                                                                                                                   Tesla Motors (TSLA)   6-August-2010
+      
+ Corporate      Governance                                                                                                                 Rating:   Weak 
+ 
+ Tesla has raised nearly $320 million since 2003 from its CEO, key            development partner Daimler and a group of reputable venture             backers.  
+ Additionally, Toyota invested $50 million at  the IPO price in a concurrent private  placement and has announced its intention to  cooperate with 
+ the company on the development of EVs.    Prior to December 2009, CEO Elon Musk did no  t receive any compensation for his services  (he 
+ currently only accepts $1 in salary) and half of his December 2009 option grant ($24 million fair value) vests based on development milestones for 
+ the Model S sedan.  That said, we cannot overlook the fact that   the CEO will split time as he  continues to serve as CEO/Chairma n of Space 
+ Exploration Technologies and Chairman of SolarCity.  Several inside           rs sold on the offering and overallotment, including the CEO            and key 
+ venture backer VantagePoint; while small on an absolute basis, we find it inappropriate given the early stage of Teslas busine ss.  Finally, only one 
+ of eight directors is independent by our standards.   
+  
+  
+  Key Executive                         Age                   Position Corporate Background 
+
+  Elon Musk                                  38                       Chairman & CEO      Co-founder.  Chairman since 2004 and CEO since Oct. 2008.  He also serves 
+                                                                         as the CEO and Chairman of advanced   rocket producer Space Exploration 
+                                                                         Technologies (since 2002) and Chairma           n of solar installation company 
+                                                                         SolarCity (since 2006).  Co-founded PayP al, which was acquired by eBay in 
+                                                                         2002 ($1.5 billion) and enterprise softwa re and services firm Zip2, which was 
+                                                                         acquired by Compaq in 1999. 
+
+  Deepak Ahuja                            47                      CFO                               Since July 2008.  Served in multiple roles at Ford from August 1993 to July 
+                                                                         2008, including Vehicle Line Controller of Small Cars Product Development 
+                                                                         (2006-2008) and CFO for Ford of Southern Africa (2003-2006). 
+
+  Jeffrey Straubel                          34                       CTO                                Since May 2005.  Previously served as Principal Engineer, Drive Systems from 
+                                                                         March 2004 to May 2005.  Earlier, was CTO and co-founder of aerospace 
+                                                                         firm Volacom. 
+  
+  
+  Key Shareholder                                                  Holdings                      Additional Details 
+
+  Elon Musk                                                              28.5%                             Co-founder.  Has invested $48.  4 million in preferred stock and convertible 
+                                                                         notes since 2007 at an average cost basis of just over $1 per share.  Includes 
+                                                                         1.2 million options at a strike price of   $6.63.  Sold 5% of his holdings ($24 
+                                                                         million) on the IPO.  
+
+  Daimler                                                                   8.0%                               Invested $57.5 million in 2009 at an average cost basis of roughly $7.50.  
+                                                                         Holds one board seat. 
+
+  Abu Dhabi Government                                    7.8%                                Invested $65 million in 2009 at a cost basis of $8.91. Holds one board seat. 
+
+  VantagePoint Venture Partners                        6.6%                                San  Bruno,  CA-based VC firm.  Invested $10.6 million since 2007 at an 
+                                                                         average cost basis of roughly $7.50.  Sold 13% of its holdings ($16 million) on 
+                                                                         the IPO and overallotment. 
+
+  Valor Equity Partners                                          5.2%                                Chicago-IL based middle-market PE firm.  Invested $10.8 million since 2007 
+                                                                         at an average cost basis of $3.25 per share.  Holds one board seat.   
+
+  Toyota                                                                      3.2%                                Invested $50 million at the IPO price in a concurrent private placement. 
+
+  Draper Fisher                                                         3.0%                                Has one board seat.  Invested in May 2006. 
+  
+                                                                                                                               RENAISSANCE CAPITAL LLC 
+For  Pre-IPO Research               visit www.IPOIntelligence.com/research.                                           Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                     www.renaissancecapital.com 
+                                                                                                                                                          Page 4 
+                                                                                                                                                               540
+---------------------Page 5---------------------
+
+          
+   
+
+                                                                                                                                                                                                       Tesla Motors (TSLA)   6-August-2010
+ 
+  Relative Valuation                                                                                                                                                                                                                       Rating:   Neutral 
+ 
+  We focused our valuation analysis on an absolute approach given Teslas                                                                          
+  lack of close comparables and the grow th inflection point associated with                                                                         Valuation Methods 
+  the 2012 Model S launch.  Looking out to 2014, our DCF analysis                                                                                                                                               DCF  28,000 units            DCF  20,000 units 
+  suggests that annual production of 20,000 Model S units supports a                                                                                 Methodology                                       30x 2014 Net                        25x 2014 Net 
+  valuation in the mid teens, without                                   any contribution from future model                                           Implied Value                                            $30.58                                     $14.51 
+  rollouts.  For investors that believe th                                   is sales target is conservative, an                                     Upside/Downside                             +56%                                                    -26% 
+  annual production assumption of roughly 30,000 units implies a fair value                                                                                                                                                                         
+  just above $30.                                                                                                                                   
+                                                                                                                                                  View DCF Model at www.ipointelligence.com/iporesearch/ 
+ 
+Comparable Financial Analysis 
+ 
+                                                     Sales                                                                                                                             Debt-              Sales               Sales                Sales            10-12 
+  IPO and Key Peers                                (US$) GM EBITDA EBIT              Net           ROE       ROIC                                                                     to-Cap            2010E               2011E                2012E             CAGR
+  Tesla Motors                                        $113          17.3%                -57.7%              -74.6%             -85.5%             -54.0%           -19.4%              15.1%                 $113                $126                 $610            132%
+  A123 Systems                       $96 -13.0% -86.9% -107.0% -106.7% -15.5% -5.0% 3.8% $135 $286 $657 119% 
+  China Bak Battery             $217 14.6%   3.5% -3.0% -11.8% 2.4% 5.5% 53.6% $236 $310 $400 30% 
+  Advanced Battery Tech     $72 45.5% 32.2% 27.3% 40.8% 0.0% 18.9% 0.0% $103 $150 $185 34% 
+  Ener1                                               $46  10.2%     -107.2% -125.8% -134.0%   -18.5%   -6.4%   18.9%           $92         $231         $319       87% 
+  Enersys                                 $1,579 22.9%    10.8%  7.9%  3.9% 14.6% 12.7% 30.9% $1,789 $1,943 $2,084    8% 
+  BYD Auto                           $5,829 21.7%     16.8% 12.3%   9.6% 32.4% 26.9% 16.1% $9,271 $11,547 $13,887   22% 
+  Nissan                               $87,594 18.2%   12.9% 4.1% 0.6% 9.0% 8.3% 55.2% $94,579 $101,682 $108,146   7% 
+  Ford                                       $129,207  12.8%           7.5%       2.6%       5.1% -144.7%    5.5% 104.3% $114,017 $123,041 $127,198         6% 
+  Toyota                            $220,822 12.0%     8.2% 0.8% 1.1% 6.4% 4.8% 53.4% $224,967 $236,237 $253,211   6% 
+  Group Average                                       16.1% -11.3% -20.1%         -21.3%         -12.7%           7.9%         37.4%         $49,465 $52,825         $56,232             35%
+
+  Note: All dollars are in millions.  All financial metrics are based on LTM data; return metrics are based on forward estimates. 
+ 
+Comparable Valuation Analysis 
+ 
+                                                                                                            Market      Enterprise                   EV/Sales EV-to-EBITDA                                                           LT 
+  IPO and Key Peers                                               Ticker Price Value            Value      2010 2011 2012 2010 2011 2012 Growth P/B 
+  Tesla Motors                                                  TSLA                      $19.59             $2,029                $1,894           16.7x          15.0x            3.1x             --             --          249.8x             50%                7.8x 
+  A123 Systems                                                AONE                 $10.68           $1,103                $713        5.3x          2.5x           1.1x             --               --            18.7x           35%              2.2x 
+  China Bak Battery                                        CBAK                     $1.62              $102                $261        1.1x          0.8x           0.7x         10.1x         7.7x           6.0x             30%              0.6x 
+  Advanced Battery Tech                              ABAT                     $3.52              $242                $186        1.8x          1.2x           1.0x          6.1x          4.2x           3.4x             30%              1.7x 
+  Ener1 HEV $3.32 $451 $478        5.2x 2.1x 1.5x -- -- -- 50% 2.9x 
+  Enersys ENS $24.20 $1,165 $1,315        0.7x 0.7x 0.6x 6.4x 5.5x 4.9x 16% 1.5x 
+  BYD Auto                                                      1211 HK      HK$52.05        $14,374           $14,572        1.8x          1.4x           1.2x         11.9x         9.7x           8.2x             40%              5.1x 
+  Nissan 7201 JP ¥669.00 $32,411 $67,338        0.7x 0.7x 0.6x 6.4x 6.0x 5.2x 14% 0.9x 
+  Ford F $13.04 $54,038 $137,904        1.2x 1.1x 1.1x 13.4x 12.0x 10.9x 14% -9.9x 
+  Toyota 7203 JP ¥3,115.00 $113,827 $209,779        0.9x 0.9x 0.8x 11.6x 9.7x 8.4x 14% 0.9x 
+  Group Average (battery OEMs)*                                                                                                 2.7x 1.5x 1.0x 8.6x 6.8x 8.2x   33%    2.3x 
+  Group Average (auto OEMs)                                                                                                                      0.9x          0.8x          0.8x          8.6x         7.5x          6.6x             17%              1.2x 
+
+  Note: All dollars are in millions except for per share amounts.   * Includes AONE, CBAK, ABAT, HEV, ENS, and BYD Auto. 
+ 
+ 
+          
+                                                                                                                                                                                                                          RENAISSANCE CAPITAL LLC 
+ For     Pre-IPO Research                                    visit www.IPOIntelligence.com/research.                                                                                                       Two Greenwich Plaza, Greenwich, CT 06830 
+  Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                                                                                                                    www.renaissancecapital.com 
+                                                                                                                                                                                                                                                                        Page 5 
+                                                                                                                                                                                                                                                                                 541
+---------------------Page 6---------------------
+
+   
+
+                                                                                                                                                   Tesla Motors (TSLA)   6-August-2010
+       
+  Technical Strength                                                                                                                                                           Rating:   Strong 
+ 
+ 
+   Stock Performance of IPO and its Peer Group 
+  TSLA                                                                                              IPO Performance Data 
+                                                                                                    First Day                                                                                                                    41%
+                                                                                                    Aftermarket                                                                                                             -18%
+                                                                                                    Total Return                                                                                                              15%
+                                                                                                     
+                                                                                                    Quiet Period Release                                                                                    8/8/2010
+                                                                                                    Lock-up Release                                                                                        12/25/2010
+                                                                                                     
+                                                                                                    Days to Lock-Up Release                                                                                       141
+                                                                                                    Shares Available for Sale                                                                           77,814,390
+                                                                                                    Percent of Total Shares Outstanding                                                                75%
+                                                                                                   
+
+                                                                                                 
+   
+ 
+  TSLA vs Key Publicly-Traded Peers vs Index                                 Publicly - Traded Peer Group
+                                                                                                   
+                                                                                                                                                                            1-Mo.      3-Mo.       YTD 
+                                                                                                    Key Peers                                              Ticker            Stock Price ReturnReturnReturn
+                                                                                                    Tesla Motors                                      TSLA                   $19.59        15%         15%*       15%* 
+                                                                                                    A123 Systems                                       AONE                 $10.68        26%           7%          -52% 
+                                                                                                    China Bak Battery Inc                       CBAK                     $1.62        -3%         -13%        -42% 
+                                                                                                    Advanced Battery Technologie      ABAT                     $3.52        15%          14%         -12% 
+                                                                                                    Ener1 Inc                                              HEV                        $3.32        -2%          -7%         -48% 
+                                                                                                    Enersys                                         ENS            $24.20 15% 2% 11% 
+                                                                                                    Byd Co Ltd-H                                      1211 HK      HK$52.05        -8%         -22%        -24% 
+                                                                                                    Ford Motor Co                                    F                             $13.04        28%          11%          30% 
+
+                                                                                                    Indexes                                                                                                                   
+                                                                                                    Nasdaq Composite Index                CCMP               2,261.80         1%           -6%           0% 
+                                                                                                    S&P 500 Index                                    SPX                   1,095.31         1%           -6%          -2% 
+                                                                                                    FTSE Renaissance IPO Index        IPOS                     214.97         3%           -4%          -1% 
+
+                                                                                                    Stock prices as of 08/06/10.  *Return from IPO.                                             
+                                                                                                   
+
+                                                                                                                                                                 RENAISSANCE CAPITAL LLC 
+For    Pre-IPO Research                       visit www.IPOIntelligence.com/research.                                                                 Two Greenwich Plaza, Greenwich, CT 06830 
+ Member FINRA| SIPC - For important disclosures,  refer to the end of this report                                                                                         www.renaissancecapital.com 
+                                                                                                                                                                                                   Page 6 
+                                                                                                                                                                                                          542
+---------------------Page 7---------------------
+
+     
+
+                                                                                             Tesla Motors (TSLA)   6-August-2010
+                                                                    
+                                                                    
+                                                     About Renaissance Capital 
+                                                                    
+Renaissance Capital LLC (Renaissance Capital or RC), founde d in Greenwich, Connecticut in 1991, is the global leader in 
+IPO research.  Its clients represent the Whos Who list of t he largest and most active institutional IPO investors.  As an 
+independent research provider, Renaissance Capital does not rece  ive payment for research or investment banking services 
+from companies under coverage.   
+ 
+In addition to IPO research, Renaissance Capital maintain     s the FTSE Renaissance IPO Composite Index, the definitive 
+benchmark of IPO performance and activity, and it manages the IPO Plus Fund, the first mutual fund to focus solely on investing 
+in IPOs.  The Fund has a 10 year track record.  FTSE is jointly owned by the Financial Times of London and the London Stock 
+Exchange. 
+ 
+Renaissance Capital was established by three Wharton MBA gra duates after they spent over a decade on Wall Street (Merrill 
+Lynch, Citi, Bear Stearns, Kidder Peabody   and Credit Suisse First Boston) where they   worked in the areas of investment 
+banking, helping young companies raise capital via initial public  offerings, as well as portfolio management, equity research and 
+corporate financial restructuring.   
+ 
+Institutional clients have valued Renaissance Capitals IPO research for nearly two decades because of its timely, market savvy 
+insights on every US initial public offering and a growing roster  of non-US IPOs.  Renaissance  Capital augments its seasoned 
+judgment with a proprietary, expert system for evaluating newly public companies. 
+     
+                                                                    
+                                                       Important Disclosures 
+                                                                    
+                                                                    
+Renaissance Capital Rating Distribution 
+ 
+Renaissance Capitals composite investment ratings fall into three categories:  Outperform (15 to 20), Marketperform (10 to 
+14) and Underperform (4 to 9).  These categories are defined as follows: Abov e Average: the subject company is expected to 
+perform better than the relevant broad market benchmark over the next 3 months.  Average: the subject company is expected to 
+perform in-line with the relevant broad market benchmark over   the next 3 months.  Below Average: the subject company is 
+expected to perform below the relevant broad market benchmark over the next 3 months. 
+ 
+For purposes of FINRA/N YSE disclosure rules, RCs  Outperform rating most closely corresponds to a buy recommendation; 
+RCs Marketperform rating most closely corresponds to a hold/neutral rating; and RCs     Underperform rating most closely 
+corresponds to a sell rating.  However Above Average, Average  and Below Average are not the same as buy, hold/neutral and 
+sell ratings, as RCs stock ratings are determined on a relative  basis.  An investors decision to buy or sell a stock should 
+depend on individual circumstances and risk tolerance.  For the y ear 2009, the distribution of RCs research opinions were as 
+follows:  
+ 
+ 
+                                                                    
+                                 Outperform 20% 
+                                 Marketperform 74.9% 
+                                 Underperform 5.1% 
+                                                                    
+                                                                    
+RC does not have an investment banking operation, and does not have investment banking relationships with any of the companies it 
+researches, therefore no distribution of research ratings by investment banking clients are shown above. 
+
+                                                                                                     RENAISSANCE CAPITAL LLC 
+                                                                                              Two Greenwich Plaza, Greenwich, CT 06830 
+                                                                                                          www.renaissancecapital.com 
+                                                                                                                            543
+---------------------Page 8---------------------
+
+     
+
+                                                                                             Tesla Motors (TSLA)   6-August-2010
+ 
+Historical Recommendations and Price  
+ 
+The following table details the history of all RC research recommendations on TSLA since its initial public offering.   
+ 
+                                                                   
+                                                                  
+Firm Certifications  
+ 
+RCs research team is responsible for the rating and recommendat ion expressed herein.  Each member of the research team 
+responsible for this report has certified  to RC that the views expressed herein accu rately reflect his or her personal views ab out 
+the subject securities and issuer.  Accordingly, RC certif  ies that the recommendation, rating and views expressed herein 
+represent the personal views of each member of the research team.  Further, no member of the research team was, is or will be 
+paid compensation directly related to the specific recommendation, rating or views expressed herein.   
+ 
+RC is a registered investment   adviser providing portfolio management services  to a diversified mutual fund, the IPO Plus 
+Aftermarket Fund (the Fund), which is r egistered as an investment company with the Securities and Exchange Commission.  
+The Fund may take positions that are contrary to recommendati  ons expressed in a public research report published by RC.  
+Also, the Fund may invest to a limited extent in the securities  of public companies that are the subject of a research report 
+published by RC.  As a diversified mutual fund, the Fund is limite d to investing no greater than 5% of Fund assets in the share s 
+of any one issuer.  As of the date of this report, the Fund does   not beneficially own 1% or more of  the securities of the issue r 
+subject to this report.   
+ 
+Members of the research team are compensat ed primarily from firm revenue on the basis of several factors, including quality of 
+research, client feedback, stock picking, comp etitive factors and overall revenues of RC  consisting of fees from research and 
+money management.  Members of the research team may also rece ive, as one aspect of overall compensation, benefits from a 
+compensation program based upon an increase in the net asset value of the Fund. Although members of RCs research team 
+(and their households) are prohibited from making direct inve    stments in the securities about   which they report, research 
+personnel are permitted to invest in the Fund.  While the Fund       is limited in the amount it can invest in a single stock, 
+compensation tied to the Fund or the performance of an investment  in the Fund, could indirectly influence a recommendation or 
+rating on such a stock expressed in the report.   
+ 
+In as much as neither RC nor any affiliate has investment banking functions, no research personnel are compensated directly 
+or indirectly from investment banking revenue. 
+
+                                                                                                      RENAISSANCE CAPITAL LLC 
+                                                                                               Two Greenwich Plaza, Greenwich, CT 06830 
+                                                                                                           www.renaissancecapital.com544 
+     
+---------------------Page 9---------------------
+
+  
+
+                                                                                                  Tesla Motors (TSLA)   6-August-2010
+     
+Other Important Disclosures 
+ 
+This report is for the general information of clients of RC.   Any unauthorized use or disclosure is prohibited.  No part of thi  s 
+report may be (i) copied, photocopied, or duplicated in any form     by any means or (ii) redistributed without RCs prior written 
+permission.  The information contained in this report was obtai ned from various sources believed to be reliable; however we do 
+not guarantee its accuracy or completeness.   All trademarks, service marks and logos   used in this report are trademarks or 
+service marks or registered trademarks of RC. 
+ 
+This report is not directed to, or intended   for distribution to or use by, any person or   entity who is a citizen or resident of   or 
+located in any locality, state, country or  other jurisdiction where dist ribution, publication, availability or use would be con trary to 
+law or regulation or which would subject RC or its affiliates to  any registration or licensing requirement within such jurisdic tion.  
+This report may discuss numerous securities, some of which ma y not be qualified for sale in certain states and may, therefore, 
+not be offered to investors in such states. 
+ 
+Neither the information contained in this report nor any opinion expressed herein constitutes an offer, or an invitation to make an 
+offer, to buy or sell any securities.  Opinions expressed herein   reflect the opinion of RC as of the date of this report and ar e 
+subject to change without notice.  RC has no obligation to update,  modify or amend this report or to otherwise notify a reader 
+thereof in the event that any matter stated  herein, or any opinion, projection, foreca st or estimate set forth herein, changes  or 
+subsequently becomes inaccurate, or if research on the subject company is withdrawn.  This report has been prepared as of the 
+date indicated and may become unreliable for various reasons including, but not limited to, changes in market or economic 
+circumstances. RC is not soliciting any action based on this material.  The recommendation and rating herein do not constitute a 
+personal recommendation or take into account the particular inve stment objectives, financial si tuations, or needs of individual  
+clients.  Before acting on any advice or recommendation in this  material, clients should consider whether it is suitable for th eir 
+particular circumstances and, if necessary, seek professional advic e. This report is being furnished for informational purposes  
+only and on the condition that it will not form a primary basis  for any investment decision. Inve stors should consider this rep ort 
+as only a single factor in making their investment decision. By  virtue of this report, neither RC nor any of its employees shal l be 
+responsible for any investment decision. Each investor must        make its own determination of the appropriateness of an 
+investment in any securities referred to herein based on t     he legal, tax, and accounting considerations applicable to such 
+investor and its own investment strategy. The price and value of the investments referred to in this material and the income from 
+them may go down as well as go up, and investors may realize losses on any investments.   
+ 
+Some of the companies mentioned in this  report may have a high level of volatility .  High volatility investments may experience 
+sudden and large falls in their value causing losses when that       investment is realized.  Prices and availability of financial 
+instruments are subject to change without notice. In addition, income from an investment may fluctuate and the price or value of 
+financial instruments described in this report, either directly or   indirectly, may rise or fall. Past performance is not a guid  e to 
+future performance.  Future returns are not guaranteed, and a lo     ss of original capital may oc cur.  RC does not provide tax 
+advice to its clients, and all investors are strongly advised to  consult with their tax advisers regarding any potential invest ment.  
+Certain transactions - including investments in initial public o fferings and other equities - give rise to substantial risk and  are not 
+suitable for all investors.  RC may have issued, and may in the  future issue, other reports that are inconsistent with, and rea ch 
+different conclusions from, the information presented in this repo  rt. Each report reflects the different assumptions, views and   
+analytical methods of the analysts who prepared, or will prepare,  them and RC is under no obligation to ensure that such other 
+reports are brought to the attention of any  recipient of this report.  RC accepts no liability for loss  arising from the use of  the 
+material presented in this report, except that this exclusion  of liability does not apply to the extent that liability arises under 
+specific statutes or regulations applicable to RC. 
+
+                                                                                                        RENAISSANCE CAPITAL LLC 
+                                                                                                 Two Greenwich Plaza, Greenwich, CT 06830 
+                                                                                                              www.renaissancecapital.com545 
+     
+---------------------Page 10---------------------
+
+     
+
+                                                                                  Tesla Motors (TSLA)   6-August-2010
+ 
+This research report contains both fundamental and technica l analysis.  Technical analysis is generally based on the 
+study of trading volumes and price movements in an attemp t to identify and project price trends.  Technical analysis, 
+taken alone, does not consider the fundamentals of the under lying corporate issuer and may indicate an investment 
+opinion that conflicts with the conclusions derived from an opinion based solely on fundamental analysis.   
+ 
+Neither RC, its affiliates (other than the Fund), officers,  directors, and employees, incl uding persons involved in the 
+preparation of this report, have long or short positions in   the companies mentioned herein.  RC is affiliated with a 
+broker-dealer that introduces soft dollar trades on behalf of it s institutional clients who purchase research from RC. 
+To the extent technologically feasible, a ll clients of RC receive this report at the same time.  RC does not have any 
+investment banking operations or individual brokerage accounts.   
+ 
+This report may provide the addresses of, or contain hyperlinks to, websites.  Except to the extent to which the report 
+refers to RCs own website material, RC has not reviewed th e linked site and takes no responsibility for the content 
+contained therein.  Such address or hyperlink (including add  resses or hyperlinks to RCs own website material) is 
+provided solely for your convenience and information and the  content of the linked site does not in any way form part 
+of this report.  Accessing such website or following such lin k through this report or RCs website shall be at your own 
+risk.   
+ 
+TO THE EXTENT PERMITTED BY LAW, RC SHALL NO           T BE LIABLE FOR ANY DAMAGES SUFFERED OR 
+INCURRED BY ANY PERSON OR ENTITY ARISING OUT OF ANY INACCURACIES, ERRORS OR OMISSIONS IN 
+ANY REPORT PROVIDED BY RC.           THERE ARE NO WARRANTIES,          CONDITIONS, GUARANTIES OR 
+REPRESENTATIONS AS TO MERCHANTABILITY, FITN  ESS FOR A PARTICULAR PURPOSE, OR OTHER 
+WARRANTIES, CONDITIONS, GUAR ANTIES OR REPRESENTATIONS, WHETHER EXPRESS OR IMPLIED, IN 
+LAW OR IN FACT, ORAL OR IN WR ITING.  WITHOUT LIMITING THE FOREGOING, THERE IS NO WARRANTY 
+OF ANY KIND, EXPRESS OR IMPLIED, REGARDING THE REPORTS. 
+ 
+RC WILL NOT BE LIABLE UNDER ANY CIRCUMSTANCES FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL 
+OR INDIRECT DAMAGES EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS INCLUDES, BUT 
+IS NOT LIMITED TO, CLAIMS FOR LOST PROFITS,  TRADING LOSSES AND DAMAGES THAT MAY RESULT 
+FROM THE USE, INCONVENIENCE, DE LAY OR LOSS OF USE OF ANY R EPORT PROVIDED BY RC OR FOR 
+OMISSIONS OR INACCURACIES IN ANY SUCH REPORT. AS A CONDITION TO ACCESSING OR RECEIVING 
+THE REPORT, YOU EXPRESSLY AG  REE TO WAIVE ANY CLAIM YOU MAY HAVE AGAINST RC, ANY 
+INFORMATION PROVIDER, RESEARCH PROVIDER, OR ANY OTHER PERSONS INVOLVED IN TRANSMITTING 
+ANY INFORMATION RC MAKES AVAILABLE TO YOU. 
+ 
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANY            AND ALL IMPLIED WARR ANTIES ARISING FROM 
+TRADE USAGE, COURSE OF DEALING, OR COURSE             OF PERFORMANCE, AND ANY AND ALL IMPLIED 
+WARRANTIES OF MERCHANTABILITY OR FITNESS              FOR A PARTICULAR USE OR PURPOSE, ARE 
+EXPRESSLY EXCLUDED AND DISCLAIMED, AND RC SHALL  HAVE NO LIABILITY FOR THE ACCURACY OF, 
+OR FOR DELAYS OR OMISSIONS IN, ANY OF THE INFORMATION PROVIDED BY RC. 
+ 
+Recipients of this report should seek the advice of their  independent financial advisor prior to making any investment 
+decision based on this report or for any necessary explanation of its contents.  
+ 
+©  Copyright 2010, Renaissance Capital LLC.   All rights reserved 
+    
+    
+    
+    
+    
+
+                                                                                    RENAISSANCE CAPITAL LLC 
+                                                                              Two Greenwich Plaza, Greenwich, CT 06830 
+        For important disclosures, please refer to the end of this report.                www.IPOIntelligence.com 
+                                                                                                            
+                                                                                                            546
+    

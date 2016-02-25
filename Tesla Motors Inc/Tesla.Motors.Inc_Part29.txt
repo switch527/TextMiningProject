@@ -1,0 +1,765 @@
+---------------------Page 1---------------------
+
+                                                                                                                      
+                              
+                              
+
+                                                                                          MORGAN STANLEY RESEARCH 
+                                                                                          NORTH AMERICA 
+                     
+                                                                                           
+                                                                                          Morgan Stanley & Co. Incorporated Joshua Paradise, CFA 
+                                                                                                                   Joshua.Paradise@morganstanley.com 
+                                                                                                                   +1 212 761 4014 
+                                                                                                                   Ravi Shanker 
+                                                                                                                   Ravi.Shanker@morganstanley.com 
+                                                                                                                   +1 212 761 6350 
+                                                                                                                   Smittipon Srethapramote 
+                    November 22, 2010                                                                              Smittipon.Srethapramote@morganstanley.com 
+                                                                                                                    +1 212 761 3914 
+                                                                                                                   Timothy Radcliff 
+Stock Rating        Tesla Motors Inc.                                                                              Timothy.Radcliff@morganstanley.com 
+Equal-weight                                                                                                       +1 212 761 4139 
+                    Update from Mgmt Meetings 
+Industry View 
+In-Line 
+                     Model S on Track                                                    Key Ratios and Statistics 
+
+                                                                                          Reuters: TSLA.O  Bloomberg: TSLA US 
+                     
+                                                                                          Clean Tech / United States of America 
+                    We met with Tesla management last week at the LA                      Shr price, close (Nov 19, 2010)                   $30.99
+                    Auto Show.  Progress on the Model S appears on track                  Mkt cap, curr (mm)                                $2,892
+                    and the possibility of additional OEM contracts remains               52-Week Range                               $32.94-14.98
+                    open.  Highlights from our meetings:                                   
+                                                                                          Fiscal Year ending          12/09  12/10e  12/11e  12/12e
+                    Model S Alpha build on track.  The first body structure               ModelWare EPS ($)          (7.96)      (3.06)      (2.21)      (1.39)
+                    made on soft tools is on its way from Detroit to Palo Alto            EPS ($)**                  (7.96)      (2.79)      (2.08)      (1.27)
+                    where Tesla engineers will spend the next few weeks                   Consensus EPS ($)§         (1.59)      (2.31)      (1.92)      (1.25)
+                    assembling the Alpha build  a production-intent                      EV/rev                        3.7          24.5          20.6             5.3
+                    drivable prototype to test the driving experience                     Revenue, net ($mm)           112           113           150           628
+                                                                                          Gross margin (%)              8.5          24.4          23.9          12.6
+                    modeled on computers.  Tesla plans to exhibit the 
+                                                                                          EBITDA margin (%)          (40.2)    (119.3)    (118.6)      (11.0)
+                    Model S at the Detroit Auto Show in January 2011.                     Rev hist grth, y/y (%)          -             1.1          32.9       317.7
+                                                                                          Unless otherwise noted, all metrics are based on Morgan Stanley ModelWare 
+                                                                                          framework (please see explanation later in this note). 
+                    Target: 100,000 vehicles on the Model S platform,                     § = Consensus data is provided by FactSet Estimates. 
+                    500,000 vehicles in the NUMMI factory.  CEO Elon                      ** = Based on consensus methodology 
+                                                                                          e = Morgan Stanley Research estimates 
+                    Musk believes Tesla can add new top hats to the 
+                    Model S platform to sell 100,000/year of combined body 
+                    types on the Model S platform.  Later plans are to launch 
+                    a less expensive Model X that could sell an additional 
+                    400,000/year, growing to fill the capacity of NUMMI.  
+                    Those volumes are well in excess of what we have 
+                    modeled in our bull case.   
+
+                    Possible OEM Partnerships.  Elon reiterated that 
+                    discussions are underway with OEMs other than 
+                    Daimler and Toyota, and that Tesla would only work on 
+                    powertrain deals that could develop into mass market 
+                    electric vehicles.  Other OEM partnerships would bolster 
+                    Teslas reputation as a leader in battery pack and 
+                    system design and could be a positive catalyst.   
+
+                    Valuation has run up.  TSLA is up 49% in the last 
+                    month and is approaching our $35 bull case.  So far, 
+                    Tesla has executed above our base case  we didnt                    Morgan Stanley does and seeks to do business with 
+                    forecast the equity investment from Panasonic or the                  companies covered in Morgan Stanley Research. As 
+                    $60 MM from Toyota for the RAV4  and we dont have                   a result, investors should be aware that the firm may 
+                    additional powertrain agreements in our model, so there               have a conflict of interest that could affect the 
+                                                                                          objectivity of Morgan Stanley Research. Investors 
+                    is room for upside to our numbers.   
+                                                                                          should consider Morgan Stanley Research as only a 
+                                                                                          single factor in making their investment decision. 
+                    Whats next?  The IPO lockup expires December 27, 
+                                                                                          For analyst certification and other important 
+                    2010, expanding the free float over 3x.                               disclosures, refer to the Disclosure Section, 
+                                                                                          located at the end of this report. 
+
+                                                                                                                                               315
+---------------------Page 2---------------------
+
+ 
+                                                                                  MORGAN STANLEY RESEARCH 
+
+                                                                                  November 22, 2010 
+                                                                                  Tesla Motors Inc. 
+
+Risk-Reward Snapshot: Tesla Motors (TSLA, $30.99, Equal-weight) 
+
+Risk-Reward View: Continued Volatility Is Likely                                                             Why Equal-weight?  
+   $40                                                                                                       • The opportunity in electric vehicles is 
+                                                                                                               substantial, but so is the challenge of 
+    35                                                                                  $35 (+13%)
+                                                                 $ 30.99                                       getting the Model S on the road on 
+    30                                                                                                         time and on budget.  Our $19 base 
+                                                                                                               case is based on discounted 
+    25                                                                                                         equity-based multiples of EV/sales 
+                                                                                                               and EV/EBITDA and a DCF and 
+    20
+                                                                                        $19 (-39%)             reflects uncertain demand for electric 
+    15                                                                                                         vehicles (EVs), increasing 
+                                                                                                               competition from OEMs, and 
+    10                                                                                  $10 (-68%)
+                                                                                                               execution risk.   
+     5                                                                                                       Key Value Drivers 
+
+     0                                                                                                       • Model S pre-orders  the best 
+     Nov-08                           May-09                            Nov-09                           May-10                            Nov-10                           May-11indicator of demand.   
+         Base Case  (Nov-11)           Historical Stock Performance        Current Stock PriceWARNINGDONOTEDIT_RRS4RL~TSLA.O~ 
+                                                                                                             • Additional or larger OEM 
+Source:  FactSet, Morgan Stanley Research 
+                                                                                                               partnerships would add scale, top 
+ Valuation Methodology:  We apply multiples of 12x EV/EBITDA and 2.1x EV/sales to our 2014 
+                                                                                                               line growth, and offer further proof of 
+ bull, bear, and base case forecasts, and discount the equity value at 15%.  Our comp group is 
+                                                                                                               Teslas technology leadership.  
+ 80% clean tech and EV value chain and 20% traditional auto companies.   
+                                                                                                             • EV adoption and subsidies.  
+ We also use a DCF analysis with an 11.3% WACC, 15% cost of equity, and 4% terminal growth.
+                                                                                                               Competitors EVs will launch before 
+ Bull        2014e sales     The future of the auto industry.  Tesla delivers the Model S on 
+ Case       = $2.6 billion     time (2Q12) and on budget with performance that rivals                          the Model S.  Strong sales and/or 
+ $35                          gasoline-powered luxury sedans.  EV adoption takes off.  EBITDA                  higher government support are 
+              2014e EBITDA  margins are 15-18%.  OEM partnerships add powertrain volumes. 
+              = $516 million                                                                                   positive.   
+
+ Base       2014e sales     Solid execution and EV demand.  Model S deliveries start in                      Potential Catalysts 
+ Case       = $1.9 billion     3Q12 and reach 20K per year in 2014.  Slower ramp and modest 
+ $19                           cost overruns result in negative EPS until 2014.  EBITDA margins              • Expansion of Daimler or Toyota plans 
+              2014e EBITDA  are 7-9%.  Powertrain sales a minor contributor.                                   or new OEM partnerships. 
+              = $199 million 
+                                                                                                             • Model S  final prototype on factory 
+ Bear       2014e sales     Delays, cost overruns, lower demand.  A lot can go wrong in a                      tools.  
+ Case       = $472 million   product launch, especially with new manufacturing.  We model a 
+ $10                           slight delay and lower Model S demand of 5,000 units per year.                • Accelerating Model S reservations.  
+              2014e EBITDA  The company would likely need to raise additional capital to scale 
+              = $(7 million)   production.                                                                   What Could Make Us Overweight  
+                                                                                                             • Higher Model S pre-orders.  
+ 
+                                                                                                             • Increased government subsidies.   
+Key Assumptions for Bull, Bear, and Base Cases 
+                                                                                                             • Lower risk of Model S delays.   
+                                                                           
+                                                                                                             • Additional and/or larger OEM 
+  Key Assumptions for Bull, Bear, and Base Cases
+                                                                                                               partnerships.   
+                                                       Bear                            Base                               Bull• More attractive valuation.   
+                                    2012            9.9%                          12.6%                          13.8%
+  Gross Margin                                       2013             9.3%                          16.1%                          23.5%or Underweight   
+                                    2014           16.5%                          22.4%                          24.5%• Significant Model S delays.   
+                                    2012               NM                                NM                                NM• Management turnover in 
+  EBIT Margin                                          2013               NM                                NM                        13.7%manufacturing, engineering, 
+                                    2014               NM                           5.6%                          15.3%
+                                                                                                               technology, or design.   
+                                    2012                                                          5,5002,000                                                          7,000                 
+  Model S Volumes                              2013                                                      15,0005,000                                                        20,000               
+                                    2014                                                       20,0005,000                                                        26,000                
+Source:  Morgan Stanley Research 
+
+ 
+                                                                                                                                                          2 
+                                                                                                                                                             316
+---------------------Page 3---------------------
+
+        
+                                                                                                                                                                                       MORGAN STANLEY RESEARCH 
+
+                                                                                                                                                                                       November 22, 2010 
+                                                                                                                                                                                       Tesla Motors Inc. 
+
+       Exhibit 1 
+       Base Case Quarterly Assumptions 
+                                                                                                                                                   2009A                                                                       2010E                                                                        2011E                                                                        2012E                                                                        2013E
+                                                                                                                             Mar-09     Jun-09     Sep-09     Dec-09     Mar-10     Jun-10     Sep-10     Dec-10     Mar-11     Jun-11     Sep-11     Dec-11     Mar-12     Jun-12     Sep-12     Dec-12     Mar-13     Jun-13     Sep-13     Dec-13
+
+            Volumes
+                Model S                                                                                                                                                  -                             -                            -                            -                            -                            -                            -                            -                            -                            -                            -                             -                             -                            -                    2,000                       3,500                       3,750                       3,750                       3,750                       3,750  
+                Roadster                                                                                                                              200182                          324                          134                          126                          141                          151                          155                          150                          150                          150                           150                           150                          150                          100                             98                            -                            -                        500                          300     
+                Next Gen Vehicle                                                                                                                             -                -       -       -       -         -              -              -              -               -              -              -              -               -              -              -              -               -              -              -
+                Total Vehicles                                                                                                                              182                           200                          324                          134                          126                          141                          151                          155                          150                          150                          150                           150                           150                          150                      2,100                       3,598                       3,750                       3,750                       4,250                       4,050  
+                Powertrains                                                                                                                                       -                             -                            -                            -                        105                          200                          240                          430                          450                          650                          700                           770                           800                          800                          800                          800                          875                          875                          875                          875     
+
+            Powertrain ASP ($)                                                                                                                         0.0k            0.0k            0.0k            0.0k         25.9k         24.1k         21.3k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k         25.0k
+
+            Gross Margins
+                Model S                                                                                                                                  NMNMNMNMNMNMNMNMNMNMNMNMNMNM8.2%8.2%8.4%13.3%17.2%19.5%
+                Roadster                                                                                                      (9.8%)          7.8%       16.9%          9.6%       17.7%       20.0%       17.0%       22.0%       19.9%       21.8%       23.6%       25.4%       25.4%       25.4%       25.3%       25.3%          0.0%          0.0%       30.4%       29.4%
+                Powertrain                                                                                                                                           NM             NM             NM             NM     23.7%       15.0%       18.8%       22.5%       24.0%       24.0%       24.0%       24.0%       24.0%       24.0%       24.0%       24.0%       24.0%       24.0%       24.0%       24.0%
+                Total NM        7.8%       16.9%          9.6%       18.5%       22.2%       30.0%       24.8%       22.1%       23.5%       24.4%       25.2%       25.2%       25.2%       11.3%       10.1%          9.7%       14.1%       19.2%       20.6%
+
+            Roadster Leasing (as % of Total Vehicles Sold)                                                         0.0%          0.0%          0.0%          0.0%          0.0%       10.0%       18.0%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%       22.5%                                                                        
+       Source: Company data, Morgan Stanley Research estimates 
+        
+
+        
+
+       Exhibit 2 
+
+       Base Case Annual Assumptions 
+                                                                                                                                                                                                                                                                          Fiscal Year
+                                                                                                                                        2007A              2008A              2009A              2010E               2011E               2012E               2013E               2014E               2015E               2016E               2017E               2018E               2019E               2020E
+
+            Volumes
+                Model S                                                                                                                                                  --                                          -                                          -                                          -                                  5,500                                  15,000                                   20,000                                   23,000                                   26,450                                   30,000                                   30,000                                   30,000                                   30,000       
+                Roadster                                                                                                                                                 --                                          -                                       294                                        300                                        249                                        400                                        400                                        400                                        400                                        400                                        400                                        400                                        400            
+                Next Gen Vehicle                                                                                                             -                     -                    -                     -                    -                     -                    -                     -                    -                     -             25,000               31,250                39,063               48,828
+                Total Vehicles                                                                                                                                            --                                          -                                      294                                       300                                   5,749                                 15,400                                  20,400                                   23,400                                  26,850                                  55,400                                  61,650                                  69,463                                  79,228     
+                Powertrains                                                                                                                                    --                                          -                                       975                                    2,570                                     3,200                                     3,500                                     3,500                                     4,200                                     5,000                                     5,000                                     5,000                                     5,000                                     5,000         
+
+            Powertrain ASP ($)                                                                                                              NM                     NM                     NM                 24.0k                 25.0k                 25.0k                 25.0k                 25.0k                 25.0k                 25.0k                 25.0k                 25.0k                 25.0k                 25.0k
+
+            Gross Margins
+                Model S                                                                                                                                           NM                     NM                     NM                     NM                8.2%               14.7%               21.4%               22.4%               21.5%               21.1%               21.1%               21.1%               21.1%
+                Roadster                                                                                                                                          NM                     NM             19.2%               22.7%               25.4%               28.0%               40.2%               38.7%               38.6%               32.3%               40.9%               32.3%               32.3%
+                Next Gen Vehicle                                                                                                                                  NM                     NM                     NM                     NM                     NM                     NM             15.0%               15.0%               15.0%               16.0%               17.0%               18.0%               19.0%
+                Powertrain                                                                                                                                        NM                     NM             20.3%               24.0%               24.0%               24.0%               22.5%               22.5%               22.5%               22.5%               22.5%               22.5%               22.5%
+                Total 
+
+            Roadster Leasing (as % of Total Vehicles Sold)                                                                                                                                             12.6%               22.5%               22.5%               22.5%                  0.0%                  0.0%                  0.0%                  0.0%                  0.0%                  0.0%                  0.0%         
+       Source: Company data, Morgan Stanley Research estimates 
+        
+
+        
+                                                                                                                                                                                                                                                                                                                                                              3 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     317
+---------------------Page 4---------------------
+
+        
+                                                                                                                                                                                   MORGAN STANLEY RESEARCH 
+
+                                                                                                                                                                                   November 22, 2010 
+                                                                                                                                                                                   Tesla Motors Inc. 
+
+       Exhibit 3 
+
+       Base Case Quarterly Income Statement 
+                                                                                                                                                2009A                                                                       2010E                                                                        2011E                                                                        2012E                                                                        2013E
+            $ millions                                                                                               Mar-09     Jun-09     Sep-09     Dec-09     Mar-10     Jun-10     Sep-10     Dec-10     Mar-11     Jun-11     Sep-11     Dec-11     Mar-12     Jun-12     Sep-12     Dec-12     Mar-13     Jun-13     Sep-13     Dec-13
+
+            Total Revenues                                                                                                                                 20.9                          26.9                         45.5                         18.6                         20.8                         28.4                         31.2                         32.7                         31.5                         37.7                         39.5                          41.8                          42.9                         43.1                      207.5                       334.9                       339.7                       349.5                       398.2                       382.2  
+            Cost of Revenue                                                                                                                               22.9          24.8    37.8    16.8    17.0    22.1           21.9           24.6           24.5           28.9           29.8           31.3           32.1           32.3         184.1          301.0          306.8          300.4          321.7          303.4
+            Gross Profit                                                                                                                            2.1(2.0)                          7.7                          1.8                          3.9                          6.3                          9.4                          8.1                          7.0                          8.8                          9.6                        10.5                          10.8                         10.9                         23.4                         33.9                         32.8                         49.1                         76.5                         78.8    
+                Gross Profit Margin                                                                                                                      NM        7.8%       16.9%          9.6%       18.5%       22.2%       30.0%       24.8%       22.1%       23.5%       24.4%       25.2%       25.2%       25.2%       11.3%       10.1%          9.7%       14.1%       19.2%       20.6%
+
+            Expenses
+                Research and Development 7.9                                                                                                         1.9                          1.3                          8.1                       13.3                         14.9                         25.4                         37.0                         37.5                         37.5                         37.5                          37.5                          22.3                         22.3                         22.3                         22.3                         20.0                         15.0                         15.0                         10.0    
+                Sales and Marketing                                                                                                                   --                            -                            -                          6.0                          7.0                          9.0                          9.0                       11.0                         11.0                         11.0                          11.0                          15.3                         15.3                         15.3                         15.3                         27.8                         27.8                         27.8                         27.8    
+                General and Administrative                                                                                                     6.6                           8.2                       10.7                         16.6                            7.2                          9.7                          8.9                          8.0                          8.3                          8.3                          8.3                           8.3                           8.8                          8.8                          8.8                          8.8                          8.8                          8.8                          8.8                          8.8     
+                Stock-based Compensation                                                                                                      -                -       -       -           3.4            6.1            3.8            5.0            3.9            3.9            3.9            3.9            4.0            4.0            4.0            4.0            4.6            4.2            4.2            3.8
+            Total Expenses                                                                                                                               14.5                          10.2                         12.0                         24.7                         29.9                         37.7                         47.2                         59.0                         60.7                         60.7                         60.7                          60.7                          50.3                         50.3                         50.3                         50.3                         61.1                         55.7                         55.7                         50.3    
+
+            Operating (Loss) Income                                                                                           (16.6)         (8.1)          (4.3)        (22.9)         (26.0)         (31.4)         (37.8)         (50.9)         (53.7)         (51.8)      (51.1)             (50.2)        (39.5)         (39.4)         (26.9)         (16.4)         (28.3)                               20.8(6.6)                         28.5    
+                Operating Margin                                                                                                                           NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM        5.2%          7.5%
+
+            EBITDA (excl. SBC)                                                                                                (16.6)                                0.7(8.1)       (21.0)  (20.5)      (22.8)         (30.9)         (42.5)         (45.4)         (41.4)      (39.0)             (36.8)        (24.2)         (22.0)                                  1.8(8.7)                             12.4(9.8)                         40.4                         48.6    
+                EBITDA Margin                                                                                                                               NM             NM        1.6%               NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM        0.5%               NM        3.6%       10.2%       12.7%
+
+            Interest Expense, net                                                                                              (1.4)                                0.0(1.1)                          0.0         (0.2)    (0.4)    (0.3)    (0.4)    (0.4)          (1.1)        (1.8)        (2.5)              (3.2)          (3.7)          (4.1)          (4.5)          (4.5)          (4.5)          (4.5)          (4.4)
+            Other Income (Expense), net                                                                                                      2.0           (1.7)    (0.6)    (1.1)        (3.2)          (6.7)           3.3              -              -              -              -              -              -              -              -              -              -              -              -              -
+            Total Other Income (Expense)                                                                                         0.6         (2.8)          (0.5)          (1.1)          (3.4)                                 3.0(7.1)         (0.4)    (0.4)      (1.1)        (1.8)        (2.5)              (3.2)          (3.7)          (4.1)          (4.5)          (4.5)          (4.5)          (4.5)          (4.4)
+
+            Pre-tax Income                                                                                                  (16.0)         (10.9)           (4.8)        (24.0)         (29.4)         (38.5)         (34.9)         (51.3)         (54.2)         (53.0)      (52.9)             (52.7)        (42.6)         (43.2)         (30.9)         (20.9)         (32.8)                                16.3(11.1)                         24.1    
+            Pre-tax margin                                                                                                                                      NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM        4.1%          6.3%
+
+            Taxes, GAAP                                                                                                                                        0.0                           0.0                                0.2(0.2)                          0.1                          0.0                          0.1                             -                            -                            -                            -                             -                             -                            -                            -                            -                            -                            -                            -                            -       
+            Tax Impact of One-Time Items                                                                                                     -                -       -       -              -              -              -              -              -              -              -              -              -              -              -              -              -              -              -              -
+            Taxes, Recurring                                                                                                                         0.00.0                                0.2(0.2)                          0.1                          0.0                          0.1                             -                            -                            -                            -                             -                             -                            -                            -                            -                            -                            -                            -                            -       
+                Effective Tax Rate                                                                                                                 (0.0%)      (0.1%)        4.5%        (1.0%)      (0.4%)      (0.0%)      (0.2%)        0.0%          0.0%          0.0%          0.0%          0.0%          0.0%          0.0%          0.0%          0.0%          0.0%          0.0%          0.0%          0.0%
+
+            Recurring Net Income                                                                                              (16.0)       (10.9)           (4.6)        (24.2)         (29.5)         (38.5)         (34.9)         (51.3)         (54.2)         (53.0)      (52.9)             (52.7)        (42.6)         (43.2)         (30.9)         (20.9)         (32.8)                                16.3(11.1)                         24.1    
+                Recurring NI Margin                                                                                                                     NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM             NM        4.1%          6.3%
+
+            Cumulative Effect of Accounting Change-                                                                                                   -                            -                            -                            -                            -                            -                            -                            -                            -                            -                             -                             -                            -                            -                            -                            -                            -                            -                            -       
+            One-Time Charges/Adjustments                                                                                                 -                -       -           -              -              -              -              -              -              -              -              -              -              -              -              -              -              -              -              -
+            Net Income                                                                                                        (16.0)       (10.9)           (4.6)        (24.2)         (29.5)         (38.5)         (34.9)         (51.3)         (54.2)         (53.0)      (52.9)             (52.7)        (42.6)         (43.2)         (30.9)         (20.9)         (32.8)                                16.3(11.1)                         24.1    
+
+            GAAP EPS                                                                                                                                                                                                ($0.38)        ($0.54)        ($0.57)        ($0.55)        ($0.55)        ($0.54)        ($0.44)        ($0.44)        ($0.31)        ($0.21)        ($0.33)        ($0.11)         $0.14         $0.21
+            Adjusted EPS                                                                                                                                                                                            ($0.35)        ($0.50)        ($0.54)        ($0.52)        ($0.52)        ($0.51)        ($0.40)        ($0.41)        ($0.28)        ($0.18)        ($0.29)        ($0.08)         $0.17         $0.24        
+       Source: Company data, Morgan Stanley Research estimates 
+
+        
+
+        
+
+                                                                                                                                                                                                                                                                                                                                                        4 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                             318
+---------------------Page 5---------------------
+
+         
+                                                                                                                                                                                        MORGAN STANLEY RESEARCH 
+
+                                                                                                                                                                                        November 22, 2010 
+                                                                                                                                                                                        Tesla Motors Inc. 
+
+        Exhibit 4 
+
+        Base Case Annual Income Statement 
+                                                                                                                                                                                                                                                                             Fiscal Year
+             $ millions                                                                                                            2007A              2008A              2009A              2010E               2011E               2012E               2013E               2014E               2015E               2016E               2017E               2018E               2019E               2020E
+
+             Total Revenues                                                                                                                                           0.1                                      14.7                                   111.9                                    113.2                                    150.5                                    628.5                                1,469.5                                 1,915.3                                  2,204.0                                 2,482.9                                 3,817.7                                 4,067.4                                 4,344.3                                 4,744.7    
+             Cost of Revenue                                                                                                                                         0.0                     15.9       102.4         85.6       114.5               549.5              1,232.3               1,486.9              1,694.1               1,930.6               3,054.6              3,241.0               3,464.9               3,773.2
+             Gross Profit                                                                                                                                                 0.1                                                     9.5(1.1)                                     27.6                                      35.9                                      79.0                                   237.2                                    428.4                                     509.9                                    552.3                                    763.1                                    826.4                                    879.4                                    971.5       
+                Gross Profit Margin                                                                                                                      87.7%                       NM                8.5%               24.4%               23.9%               12.6%               16.1%               22.4%               23.1%               22.2%               20.0%               20.3%               20.2%               20.5%
+
+             Expenses
+                Research and Development 62.7                                                                                                                           53.6                                      19.3                                      90.6                                   150.0                                       89.0                                      60.0                                      80.0                                       85.6                                      91.6                                      98.0                                   104.9                                    112.2                                    120.1       
+                Sales and Marketing                                                                                                                                        --                                          -                                     31.0                                      44.0                                      61.0                                   111.0                                    134.1                                     154.3                                    173.8                                    267.2                                    284.7                                    304.1                                    332.1       
+                General and Administrative                                                                                                          17.1                                       23.4                                      42.2                                      33.8                                      33.0                                      35.0                                      35.0                                      71.8                                       77.1                                      86.9                                   133.6                                    122.0                                    130.3                                    142.3       
+                Stock-based Compensation                                                                                                            0.2                       0.4             -             18.3                 15.8                  16.1                  16.7                 19.9                  19.3                  18.5                  22.1                 18.6                  16.9                  18.4
+             Total Expenses                                                                                                                                       80.0                                       77.4                                      61.4                                   173.7                                    242.8                                    201.1                                    222.7                                    305.8                                     336.4                                    370.8                                    521.0                                    530.2                                    563.5                                    612.9       
+
+             Operating (Loss) Income                                                                                                      (79.9)               (78.5)                (51.9)              (146.1)              (206.8)                                                14.5(122.1)                                   122.6                                     173.5                                    181.5                                    242.1                                    296.2                                    315.9                                    358.6       
+                Operating Margin                                                                                                                                   NM                     NM                     NM                     NM                     NM                     NM                1.0%                  6.4%                  7.9%                  7.3%                  6.3%                  7.3%                  7.3%                  7.6%
+
+             EBITDA (excl. SBC)                                                                                                           (76.8)               (73.9)                (45.0)              (116.7)              (162.6)                                                91.6(53.1)                                   198.8                                     266.0                                    291.0                                    364.3                                    445.5                                    462.9                                    518.3       
+                EBITDA Margin                                                                                                                                      NM                     NM                     NM                     NM                     NM                     NM                6.2%               10.4%               12.1%               11.7%                  9.5%               11.0%               10.7%               10.9%
+
+             Interest Expense, net                                                                                                                               1.7                      (3.2)          (2.4)          (1.3)          (5.9)          (15.5)                (17.9)            (15.3)                                                    0.8(7.8)                                        1.6                                        2.6                                        3.9                                        5.2           
+             Other Income (Expense), net                                                                                                              0.1                      (1.0)          (1.4)          (6.7)                   -                     -                     -                    -                     -                     -                    -                     -                     -                    -
+             Total Other Income (Expense)                                                                                                    1.9                 (4.2)                 (3.8)                 (8.0)                (5.9)               (15.5)                (17.9)            (15.3)                                                    0.8(7.8)                                        1.6                                        2.6                                        3.9                                        5.2           
+
+             Pre-tax Income                                                                                                               (78.0)               (82.7)                (55.7)              (154.1)              (212.8)               (137.6)                                            107.3(3.4)                                       165.7                                    182.3                                    243.7                                    298.8                                    319.8                                    363.8       
+             Pre-tax margin                                                                                                                                             NM                     NM                     NM                     NM                     NM                     NM                     NM                5.6%                  7.5%                  7.3%                  6.4%                  7.3%                  7.4%                  7.7%
+
+             Taxes, GAAP                                                                                                                                                0.1                                         0.1                                        0.0                                        0.2                                          -                                          -                                          -                                          -                                           -                                          -                                          -                                     55.0                                      76.7                                      87.3         
+             Tax Impact of One-Time Items                                                                                                             -                           -             -               -                    -                     -                     -                    -                     -                     -                    -                     -                     -                    -
+             Taxes, Recurring                                                                                                                                             0.10.1                                        0.0                                        0.2                                          -                                          -                                          -                                          -                                           -                                          -                                          -                                     55.0                                      76.7                                      87.3         
+                Effective Tax Rate                                                                                                                         (0.1%)              (0.1%)              (0.0%)              (0.1%)                0.0%                  0.0%                  0.0%                  0.0%                  0.0%                  0.0%                  0.0%               18.4%               24.0%               24.0%
+
+             Recurring Net Income                                                                                                         (78.2)               (82.8)                (55.7)              (154.3)              (212.8)               (137.6)                                            107.3(3.4)                                       165.7                                    182.3                                    243.7                                    243.8                                    243.0                                    276.5       
+                Recurring NI Margin                                                                                                                            NM                     NM                     NM                     NM                     NM                     NM                     NM                5.6%                  7.5%                  7.3%                  6.4%                  6.0%                  5.6%                  5.8%
+
+             Cumulative Effect of Accounting Change-                                                                                                                       -                                          -                                          -                                          -                                          -                                          -                                          -                                           -                                          -                                          -                                          -                                          -                                          -             
+             One-Time Charges/Adjustments                                                                                                         -                           -             -                   -                    -                     -                     -                    -                     -                     -                    -                     -                     -                    -
+             Net Income                                                                                                                   (78.2)               (82.8)                (55.7)              (154.3)              (212.8)               (137.6)                                            107.3(3.4)                                       165.7                                    182.3                                    243.7                                    243.8                                    243.0                                    276.5       
+
+             GAAP EPS                                                                                                                                                                                    ($3.06)               ($2.21)              ($1.39)               ($0.03)                $0.92                $1.39                $1.49                $1.95                $1.90                $1.85                $2.06
+             Adjusted EPS                                                                                                                                                                                ($2.79)               ($2.08)              ($1.27)                $0.09                 $1.05                 $1.51                 $1.61                 $2.08                 $2.01                 $1.95                 $2.16     
+        Source: Company data, Morgan Stanley Research estimates 
+
+         
+
+         
+                                                                                                                                                                                                                                                                                                                                                                 5 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          319
+---------------------Page 6---------------------
+
+         
+                                                                                                                                                                                                    MORGAN STANLEY RESEARCH 
+
+                                                                                                                                                                                                    November 22, 2010 
+                                                                                                                                                                                                    Tesla Motors Inc. 
+
+        Exhibit 5 
+
+        Base Case Annual Balance Sheet 
+                                                                                                                                                                                                                                                                                             Fiscal Year
+             $ millions                                                                                                                   2007A              2008A              2009A              2010E               2011E               2012E               2013E               2014E               2015E               2016E               2017E               2018E               2019E               2020E
+
+             Current Assets
+                 Cash and cash equivalents                                                                                                          17.2                                         9.3                                      69.6                                    101.3                                     100.0                                       54.4                                    100.0                                     100.0                                     147.8                                     442.3                                     803.7                                1,272.2                                  1,752.8                                  2,299.4      
+                 Accounts receivable, net                                                                                                                   0.1                                         3.3                                         3.5                                         1.8                                      12.4                                       12.2                                       13.8                                       13.3                                       16.1                                       19.1                                       18.9                                       18.8                                       18.5                                       18.4           
+                 Inventories, net                                                                                                                                       2.1                                      16.7                                       23.2                                       32.1                                       37.4                                    359.9                                     362.8                                     448.1                                     510.6                                     580.2                                     920.6                                     976.7                                1,044.2                                  1,134.0      
+                 Prepaid expenses and other current assets                                                                          2.9                                     2.2                    4.2                   5.0                     5.0                    5.0                   5.0                    5.0                     5.0                   5.0                    5.0                    5.0                    5.0                    5.0 
+             Total Current Assets                                                                                                                           22.3                                       31.4                                    100.6                                     140.2                                     154.8                                     431.6                                     481.5                                     566.4                                     679.5                                1,046.7                                  1,748.2                                  2,272.8                                  2,820.6                                  3,456.8      
+                 Property, Plant and Equipment, net                                                                                         12.0                                       18.8                                       23.5                                       49.9                                    161.8                                     194.9                                     190.5                                     270.6                                     346.4                                     420.7                                     498.4                                     547.2                                     594.1                                     643.8         
+                 Restricted cash                                                                                                                                       0.3                                         1.2                                         3.6                                   145.6                                     145.6                                     145.6                                     145.6                                     145.6                                     145.6                                     145.6                                     145.6                                     145.6                                     145.6                                     145.6         
+                 Other assets                                                                                                                                             0.3                         0.3             2.8           20.1           20.1               20.1                   20.1                   20.1                   20.1                   20.1                   20.1                   20.1                   20.1                   20.1 
+             Total Assets                                                                                                                                              34.8                                       51.7                                   130.4                                    366.4                                    508.8                                    827.6                                    878.2                                1,032.1                                  1,212.3                                 1,645.2                                 2,424.4                                 2,985.7                                 3,580.3                                 4,266.4    
+
+             Current Liabilities
+                 Accounts payable                                                                                                                                 5.4                                      14.2                                       15.1                                       24.1                                       30.6                                    294.5                                     296.8                                     366.6                                     417.7                                     474.7                                     753.2                                     799.2                                     854.4                                     927.8         
+                 Accrued liabilities                                                                                                                                   8.5                                      11.1                                       14.5                                         9.0                                      10.4                                       16.8                                       58.2                                    113.3                                     167.2                                     220.7                                     312.3                                     396.6                                     477.5                                     561.2         
+                 Deferred development compensation                                                                                          -                                     10.2                                         0.2                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Deferred revenue                                                                                                                                     -                                        4.1                                         1.4                                         1.0                                         1.0                                         1.0                                         1.0                                         1.0                                         1.0                                         1.0                                         1.0                                         1.0                                         1.0                                         1.0             
+                 Capital lease obligations, current portion                                                                                0.1                                         0.3                                         0.3                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Refundable reservation payments                                                                                            37.3                          48.0                   26.0                   29.5                   33.9                   11.9                      -                      -                      -                      -                      -                      -                      -                      - 
+             Total Current Liabilities                                                                                                                    51.3                                       87.9                                      57.5                                      63.5                                      76.0                                   324.2                                    356.0                                    480.9                                     585.9                                    696.4                                1,066.5                                 1,196.8                                 1,332.9                                 1,490.1    
+                 Convertible preferred stock warrant liability                                                                           0.2                                         2.1                                         1.7                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Capital lease obligations, less current portion                                                                      0.0                                         0.9                                         0.8                                         0.9                                         0.9                                         0.9                                         0.9                                         0.9                                         0.9                                         0.9                                         0.9                                         0.9                                         0.9                                         0.9             
+                 Convertible notes payable                                                                                                                  -                                     54.5                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Deferred revenue, less current portion                                                                                        -                                           -                                        1.2                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Other long-term liabilities                                                                                                                    -                                        4.8                                         3.5                                         2.0                                         2.0                                         2.0                                         2.0                                         2.0                                         2.0                                         2.0                                         2.0                                         2.0                                         2.0                                         2.0             
+                 Total Convertible Preferred Stock                                                                                          101.2                                     101.2                                     319.2                                             -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 DOE Loan                                                                                                                                                     -                             -               -           62.0         333.3          465.0                  398.8                  212.9                       -                      -                      -                      -                      -                      - 
+             Total Long-Term Liabilities                                                                                                         101.4                                     163.5                                    326.5                                       64.8                                   336.1                                    467.9                                    401.6                                    215.8                                          2.9                                        2.9                                        2.9                                        2.9                                        2.9                                        2.9           
+             Total Liabilities                                                                                                                                    152.7                                     251.4                                     383.9                                     128.4                                     412.1                                     792.0                                     757.6                                     696.7                                     588.8                                     699.2                                1,069.3                                  1,199.6                                  1,335.7                                  1,492.9      
+
+             Stockholders Equity
+                 Common stock                                                                                                                                        0.0                                         0.0                                         0.0                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Additional paid-in capital                                                                                                                   4.3                                         5.2                                         7.1                                   634.1                                     705.5                                     782.0                                     870.4                                     977.8                                1,100.4                                  1,240.5                                  1,405.8                                  1,593.0                                  1,808.5                                  2,060.8      
+                 Retained Earnings                                                                                                                         (122.1)                                    (204.9)                                    (260.7)                                    (396.0)                                    (608.8)                                    (746.4)                                    (749.8)                                    (642.5)                                    (476.8)                                    (294.5)                                      (50.7)                                    193.1                                     436.1                                     712.6         
+                 Accumulated other comprehensive loss, net                                                                           -                                       -                      -                      -                      -                      -                      -                      -                      -                      -                      -                      -                      -                      - 
+             Total stockholders equity                                                                                                         (117.8)                                    (199.7)                                    (253.5)                                     238.1                                       96.7                                       35.6                                    120.6                                     335.4                                     623.6                                     946.0                                1,355.0                                  1,786.0                                  2,244.6                                  2,773.4      
+             Total Liabilities and Stockholders E quity                                                                                                                        51.734.8                                   130.4                                    366.4                                    508.8                                    827.6                                    878.2                                1,032.1                                  1,212.3                                 1,645.2                                 2,424.4                                 2,985.7                                 3,580.3                                 4,266.4     
+        Source: Company data, Morgan Stanley Research estimates 
+
+         
+
+         
+
+         
+                                                                                                                                                                                                                                                                                                                                                                                       6 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      320
+---------------------Page 7---------------------
+
+         
+                                                                                                                                                                                             MORGAN STANLEY RESEARCH 
+
+                                                                                                                                                                                             November 22, 2010 
+                                                                                                                                                                                             Tesla Motors Inc. 
+
+        Exhibit 6 
+
+        Base Case Cash Flow Statement 
+                                                                                                                                                                                                                                                                                    Fiscal Year
+             $ millions                                                                                                                2007A              2008A              2009A              2010E               2011E               2012E               2013E               2014E               2015E               2016E               2017E               2018E               2019E               2020E
+
+             Operating Activities:
+                 Net Income                                                                                                         (78.2)                          (82.8)                (55.7)              (154.3)               (212.8)                (137.6)                                            107.3(3.4)                                     165.7                                    182.3                                    243.7                                    243.8                                    243.0                                    276.5       
+                 Depreciation and Amortization                                                                                                                               4.22.9                                         6.9                                      11.1                                       28.4                                       52.9                                       60.4                                       56.3                                       73.1                                       91.0                                    100.1                                     130.7                                     130.2                                     141.3         
+                 Change in fair value of convertible preferred stock warrant liability                                                                                       2.8(0.0)                                           1.1                                         8.7                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Gain on extinguishment of convertible notes and warrants                                                                                                 (1.2)-                                        (1.5)                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Stock compensation expense                                                                                                                                  0.40.2                                         1.4                                      18.3                                       15.8                                       16.1                                       16.7                                       19.9                                       19.3                                       18.5                                       22.1                                       18.6                                       16.9                                       18.4           
+                 Loss on abandonment of fixed assets                                                                                                                           -2.4                                        0.4                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Inventory write-downs                                                                                                                                         --                                        1.4                                         0.4                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Interest on convertible notes                                                                                                                              3.7-                                         2.7                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Changes in Current Assets and Liabilities                                                                                                                     --                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                     Accounts receivable, net                                                                                                                               (3.3)(0.1)                                          (0.2)                                         1.7                                    (10.7)                                          0.3                                       (1.6)                                         0.5                                       (2.9)                                        (3.0)                                         0.2                                         0.1                                         0.3                                         0.1             
+                     Inventories                                                                                                                                         (14.5)(2.1)                                          (7.9)                                        (9.2)                                        (5.3)                                  (322.6)                                         (2.8)                                     (85.3)                                      (62.4)                                      (69.7)                                   (340.4)                                      (56.2)                                      (67.5)                                      (89.8)          
+                     Prepaid expenses and other current assets                                                                                                               0.8(1.9)                                         (2.0)                                         0.9                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                     Other assets                                                                                                                                            0.0(0.1)                                         (0.4)                                     (17.2)                                             -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                     Accounts payable                                                                                                                                        8.80.5                                         0.9                                         4.4                                         6.5                                   263.9                                          2.3                                      69.8                                       51.1                                       57.0                                    278.5                                       46.0                                       55.2                                       73.5           
+                     Accrued liabilities                                                                                                                                     2.67.6                                         3.4                                       (3.8)                                         1.5                                         6.3                                      41.4                                       55.1                                       53.9                                       53.5                                       91.6                                       84.3                                       80.9                                       83.7           
+                     Other long-term liabilities                                                                                                                            1.2-                                         2.2                                       (1.5)                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                     Deferred development compensation                                                                                                                   10.2-                                     (10.0)                                        (0.2)                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                     Deferred revenue                                                                                                                                       4.1-                                       (1.5)                                        (1.6)                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                     Refundable reservation payments                                                                                          15.2                   10.7                 (22.0)                   3.4                   4.5                 (22.0)                (11.9)                     -                     -                      -                     -                     -                      -                     - 
+                 Changes in Current Assets and Liabilities                                                                                    20.519.2                                    (37.5)                (23.1)                  (3.5)                                               27.4(74.1)                                      40.1                                       39.7                                      37.9                                      29.9                                      74.2                                      68.9                                      67.5         
+             Net Cash Flow from Operating Activities                                                              (53.5)                                            (52.4)                (80.8)              (138.9)               (172.1)                                               101.1(142.7)                                    223.6                                     297.8                                    329.7                                    395.9                                    467.3                                    459.0                                    503.7       
+
+             Investing activities:
+             Purchases of property and equipment excluding capital leases                                                                                                   (9.6)(9.8)                                       (11.9)                                      (89.9)                                   (136.5)                                      (78.8)                                      (42.0)                                   (125.3)                                    (140.2)                                    (156.7)                                    (177.7)                                    (167.4)                                    (177.1)                                    (191.1)        
+             Decrease (increase) in restricted cash                                                                                             0.0                  (1.0)                  (2.4)               (96.1)                     -                      -                     -                     -                     -                      -                     -                     -                      -                     - 
+             Net cash used in investing activities                                                                       (9.8)                                      (10.6)                (14.2)              (195.1)               (156.1)                  (95.0)                (61.0)          (125.3)                    (140.2)               (156.7)               (177.7)               (167.4)                (177.1)               (191.1)
+
+             Financing activities:
+             Proceeds from issuance of convertible preferred stock, net of issuance                                             -44.9                                                       131.8                                             -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+             Proceeds from DOE Loan                                                                                                                                            --                                           -                                     62.0                                    271.3                                     131.7                                      (66.2)                                   (185.8)                                    (212.9)                                             -                                           -                                           -                                           -                                           -               
+             Principal payments on capital leases and other debt                                                                                                          (0.2)-                                        (0.3)                                        (0.2)                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+             Proceeds from issuance of convertible notes and warrants                                                                                                    54.8-                                       25.5                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+             Proceeds from Issuance of Common Stock                                                                                                                         0.0-                                           -                                  273.8                                             -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+             Proceeds from exercise of stock options                                                                                                                         0.50.1                                         0.5                                      35.0                                       55.6                                       60.4                                       71.7                                       87.6                                    103.2                                     121.5                                     143.2                                     168.6                                     198.6                                     234.0         
+             Deferred common stock and loan facility issuance costs                                                                                                            --                                      (2.0)                                        (3.5)                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+             Dividends                                                                                                                            -                     -                      -                     -                     -                      -                     -                     -                     -                      -                     -                     -                      -                     - 
+             Net cash (used in) provided by financing activities                                                                           55.145.0                                            155.4                                    367.1                                    326.9                                    192.1                                          5.5                     (98.3)                                     121.5(109.7)                                    143.2                                    168.6                                    198.6                                    234.0       
+
+                 Effect of Exchange Rate Changes                                                                                                                               --                                           -                                      (1.3)                                            -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+                 Cash Restatement                                                                                                                                              --                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -                                           -               
+
+             Net Change in Cash and Cash Equivalents                                                        (18.2)                                                                               60.4(7.9)                                      31.7                   (1.3)                                       45.6(45.6)                                               47.8(0.0)                                   294.5                                    361.4                                    468.5                                    480.6                                    546.6       
+             Cash and cash equivalents at beginning of the year                                                                                35.4                  17.2                    9.3                 69.6                 101.3                 100.0                   54.4                100.0                  100.0                 147.8                 442.3                  803.7              1,272.2               1,752.8 
+             Cash and cash equivalents at end of year                                                                                            9.317.2                                         69.6                                   101.3                                    100.0                                       54.4                                   100.0                                    100.0                                     147.8                                    442.3                                    803.7                                1,272.2                                 1,752.8                                 2,299.4     
+        Source: Company data, Morgan Stanley Research estimates 
+
+         
+
+                                                                                                                                                                                                                                                                                                                                                                           7 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       321
+---------------------Page 8---------------------
+
+ 
+                                                                     MORGAN STANLEY RESEARCH 
+                                                                     November 22, 2010 
+                                                                     Tesla Motors Inc. 
+
+ 
+
+ 
+                                                                                                                                  8 
+                                                                                                                                     322
+---------------------Page 9---------------------
+
+ 
+                                                                            MORGAN STANLEY RESEARCH 
+
+                                                                            November 22, 2010 
+                                                                            Tesla Motors Inc. 
+
+ 
+                                                     
+                           
+                          
+                                                    Morgan Stanley ModelWare is a proprietary analytic framework that helps clients 
+                                                    uncover value, adjusting for distortions and ambiguities created by local accounting 
+                                                    regulations. For example, ModelWare EPS adjusts for one-time events, capitalizes operating 
+                                                    leases (where their use is significant), and converts inventory from LIFO costing to a FIFO 
+                                                  
+                                                    basis. ModelWare also emphasizes the separation of operating performance of a company 
+                                                    from its financing for a more complete view of how a company generates earnings. 
+  
+                                                    Disclosure Section 
+The information and opinions in Morgan Stanley Research were prepared by Morgan Stanley & Co. Incorporated, and/or Morgan Stanley C.T.V.M. S.A. 
+As used in this disclosure section, "Morgan Stanley" includes Morgan Stanley & Co. Incorporated, Morgan Stanley C.T.V.M. S.A. and their affiliates as 
+necessary. 
+For important disclosures, stock price charts and equity rating histories regarding companies that are the subject of this report, please see the Morgan 
+Stanley Research Disclosure Website at www.morganstanley.com/researchdisclosures, or contact your investment representative or Morgan Stanley 
+Research at 1585 Broadway, (Attention: Research Management), New York, NY, 10036 USA. 
+Analyst Certification 
+The following analysts hereby certify that their views about the companies and their securities discussed in this report are accurately expressed and 
+that they have not received and will not receive direct or indirect compensation in exchange for expressing specific recommendations or views in this 
+report: Joshua Paradise. 
+Unless otherwise stated, the individuals listed on the cover page of this report are research analysts. 
+Global Research Conflict Management Policy 
+Morgan Stanley Research has been published in accordance with our conflict management policy, which is available at 
+www.morganstanley.com/institutional/research/conflictpolicies. 
+Important US Regulatory Disclosures on Subject Companies 
+As of October 29, 2010, Morgan Stanley beneficially owned 1% or more of a class of common equity securities of the following companies covered in 
+Morgan Stanley Research: Cree, Inc., First Solar Inc., SunPower Corporation. 
+Within the last 12 months, Morgan Stanley managed or co-managed a public offering (or 144A offering) of securities of Amyris Inc., Tesla Motors Inc.. 
+Within the last 12 months, Morgan Stanley has received compensation for investment banking services from  A123 Systems Inc., Amyris Inc., First 
+Solar Inc., SunPower Corporation, Tesla Motors Inc.. 
+In the next 3 months, Morgan Stanley expects to receive or intends to seek compensation for investment banking services from A123 Systems Inc., 
+Amyris Inc., Cree, Inc., Energy Conversion Devices, Inc, First Solar Inc., SunPower Corporation, Tesla Motors Inc.. 
+Within the last 12 months, Morgan Stanley has received compensation for products and services other than investment banking services from First 
+Solar Inc., SunPower Corporation. 
+Within the last 12 months, Morgan Stanley has provided or is providing investment banking services to, or has an investment banking client 
+relationship with, the following company: A123 Systems Inc., Amyris Inc., Cree, Inc., Energy Conversion Devices, Inc, First Solar Inc., SunPower 
+Corporation, Tesla Motors Inc.. 
+Within the last 12 months, Morgan Stanley has either provided or is providing non-investment banking, securities-related services to and/or in the past 
+has entered into an agreement to provide services or has a client relationship with the following company: A123 Systems Inc., First Solar Inc., 
+SunPower Corporation. 
+Morgan Stanley & Co. Incorporated makes a market in the securities of A123 Systems Inc., Amyris Inc., Cree, Inc., Energy Conversion Devices, Inc, 
+Evergreen Solar Inc, First Solar Inc., SunPower Corporation, Tesla Motors Inc.. 
+The equity research analysts or strategists principally responsible for the preparation of Morgan Stanley Research have received compensation based 
+upon various factors, including quality of research, investor client feedback, stock picking, competitive factors, firm revenues and overall investment 
+banking revenues. 
+Morgan Stanley and its affiliates do business that relates to companies/instruments covered in Morgan Stanley Research, including market making, 
+providing liquidity and specialized trading, risk arbitrage and other proprietary trading, fund management, commercial banking, extension of credit, 
+investment services and investment banking. Morgan Stanley sells to and buys from customers the securities/instruments of companies covered in 
+Morgan Stanley Research on a principal basis. Morgan Stanley may have a position in the debt of the Company or instruments discussed in this report. 
+Certain disclosures listed above are also for compliance with applicable regulations in non-US jurisdictions. 
+STOCK RATINGS 
+Morgan Stanley uses a relative rating system using terms such as Overweight, Equal-weight, Not-Rated or Underweight (see definitions below). 
+Morgan Stanley does not assign ratings of Buy, Hold or Sell to the stocks we cover. Overweight, Equal-weight, Not-Rated and Underweight are not the 
+equivalent of buy, hold and sell.  Investors should carefully read the definitions of all ratings used in Morgan Stanley Research. In addition, since 
+Morgan Stanley Research contains more complete information concerning the analyst's views, investors should carefully read Morgan Stanley 
+Research, in its entirety, and not infer the contents from the rating alone.  In any case, ratings (or research) should not be used or relied upon as 
+investment advice.  An investor's decision to buy or sell a stock should depend on individual circumstances (such as the investor's existing holdings) 
+and other considerations. 
+Global Stock Ratings Distribution 
+(as of October 31, 2010) 
+For disclosure purposes only (in accordance with NASD and NYSE requirements), we include the category headings of Buy, Hold, and Sell alongside 
+our ratings of Overweight, Equal-weight, Not-Rated and Underweight. Morgan Stanley does not assign ratings of Buy, Hold or Sell to the stocks we 
+cover. Overweight, Equal-weight, Not-Rated and Underweight are not the equivalent of buy, hold, and sell but represent recommended relative 
+weightings (see definitions below). To satisfy regulatory requirements, we correspond Overweight, our most positive stock rating, with a buy 
+recommendation; we correspond Equal-weight and Not-Rated to hold and Underweight to sell recommendations, respectively. 
+ 
+
+ 
+                                                                                                                                              9 
+                                                                                                                                                 323
+---------------------Page 10---------------------
+
+ 
+                                                                             MORGAN STANLEY RESEARCH 
+
+                                                                             November 22, 2010 
+                                                                             Tesla Motors Inc. 
+
+                        Coverage Universe     Investment Banking Clients (IBC)
+                                        % of                   % of % of Rating 
+Stock Rating Category       Count       Total     Count  Total IBC  Category
+Overweight/Buy             1122 40%            413           44%           37%
+Equal-weight/Hold          1158 41%            411           43%           35%
+Not-Rated/Hold               121 4%               22             2%           18%
+Underweight/Sell             393 14%            103           11%           26%
+Total                      2,794  949                      
+ 
+Data include common stock and ADRs currently assigned ratings. An investor's decision to buy or sell a stock should depend on individual 
+circumstances (such as the investor's existing holdings) and other considerations. Investment Banking Clients are companies from whom Morgan 
+Stanley received investment banking compensation in the last 12 months. 
+Analyst Stock Ratings 
+Overweight (O). The stock's total return is expected to exceed the average total return of the analyst's industry (or industry team's) coverage universe, 
+on a risk-adjusted basis, over the next 12-18 months. 
+Equal-weight (E). The stock's total return is expected to be in line with the average total return of the analyst's industry (or industry team's) coverage 
+universe, on a risk-adjusted basis, over the next 12-18 months. 
+Not-Rated (NR). Currently the analyst does not have adequate conviction about the stock's total return relative to the average total return of the 
+analyst's industry (or industry team's) coverage universe, on a risk-adjusted basis, over the next 12-18 months. 
+Underweight (U). The stock's total return is expected to be below the average total return of the analyst's industry (or industry team's) coverage 
+universe, on a risk-adjusted basis, over the next 12-18 months. 
+Unless otherwise specified, the time frame for price targets included in Morgan Stanley Research is 12 to 18 months. 
+Analyst Industry Views 
+Attractive (A): The analyst expects the performance of his or her industry coverage universe over the next 12-18 months to be attractive vs. the 
+relevant broad market benchmark, as indicated below. 
+In-Line (I): The analyst expects the performance of his or her industry coverage universe over the next 12-18 months to be in line with the relevant 
+broad market benchmark, as indicated below. 
+Cautious (C): The analyst views the performance of his or her industry coverage universe over the next 12-18 months with caution vs. the relevant 
+broad market benchmark, as indicated below. 
+Benchmarks for each region are as follows: North America - S&P 500; Latin America - relevant MSCI country index or MSCI Latin America Index; 
+Europe - MSCI Europe; Japan - TOPIX; Asia - relevant MSCI country index. 
+. 
+Stock Price, Price Target and Rating History (See Rating Definitions) 
+
+                                                                                                                                              
+
+ 
+                                                                                                                                               10 
+                                                                                                                                                    324
+---------------------Page 11---------------------
+
+ 
+                                                                                       MORGAN STANLEY RESEARCH 
+
+                                                                                       November 22, 2010 
+                                                                                       Tesla Motors Inc. 
+
+Important Disclosures for Morgan Stanley Smith Barney LLC Customers 
+Citi Investment Research & Analysis (CIRA) research reports may be available about the companies or topics that are the subject of Morgan Stanley Research.  Ask your 
+Financial Advisor or use Research Center to view any available CIRA research reports in addition to Morgan Stanley research reports. 
+Important disclosures regarding the relationship between the companies that are the subject of Morgan Stanley Research and Morgan Stanley Smith Barney LLC, Morgan 
+Stanley and Citigroup Global Markets Inc. or any of their affiliates, are available on the Morgan Stanley Smith Barney disclosure website at 
+www.morganstanleysmithbarney.com/researchdisclosures. 
+For Morgan Stanley and Citigroup Global Markets, Inc. specific disclosures, you may refer to www.morganstanley.com/researchdisclosures and 
+https://www.citigroupgeo.com/geopublic/Disclosures/index_a.html. 
+Each Morgan Stanley Equity Research report is reviewed and approved on behalf of Morgan Stanley Smith Barney LLC.  This review and approval is conducted by the 
+same person who reviews the Equity Research report on behalf of Morgan Stanley.  This could create a conflict of interest. 
+Other Important Disclosures 
+Morgan Stanley & Co. International PLC and its affiliates have a significant financial interest in the debt securities of First Solar Inc.. 
+Morgan Stanley produces an equity research product called a "Tactical Idea." Views contained in a "Tactical Idea" on a particular stock may be contrary to the 
+recommendations or views expressed in research on the same stock. This may be the result of differing time horizons, methodologies, market events, or other factors. For 
+all research available on a particular stock, please contact your sales representative or go to Client Link at www.morganstanley.com. 
+Morgan Stanley Research does not provide individually tailored investment advice. Morgan Stanley Research has been prepared without regard to the individual financial 
+circumstances and objectives of persons who receive it. Morgan Stanley recommends that investors independently evaluate particular investments and strategies, and 
+encourages investors to seek the advice of a financial adviser. The appropriateness of a particular investment or strategy will depend on an investor's individual 
+circumstances and objectives. The securities, instruments, or strategies discussed in Morgan Stanley Research may not be suitable for all investors, and certain investors 
+may not be eligible to purchase or participate in some or all of them. 
+The fixed income research analysts or strategists principally responsible for the preparation of Morgan Stanley Research have received compensation based upon various 
+factors, including quality, accuracy and value of research, firm profitability or revenues (which include fixed income trading and capital markets profitability or revenues), 
+client feedback and competitive factors. Fixed Income Research analysts' or strategists' compensation is not linked to investment banking or capital markets transactions 
+performed by Morgan Stanley or the profitability or revenues of particular trading desks. 
+Morgan Stanley Research is not an offer to buy or sell or the solicitation of an offer to buy or sell any security/instrument or to participate in any particular trading strategy.  
+The "Important US Regulatory Disclosures on Subject Companies" section in Morgan Stanley Research lists all companies mentioned where Morgan Stanley owns 1% or 
+more of a class of common equity securities of the companies.  For all other companies mentioned in Morgan Stanley Research, Morgan Stanley may have an investment 
+of less than 1% in securities/instruments or derivatives of securities/instruments of companies and may trade them in ways different from those discussed in Morgan Stanley 
+Research. Employees of Morgan Stanley not involved in the preparation of Morgan Stanley Research may have investments in securities/instruments or derivatives of 
+securities/instruments of companies mentioned and may trade them in ways different from those discussed in Morgan Stanley Research. Derivatives may be issued by 
+Morgan Stanley or associated persons. 
+With the exception of information regarding Morgan Stanley, Morgan Stanley Research is based on public information. Morgan Stanley makes every effort to use reliable, 
+comprehensive information, but we make no representation that it is accurate or complete.  We have no obligation to tell you when opinions or information in Morgan Stanley 
+Research change apart from when we intend to discontinue equity research coverage of a subject company. Facts and views presented in Morgan Stanley Research have 
+not been reviewed by, and may not reflect information known to, professionals in other Morgan Stanley business areas, including investment banking personnel. 
+Morgan Stanley Research personnel may participate in company events such as site visits and are generally prohibited from accepting payment by the company of 
+associated expenses unless pre-approved by authorized members of Research management. 
+The value of and income from your investments may vary because of changes in interest rates, foreign exchange rates, default rates, prepayment rates, 
+securities/instruments prices, market indexes, operational or financial conditions of companies or other factors. There may be time limitations on the exercise of options or 
+other rights in securities/instruments transactions. Past performance is not necessarily a guide to future performance.  Estimates of future performance are based on 
+assumptions that may not be realized. If provided, and unless otherwise stated, the closing price on the cover page is that of the primary exchange for the subject company's 
+securities/instruments. 
+Morgan Stanley may make investment decisions or take proprietary positions that are inconsistent with the recommendations or views in this report. 
+To our readers in Taiwan:  Information on securities/instruments that trade in Taiwan is distributed by Morgan Stanley Taiwan Limited ("MSTL"). Such information is for your 
+reference only.  Information on any securities/instruments issued by a company owned by the government of or incorporated in the PRC and listed in on the Stock Exchange 
+of Hong Kong ("SEHK"), namely the H-shares, including the component company stocks of the Stock Exchange of Hong Kong ("SEHK")'s Hang Seng China Enterprise 
+Index; or any securities/instruments issued by a company that is 30% or more directly- or indirectly-owned by the government of or a company incorporated in the PRC and 
+traded on an exchange in Hong Kong or Macau, namely SEHK's Red Chip shares, including the component company of the SEHK's China-affiliated Corp Index is 
+distributed only to Taiwan Securities Investment Trust Enterprises ("SITE"). The reader should independently evaluate the investment risks and is solely responsible for 
+their investment decisions. Morgan Stanley Research may not be distributed to the public media or quoted or used by the public media without the express written consent 
+of Morgan Stanley.  Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be construed as a recommendation or 
+a solicitation to trade in such securities/instruments. MSTL may not execute transactions for clients in these securities/instruments. 
+To our readers in Hong Kong: Information is distributed in Hong Kong by and on behalf of, and is attributable to, Morgan Stanley Asia Limited as part of its regulated 
+activities in Hong Kong. If you have any queries concerning Morgan Stanley Research, please contact our Hong Kong sales representatives. 
+Morgan Stanley Research is disseminated in Japan by Morgan Stanley MUFG Securities Co., Ltd.; in Hong Kong by Morgan Stanley Asia Limited (which accepts 
+responsibility for its contents); in Singapore by Morgan Stanley Asia (Singapore) Pte. (Registration number 199206298Z) and/or Morgan Stanley Asia (Singapore) 
+Securities Pte Ltd (Registration number 200008434H), regulated by the Monetary Authority of Singapore, which accepts responsibility for its contents; in Australia to 
+"wholesale clients" within the meaning of the Australian Corporations Act by Morgan Stanley Australia Limited A.B.N. 67 003 734 576, holder of Australian financial services 
+license No. 233742, which accepts responsibility for its contents; in Australia to "wholesale clients" and "retail clients" within the meaning of the Australian Corporations Act 
+by Morgan Stanley Smith Barney Australia Pty Ltd (A.B.N. 19 009 145 555, holder of Australian financial services license No. 240813, which accepts responsibility for its 
+contents; in Korea by Morgan Stanley & Co International plc, Seoul Branch; in India by Morgan Stanley India Company Private Limited; in Canada by Morgan Stanley 
+Canada Limited, which has approved of, and has agreed to take responsibility for, the contents of Morgan Stanley Research in Canada; in Germany by Morgan Stanley 
+Bank AG, Frankfurt am Main and Morgan Stanley Private Wealth Management Limited, Niederlassung Deutschland, regulated by Bundesanstalt fuer 
+Finanzdienstleistungsaufsicht (BaFin); in Spain by Morgan Stanley, S.V., S.A., a Morgan Stanley group company, which is supervised by the Spanish Securities Markets 
+Commission (CNMV) and states that Morgan Stanley Research has been written and distributed in accordance with the rules of conduct applicable to financial research as 
+established under Spanish regulations; in the United States by Morgan Stanley & Co. Incorporated, which accepts responsibility for its contents.  Morgan Stanley & Co. 
+International plc, authorized and regulated by the Financial Services Authority, disseminates in the UK research that it has prepared, and approves solely for the purposes 
+of section 21 of the Financial Services and Markets Act 2000, research which has been prepared by any of its affiliates.  Morgan Stanley Private Wealth Management 
+Limited, authorized and regulated by the Financial Services Authority, also disseminates Morgan Stanley Research in the UK.  Private U.K. investors should obtain the 
+advice of their Morgan Stanley & Co. International plc or Morgan Stanley Private Wealth Management representative about the investments concerned.  RMB Morgan 
+Stanley (Proprietary) Limited is a member of the JSE Limited and regulated by the Financial Services Board in South Africa.   RMB Morgan Stanley (Proprietary) Limited is 
+a joint venture owned equally by Morgan Stanley International Holdings Inc. and RMB Investment Advisory (Proprietary) Limited, which is wholly owned by FirstRand 
+Limited. 
+The information in Morgan Stanley Research is being communicated by Morgan Stanley & Co. International plc (DIFC Branch), regulated by the Dubai Financial Services 
+Authority (the DFSA), and is directed at Professional Clients only, as defined by the DFSA. The financial products or financial services to which this research relates will only 
+be made available to a customer who we are satisfied meets the regulatory criteria to be a Professional Client. 
+The information in Morgan Stanley Research is being communicated by Morgan Stanley & Co. International plc (QFC Branch), regulated by the Qatar Financial Centre 
+Regulatory Authority (the QFCRA), and is directed at business customers and market counterparties only and is not intended for Retail Customers as defined by the 
+QFCRA. 
+As required by the Capital Markets Board of Turkey, investment information, comments and recommendations stated here, are not within the scope of investment advisory 
+activity. Investment advisory service is provided in accordance with a contract of engagement on investment advisory concluded between brokerage houses, portfolio 
+
+ 
+                                                                                                                                                                 11 
+                                                                                                                                                                       325
+---------------------Page 12---------------------
+
+ 
+                                                                                     MORGAN STANLEY RESEARCH 
+
+                                                                                     November 22, 2010 
+                                                                                     Tesla Motors Inc. 
+
+management companies, non-deposit banks and clients. Comments and recommendations stated here rely on the individual opinions of the ones providing these 
+comments and recommendations. These opinions may not fit to your financial status, risk and return preferences. For this reason, to make an investment decision by relying 
+solely to this information stated here may not bring about outcomes that fit your expectations. 
+The trademarks and service marks contained in Morgan Stanley Research are the property of their respective owners. Third-party data providers make no warranties or 
+representations of any kind relating to the accuracy, completeness, or timeliness of the data they provide and shall not have liability for any damages of any kind relating to 
+such data.  The Global Industry Classification Standard ("GICS") was developed by and is the exclusive property of MSCI and S&P. 
+Morgan Stanley Research, or any portion thereof may not be reprinted, sold or redistributed without the written consent of Morgan Stanley. 
+Morgan Stanley Research is disseminated and available primarily electronically, and, in some cases, in printed form. 
+Additional information on recommended securities/instruments is available on request.  
+
+ 
+                                                                                                                                                             12 
+                                                                                                                                                                  326
+---------------------Page 13---------------------
+
+                          
+                                                                                  MORGAN STANLEY RESEARCH 
+                                
+  
+
+The Americas                                 Europe                                       Japan                                        Asia/Pacific 
+1585 Broadway                                20 Bank Street, Canary Wharf                 4-20-3 Ebisu, Shibuya-ku                     1 Austin Road West 
+New York, NY 10036-8293                      London E14 4AD                               Tokyo 150-6008                               Kowloon 
+United States                                United Kingdom                               Japan                                        Hong Kong 
+Tel: +1 (1) 212 761 4000                     Tel: +44 (0) 20 7 425 8000                   Tel: +81 (0) 3 5424 5000                     Tel: +852 2848 5200 
+
+ 
+
+Industry Coverage:Clean Tech 
+
+Company (Ticker)                            Rating (as of)Price* (11/19/2010)
+
+Joshua Paradise, CFA 
+A123 Systems Inc. (AONE.O)                       E (11/10/2010)                               $8.91
+Cree, Inc. (CREE.O)                                           E (10/20/2010)                             $58.34
+Energy Conversion Devices, Inc              E (11/10/2010)                               $4.87
+(ENER.O) 
+Tesla Motors Inc. (TSLA.O)                            E (08/09/2010)                             $30.99
+Smittipon Srethapramote 
+Amyris Inc. (AMRS.O)                                       O (11/08/2010)                             $19.34
+Evergreen Solar Inc (ESLR.O)                      E (03/24/2010)                                  $.84
+First Solar Inc. (FSLR.O) O (03/24/2010)                          $126.75
+SunPower Corporation (SPWRA.O)           E (10/08/2010)                             $12.31
+
+Stock Ratings are subject to change. Please see latest research for each company. 
+* Historical prices are not split adjusted. 
+ 
+
+ 
+© 2010 Morgan Stanley 
+
+                                                                                                                                                                      327

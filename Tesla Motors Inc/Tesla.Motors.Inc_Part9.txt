@@ -1,0 +1,484 @@
+---------------------Page 1---------------------
+
+ 
+
+                                                                                                                            
+Tesla Motors, Inc.                                                                                           May 5, 2011  
+
+(TSLA: NNM;  $26.68)                                                         Carter Driscoll, CFA       / 973-821-4330 / 
+                                                                                    carter@capstoneinvestments.com          
+Sell | Target: $19 
+
+ Company Statistics        
+                                                         TSLA: NOT A LOT OF D  ETAILS; SELL   
+ 12-month Price Target:                     $19 
+                                                             
+ Current Price:                          $26.68 
+                                                         •  Top line beat, EPS in line. TSLA reported 1Q11 revenue 
+ Shares Outstanding (M):                   95.2 
+                                                            of $49M and a loss of $0.51 on better than expected sales of 
+ Institutional Holdings:                     19% 
+                                                            Roadsters  and  powertrain  components.  Gross  margins  at 
+ Market Cap (M):                       $2,539.6 
+ EV (M):                               $2,541.4             36.8%  exceeded  expectations  but  higher  opex  mitigated 
+ EV/EBITDA:                               NM                most  of  the  margin  improvement.  We  contend  that  P&L 
+ 52-wk Range:                    $14.98-$36.42              results  (net  loss  of  $49M)  still  do  not  matter  much  to 
+ Avg. Daily Vol. (000):                     1,391           investors ahead of the Model S launch but we continue to 
+ Dividend:                                 NA               expect heavy net losses for several more quarters.  
+ Price/Book Value:                        15.1x          •  No new OEMs .  While Daimler increased their order from 
+ Book Value/sh:                          $1.76              1,800 to 2,100 units for battery packs and chargers for its 
+                                                            Smart  fortwo  /A-class  EVs,  we  find  it  curious  that  TSLA 
+ Financials    
+                                                            dismissed  the  notion  that  they   were  ever   interested  in 
+FYE Dec               2010A   2011E   2012E                 pursuing  a  powertrain  supply  relationship  with  Daimler.  
+EBITDA (M):          ($136.2)   ($176.7)    ($91.7)         We  know  battery  packs  &  chargers  is  all  they  had  been 
+P/E Ratio:               NM       NM       NM 
+                                                            selling but this is an example of a relationship that has not 
+                                               
+                                                            expanded as TSLA originally intended.   
+Revenue (M):   Q1       $20.8    $49.0    $41.5 
+              Q2        $28.4    $50.2    $42.7          •  Short on details . TSLA stated that alpha prototype road 
+              Q3        $31.2    $45.8    $232.5            test  results  were  still  ongoing  but  other  than  saying  they 
+              Q4        $36.3    $41.5    $232.7            were going well, we did not get much detail (we also thought 
+Total                  $116.7    $186.5    $549.4           they would have been completed testing by now since the 
+                                                            prototypes were finished in February).  15 prototypes  also 
+EPS:          Q1      ($1.35)   ($0.51)A    ($0.49) 
+                                                            seems like a small number (20 or more vehicles is typical for 
+              Q2      ($1.68)   ($0.50)E    ($0.47) 
+                                                            U.S.  road  tests)  to  conduct  such  extensive  tests  (braking, 
+              Q3      ($0.38)  ($0.51)E    ($0.30) 
+              Q4      ($0.54)   ($0.53)E    ($0.29)         handling,  noise-vibration-harshness,  cool  climate  driving, 
+Total                ($3.04)A   ($2.06)E    ($1.54)         crash   simulation,   etc.).   The   Model   S   beta   prototype   is 
+                                                            supposed to be completed by late summer, a little later than 
+                                                            first    thought    but    not    demonstrably    later.    Model    S 
+ Company Description          
+                                                            reservations of ~4,600 improved each month of the quarter, 
+                                                            however, we again find it curios that TSLA retooled their line 
+ Founded in 2003 and headquartered in Palo Alto, CA, 
+ Tesla  Motors  designs, manufactures  and  sells  high     to build 20K vehicles on one shift but somehow 5,000 units 
+ performance    electric    vehicles    (EV)    and    electric is all they can produce in 2012? We are unclear what exactly 
+ powertrain     technology     including     battery     packs.  the limiting production factors are.   
+ Launched  in  2008,  Tesla's  Roadster  was  the  first 
+                                                         •  Factory build out has yet to begin in earnest . TSLA 
+ commercial EV that complied with federal standards 
+ with  ~  1,650  vehicles  sold  through  1Q11.    Tesla's  admitted it has yet to spend the bulk of the $195-$210M in 
+ next-generation  EV  called  the  Model  S  is  set  to    2011E capex (spent only $20M in 1Q11) but expects to ramp 
+ launch  in  mid-2012  with  extended  range  features.     up expenditures on stamping and tooling equipment in 2Q-
+ The company also sells battery packs to Daimler for 
+                                                            4Q11,  just  in  time  for  those  “unnecessary”  but  hopefully 
+ use  in  their  smart  and  A-class  EVs  and  recently 
+ agreed to jointly develop batteries for Toyota's RAV4      available funds from a potential secondary offering.   
+ model.                                                  •  Maintain SELL . Bulls will point to lower net losses ($49M 
+                                                            vs. $51M in 4Q10), higher Model S reservations and the “on 
+  
+                                                            schedule” beta delivery. But if you dig deeper there was not 
+                                                            much to get excited about. We expect some short covering 
+                                                            will  provide  another  opportunity  to  exit  long  positions  or 
+                                                            initiate short ones once the euphoria has settled down.    
+
+                                                               
+                                    FOR INSTITUTIONAL CONSIDERATION ONLY. 
+FOR REQUIRED DISCLOSURES, INCLUDING ANALYST CERTIFICATION, PLEASE REFER TO THE IMPORTANT 
+                              DISCLOSURES STARTING ON PAGE 6 OF THIS REPORT. 
+                                                                                                                            64
+---------------------Page 2---------------------
+
+                                                                                                            
+
+Figure 1: 1Q11 Performance Relative to CapStone Investments Estimates 
+
+                                                             % Var.                 Historical
+                                                    H/(L)    Rel. to 
+                               1Q11A       1Q11E  Variance    Est.       1Q10A   % Chg         4Q10A   % Chg
+Line Item
+Automotive Sales                                      $33.6          $23.0          $10.6             46%                  $20.6           63%           $29.2           15%
+Development Service Sales                $15.4          $14.8           $0.7                4%                      $0.2             NM             $7.1117%
+   Total Sales                                                $49.0          $37.8          $11.2             30%                  $20.8        136%           $36.3           35%
+Auto Gross Margin                                       20%             10%          10%              98%                      18%         10%               20%            0%
+Develop. Services Gross Mgn               74%             60%          14%              23%                      56%         33%               78%          -5%
+   Gross Margin                   36.8%         29.5%          7.3%             25%                  18.5%         99%           31.2%         18%
+R&D                                                                   $41.2          $35.9           $5.3               15%                  $13.3        210%           $37.6              9%
+SG&A                                                               $24.2          $25.7          ($1.5)             -6%                  $16.6           46%           $25.3            -4%
+EBITDA                                                         ($43.8)       ($43.6)       ($0.26)           -1%                 ($23.9)       -84%         ($48.8)         10%
+   EBITDA Margin                  -89%        -115%        25.9%            22%                  -115%         22%          -134%         33%
+
+GAAP EPS                                                  ($0.51)       ($0.52)        $0.01               1%                 ($1.35)         62%         ($0.54)            6%
+Adjusted EPS                                            ($0.44)       ($0.49)        $0.05             11%                ($1.09)         60%         ($0.47)7%
+
+FY11 Revenue Guidance
+Prior Guidance                   $160-$175M
+New Guidance                   $170-$185M                                                                   
+Source: Company reports and CapStone Investments estimates 
+
+ 
+
+Positives for Tesla on the call / in the quarter: 
+
+•   Stronger  than  expected  sales  of  Roadsters  (145  cars)  and  powertrain 
+     components delivered record sales of $49M. 
+•   TSLA  raised  revenue  guidance  from  $160-$175M  to  $170-$185M  for 
+     2011,  partially  due  to  the  higher  number  of  battery  packs  ordered  by 
+     Daimler.   
+•   Gross margins of 36.8% exceeded expectations as margins from lumpy 
+     development services sales were far higher than expected.   
+•   Model  S  reservations  grew  ~1,300  from  12/31  through  4/30  to  reach 
+     ~4,600.   
+ 
+Negatives for Tesla on the call / in the quarter: 
+
+•   No new OEMs.  Since Roadster sales are ending at YE11, and there will be 
+     no  Model  S  sales  before  mid-2012,  shouldn’t  expanding  powertrain 
+     component sales / expanding OEM relationships be an important step in 
+     growing revenue?  This is the second consecutive quarter that Tesla has 
+     not added any new partnerships.   
+•   Did the Model S beta delivery slip just a little?  First it was mid-summer 
+     and now it is the end of summer?  We may be nitpicking but where are all 
+     the promised extra details about the road driving tests?  Do they have 
+     anything to do with the beta introduction sliding just a bit?   
+•   Retail strategy is still murky.  We do not understand the appeal of the 
+     distribution model.  TSLA will stop selling Roadsters in 8 months, has no 
+     plans to advertise (at least today) and there is no Model S to test drive?  
+     So let me understand this…you go to the store not to buy a car, not to 
+     drive a car and not to see the product (since it not even available yet)?  
+     But Tesla claims there are thousands of people creating foot traffic at 
+     these stores.  It must be the rarified air and really good lattes.   
+ 
+ 
+
+CapStone Investments Trading Desk: 1-858-875-4550                                                         2 
+ 
+                                                                                                               65
+---------------------Page 3---------------------
+
+                                                                           
+
+Conclusion – Sometimes it is hard to poke holes when 
+everything is so rosy 
+
+We have never listened to a company discuss their business that is running 
+so  smoothly  and  yet  lost  $49M  on  the  bottom  line.    There  was  not  one 
+negative expression or utterance on the call. But since there were so few 
+details on operations, alpha prototype test results, new partnerships, etc. we 
+guess it is hard to be anything but positive since  so many people will be 
+driving $80K electric vehicles next year, assuming they are available for sale.  
+Just ask Fisker how that time frame is working out.  We do not mean to be so 
+glib but we now count 18 auto OEMs that plan to have or will have an EV 
+available for sale by the end of 2012.  So why are so many car buyers willing 
+to pay TSLA a 25% gross margin per car as management confidently states 
+they will reach on the Model S?  We would certainly demand a lower price if 
+we thought that was the profit an auto OEM were going to make and said it 
+right  to  our  face.    We  would  use  the  expected  media  hype  and  bullish 
+commentary to exit positions should the stock bounce above $30.    
+
+ 
+
+INVESTMENT RISK 
+Tesla faces intense competition from established auto OEMs, execution risk 
+for   Model   S,   lack   of   widespread   EV   adoption,   potential   reduction   in 
+government support and continued operating losses.   
+ 
+VALUATION METHODOLOGY 
+We value TSLA using 3 metrics - EV/S, EV/EBITDA and a 5-year DCF. Our 
+$19 target price is the average relative multiples and our DCF - using 15x 
+terminal EBITDA multiple and 14% WACC.      
+ 
+
+CapStone Investments Trading Desk: 1-858-875-4550                        3 
+ 
+                                                                            66
+---------------------Page 4---------------------
+
+ 
+
+ 
+
+Figure 2: Tesla Motors, Inc.: HISTORICAL AND PROJECTED INCOME STATEMENT 
+
+$M                                                                                                                         2010A                                                                                                      2011E                                                                                                     2012E
+                                                                                               1Q                   2Q                  3Q                   4Q                  2010A                   1QA                 2QE                  3QE                 4QE                  2011E                    1Q                   2Q                  3Q                   4Q                  2012E
+                                                                                            Mar-10               Jun-10              Sep-10               Dec-10                 YEAR                  Mar-11              Jun-11               Sep-11              Dec-11                 YEAR                  Mar-12               Jun-12              Sep-12               Dec-12                 YEAR
+Automotive Revenues                                                                              $20.6                 $24.0                 $23.4                 $29.2                      $97.1                 $33.6                 $33.6                 $28.5                 $24.7                   $120.5  $21.9                 $20.8              $225.7              $225.8                   $494.3
+Battery Packs, Develop. Service Revenue                                                      0.2                      4.4                      7.9                      7.1              19.7                   15.4                   16.6                   17.2                   16.8                         66.0                   19.5                   21.9                      6.8                      6.9                         55.1
+Total Revenues                                                                                   $20.8                 $28.4                 $31.2                 $36.3                   $116.7                 $49.0                 $50.2                 $45.8                 $41.5                   $186.5                 $41.5                 $42.7              $232.5              $232.7                   $549.4
+   YoY Growth                                                                                         0%                      5%                  -31%                   95%                            4%                136%                   77%                   46%                   14%                         60%                  -15%                  -15%                408%                461%                      195%
+   QoQ Growth                                                                                       12%                   36%                   10%                   16%                                                      35%                      2%                    -9%                    -9%                                                         0%                      3%                445%                      0%
+
+Cost of Sales - Auto                                                                               17.0                   22.1                   21.9                   25.0                         86.0                   31.0                   31.9                   28.9                   26.4                      118.2                   24.9                   24.9                 198.5                 200.8                      449.1
+Cost of Sales - Batteries, Develop. Services                                                 0.1                      1.9                      2.5                      1.6                            6.0                      4.0                      5.0                      5.5                      5.4                         19.9                      6.2                      7.0                      2.1                      2.1                         17.4
+Total COGS                                                                                  17.0                   22.1                   21.9                   25.0                         86.0                   31.0                   31.9                   28.9                   26.4                      118.2                   24.9                   24.9                 198.5                 200.8                      449.1
+
+Gross Profit                                                                                         3.9                      6.3                      9.3                   11.3                         30.7                   18.0                   18.4                   16.9                   15.1                         68.4                   16.6                   17.8                   34.0                   31.9                      100.3
+
+R & D                                                                                              13.3                   15.4                   26.7                   37.6                         93.0                   41.2                   42.2                   41.2                   39.4                      164.0                   31.9                   29.9                   27.9                   23.3                      113.0
+S G & A                                                                                            16.6                   22.2                   20.4                   25.3                         84.6                   24.2                   25.1                   25.6                   28.2                      103.2                   29.9                   31.2                   32.6                   34.9                      128.5
+Total Operating Expenses                                                                           29.9                   37.6                   47.1                   63.0                      177.6                   65.4                   67.3                   66.8                   67.7                      267.1                   61.8                   61.0                   60.5                   58.2                      241.5
+
+EBIT                                                                                              (26.0)                (31.4)                (37.8)                (51.6)                   (146.8)                (47.3)                (48.9)                (49.9)                (52.5)                   (198.8)                (45.2)                (43.3)                (26.4)                (26.3)                   (141.1)
+
+EBITDA                                                                                            (23.9)               (28.9)              (34.7)               (48.8)                (136.2)                (43.8)              (44.3)               (43.9)              (44.7)                 (176.7)               (34.5)               (31.3)              (13.4)               (12.5)                  (91.7)
+   EBITDA Margin                                                                                 -115%               -102%               -111%               -134%                    -117%                  -89%                  -88%                  -96%               -108%                       -95%                  -83%                  -73%                    -6%                    -5%                       -17%
+
+Interest & Other Income, Net                                                                        (3.4)                   (7.1)                     3.0                      0.3                          (7.3)                   (1.4)                     0.7                      0.7                      0.6                            0.6                     (2.5)                   (3.1)                   (3.1)                   (2.8)                      (11.5)
+Pretax Income                                                                                     (29.4)                (38.5)                (34.9)                (51.4)                   (154.2)                (48.8)                (48.2)                (49.2)                (51.9)                   (198.2)                (47.8)                (46.3)                (29.5)                (29.0)                   (152.6)
+
+Taxes                                                                                                0.1                      0.0                      0.1                     (0.0)                          0.2                      0.2                      0.0                      0.0                      0.0                            0.2                      0.0                      0.0                      0.0                      0.0                            0.1
+   Tax Rate                                                                                      -0.4%                  0.0%                -0.2%                  0.1%                      -0.1%                -0.3%                  0.0%                  0.0%                  0.0%                      -0.1%                -0.1%                -0.1%                -0.1%                -0.1%                      -0.1%
+
+GAAP Net Income                                                                                   (29.5)               (38.5)              (34.9)               (51.4)                (154.3)                (48.9)              (48.2)               (49.2)              (51.9)                 (198.3)               (47.8)               (46.4)              (29.5)               (29.0)                (152.7)
+   GAAP Net Margin                                                                               -142%               -136%               -112%               -142%                    -132%               -100%                  -96%               -108%               -125%                    -106%               -115%               -109%                  -13%                  -12%                       -28%
+
+GAAP EPS                                                                                        ($1.35)              ($1.68)             ($0.38)              ($0.54)                 ($3.04)              ($0.51)             ($0.50)              ($0.51)             ($0.53)                  ($2.06)             ($0.43)              ($0.41)             ($0.24)              ($0.24)                 ($1.54)
+   YoY Growth                                                                                     -76%               -223%                  -73%                   53%                       -15%                   62%                   70%                  -34%                      2%                         32%                  -16%                  -18%                  -53%                  -56%25%
+   QoQ Growth                                                                                     -17%                  -25%                   77%                  -44%                                                         6%                      2%                    -1%                    -5%                                                         9%                      4%                   37%                      2%
+
+Chg in Fair Value Warrants                                                                           2.3                      6.3                     (3.1)                   (0.6)                          5.0                      1.4                      1.4                      1.4                      1.4                            5.7                      1.4                      1.4                      1.4                      1.4                            5.7
+Amort. Stock Comp. Expense                                                                           3.4                      6.1                      3.8                      7.8                         21.2                      5.9                      3.5                      3.5                      3.5                         16.4                      4.0                      4.0                      4.0                      4.0                         16.0
+
+Pro Forma Net Income                                                                            ($23.8)             ($26.1)             ($34.2)             ($44.1)                ($128.1)             ($41.6)             ($43.3)             ($44.3)             ($47.0)                ($176.2)             ($42.4)             ($41.0)             ($24.1)             ($23.6)                ($131.1)
+
+Pro forma EPS                                                                                   ($1.09)              ($1.14)             ($0.37)              ($0.47)                 ($2.53)              ($0.44)             ($0.45)              ($0.46)             ($0.48)                  ($1.83)             ($0.49)              ($0.47)             ($0.30)              ($0.29)                 ($1.32)
+
+Average Shares Outstanding                                                                         21.9                   22.9                   92.3                   94.2                         50.7                   95.2                   95.9                   96.7                   97.4                         96.3                   98.2                   98.9                   99.7                 100.4                         99.3
+
+Percent of Revenue
+Cost of Sales                                                                                   81.5%               78.0%               70.2%               68.8%                     73.7%               63.2%               63.4%               63.2%               63.6%                     63.4%               60.0%               58.3%               85.4%               86.3%                     81.7%
+Gross Profit                                                                                    18.5%               22.0%               29.8%               31.2%                     26.3%               36.8%               36.6%               36.8%               36.4%                     36.6%               40.0%               41.7%               14.6%               13.7%                     18.3%
+R & D                                                                                           63.7%               54.3%               85.5%            103.7%                     79.7%               84.0%               84.0%               90.0%               95.0%                     87.9%                  77.0%               70.0%               12.0%               10.0%                     20.6%
+S G & A                                                                                         79.7%               78.2%               65.4%               69.9%                     72.4%               49.4%               50.0%               56.0%               68.0%                     55.3%               72.0%               73.0%               14.0%               15.0%                     23.4%
+Total Operating Expenses                                                                              143.4%            132.5%            150.9%            173.5%                  152.1%            133.3%            134.0%            146.0%            163.0%                  143.2%            149.0%            143.0%               26.0%               25.0%                     44.0%                        
+
+Source: Company reports and CapStone Investments estimates 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CapStone Investments Trading Desk: 1                                                                          -858        -875        -4550                                                                                                                                                                                                                                                                          4   
+
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                67
+---------------------Page 5---------------------
+
+ 
+
+Figure 3: Tesla Motors, Inc.: HISTORICAL AND PROJECTED CASH FLOWS AND BALANCE SHEET 
+
+$M                                                                                                                                                  2010A                                                                                                                 2011E                                                                                                                 2012E
+                                                                                                          1Q                     2Q                    3Q                     4Q                    2010A                     1QA                    2QE                    3QE                    4QE                    2011E                       1Q                     2Q                    3Q                     4Q                    2012E
+                                                                                                      Mar-10                 Jun-10                 Sep-10                Dec-10                    YEAR                    Mar-11                 Jun-11                 Sep-11                Dec-11                    YEAR                    Mar-12                 Jun-12                 Sep-12                Dec-12                    YEAR
+Operating Sources:
+Net Income                                                                                                 ($29.5)             ($38.5)             ($34.9)             ($51.4)                ($154.3)             ($48.9)             ($48.2)             (                   $49.2)             ($51.9)                ($198.3)             ($47.8)             ($46.4)             ($29.5)             ($29.0)                ($                    152.7)
+Depreciation and Amortization                                                                                   2.1                      2.5                      3.1                      2.9                         10.6                      3.5                      4.6                      6.0                      7.9                         22.0                    10.8                    12.0                    13.0                    13.7                         49.4
+Total                                                                                                     (27.4)                    (36.0)                (31.8)                 (48.5)                   (143.7)                  (45.4)                 (43.6)                (43.2)                 (44.0)                   (176.2)                  (37.0)                (34.4)                 (16.6)                 (15.3)                   (103.3)
+Change in Working Capital
+      Accounts Receivable                                                                                      (2.4)                   (0.5)                   (1.6)                     1.4                          (3.2)                (13.6)                   (0.5)                     1.8                      1.8                       (10.4)                     8.1                     (0.3)                   (3.4)                   (0.0)                          4.4
+      Inventories                                                                                              (5.5)                   (1.1)                (10.3)                   (3.2)                      (20.1)                   (5.6)                   (0.1)                   (6.8)                     5.0                          (7.6)                     3.0                      2.4                     (5.5)                (14.0)                      (14.1)
+      Other Current Assets                                                                                     (0.1)                   (1.3)                   (8.5)                   (4.0)                      (13.8)                   (1.4)                     0.0                      0.0                      0.0                          (1.4)                     0.0                      0.00.0                      0.0                            0.0
+      Non-Debt Current Liabilities                                                                             2.2                      8.5                      2.8                   12.5                         26.0                    30.2                  (12.5)                   (1.9)                   (1.3)                       14.6                      2.0                     (8.9)                  89.1                     (7.7)                       74.5
+Total                                                                                                          (5.8)                     5.5                  (17.6)                     6.7                       (11.2)                     9.6                  (13.1)                   (6.9)                     5.5                          (4.9)                  13.1                     (6.8)                  80.3                  (21.8)                       64.7
+
+Capital Expenditures                                                                                            5.5                    12.2                    65.9                   18.7                      102.2                    20.5                    50.0                   64.0                    68.0                      202.4                    45.0                    40.0                    35.0                    35.0                      155.0
+
+Operating Cash Flow                                                                                        ($38.7)               ($42.7)              ($115.3)                 ($60.5)                  ($257.1)                 ($56.3)             ($106.7)               ($114.0)               ($106.6)                   ($383.5)                 ($68.9)               ($81.2)                 $28.7                 ($72.1)                  ($193.5)
+
+Cash Flow per Share                                                                        ($1.76)                               ($1.86)                ($1.25)                ($0.64)                    ($5.07)                ($0.57)               ($1.08)                ($1.14)                ($1.06)                    ($3.98)                ($0.68)               ($0.80)                 $0.28                 ($0.70)                    ($1.95)
+
+Non-Operating Activities:                                                                                     30.6                    28.5                 164.5                   63.5                      287.0                    59.9                    68.7                   93.7                    93.7                      315.9                    50.0                    80.0              0.0                    57.0                      187.0
+
+Beginning Cash and Invest.                                                                                  $69.6                  $61.5                 $47.3                  $96.6                      $69.6                  $99.6                $103.2                  $65.1                  $44.8                      $99.6                  $31.9                  $12.9                 $11.7                  $40.4                      $31.9
+Net Cash Flow                                                                                                  (8.1)                (14.2)                  49.3                    3.0                      29.9                     3.6                 (38.0)                (20.3)                 (12.9)                     (67.7)                 (18.9)                   (1.2)                 28.7                 (15.1)                       (6.5)
+Ending Cash and Invest.                                                                                     $61.5                  $47.3                 $96.6                  $99.6                      $99.6                $103.2                   $65.1                 $44.8                  $31.9                      $31.9                  $12.9                  $11.7                 $40.4                  $25.3                      $25.3
+
+Assets
+Cash & Equivalents                                                                                          $61.5                 $47.3                 $96.6                 $99.6                                                 $100.7                 $65.1                 $44.8                 $31.9                                                    $12.9                 $11.7          $40.4                 $25.3
+Restricted Cash                                                                                                 0.0                      0.0                    88.1                   73.6                                                       42.9                    42.9                   42.9                    42.9                                                       42.9                    42.9                    42.9                    42.9
+Accounts Receivable                                                                                             5.9                      6.5                      8.1                      6.7                                                       20.3                    20.7                   18.9                    17.2                                                         9.1                      9.4                    12.7                    12.8
+Inventories                                                                                                   28.6                    29.5                    39.5                   45.2                                                       50.8                    51.0                   57.8                    52.8                                                       49.8                    47.4                    52.9                    66.9
+Prepaid & Other CA                                                                                              4.5                      6.7                      8.9                   10.8                                                       12.2                    12.2                   12.2                    12.2                                                       12.2                    12.2                    12.2                    12.2
+Total Current Assets                                                                                        100.6                    90.0                241.1                  235.9                                             226.9                  192.0                 176.7                  157.0                                             127.0                  123.7                 161.3                  160.2
+
+Operating Lease Vehicles                                                                                        0.0                      0.0                      5.7                      8.0                                                         9.1                      9.1                      9.1                      9.1                                                         9.1                      9.1                      9.1                      9.1
+Net PP&E                                                                                                      26.9                    33.2                    37.2                 114.6                                                    143.4                 188.8                 246.7                 307.8                                                    342.0                 370.1                 392.1                 413.4
+Goodwill & Intangible Assets                                                                                    7.5                      5.4                    57.5                      4.9                                                         4.9                      4.9                      4.9                      4.9                                                         4.9                      4.9                      4.9                      4.9
+Other Assets                                                                                                  10.4                    19.4                    20.1                   22.7                                                       22.9                    22.9                   22.9                    22.9                                                       22.9                    22.9                    22.9                    22.9
+Total Assets                                                                                              $145.3                 $148.0                $361.6                 $386.1                                            $407.3                 $417.8                $460.4                 $501.8                                            $506.1                 $530.7                $590.4                 $610.6
+
+Liabilities
+Accounts Payable                                                                                            $18.2                 $25.6                 $27.0                 $29.0                                                    $56.5                 $42.0                 $38.1                 $34.8                                                    $32.8                 $21.9              $109.0                 $99.3
+Accrued Liabilities                                                                                             7.9                      8.4                    10.7                   20.9                                                       13.0                    13.0                   13.0                    13.0                                                       13.0                    13.0                    13.0                    13.0
+Defd Development Compensation                                                                       0.0                      0.0                      0.0                      0.0                                                         3.4                      3.4                      3.4                      3.4                                                         3.4                      3.4                      3.4                      3.4
+Deferred Revenue                                                                                                6.7                      8.1                      3.5                      4.6                                                         3.5                      3.5                      3.5                      3.5                                                         3.5                      3.5                      3.5                      3.5
+Capital Lease Obligations, Current                                                                      7.9                      8.4                    10.7                   20.9                                                       13.0                    13.0                   13.0                    13.0                                                       13.0                    13.0                    13.0                    13.0
+Reservation Payments                                                                                            6.7                      8.1                      3.5                      4.6                                                         3.5                      3.5                      3.5                      3.5                                                         3.5                      3.5                      3.5                      3.5
+Current Liabilities                                                                                         $59.1                  $68.6                 $69.3                  $85.6                                           $115.8                 $103.3                $101.4                 $100.1                                            $102.2                   $93.2               $182.4                 $174.6
+
+Common Stock Warrant Liability                                                                          0.0                    16.7                      6.7                      6.1                                                         7.5                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+Convertible Pfd Stock Warrant Liability                                                          10.4                      0.0                      0.0                      0.         0                                                         0.0                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+Capital Lease Obligations, Non-Current                                                           0.7                      0.6                      0.6                      0.5                                                         0.7                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+Deferred Revenue, less current                                                                             1.4                      2.1                      2.5                      2.8                                                         0.0                      0.0                      0.0   0.0                                                         0.0                      0.0                      0.0                      0.0
+Long-Term Debt - DoE Loan                                                                                     29.9                    45.4                    56.6                   71.8                                                    102.5                 200.4                 269.0                 337.0                                                    387.0                 447.0                 447.0   434.0
+Other Long Term Liabilities                                                                                     3.9                      5.0                      6.1                   12.3                                                       13.1                    13.1                   13.1                    13.1                                                       13.1                    13.1                    13.1                    13.1
+Total Liabilities                                                                                         $105.4                 $138.5                $141.7                 $179.0                                                $0.0                   $0.0                   $0.0                  $0.0                                              $0.0                   $0.0                   $0.0                  $0.0
+
+Total Convertible Pfd Stock                                                               $319.2                                 $319.2                     $0.0                  $0.0                                              $0.0                   $0.0                   $0.0                  $0.0                                              $0.0                   $0.0                   $0.0                  $0.0
+         Series A Convert. Pfd (7.2M shs)                                                             3.5                      3.5                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+         Series B Convert. Pfd (17.5M shs)                                                       12.9                    12.9                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+         Series C Convert. Pfd (35.2M shs)                                                       39.8                    39.8                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+         Series D Convert. Pfd (18.4M shs)                                                       44.9                    44.9                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+         Series E Convert. Pfd (102.8M shs)                                                  135.7                 135.7                      0.0                      0.0                                                         0    .0                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+         Series F Convert. Pfd (27.8M shs)                                                       82.4                    82.4                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0                                                         0.0                      0.0                      0.0                      0.0
+Total Liabilities & Convert Pfd                                                                           $424.6                 $457.7                $141.7                 $179.0                                            $239.6                 $316.7                $383.5                 $450.2                                            $502.3                 $553.3                $642.5                 $621.7
+
+Shareholders' Equity                                                                                     ($279.3)              ($309.8)                $219.9                 $207.0                                            $167.7                 $101.0                  $76.9                  $51.6                                               $3.8               ($22.6)                ($52.1)                ($11.1)
+
+Total Liabilities and Equity                                                                              $145.3                 $148.0                $361.6                 $386.1                                            $407.3                 $417.8                $460.4                 $501.8                                            $506.1                 $530.7                $590.4                 $610.6
+
+Key Financial Ratios
+Days Receivable Outstanding                                                                              26.0                    20.8                    23.5                   16.9                                                       37.7                    37.7           37.7                    37.7                                                       20.0                    20.0                      5.0                      5.0
+Inventory Turns                                                                                                 2.4x                    3.0x                    2.2x                    2.2x                                                       2.4x                    2.5x                    2.0x                    2.0x                                                       2.0x                    2.1x                 15.0x                 12.0x
+Days Payable                                                                                                  79.8                    82.3                    78.8                   72.8                                                    105.1                 120.0                 120.0                 120.0                                                    120.0                    80.0                    50.0                    45.0
+Book Value                                                                                               ($12.75)           ($13.51)                     $2.38                 $2.20                                                    $1.76                 $1.05                 $0.79                 $0.53                                                    $0.04     ($0.23)             ($0.52)             ($0.11)
+Cash per Share                                                                                              $2.81                 $2.06                 $1.05                 $1.06                                                    $1.03                 $0.68                 $0.46                 $0.33                                                    $0.13                 $0.12                 $0.41                 $0.25                           
+
+Source: Company reports and CapStone Investments estimates 
+
+CapStone Investments Trading Desk: 1                                                                                         -858         -875         -4550                                                                                                                                                                                                                                                                                                             5   
+
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      68
+---------------------Page 6---------------------
+
+ 
+
+IMPORTANT DISCLOSURES 
+Price charts generated by Jovus, Inc 
+ 
+
+                                                                                                                           
+ 
+To receive price charts on the companies mentioned in this report, please contact CapStone Investments at the 
+numbers below . 
+ 
+CapStone Rating Distribution (as of March 31, 2011): 
+Strong Buy:       0% of stocks have this rating (0% were investment banking clients within the last 12 months)  
+Buy:               65% of stocks have this rating (2% were investment banking clients within the last 12 months)  
+Hold:              29% of stocks have this rating (0% were investment banking clients within the last 12 months)  
+Sell:                6% of stocks have this rating (0% were investment banking clients within the last 12 months)  
+No Rating:               0% of stocks have this rating (0% were investment banking clients within the last 12 months)    
+
+Explanation of Ratings 
+Buy : Describes stocks we believe could increase by more than 15% over the next twelve months. 
+Hold : Describes stocks we believe could change plus or minus 15% over the next twelve months. 
+Sell : Describes stocks we believe could decline by more than 15% over the next twelve months. 
+No Rating:  Describes stocks we cover on which adequate information to make a recommendation is not available.  
+
+ 
+CapStone Equity Research Disclosures as of May 5, 2011 
+                  Company                                                         Disclosure  
+                  Tesla Motors, Inc. (TSLA)                                                                             None 
+ 
+ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST 
+ 
+CapStone Investments Equity Research Disclosure Legend 
+ 
+1.       CapStone Investments makes a market in the securities of the subject company. 
+2.       The analyst serves as an officer, director, or advisory board member of the subject company. 
+3.       The analyst or a member of the analyst's household has a financial interest in the securities of the subject company (this 
+     interest may include, without limitation, whether it consists of any a) Long position, b) Short position, c) Rights, d) Warrants 
+     or e) Futures, g) Put options or h) Call options). 
+4.       CapStone Investments or an affiliate of CapStone Investments has managed or co-managed a public offering of securities 
+     for the subject company in the last 12 months. 
+5.       CapStone Investments or an affiliate of CapStone Investments has received compensation for investment banking services 
+     from the subject company in the last 12 months. 
+6.       CapStone Investments expects to receive or intends to seek compensation for investment banking services from the subject 
+     company in the next three months. 
+7.       CapStone  Investments  or  its  affiliates  beneficially  own  1%  or  more  of  the  common  stock  of  the  subject  company  as 
+     calculated in accordance with Section 13(d) of the Securities Exchange Act of 1934.  
+
+CapStone Investments Trading Desk: 1 -858 -875 -4550                                                                     6 
+ 
+
+                                                                                                                              69
+---------------------Page 7---------------------
+
+ 
+
+8.       The  subject  company  is,  or  during  the  past  12  months  was,  a  client  of  CapStone  Investments,  which  provided  non-
+     investment banking, securities-related services to, and received compensation from, the subject company for such services. 
+     The analyst or employees of CapStone Investments with the ability to influence the substance of this report knows the 
+     foregoing facts. 
+9.       An affiliate of CapStone Investments received compensation from the subject company for products or services other than 
+     investment banking services during the past 12 months. The analyst or employees of CapStone Investments with the ability 
+     to influence the substance of this report know or have reason to know the foregoing facts. 
+ 
+The  analyst(s)  principally  responsible  for  preparation  of  this  report  received  compensation that  is  based  upon  many  factors, 
+including the firm’s overall investment banking revenue. 
+ 
+Analyst Certification 
+I, Carter Driscoll, CFA, was principally responsible for the preparation of this research report certify that the views expressed in 
+this research report accurately reflect his/her (their) personal views about the subject security(ies) or issuer(s) and that his/her 
+(their) compensation was not, is not, or will not be directly or indirectly related to the specific recommendations or views contained 
+in this research report. 
+                                                                 
+OTHER DISCLOSURES 
+ 
+CapStone Investments research, advisory and other services are provided to institutional investors with the explicit understanding 
+that payment is required under customary industry commission rates.  Continued usage of our research by you constitutes your 
+assent to these terms. 
+ 
+CapStone Investments prepared the information and opinions in this report. CapStone Investments has no obligation to inform you 
+when opinions or information in this report change. 
+ 
+FINRA Regulation has adopted rules that will prohibit research analysts from trading in securities of covered companies during 
+specified time periods before and after the publication of research.  
+ 
+This report is for information purposes only. Under no circumstances is it to be used or considered as a solicitation to buy or sell 
+any securities. While the information contained herein has been obtained from sources we believe to be reliable, CapStone 
+Investments, a FINRA Member Firm and a Member of SIPC, does not represent that it is accurate or complete, and accordingly, 
+should not be relied upon as such. Notwithstanding this, CapStone Investments verifies that the information provided regarding its 
+registration status and other material facts, including disclosures made on behalf of its relevant persons and entities are in fact 
+accurate. Risk factors and actual results may differ significantly from the information contained herein.  This report or any portion 
+hereof may not be reprinted, sold, or redistributed without the written consent of CapStone Investments.   
+ 
+This report is prepared for Institutional Consideration Only.  Estimates of future performance are based on assumptions that may 
+not be realized.  Past performance is not necessarily a guide to future performance.  
+ 
+CapStone Investments will effect agency transactions in the securities mentioned, on behalf of its clients submitting orders to buy 
+or sell. 
+ 
+CapStone Investments makes its research reports available in real-time to institutional investors through Bloomberg, Thomson 
+Reuters, TheMarkets.com, FactSet, Capital IQ and Zack’s Investment Research. 
+ 
+Copyright © Capstone Investments 2011 
+ 
+                      Institutional Sales:                 Trading:                       Corporate:  
+                  Thomas A. Dillon III, CFA              Craig Warner                   Steve Capozza 
+                       Head of Equities               Director of Trading                  President 
+                   12760 High Bluff Drive,          CapStone Investments            CapStone Investments 
+                           Suite 120                12760 High Bluff Drive          12760 High Bluff Drive 
+                    San Diego, CA 92130                    Suite 120                       Suite 120 
+                        941-685-3789                San Diego, CA 92130             San Diego, CA 92130 
+                                                        858-875-4550                     800-327-5566 
+                                                                                                                
+ 
+
+CapStone Investments Trading Desk: 1 -858 -875 -4550                                                                           7  
+ 
+
+                                                                                                                                    70

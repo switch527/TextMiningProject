@@ -1,0 +1,1445 @@
+---------------------Page 1---------------------
+
+ 
+
+EQUITY RESEARCH                                                                                            Energy | U.S. MLPs | 8 June 2011
+
+TESORO LOGISTICS LP                                                                                  Stock Rating             1-OVERWEIGHT
+                                                                                                                                      from N/A
+
+Initiate Bakken & Drop Down Play at 1-OW                                                             Sector View                  2-NEUTRAL
+                                                                                                                                    Unchanged
+
+                                                                                                     Price Target                   USD 28.00
+We are initiating coverage of Tesoro Logi      stics, L.P. (TLLP)  with a 1-Overweight 
+                                                                                                                                      from N/A
+rating and $28 price target.     Our price target is based on a forward 12-month 
+                                                                                                      
+distribution run rate of $1.48 and a target yield of 5.3%. We view TLLP as a high-
+                                                                                                     Price (07-Jun-2011)             USD 24.42
+growth, relatively low-risk crude oil/refined products pipeline MLP with an attractive 
+                                                                                                     Potential Upside/Downside            +15%
+total return value proposition of 15.5%, comprised of 5.5% yield and 10% growth (3-                  Tickers TLLP
+year CAGR). Growth visibility supported by    organic projects, in cluding the emerging               
+Bakken Shale, drop down opportunities and in creased asset utilization by third parties.             Market Cap (USD mn)                   361
+With an expected 10% distribution growth       rate, TLLP is the only crude oil/refined              Shares Outstanding (mn)              14.95
+products MLP in our coverage universe with forecasted double-digit growth.                           Free Float (%)                       82.69
+                                                                                                     52 Wk Avg Daily Volume (mn)            0.5
+Bakken and dropdown exposure. TLLP was spun-off from independent refiner Tesoro                      Dividend Yield (%)                    N/A
+(TSO) to unlock shareholder value and grow the midstream business. The tax                           Return on Equity TTM (%)              N/A
+advantaged MLP structure provides a valuat ion premium vs. C-corps, a lower cost of                  Current BVPS (USD)                    8.84
+                                                                                                     Source: FactSet Fundamentals 
+capital, and allows management to focus on  midstream cash flow growth. We believe 
+                                                                                                      
+TLLP’s key growth drivers are crude oil pi  peline expansions in the Bakken and asset 
+                                                                                                     Price Performance           Exchange-NYSE
+dropdowns from TSO, which could double EBITDA to more than $100MM.                                   52 Week range             USD 25.67-22.21
+
+Stable cash flows. Approximately 84% of revenues ar      e backed by minimum pipeline                  26
+and storage volume commitments with TSO. Stability is underpinned by 10-year                           25
+                                                                                                       24
+contracts (except trucking at 2 years) with  minimal direct commodity price exposure                   24
+(nearly 100% fee-based revenue) and inflation protection (fees adjusted by PPI, CPI).                  24
+                                                                                                       23
+Risks to our estimates, valuation. The biggest risk is customer concentration, with the                22
+                                                                                                             01-May-2011            01-Jun-2011
+parent comprising approximately 95% of reve nues. Other risks include rising interest 
+rates, declining refined products demand an d MLP tax status removal. Upside potential               Link to Barclays Capital Live for interactive charting 
+                                                                                                      
+to our estimates include contributions from acquisitions and increased asset utilization.             
+                                                                                                      
+                                                                                                     U.S. MLPs 
+TLLP: Quarterly and Annual EPS USD                                                                   Richard Gross 
+                                                                                                     1.212.526.3143 
+              2010             2011                     2012              Change y/y 
+                                                                                                     richard.gross@barcap.com 
+  FY Dec     Actual    Old     New     Cons     Old     New     Cons     2011     2012              BCI, New York 
+                                                                                                      
+Q1 N/A N/A                     0.32E N/A N/A           0.33E N/A  N/A    3%                          Brian J. Zarahn, CFA 
+Q2 N/A N/A                     0.31E N/A N/A           0.37E N/A  N/A   19%                          1.415.263.4762 
+Q3 N/A N/A                     0.34E N/A N/A           0.43E N/A  N/A   26%                          brian.zarahn@barcap.com 
+Q4 N/A N/A                     0.35E N/A N/A           0.42E N/A  N/A   20%                          BCI, New York 
+                                                                                                      
+Year N/A N/A                   1.32E N/A N/A           1.55E N/A  N/A   17%                           
+P/E                            18.5                     15.8                                          
+Source: Barclays Capital                                                                              
+Consensus numbers are from Thomson Reuters                                                            
+                                                                                                      
+ 
+                                                                                                      
+Barclays Capital does and seeks to do business with companies covered in its research reports. As a
+result, investors should be aware that the firm may have a conflict of interest that could affect the
+objectivity of this report. 
+Investors should consider this report as only a single factor in making their investment decision. 
+PLEASE SEE ANALYST(S) CERTIFICATION(S) AND IMPORTANT DISCLOSURES BEGINNING ON PAGE 22.
+
+                                                                                                                                            226
+---------------------Page 2---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+CONTENTS 
+
+                                                    Investment Thesis...................................................................................................................................... 4 
+                                                    Tesoro Logistics Overview..................................................................................................................... 11 
+                                                    Overview of General Partner..................................................................................................................14 
+                                                    Risks............................................................................................................................................................ 16 
+                                                    Management Team .................................................................................................................................17 
+                                                    Financial Model......................................................................................................................................... 19 
+FIGURES 
+
+                                                    TLLP: Quarterly and Annual EPS USD....................................................................................................1 
+                                                    Figure 1: Current TLLP Organic Growth Projects (units in $MM)................................................... 4                  
+                                                    Figure 2: Potential Asset Drop Downs...................................................................................................6 
+                                                    Figure 3: Minimum Volume Commitments with Inflation Protection............................................ 6                        
+                                                    Figure 4: TLLP Revenue Mix..................................................................................................................... 7 
+                                                    Figure 5: North Dakota Crude Oil Production (barrels per day)...................................................... 8               
+                                                    Figure 6: Bakken Four County Production (North Dakota) ..............................................................            8  
+                                                    Figure 7: TLLP Comps............................................................................................................................... 9 
+                                                    Figure 8: Minimum volume commitments comprise 84% of revenues......................................11                               
+                                                    Figure 9: TLLP Midstream Assets Integrated with TSO Refineries................................................12                    
+                                                    Figure 10: TLLP segment revenue mix................................................................................................12 
+                                                    Figure 11: Breaking down revenue mix...............................................................................................12 
+                                                    Figure 12: High plains system asset map with potential interconnects......................................13                        
+                                                    Figure 13: TSO Refineries....................................................................................................................... 15 
+                                                    Figure 14: Ownership Structure............................................................................................................15 
+                                                    Figure 16: Incentive Distribution Rights..............................................................................................16 
+                                                    Figure 17: TLLP Model ($ in MM, except per unit amounts).........................................................19                 
+
+8 June 2011                                                                                                                                                                       2 
+
+                                                                                                                                                                                            227
+---------------------Page 3---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+COMPANY SNAPSHOT
+
+Tesoro Logistics LP                                                                                                                                                      U.S. MLPs
+
+Income statement ($mn)                   2010A           2011E           2012E           2013E      CAGR
+EBITDA                                             na                    52                                     62                                     78                                NA           Stock Rating                          1-OVERWEIGHT
+EBIT                                               na                    43                                     51                                     66                                NA           Sector View                                 2-NEUTRAL
+Pre-tax income                                     na                   41                                     49                                     60                                NA           Price (07-Jun-2011)                               $24.42
+Net income                                         na                   41                                     49                                     60                                NA           Price Target                                          $28
+Reported EPS                                       na             $1.32             $1.55             $1.76               NA           Ticker                                                       TLLP
+Diluted shares (m)                                 na                   31                                     31           33                               NA
+Cash Distribution per Unit                         na             $1.35             $1.51             $1.66               NA      Investment case
+                                                                                                                          TLLP   is    a   high-growth,   relatively    low-risk   crude
+Balance Sheet and Cash flow ($m)                                                                          CAGR        oil/refined  products pipeline MLP with an attractive
+Cash                                               na                    12             9                                    18                                NAmid-teens   total  return   value   proposition.   Growth
+Net PP&E                                           na                138                                   148                                   257                                 NAsupported    by     organic    projects,    including     the
+                                                                                                                          emerging   Bakken   Shale,    and   asset   drop   downs.
+Debt                                               na                    54                                     57                                 112                                NA
+                                                                                                                          Stability        supported        by        long-term        volume
+Operating cash flow                                na                    35                                     59                                     72                                NA
+                                                                                                                          commitments from parent.
+Distributable cash flow                            na                    46                                     54                                     66                                NA
+
+                                                                                                                          Upside case                                                     $32 
+Valuation and leverage metrics                                                                         Average      Could  see  upside  from  asset  drop  down  or  third
+Distribution coverage ratio %                      na             108.8             115.2             116.3           113 party  acquisition  over  next 12  months.  A  $100MM
+EV/EBITDA (x)                                        na             15.0             12.8             10.1         12.6  acquisition      could      drive     higher      growth     rate,
+EV/EBITDA less MC, GP (x)                            na             16.7             14.2             11.3         14.0  increasing  forward   distribution   estimate   to  $1.58
+Price/DCF(x)                                         na             16.2             13.8             12.4         14.1  and lowering target yield to 5%.
+
+EBITDA/interest expense (x)                        na             22.8             23.7             13.3         19.9 
+Net debt/EBITDA (x)                                  na                1.0                0.9                1.4           1.1 
+                                                                                                                          Downside case                                                   $23 
+Operating metrics (volumes in 000 bpd)                                                                 Average       Weakening  macro  conditions  or  failure  to generate
+Crude oil pipeline volumes                           na                57.1                59.5                60.7          59.1expected  returns  on  current growth  projects  could
+Trucking volume                                      na                22.7                23.7                24.4          23.6increase equity risk premium, increasing target yield
+Terminal volumes                                     na             116.5             116.4             117.6       116.8 to 6%  and lowering forward distribution estimate to
+Short-haul pipeline volumes                          na                64.3                69.5                72.0          68.6$1.38.
+
+Storage capacity (000 bbls)                          na             878.0             878.0             886.0       880.7
+
+                                                                                                                          Upside/downside scenarios
+
+                                                                                                                                                                                     $32
+                                                                                                                           108
+                                                                                                                           36                                           $28       (32.6%)
+                                                                                                                                                                      (16.0%)$80    $110
+                                                                                                                           3188                             $23
+                                                                                                                                                             $80      (-5.66%) (29.7%)
+                                                                                                                           26                            (-4.64%)
+                                                                                                                             68                           (-5.66%)                 Upside
+                                                                                                                           21                                           Price
+                                                                                                                                                                        Price       UpsideCase
+                                                                                                                             48                          Dow nsideDownsideTarget
+                                                                                                                           16                               Case        Ta rget      Case
+                                                                                                                                                             Case
+                                                                                                                           1128
+                                                                                                                           14-Jun-10                       6-Jun-114012640484
+
+                                                                                                                         Source: FactSet
+                                                                                                                          Cash Distribution per Unit
+
+                                                                                                                              2.5                  Cash Distribution per Unit 
+                                                                                                                                2                                              $1.66
+                                                                                                                                                            $1.51
+                                                                                                                                          $1.35
+                                                                                                                              1.5
+                                                                                                                                1
+                                                                                                                              0.5
+                                                                                                                                0
+                                                                                                                                          2011E                    2012E                    2013E
+
+Source: Company data, Barclays Capital                                                                                   Note: FY end Dec. 
+                                                                                                                                                                                                 
+
+8 June 2011                                                                                                                                                                                3 
+
+                                                                                                                                                                                                      228
+---------------------Page 4---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                       Investment Thesis 
+
+                                       TLLP is a crude oil/refined products pipe       line and storage MLP with visible growth 
+                                       prospects, a relatively low risk profile and strategically located assets. The Partnership offers 
+                                       an attractive total return value proposition    of 15.5%, comprised of a 5.5% yield (as of 
+                                       6/7/11) and 10% expected distribution growth (our 3-year CAGR forecast). Upside 
+                                       potential to our growth estimates could come from more immediate asset drop downs from 
+                                       parent Tesoro (TSO, $21.88, 2-Equal Weight/3-Negative by Barclays Capital U.S. 
+                                       Independent Refiners analyst Paul Cheng). We take a conservative approach and assume no 
+                                       drops in 2011 or 2012 and only a $100MM drop in 2013. Long-term distribution growth 
+                                       prospects are supported by additional organi c expansion projects in the emerging Bakken 
+                                       Shale, including pipeline interconnects to      transport third-party crude oil volumes as 
+                                       production in the region is expected to double  over the next five years. TLLP was spun off 
+                                       from independent refiner TSO to unlock the        value and provide a growth vehicle for the 
+                                       midstream business. TLLP offers an opportunity  for investors to get into the early stages of 
+                                       a developing growth partnership  in the relatively stable crude oil/refined products pipeline 
+                                       subsector. 
+
+                                       Visible growth prospects 
+We believe TLLP is well                An expansive opportunity set to grow the dist      ribution is supported  by organic projects, 
+positioned to post 10%                 asset drop downs from the GP, potential thir      d-party acquisitions and increased capacity 
+distribution growth (3-year            utilization from being a standalone midstream en  tity (vs. primarily a cost center within a 
+CAGR), supported by organic            refiner). It is important to hi ghlight that modest-scale expansion capex is capable of driving 
+growth projects, including the         solid accretion given TLLP’s relatively small distributable cash flow base ($46MM) and low 
+emerging Bakken Shale, and             cost of capital (approximately 6%). Near term, TLLP has ample financial flexibility with 
+asset drop downs.                      $100MM of borrowing availability on its $150MM revolver, enabling financing of initial 
+                                       expansion capex without having to raise equity, which drives accretion. 
+
+                                       We believe TLLP is well positioned to post 10% distribution growth (3-year CAGR), 
+                                       supported by organic growth projects, including the emerging Bakken Shale and asset drop 
+                                       downs. Near-term growth is visible with five small but high-return organic projects (High 
+                                       Plains crude gathering and terminal expansions  in Burley, Los Angeles, Salt Lake City and 
+                                       Stockton) expected to generate $10mm/yr or 18% EBITDA growth starting 2Q12.  
+
+                                       Figure 1: Current TLLP Organic Growth Projects (units in $MM) 
+                                       Project              Capex  EBITDA Expected Completion Description 
+                                                                                                    support TSO Mandan refinery 
+                                       High Plains pipeline        $6.6           $6.0                       2Q12 expansion 
+                                       Burley terminal                   1.2              0.1                        1Q12                      ethanol blending 
+                                       Salt Lake City 
+                                       terminal               1.2 1.4           2Q12         ethanol blending 
+                                       Stockton terminal             4.5              2.6                        1Q12                      capacity expansion 
+                                       Los Angeles terminal      2.0              0.4                        1Q12                     transmix services for TSO LA refinery 
+                                       Total $15.5        $10.5                               
+                                       Source: Company reports 
+
+8 June 2011                                                                                                                             4 
+
+                                                                                                                                            229
+---------------------Page 5---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                    Organic Projects 
+                                    Over the next 12 months, TLLP is expected to   complete five projects with a total cost of 
+                                    $15.5MM and expected EBITDA of $10.5MM or a very attractive 1.5x multiple. The existing 
+                                    organic projects would generate EBITDA growth of 18% vs. LTM 1Q12.  
+
+                                    High Plains (Bakken) crude gath ering expansion.  Of the existi ng five organic projects, the 
+                                    Bakken expansion is expected to generate the most cash flow at $6MM or approximately 
+                                    60% of the $10.5MM of EBITDA from the projec ts. The $6.6MM High Plains expansion will 
+                                    add pumping, tankage and truck unloading capa city related to TSO’s 10,000 bpd Mandan, 
+                                    ND refinery expansion.  
+
+                                    In terms of TLLP’s other current projects, the  Burley, ID and Salt Lake City, UT terminals will 
+                                    add ethanol blending. Total project cost is  $2.4MM with expected EBITDA of $1.5MM. At 
+                                    the Stockton, CA terminal, TLLP will add 8,000 bpd of storage capacity to gain more of 
+                                    TSO’s throughput volumes. The $4.5MM projec       t is expected to generate EBITDA of 
+                                    $2.6MM.  At its Los Angeles, CA terminal, TLLP  will add transmix transportation capability 
+                                    to serve TSO’s Los Angeles refinery. The $2MM pr oject is expected to generate EBITDA of 
+                                    $0.4MM.   
+
+                                    Acquisitions 
+                                    We believe another leg of TLLP’s growth stool is asset drop down opportunities from parent 
+                                    TSO. TLLP has right of first offer on TSO’s midstream assets for 10 years. While timing of 
+                                    drop downs is uncertain, we estimate the probability of drop downs is high given TSO’s 
+                                    incentive to maximize shareholder value by se lling midstream assets to the tax-advantaged 
+                                    MLP while also receiving distributions as the  owner of the general partner and 50% of the 
+                                    limited partner units.  
+
+                                    In terms of the size of the drop down opportunity set, TLLP has not provided a market value 
+                                    or EBITDA estimate. While a blunt instrument,  the book value estimate of midstream assets 
+                                    at TSO is $240MM vs. $193MM book value of a ssets currently in TLLP. On a rough basis, 
+                                    we estimate market value of potential   dropdowns at $500MM and EBITDA of $50MM-
+                                    $63MM (assuming 8-10x multiple), roughly double TLLP’s expect forward 12-month 
+                                    EBITDA. 
+
+                                    We conservatively estimate TLLP dropdown schedule at $0 in 2011, $0 in $2012, $100MM 
+                                    in 2013, $125MM in 2014 and $150MM in 2015. However, we would not be surprised if a 
+                                    drop to TLLP occurred in 2012 or even late 2011. 
+
+8 June 2011                                                                                                                   5 
+
+                                                                                                                                 230
+---------------------Page 6---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                        Figure 2: Potential Asset Drop Downs 
+                                        Asset                     Location         Description 
+                                        Refined products 
+                                        terminals                 Martinez, CA         38,000 bpd 
+                                        Refined products 
+                                        terminals                 Nikiski, AK              211,000 barrels storage capacity & 2,6000 bpd truck rack 
+                                        Refined products 
+                                        terminals                 Anacortes, WA    1,700 bpd 
+                                        Marine terminals                     Long Beach, CA 104,200 bpd crude/refined products 
+                                        Marine terminals                     Martinez, CA         61,000 bpd crude and 425,000 barrels storage 
+                                        Marine terminals                     Martinez, CA         product wharf with limited volumes currently 
+                                                                                   74,000 bpd crude/refined products and 930,000 barrels 
+                                        Marine terminals                     Nikiski, AK storage 
+                                                                                   54,000 bpd crude/refined products and 1.4MM barrels 
+                                        Marine terminals                     Anacortes, WA  storage 
+                                        Pipelines                 Nikiski, AK              31,000 bpd volume serving TSO AK refinery 
+                                        Pipelines                 Los Angeles, CA  9 lines with 45,000 bpd volume serving TSO LA refinery 
+                                        Source: Company reports 
+                                         
+                                         
+
+                                        While third-party acquisitions are also a possibi lity for TLLP, we expect the Partnership to 
+                                        focus on organic projects and drop downs over  the next few years, as that opportunity set 
+                                        supports 10% plus distribution CAGR.  
+
+                                        Potential for increased capacity utilization 
+                                        As a standalone midstream company, TLLP has             potential to increase asset utilization by 
+                                        increasing TSO and third-party volumes on its  crude oil gathering and terminalling assets. 
+                                        For example, TLLP could add third-party volumes on its High Plains crude gathering system 
+                                        in the Bakken. In addition,      the Partnership has room to increase TSO volumes at its 
+                                        California and Washington state refined prod        ucts terminals and third-party volumes at 
+                                        other terminals. 
+
+                                        Relatively low risk profile 
+Approximately 84% of TLLP               TLLP has a relatively low risk profile due its st  able, fee-based cash flow stream backed by 
+revenues are backed by                  long-term minimum volume commitments from TSO. Approximately 84% of TLLP revenues 
+minimum pipeline and storage            are backed by minimum pipeline and storage volume commitments from TSO. Stability is 
+volume commitments from TSO.            underpinned by 10-year contracts (except trucking with 2 years) that provide minimal direct 
+                                        commodity price exposure (nearly 100% fee-based revenue) and inflation protection (fees 
+                                        adjusted by PPI, CPI). The High Plains truck gathering contracts was set at 2 years to benefit 
+                                        from expected higher rates due to a ramp in Bakken crude production. 
+
+                                        Figure 3: Minimum Volume Commitments with Inflation Protection 
+                                                                    Contract (years)      Min Volumes (a)      % of Total   Fee Escalator 
+                                        High Plains pipeline                 10 49,000                             84% FERC          Index 
+                                        High Plains trucking                  2                  22,000                        96%                        CPI 
+                                        Terminalling 10 100,000                                                    87%             CPI 
+                                        Salt Lake City pipelines             10                  54,000                        82%                        CPI 
+                                        Salt Lake City storage               10                 878,000                      100%                       CPI 
+                                        Source: Company filings 
+
+8 June 2011                                                                                                                                 6 
+
+                                                                                                                                                 231
+---------------------Page 7---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                    Reasonable business mix and geographic diversification for a young partnership 
+                                    While TLLP currently lacks customer mix diversification, with TSO comprising 
+                                    approximately 95% of revenues, TLLP does ha       ve asset and geographic diversification. 
+                                    TLLP’s five business lines comprise a divers ified revenue mix -- Terminalling 35%, Pipeline 
+                                    Gathering 28%, Truck Gathering 25%, Short-Haul Pipeline Transportation 6% and Storage 
+                                    6% of sales. On geographic footprint, TLLP   assets are integrated with TLLP refining and 
+                                    marketing activities. TLLP assets are locate  d in seven states -- North Dakota, Montana, 
+                                    California, Idaho, Utah, Washington, and Alaska.  
+
+                                    Low financial leverage 
+                                    TLLP has low leverage with Debt/EBITDA of 1x. In addition, the Partnership has $100MM of 
+                                    borrowing availability on its $150MM revolver, which is more than adequate to fund 
+                                    $10MM of current organic growth projects over the next 12 months and a potential drop 
+                                    down. The Partnership borrowed $50MM under the  revolver at the close of IPO to fund a 
+                                    cash distribution to TSO (in addition to     $280MM of IPO proceeds) to pay for the 
+                                    contributed assets and capex. The $150MM revolver is expandable to $300MM, matures 
+                                    April 25, 2014 and allows a maximum Debt/EBITDA of 4.5x. As TLLP ramps up expansion 
+                                    with drop downs or additional growth projec ts, we would expect normalized Debt/EBITDA 
+                                    in the 3x range.  
+
+ 
+                                 
+                                    Figure 4: TLLP Revenue Mix 
+
+                                                            Storage, 6%
+                                                       Short-haul 
+                                                      pipelines, 6%
+                                                                                       Terminalling, 
+                                                                                           35%
+                                                     Truck 
+                                                   gathering, 
+                                                     25%
+
+                                                                         Pipeline 
+                                                                        gathering, 
+                                                                          28%
+                                                                                                          
+                                    Source: Company filings, Barclays Capital estimates 
+
+                                     
+
+                                    Strategically-Located Assets 
+TLLP’s High Plains system is        TLLP’s asset base is well positioned in bo  th the emerging Bakken Shale (North Dakota, 
+strategically located not only      Montana) and western US. We believe the Partnership’s key asset is its Bakken (High Plains) 
+because of its footprint in the     crude oil gathering system. The Bakken is a prolific region poised for continued strong 
+emerging Bakken but also as the     production growth due to an 83% YoY increase in proved crude oil reserves to 1.058 billion 
+only crude oil supply source for    barrels (according to EIA). Driven by technologica l advances in horizontal drilling, fracturing 
+the only refinery in North Dakota,  and completion, North Dakota crude produc tion increased 78% from 2008-2010 (175,000 
+TSO’s Mandan refinery.              to 307,000 bpd) and is expected to more than double to approximately 700,000 bpd in the 
+
+8 June 2011                                                                                                                     7 
+
+                                                                                                                                   232
+---------------------Page 8---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                        next 5 years (PIRA Energy Group forecast) and 1MM bpd by 2020 (Cambridge Energy 
+                                        Research Associates forecast). TLLP’s High Pl ains system is strategically located not only 
+                                        because of its footprint in the emerging Bakken  but also as the only crude oil supply source 
+                                        for the only refinery in North Dakota, TSO’        s Mandan refinery. The   High Plains system 
+                                        volume growth is also supported by the Mandan refinery’s 10,000 bpd expansion to 68,000 
+                                        bpd by 2Q12. In addition, the High Plains sy        stem has growth opportunities from adding 
+                                        third-party volumes through pipeline interconnects.  
+
+ 
+                                    
+                                        Figure 5: North Dakota Crude Oil Production (barrels per day) 
+
+                                           400,000
+                                           350,000
+
+                                           300,000
+                                           250,000
+                                           200,000
+                                           150,000
+
+                                           100,000
+                                            50,000
+                                                    Jan-08                                              Jan-09                                             Jan-10                                              Jan-11
+
+                                        Source: US Energy Information Administration  
+
+                                         
+
+                                    
+                                        Figure 6: Bakken Four County Production (North Dakota) 
+
+                                               300,000
+
+                                               250,000
+
+                                               200,000
+
+                                               150,000
+                                               100,000
+
+                                                50,000
+
+                                                    0
+
+                                                                    Dunn  McKenzie  Mountrail  Williams
+                                                                                                                          
+                                        Source: North Dakota Industrial Commission, Oil & Gas Division 
+
+                                         
+
+                                         
+
+                                         
+
+                                         
+
+8 June 2011                                                                                                                                  8 
+
+                                                                                                                                                  233
+
+                                                      bbls / day
+
+                                      Jan 08
+
+                                      Jan 09
+
+                                      Jan 10
+
+                                      Jan 11
+---------------------Page 9---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                        Other potential growth opportunities in the Ba kken include increasing High Plains pipeline 
+                                        volumes by adding pumping capacity or building new gathering lines and building a rail 
+                                        facility at the Mandan refinery to transport crude (beyond Mandan’s 68,000 bpd capacity in 
+                                        2Q12) markets outside ND. In the Western US, TLLP’s terminals and pipelines benefit from 
+                                        integration with TSO’s refining and marketin  g operations and more stringent regulatory 
+                                        climate (California, Washington) that acts as a potential barrier to entry from competitors. 
+
+ 
+
+TLLP deserves a premium 
+                                       Attractive total return valuation proposition 
+valuation vs. MLP peers due to 
+its visible growth prospects,          TLLP offers (as of 6/7/11 close) an attrac        tive total return value proposition of 15.5%, 
+Bakken exposure, asset drop            comprised of 5.5% yield and 10.0% growth (3  -year CAGR forecast), which is above peer 
+down potential, low cost of            average total return of 11.5% and our MLP coverage universe of 12              .0%. Because of its 
+capital and high cash flow             higher expected growth rate, nearly double peer average, TLLP trades at a premium to peers 
+stability.                             on both a yield and EV/Adjusted EBITDA basis.  In terms of yield, TLLP trades a 5.5% yield 
+                                       vs. peer yield of 6.2% and our MLP coverage          universe of 6.6%. On EV/Adjusted EBITDA 
+                                        (2011e/2012e) basis, TLLP trades at 16.9x/14.4x vs. 14.4x/12.8x peers and 13.1x/11.5x 
+                                        MLP universe. In terms of distribution covera  ge, TLLP is in line with peers at 1.1x. Our 
+                                        coverage universe coverage is a little higher      at 1.2x due to commodity-exposed names 
+                                        needing to keep higher coverage due to hi            gher cash flow volatility vs. fee-based 
+                                        crude/refined product names. 
+
+                                        We believe that TLLP deserves a premium valu ation vs. MLP peers due to its visible growth 
+                                        prospects, Bakken exposure, asset drop down po tential, low cost of capital and high cash 
+                                        flow stability. In addition, TLLP offers exposure to the early stages of a developing growth 
+                                        partnership in the relatively stable crude oil/refined products pipeline subsector. 
+
+Figure 7: TLLP Comps 
+
+                                                            3-Year                     2011e EV/ Adj   2012e EV/ Adj          2011e 
+                                             Dividend      Dividend      Expected      EBITDA - Maint   EBITDA - Maint      Distribution 
+                  Name                         Yield         CAGR       Total  Return      Capex             Capex           Coverage 
+
+Tesoro Logistics L.P.                          5.5%                  10.0%                 15.5%                      16.9x 14.4x 1.10x 
+                                                                                                                                   
+Buckeye Partners L.P.                          6.6%                   5.1%                   11.7%                       14.0x 12.8x 1.07x 
+Holly Energy Partners L.P.                     6.4%                   4.9%                   11.4%                       13.9x 11.4x 1.02x 
+Magellan Midstream Partners L.P.               5.3% 6.8% 12.1%    15.5x         14.4x       1.22x 
+NuStar Energy L.P.                             6.8%                   3.3%                   10.1%                       14.9x 13.1x 1.09x 
+Sunoco Logistics Partners L.P.                 5.8% 6.3% 12.1%    13.5x         12.5x       1.27x 
+Average 6.2%                                                 5.3%          11.5%            14.4x            12.8x             1.13x 
+                                                                                                                                   
+BarCap MLP Coverage Universe                   6.6%                   5.5%                  12.0%                      13.1x 11.5x 1.19x 
+                                                                     
+(a) Adjusted EBITDA = EBITDA less maintenance capex less general partner distribution 
+Source: Barclays Capital estimates, FactSet 
+
+8 June 2011                                                                                                                                9 
+
+                                                                                                                                                234
+---------------------Page 10---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                     
+
+                                    Investment case $28 price target 
+                                    Our $28 price target is based on a 12-month distribution run rate of $1.48 and a target yield 
+                                    of 5.3%. Based on our price target, TLLP offers  an attractive implied 12-month total return 
+                                    is 18.8% vs. 15.3% peer average. Our distribution estimate and yiel  d are predicated on a 
+                                    10% distribution growth CAGR driven primarily by organic projects and an asset drop down 
+                                    in 2013. 
+
+                                    Upside case $32 valuation 
+                                    In an upside scenario, we believe TLLP could  exceed our distribution  growth estimate with 
+                                    an asset drop down or third-party acquisit   ion within the next 12 months. Assuming a 
+                                    $100MM transaction at an 8x multiple would imply a 12-month price target of $32 per unit. 
+                                    The $32 valuation would be based on a 12-month forward distribution estimate of $1.58 
+                                    (up from $1.48) and target yield of 5% (mod est compression from 5.3%) due to accretion 
+                                    from a $100MM acquisition at 8x multiple. 
+
+                                    Downside case $23 valuation 
+                                    In a downside scenario, we estimate a 12-month price target of $23 per unit. Downside 
+                                    potential could come from a higher target yi  eld, due to the market demanding a higher 
+                                    equity risk premium due to macro conditions  and/or TLLP not achieving expected returns 
+                                    on current growth projects. A $23 valuation could be based on a 12-month distribution 
+                                    estimate of $1.38 (down from $1.48) and a target yield of 6% (expansion from 5.3%). 
+
+                                    Tax Deferral 
+                                    TLLP’s distribution is approximately 80% tax  deferred. That means of the current $1.35 per 
+                                    unit distribution, a unitholde  r would pay ordinary income taxes on $0.27 (20% of 
+                                    distribution), with the remaining $1.08 (80% of distribution) reducing a unitholder’s basis. 
+                                    The 80% tax deferral level is in line with th e MLP sector and represents an important 
+                                    component of the value proposition. 
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+ 
+
+8 June 2011                                                                                                                   10 
+
+                                                                                                                                   235
+---------------------Page 11---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                   Tesoro Logistics Overview 
+
+                                   Tesoro Logistics LP (TLLP) is a crude oil/   refined product pipeline and storage MLP, 
+                                   headquartered in San Antonio, that was spun-o ff from independent refiner Tesoro (TSO) in 
+                                   April 20, 2011 IPO. In the transaction, 14.95MM units were issued at $21 per unit (with a 
+                                   6.4% yield). TLLP was created to facilitate   the growth of TSO’s midstream business and 
+                                   unlock value through the tax-advantaged MLP st ructure. TSO owns a 52% interest in TLLP, 
+                                   comprised of a 50% LP and 2% GP interest. TSO owns 15.255MM subordinated units, 
+                                   304,890 common units and 622,649 general partner units. The public owns a 48% LP stake, 
+                                   with 14.95MM common units. TLLP midstream assets are integrated with TSO’s refining 
+                                   and marketing business. The Partnership’s asse ts are comprised of a crude oil gathering 
+                                   system in the Bakken Shale/Williston Basin in  ND and MT, 8 refined products terminals in 
+                                   the midwest and western US and a crude oil/re  fined products storage facility and short-
+                                   haul pipelines in Utah. TLLP has two op      erating segments, crude oil gathering and 
+                                   terminalling, transportation, storage. Re venue mix is 53% crude oil gathering/47% 
+                                   terminalling, transportation, storage. TLLP  has long-term take-or-pay contracts with TSO 
+                                   for minimum volume commitments in both se gments, comprising 84% of total revenues. 
+                                   The remaining 16% of revenues is from TSO  volumes beyond the minimum level and third 
+                                   party volumes. 
+
+                                    
+
+                                
+                                    Figure 8: Minimum volume commitments comprise 84% of revenues 
+
+                                                       Third party 
+                                                        volumes, 
+                                                     additional TSO 
+                                                     volumes, 16%
+
+                                                                                 Minimum 
+                                                                                volumes with 
+                                                                                 TSO, 84%
+
+                                    Source: Company filings 
+
+                                    
+
+8 June 2011                                                                                                                 11 
+
+                                                                                                                                 236
+---------------------Page 12---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+Figure 9: TLLP Midstream Assets Integrated with TSO Refineries  
+
+                                                                                                    
+Source: Company filings 
+
+                                          
+
+                                          
+
+                                                                       
+Figure 10: TLLP segment revenue mix                                       Figure 11: Breaking down revenue mix 
+
+                                                                       
+
+                                                                                                Storage, 6%
+                                                                                            Short-haul 
+                                                                                          pipelines, 6%
+                                                                                                                           Terminalling, 
+          Terminalling,                                                                                                       35%
+          transportation                                                                  Truck 
+            & storage,                            Crude oil                             gathering, 
+              47%                                gathering,                               25%
+                                                    53%
+
+                                                                                                             Pipeline 
+                                                                                                            gathering, 
+                                                                                                              28%
+
+Source: Company filings                                                   Source: Company filings 
+
+                                          
+
+8 June 2011                                                                                                                                  12 
+
+                                                                                                                                                    237
+---------------------Page 13---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                    Crude Oil Gathering  
+                                    The Crude Oil Gathering segment accounts fo      r approximately 53% of our estimate for 
+                                    TLLP’s 2011 EBITDA. The segment’s asset is th  e High Plains system, which gathers and 
+                                    transports crude produced in the emerging  Bakken Shale (North Dakota and Montana) to 
+                                    TSO's Mandan, ND refinery. The High Plains  system is comprised of a 700-mile, 70,000 bpd 
+                                    capacity pipeline system (plus related storage) and 23,000 bpd of truck-based crude 
+                                    gathering. Currently, the only destination   point for the High Plains pipeline and truck 
+                                    volumes is TSO’s Mandan refinery. However, TLLP  is exploring ways to diversify its revenue 
+                                    stream by adding third party shippers and interconnects with non-TSO pipes. There are five 
+                                    potential pipeline interconnects – Enbridge pipe  at Portal and Ramburg, ND, Little Missouri 
+                                    pipe at Fryburg, ND, Belle Fourche pipe at Frit z, ND, Bridger pipe at Richey, MT. Integration 
+                                    with the Mandan refinery is a positive for TLLP, as TSO is currently in the process of 
+                                    expanding refining capacity by 10,000 bpd to 68,000 bpd by 2Q12, which provides visible 
+                                    growth for the High Plains system. 
+
+                                    Crude Oil Gathering segment revenue mix is 53% pipelines and 47% truck gathering. 
+                                    Approximately 81% of segment revenue is        derived from contracted minimum volume 
+                                    commitments with the parent. TSO’s required minimum crude oil volumes of 49,000 bpd on 
+                                    the High Plains pipeline and 22,000 bpd on trucks represent 84% and 96% of pipe and truck 
+                                    volumes, respectively. In terms of volume gr    owth, pipeline throughput is expected to 
+                                    increase 14% (from 2010 average to LTM 1Q12) to 58,000 bpd. Trucking volumes are 
+                                    expected to remain relatively flat. Importantly,  High Plains pipeline  and trucking fees have 
+                                    inflation protection. Pipeline tariffs are adju sted annually by the FERC PPI+2.65% inflation 
+                                    escalator (which will total 7% starting July 1) and the trucking rates are adjusted by the CPI.  
+
+                                     
+
+                                 
+                                    Figure 12: High plains system asset map with potential interconnects 
+
+                                                                                                               
+                                    Source: Company reports 
+
+                                     
+
+                                     
+
+                                     
+
+                                     
+
+8 June 2011                                                                                                                    13 
+
+                                                                                                                                    238
+---------------------Page 14---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                    Terminalling/Transportation/Storage 
+                                    The segment accounts for approximately 47%   of our estimate for TLLP’s 2011 EBITDA. 
+                                    Assets include eight refined products terminal s in the midwest and western US, five short-
+                                    haul Utah intrastate pipelines and a crude oil/ refined products storage facility. The eight RP 
+                                    terminals have truck and barge delivery capacity of 229,000 bpd. The terminals primarily 
+                                    distribute production from TS O’s refineries in Los Angeles   and Martinez, CA; Kenai, AK; 
+                                    Mandan, ND; Salt Lake City, UT; and Anacortes, WA.  
+
+                                    In addition, TLLP owns and operates pipes an  d storage that exclusiv ely serve TSO’s Salt 
+                                    Lake City refinery. TLLP’s Salt Lake City pipe  assets include including three short-haul crude 
+                                    oil supply pipelines and two short-haul refi ned product delivery pipelines connected to 
+                                    third-party interstate pipelines. The Salt   Lake City terminal has 878,000 barrels of 
+                                    crude/refined products capacity.  
+
+                                    Segment revenue mix is 75% terminals,           13% transportation,   and 12% storage. 
+                                    Approximately 87% of segment revenue is        derived from contracted minimum volume 
+                                    commitments with the parent. TSO’s required minimum volumes represent 
+                                    86%/80%/100% of terminal/ transportation/sto rage revenues, respectively. Terminalling 
+                                    volumes are expected to increase 1.1% (from 2010 average to LTM 1Q12) to 115,200 bpd, 
+                                    while transportation volumes are expected to increase 8.5% to 65,800 bpd. Storage volume 
+                                    at the Salt Lake City terminal will remain at 878,000 barrels. Similar to the crude oil 
+                                    gathering segment, terminalling, storage and tr ansportation fees have inflation protection, 
+                                    via CPI adjustment. 
+
+                                    Overview of General Partner 
+
+                                    Tesoro Corporation (TSO) is the general part  ner of TLLP. TSO is a leading independent 
+                                    refiner in the U.S. with 665,000 bpd of refining capacity at seven refineries. Geographic 
+                                    footprint is primarily western US. Its seven refi neries are located in AK, CA(2), HI, ND, UT 
+                                    and WA. In addition, TSO’s retail segment is comprised of 880 branded retail stations under 
+                                    the Tesoro®, Shell®, USA GasolineTM and Mirastar® brands.  
+
+                                    For views on TSO, we defer to our equity and  fixed income research analysts covering the 
+                                    name. Barclays Capital Integrated Oil and Inde pendent Refining equity analyst Paul Cheng’s 
+                                    view on TSO is constructive.  According to the 5/6/11 note titled “Solid 1Q11, Underlying 
+                                    Earnings Power Has Been Improving Over the Las t Couple Years,” Cheng states “in the near 
+                                    term, we remain cautious on the refiners and th ink that US refiners’ profit margins could be 
+                                    weak in the coming months        as light/heavy differentials  and the WTI/Brent spread 
+                                    deteriorate while the product crack could remain  relatively sluggish. However, we think the 
+                                    California refining market’s me dium to longer term outlook remains bright given its high 
+                                    barriers of entry due to its strict product en  vironmental standard and the lack of pipeline 
+                                    capacity to effectively import product from the Gulf Coast or other U.S. markets from a cost 
+                                    perspective. We are also impressed by the company’s underlying improvement in its margin 
+                                    capture rate over the last couple years. In  addition, we think TSO has more potential room 
+                                    for efficiency improvement compared to its p eers due to its relative weak performance in 
+                                    the past.” 
+
+                                    From a credit perspective, Barclays Capital   High Yield Energy fixed income analyst Gary 
+                                    Stromberg has a Market Weight recommend           ation on TSO’s bonds. According to 
+                                    Stromberg’s 5/5/11 note “Tesoro (TSO) 1Q11        Credit Review,” recent earnings were a 
+                                    “positive credit release, in our view. Quarterly EBITDA was above our expectations on higher 
+                                    refinery utilization, strong product crack spre ads and favorable differen tials. Subsequent to 
+
+8 June 2011                                                                                                                   14 
+
+                                                                                                                                   239
+---------------------Page 15---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                      quarter-end, the company received ~$330mn in net proceeds from the Tesoro Logistics 
+                                      IPO, and redeemed the $150mn of outstandin  g junior subordinated notes due 2012. Pro 
+                                      forma these transactions, we estimate net levera ge to decline to 1.0x, from 1.3x at quarter-
+                                      end.” A quick look at TSO's bonds indicates stability as the 6.6% senior notes due 2015 are 
+                                      trading at 103 vs. 92 on 6/3/10. Net/net, we vi  ew TSO as a stable customer of TLLP and 
+                                      posing little counterparty risk.  
+
+                                      Figure 13: TSO Refineries 
+
+                                      Refinery                    Location                                    Capacity (bpd) 
+
+                                      Golden Eagle                Martinez, CA                                    166,000 
+                                      Anacortes Anacortes,                  WA                                    120,000 
+                                      Los Angeles                 Los Angeles, CA                                 97,000 
+                                      Kapolei Kapolei,                    HI                                      93,500 
+                                      Kenai Kenai,                      AK                                        72,000 
+                                      Mandan Mandan,                      ND                                      58,000 
+                                      Salt Lake City              Salt Lake City, UT                              58,000 
+                                      Total                                                                       664,500 
+                                      Source: Company filings 
+
+                                      TSO has a large ownership stake in TLLP. In      addition to its 2% GP stake and incentive 
+                                      distribution rights, TSO owns a 50% LP inte  rest comprised of 15.3MM subordinated and 
+                                      0.3MM common units. The public owns 14.95MM units, representing a 48% LP interest.  
+
+                                       
+
+                                  
+                                      Figure 14: Ownership Structure 
+
+                                                                              Tesoro Corporation (TSO)
+                                                                             15,254,890 subordinated units
+                                                                                 304,890 common units
+                                                                                          100%
+
+                                                   Public                     Tesoro Logistics GP, LLC
+                                                   14,950,000                       2% GP Interest 
+                                                   Common                     Incentive Distribution Rights
+                                                                                                                    50% 
+                                                      48% LP                     2% GP Interest
+                                                                                                                    LP interest
+                                                      Interest                  Tesoro Logistics LP (TLLP)
+
+                                                                                     Subsidiaries
+
+                                      Source: Company filings 
+
+                                       
+
+                                       
+
+                                       
+
+8 June 2011                                                                                                                         15 
+
+                                                                                                                                         240
+---------------------Page 16---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                       Figure 16: Incentive Distribution Rights 
+                                                                                                                        
+                                                           Quarterly                 Annual                       Allocation 
+                                          Level Distribution       Distribution       GP           LP 
+                                          MQD $0.3375              $1.35         2%    98% 
+                                          Tier 1                   up to $0.388125                        up to $1.5525 2%   98% 
+                                          Tier 2                   up to $0.421875                        up to $1.6875 15%  85% 
+                                                                  
+                                          Tier 3                     up to $0.50625 up to $2.025           25%               75% 
+                                          Tier 4                    above $0.50625                         above $2.025 50%  50% 
+                                                                                                                       
+                                       Source: Company filings 
+
+                                       TLLP has a standard general partner incentive distribution rights           (IDR) structure of 
+                                       2/15/25/50%. Currently, the Partnership is IN the 2% GP split, which results in a low 
+                                       adjusted cost of equity capital of approxim      ately 5.55% (as of 6/3/11 close), which is 
+                                       favorable for financing future expansion pr       ojects. Based on our distribution growth 
+                                       estimates, which includes an assumption of $375MM in acquisitions in total through 2015, 
+                                       we estimate TLLP will enter the 50% splits in late 2015.  
+
+                                       Risks 
+
+                                       Customer concentration 
+                                       Parent TSO comprises approximately 95% of TLLP’s revenues. However, young 
+                                       partnerships generally have a limited customer mix. In our view, this is not a significant 
+                                       problem, given TSO is a stable customer (S&P credit rating of BB+ with stable outlook). Over 
+                                       time, we expect TLLP to increase third party volumes on its crude oil gathering and 
+                                       terminalling businesses throug h organic expansions, acquisit ions, and increased capacity 
+                                       utilization. 
+
+                                       Limited track record as MLP 
+                                       While its assets were previously housed in  TSO, a C-corp independent refiner, TLLP has a 
+                                       limited operating track record as a public MLP, with an IPO in April 20, 2011. 
+
+                                       Taxes 
+                                       Removal of MLP tax-advantaged status would   negatively impact TLLP growth prospects. 
+                                       We expect MLP tax status to  remain unchanged. In fact, the  definition for MLP qualifying 
+                                       income was expanded in 2008 for renewable fuels. Nevertheless, the federal government is 
+                                       seeking to review the tax code and there is      potential (or at least headline risk) for pass-
+                                       through entity tax status to change.  
+
+                                       Interest rates 
+                                       TLLP has interest rate exposure from its        revolving credit facility. A 100 bps increase 
+                                       (annualized) in interest rates would increase   TLLP interest expense by $0.5MM or 1% of 
+                                       2011e distributable cash flow. In addition, MLP valuations could be impacted by rising 
+                                       interest rates similar to bond s. However, unlike bonds, MLP distribution growth somewhat 
+                                       offsets higher interest rates.   
+
+8 June 2011                                                                                                                            16 
+
+                                                                                                                                            241
+---------------------Page 17---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                   Equity capital markets 
+                                   TLLP’s ability to grow distributions relies on access to external capital. We assume the 
+                                   Partnership retains approximately 10% of free cash flow, which means TLLP will finance the 
+                                   majority of future expansion ca pital expenditures with debt an d equity capital. As such, a 
+                                   higher cost of capital could likely lower TLLP’s distribution growth rate.  
+
+                                   Refined product demand 
+                                   While having minimal direct commodity price ex posure, TLLP does have indirect exposure 
+                                   as high commodity prices would likely reduce refined product demand. Other potential 
+                                   sources of lower demand include weak econom ic conditions, competition from renewable 
+                                   substitutes and adverse weather conditions. 
+
+                                   Crude oil production 
+                                   Given the High Plains system is a key growth driver for TLLP, the Partnership has exposure 
+                                   to crude oil production in the Bakken. Lo  wer-than-expected Bakken production growth 
+                                   could impact TLLP’s transportation expansion plans in the region.    
+
+                                   Refinery maintenance 
+                                   Unplanned refinery downtime could negatively  impact TSO’s excess volumes, beyond the 
+                                   contracted minimum levels, on TLLP’s system.  
+
+                                   Acquisitions 
+                                   There is a risk that future TLLP acquisitions fail to meet accretion expectations due to 
+                                   integration or valuation risks. 
+
+                                   Regulatory and environmental 
+                                   More stringent environmental regulations coul d increase TLLP operating costs and reduce 
+                                   growth prospects if higher costs were not able to be passed along to customers. 
+
+                                   Management Team 
+
+                                   TLLP has an experienced management team, av eraging 27 years of experience. In addition, 
+                                   TLLP recently added two independent boar d members. On 5/24/11, Tom O’Connor and 
+                                   Mary Morgan joined TSO’s board as independ ent directors. The addition increases TSO’s 
+                                   board from five to seven members and inde      pendent directors from one to three. A 
+                                   summary of TLLP management and board members follows. 
+
+                                   Gregory Goff, Chief Executive Officer, Chairman of the board of directors 
+                                   Goff joined Tesoro Corporation in May 2010 as  CEO and President. Prior to joining Tesoro, 
+                                   Goff served various roles during a 28-year car  eer at ConocoPhillips, including Senior Vice 
+                                   President, Commercial since 2008, President of specialty businesses and business 
+                                   development from 2006 to 2008, President of ConocoPhillips U.S. Lower 48 and Latin 
+                                   America exploration and production business from 2004 to 2006, President of 
+                                   ConocoPhillips European and Asia Pacific do  wnstream operations from 2002 to 2004, 
+                                   Chairman and Managing Director of Conoco  Limited, a UK-based refining and marketing 
+                                   affiliate, from 2000 to 2002, director and CEO of Conoco JET Nordic from 1998 to 2000. 
+                                   Previously, Goff served on the board of directors of Chevron Phillips Chemical Company. 
+
+8 June 2011                                                                                                                 17 
+
+                                                                                                                                242
+---------------------Page 18---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                    Phillip Anderson, President, board of directors  
+                                    Anderson has served as Vice President, Strategy for Tesoro since April 2010. Prior to his 
+                                    current role with Tesoro, he served as Vice   President, Financial Optimization & Analytics 
+                                    beginning in June 2008 and Vice President,   Treasurer beginning in June 2007. Anderson 
+                                    joined the company in December 1998 as Seni or Financial Analyst and worked in a variety 
+                                    of strategic and financial roles. Anderson began his career in 1991 at Ford Motor Company 
+                                    and worked in a variety of financial roles at that company.  
+
+                                    Scott Spendlove, Chief Financial Officer, board of directors  
+                                    Spendlove has served as CFO for Tesoro Corp oration since May 2010. Prior to his current 
+                                    role with Tesoro, he served in risk manageme nt, controller, treasury  and strategic planning 
+                                    roles. Prior to joining Tesoro in 2002, Spen  dlove served as Vice President, Corporate 
+                                    Planning and Investor Relations for Ultramar Diamond Shamrock Corporation.  
+
+                                    Charles Parrish, Vice President, General Counsel, board of directors  
+                                    Parrish leads Tesoro's legal department an      d contract administration function and 
+                                    government affairs group, as well as the bu   siness ethics and compliance office. Parrish 
+                                    joined Tesoro in 1994 and has since served in numerous roles in the legal department. 
+                                    Parrish provides counsel to Tesoro's manage  ment and board of directors on corporate 
+                                    governance issues. Before joining Tesoro, Parrish worked in private practice with law firms 
+                                    in Houston and San Antonio, primarily re        presenting commercial lenders in loan 
+                                    transactions, workouts and real estate matters.  
+
+                                    Ralph Grimmer, Vice President, Operations  
+                                    Grimmer is responsible for pipelines and refi  ned product terminals, crude oil and refined 
+                                    products trucking and all rail operations. Grimmer has served as Vice President, Logistics for 
+                                    Tesoro since November 2010. Previously he served in strategy, M&A and logistics roles at 
+                                    Tesoro. Prior to joining Tesoro in 2006, Grimmer served in a variety of consulting, marketing 
+                                    and logistics positions, including Baker & O'Brien, Inc. and Motiva Enterprises LLC.  
+
+                                    Raymond Bromark, board of directors (independent director) 
+                                    Bromark is a retired Partner of PricewaterhouseCoopers, LLP. He joined PwC in 1967 and 
+                                    became a Partner in 1980. He was Partner and Head of the Professional, Technical, Risk and 
+                                    Quality Group of PwC from 2000 to 2006, a Global Audit Partner from 1994 to 2000 and 
+                                    Deputy Vice Chairman, Auditing and Business Advisory Services from 1990 to 1994. 
+                                    Bromark has been a director of CA Technologi  es, a provider of IT management software 
+                                    and solutions, since 2007 and chairs its audit committee.  
+
+                                    Tom O’Connor, board of directors (independent director) 
+                                    O'Connor currently serves as chairman of the  board, president and CEO of DCP Midstream, 
+                                    LLC and chairman of DCP Midstream Partners. O’Connor previously served at Duke Energy. 
+
+                                    Mary Morgan, board of directors (independent director) 
+                                    Morgan is the principal of Morgan Hamilton  Group, a liquid petroleum pipeline and storage 
+                                    advisory practice. Morgan prev iously serviced at NuStar Energy, Valero, L.P. and Kinder 
+                                    Morgan Energy Partners. 
+
+8 June 2011                                                                                                                   18 
+
+                                                                                                                                  243
+---------------------Page 19---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                         Financial Model 
+
+Figure 17: TLLP Model ($ in MM, except per unit amounts) 
+
+                                                                      2011e            2012e           2013e          2014e           2015e 
+
+Crude oil gathering revenues                                           51.8   54.4 58.2 62.3 66.6 
+Terminalling, transportation, storage revenues                          45.1   47.3 49.2 51.6 54.0 
+Total revenues                                                         96.9    101.7 107.4 113.8 120.6 
+Operating expenses                                                   (37.3)   (39.3) (41.9) (44.4) (47.0) 
+Depreciation expense                                                  (8.9)    (10.2) (12.2) (14.2) (16.2) 
+General & administrative expenses                                     (7.3)   (6.7) (7.1) (7.5) (8.0) 
+Other                                                                   0.0   0.0 0.0 0.0 0.0 
+Expansion capex contribution                                           0.0      5.9  19.7 32.2 47.2 
+Operating income                                                      43.4   51.4 65.9 79.9 96.6 
+Interest expense                                                       (2.3)   (2.6) (6.0) (8.1) (12.3) 
+Other                                                                   0.0   0.0 0.0 0.0 0.0 
+Tax expense                                                                    0.0 0.0 0.0 0.0 
+Net income                                                            41.1   48.8 59.9 71.8 84.3 
+Net income to general partner                                          (0.8)   (1.4) (2.3) (4.7) (7.2) 
+Net income to limited partners                                         40.3   47.4 57.6 67.1 77.1 
+                                                                                 
+Units outstanding                                                      30.5   30.5 32.9 35.8 38.8 
+Net income per LP unit                                                $1.32   $1.55 $1.75 $1.87 $1.99 
+                                                                                 
+Cash distribution per unit (declared)                                   $0.94   $1.51 $1.66 $1.82 $1.98 
+Pro forma cash distribution per unit (declared)                         $1.35   $1.51 $1.66 $1.82 $1.98 
+Y/Y growth                                                               11.7% 10.3% 9.5% 8.9% 
+                                                                                 
+Crude oil gathering segment                                                                                                               
+Crude oil pipeline volumes (000 bpd)                                   57.1   59.5 60.7 62.5 64.4 
+Average pipeline revenue per barrel                                    $1.30   $1.32 $1.40 $1.46 $1.53 
+Pipeline gathering revenue                                             27.1   28.8 31.0 33.4 35.9 
+                                                                                 
+Trucking volume (000 bpd)                                            22.7   23.7 24.4 25.1 25.8 
+Average trucking revenue per barrel                                   $2.94   $2.96 $3.06 $3.15 $3.25 
+Trucking revenue                                                      24.3   25.6 27.2 28.9 30.6 
+                                                                                 
+Pipeline and trucking revenue                                          51.4   54.4 58.2 62.3 66.6 
+Total pipeline and trucking volumes (000 bpd)                          79.8   83.2 85.1 87.6 90.3 
+Average pipeline and trucking tariff                                    $1.78   $1.79 $1.88 $1.95 $2.02 
+                                                                                 
+Terminalling, transportation, storage segment                                                                                             
+Terminal volumes (000 bpd)                                           116.5   116.4 117.6 118.8 120.0 
+Average terminal revenue per barrel                                   $0.81   $0.83 $0.85 $0.88 $0.92 
+Terminal revenue                                                      34.3   35.3 36.5 38.3 40.3 
+ 
+
+8 June 2011                                                                                                                                   19 
+
+                                                                                                                                                     244
+---------------------Page 20---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+Short-haul pipeline volumes (000 bpd)                                  64.3   69.5 72.0 72.7 73.4 
+Average terminal revenue per barrel                                    $0.19   $0.26 $0.27 $0.28 $0.29 
+Short-haul pipeline revenue                                              4.5   6.6 7.0 7.4 7.8 
+                                                                                   
+Storage capacity reserved (000 barrels)                                  878   878 886 886 886 
+Average storage revenue per barrel per month                          $0.51   $0.52 $0.53 $0.55 $0.57 
+Storage revenue                                                          5.3   5.5 5.7 5.8 6.0 
+Terminalling, transportation, storage revenue                            44.1   47.3 49.2 51.6 54.0 
+                                                                                   
+EBITDA                                                                  52.3   61.6 78.1 94.1 112.8 
+Interest expense                                                         (2.2)   (2.2) (6.0) (8.1) (12.3) 
+Maintenance capex                                                     (4.4)   (5.3) (6.7) (7.9) (9.2) 
+Other                                                                    0.0   0.0 0.0 0.0 0.0 
+Distributable cash flow                                                  45.7   54.1 65.4 78.1 91.3 
+General partner distribution                                             (0.7)   (1.0) (1.7) (3.6) (6.1) 
+Distributable cash flow to limited partners                               45.3   53.1 63.7 74.5 85.2 
+DCF per unit                                                            $1.48   $1.74 $1.94 $2.08 $2.20 
+Distribution coverage ratio                                              1.10x   1.15x 1.17x 1.14x 1.11x 
+                                                                                   
+Additions To PP&E                                                      (10.7)   (20.2) (21.7) (22.9) (29.2) 
+Acquisitions                                                              0.0             0.0     (100.0) (125.0) (150.0) 
+Net PP&E                                                               137.8   147.8 257.3 391.0 554.0 
+Long Term Debt                                                         54.0 59.0 114.0 154.0 224.0 
+Debt/EBITDA                                                            1.0x   1.0x 1.5x 1.6x 2.0x 
+Source: Barclays Capital estimates, company filings 
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+8 June 2011                                                                                                                                      20 
+
+                                                                                                                                                         245
+---------------------Page 21---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+                                           
+
+8 June 2011                                                                                                                                     21 
+
+                                                                                                                                                       246
+---------------------Page 22---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+ANALYST(S) CERTIFICATION(S) 
+We, Richard Gross and Brian J. Zarahn, CFA,   hereby certify (1) that the views expressed  in this research re port accurately refl ect our personal
+views about any or all of the subj ect securities or issuers referred to in this resear ch report and (2) no part of our compensa tion was, is or will be 
+directly or indirectly related to the specific recommendations or views expressed in this research report. 
+ 
+
+IMPORTANT DISCLOSURES CONTINUED 
+ 
+For current important disclosures, including, where relevant, price target charts, regarding companies that are the subject of  this research report,
+please send a written request to: Barclays Capital Research Compliance, 745 Seventh Avenue, 17th Floor, New York, NY 10019 or r            efer to
+http://publicresearch.barcap.com or call 1-212-526-1072. 
+The analysts responsible for preparing this  research report have received compensation based upon various factors including the       firm's total
+revenues, a portion of which is generated by investment banking activities. 
+On September 20, 2008, Barclays Capital acquired Lehman Brothers' North American investment banking, capital markets, and private investment
+management businesses.  All ratings and price targets prior to this date relate to coverage under Lehman Brothers Inc. 
+Barclays Capital produces a variety of research products including, but not limited to, fundamental analysis, equity-linked ana lysis, quantitative 
+analysis, and trade ideas. Recommendations contained in one type   of research product may differ  from recommendations contained  in other 
+types of research products, whether as a result of differing time horizons, methodologies, or otherwise. 
+Primary Stocks (Ticker, Date, Price) 
+Tesoro Logistics LP (TLLP, 07-Jun-2011, USD 24.42), 1-Overweight/2-Neutral 
+Guide to the Barclays Capital Fundamental Equity Research Rating System: 
+Our coverage analysts use a relative rating  system in which they rate stocks as 1-Overweight, 2-Equal Weight or 3-Underweight ( see definitions 
+below) relative to other companies covered by the analyst or a team of analysts that are deemed to be in the same industry sect    or (the “sector
+coverage universe”). 
+In addition to the stock rating, we provide sector views which rate the outlook for the sector coverage universe as 1-Positive, 2-Neutral or 3-
+Negative (see definitions below).  A rating system using terms such as buy, hold and sell is not the equivalent of our rating s ystem.  Investors
+should carefully read the entire research report including the definitions of all ratings and not infer its contents from ratin gs alone. 
+Stock Rating 
+1-Overweight - The stock is expected to outperform the unweighted expected total return of the sector coverage universe over a 12-month 
+investment horizon. 
+2-Equal Weight - The stock is expected to perform in line with the unweighted  expected total return of the sector coverage universe over a 12 -
+month investment horizon. 
+3-Underweight - The stock is expected to underperform the unweighted expected total return of the sector coverage universe over a 12-month 
+investment horizon. 
+RS-Rating Suspended - The rating and target price have been suspended temporarily due to market events that made coverage impracticable or
+to comply with applicable regulations and/or firm policies in certain circumstances including when Barclays Capital is acting i     n an advisory 
+capacity in a merger or strategic transaction involving the company. 
+Sector View 
+1-Positive - sector coverage universe fundamentals/valuations are improving. 
+2-Neutral - sector coverage universe fundamentals/valuations are steady, neither improving nor deteriorating. 
+3-Negative - sector coverage universe fundamentals/valuations are deteriorating. 
+Below is the list of companies that constitute the "sector coverage universe": 
+
+U.S. MLPs 
+AmeriGas Partners, L.P. (APU)                                                   Atlas Pipeline Partners LP (APL) Blueknight Energy Partners, L.P. (BKEP) 
+Boardwalk Pipeline Partners LP (BWP)                  Breitburn Energy Partners L.P. (BBEP)                       Buckeye Partners, L.P. (BPL) 
+Calumet Specialty Products Partners, L.P. (CLMT)         Chesapeake Midstream Partners LP (CHKM)        Constellation Energy Partners LLC (CEP) 
+Copano Energy LLC (CPNO)                              Crosstex Energy LP (XTEX)                       DCP Midstream Partners LP (DPM) 
+Duncan Energy Partners LP (DEP)                       Eagle Rock Energy Partners LP (EROC)                     El Paso Pipeline Partners, L.P. (EPB) 
+Enbridge Energy Partners (EEP)                        Encore Energy Partners LP (ENP)                 Energy Transfer Equity LP (ETE) 
+Energy Transfer Partners LP (ETP)                     Enterprise Products Prtns LP (EPD)              Exterran Partners LP (EXLP) 
+Ferrellgas Partners (FGP)                             Global Partners LP (GLP)                        Holly Energy Partners LP (HEP) 
+Inergy L.P. (NRGY)                                    Kinder Morgan Energy Prtnrs LP (KMP)                   Linn Energy LLC (LINE) 
+Magellan Midstream Partners, LP (MMP)                 Markwest Energy Partners, LP (MWE)              Niska Gas Storage Partners LLC (NKA) 
+
+8 June 2011                                                                                                                                   22 
+
+                                                                                                                                                     247
+---------------------Page 23---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+IMPORTANT DISCLOSURES CONTINUED 
+
+NuStar Energy LP (NS)                                ONEOK Partners LP (OKS)                         PAA Natural Gas Storage LP (PNG) 
+Plains All American Pipeline (PAA)                   Regency Energy Partners LP (RGNC)                         Spectra Energy Partners, LP (SEP) 
+Suburban Propane Partners (SPH)                      Sunoco Logistics Partners L.P. (SXL)                          Targa Resources Partners LP (NGLS) 
+TC Pipelines, LP (TCLP)                              Teekay Offshore Partners LP (TOO)               Tesoro Logistics LP (TLLP) 
+Vanguard Natural Resources (VNR)                     Western Gas Partners LP (WES)                   Williams Partners LP (WPZ) 
+ 
+Distribution of Ratings: 
+Barclays Capital Inc. Equity Research has 1766 companies under coverage. 
+43% have been assigned a 1-Overweight rating which, for purposes   of mandatory regulatory disclosu res, is classified as a Buy ra ting; 58% o f
+companies with this rating are investment banking clients of the Firm. 
+42% have been assigned a 2-Equal Weight rating which, for purposes of mandatory regulatory disclosures, is classified as a Hold   rating; 52% of
+companies with this rating are investment banking clients of the Firm. 
+12% have been assigned a 3-Underweight rati ng which, for purposes of mandatory regulatory disclosures, is classified as a Sell   rating; 38% o f
+companies with this rating are investment banking clients of the Firm. 
+Guide to the Barclays Capital Price Target: 
+Each analyst has a single price target on the stocks that they cover. The price target represents that analyst's expectation of  where the stock will 
+trade in the next 12 months.  Upside/downside scenarios, where pr ovided, represent potential upside /potential downside to each analyst's price
+target over the same 12-month period. 
+Barclays Capital offices involved in the production of equity research: 
+London 
+Barclays Capital, the investment banking division of Barclays Bank PLC (Barclays Capital, London)  
+New York 
+Barclays Capital Inc. (BCI, New York) 
+Tokyo 
+Barclays Capital Japan Limited (BCJL, Tokyo) 
+São Paulo 
+Banco Barclays S.A. (BBSA, São Paulo) 
+Hong Kong 
+Barclays Bank PLC, Hong Kong branch (Barclays Bank, Hong Kong) 
+Toronto 
+Barclays Capital Canada Inc. (BCC, Toronto) 
+Johannesburg 
+Absa Capital, a division of Absa Bank Limited (Absa Capital, Johannesburg) 
+ 
+
+8 June 2011                                                                                                                                  23 
+
+                                                                                                                                                    248
+---------------------Page 24---------------------
+
+Barclays Capital | Tesoro Logistics LP 
+
+IMPORTANT DISCLOSURES CONTINUED 
+
+Tesoro Logistics LP (TLLP)                                                                    Stock Rating                           Sector View 
+USD 24.42 (07-Jun-2011)                                                                       1-OVERWEIGHT 2-NEUTRAL
+
+Rating and Price Target Chart - USD (as of 07-Jun-2011)                                       Currency=USD 
+
+                                                                                              Date         Closing Price       Rating            Price Target
+   25
+
+   25
+
+   25
+
+   24
+
+   24
+
+   24
+
+   24
+
+   24
+
+   23
+
+   23
+
+   23
+
+              30-Apr-2011        15-May-2011         30-May-2011
+                                 Closing Price
+                                                                        
+Link to Barclays Capital Live for interactive charting                                                  
+ 
+Barclays Bank PLC and/or an affiliate has been lead manager or co-lead manager of a publicly disclosed offer of securities of T  esoro Logistics LP
+in the previous 12 months. 
+Barclays Bank PLC and/or an affiliate has received compensation for investment banking services from Tesoro Logistics LP in the  past 12 months.
+Barclays Bank PLC and/or an affiliate trades regularly in the securities of Tesoro Logistics LP. 
+Barclays Bank PLC and/or an affiliate has received non-investment banking related compensation from Tesoro Logistics LP within        the past 12 
+months. 
+Tesoro Logistics LP is, or during the past 12 months has been, an investment banking client of Barclays Bank PLC and/or an affi liate. 
+Tesoro Logistics LP is, or during the past 12 months has been , a non-investment banking client (securities related services) of  Barclays Bank PLC
+and/or an affiliate. 
+Valuation Methodology: Our $28 price target is based on a 12-month distribution run rate of $1.48 and a 5.3% target yield. 
+Risks which May Impede the Achievement of the Price Target: Customer concentration, rising interest rates, acquisition integration risk, pipeline
+tariff rates subject to regulatory review, lower refined product demand, lower crude oil production in the Bakken Shale, more s   tringent energy 
+regulations, construction cost overruns, change in MLP tax status. 
+ 
+ 
+
+8 June 2011                                                                                                                                    24 
+
+                                                                                                                                                      249
+---------------------Page 25---------------------
+
+ 
+
+This publication has been prepared by Barclays Capital, the investment banking division of Barclays Bank PLC, and/or one or more of its affiliates as provided below. It is 
+provided to our clients for information purposes only, and Barclays Capital makes no express or implied warranties, and express ly disclaims all warranties of
+merchantability or fitness for a particular purpose or use with respect to any data included in this publication. Barclays Capital will not treat unauthorized recipients of 
+this report as its clients. Prices shown are indicative and Barclays Capital is not offering to buy or sell or soliciting offers to buy or sell any financial instrument. 
+Without limiting any of the foregoing and to the extent permitted by law, in no event shall Barclays Capital, nor any affiliate, nor any of their respective officers, directors,
+partners, or employees have any liability for (a) any special, punitive, indirect, or consequential damages; or (b) any lost profits, lost revenue, loss of anticipated savings
+or loss of opportunity or other financial loss, even if notified of the possibility of such damages, arising from any use of this publication or its contents. 
+Other than disclosures relating to Barclays Capital, the information contained in this publication has been obtained from sources that Barclays Capital believes to be
+reliable, but Barclays Capital does not represent or warrant that it is accurate or complete. The views in this publication are those of Barclays Capital and are subject to 
+change, and Barclays Capital has no obligation to update its opinions or the information in this publication. 
+The analyst recommendations in this publication reflect solely and exclusively those of the author(s), and such opinions were prepared independently of any other
+interests, including those of Barclays Capital and/or its affiliates. This publication does not constitute personal investment advice or take into account the individual 
+financial circumstances or objectives of the clients who receive it. The securities discussed herein may not be suitable for all investors. Barclays Capital recommends that
+investors independently evaluate each issuer, security or instrument discussed herein and consult any independent advisors they believe necessary. The value of and
+income from any investment may fluctuate from day to day as a result of changes in relevant economic markets (including changes  in market liquidity). The
+information herein is not intended to predict actual results, which may differ substantially from those reflected. Past performance is not necessarily indicative of future
+results. 
+This communication is being made available in the UK and Europe primarily to persons who are investment professionals as that term is defined in Article 19 of the 
+Financial Services and Markets Act 2000 (Financial Promotion Order) 2005. It is directed at, and therefore should only be relied upon by, persons who have professional
+experience in matters relating to investments. The investments to which it relates are available only to such persons and will be entered into only with such persons.
+Barclays Capital is authorized and regulated by the Financial Services Authority ('FSA') and member of the London Stock Exchange. 
+Barclays Capital Inc., U.S. registered broker/dealer and member of FINRA (www.finra.org), is distributing this material in the United States and, in connection therewith
+accepts responsibility for its contents. Any U.S. person wishing to effect a transaction in any security discussed herein should do so only by contacting a representative
+of Barclays Capital Inc. in the U.S. at 745 Seventh Avenue, New York, New York 10019. 
+Non-U.S. persons should contact and execute transactions through a Barclays Bank PLC branch or affiliate in their home jurisdiction unless local regulations permit
+otherwise. 
+This material is distributed in Canada by Barclays Capital Canada Inc., a registered investment dealer and member of IIROC (www.iiroc.ca). 
+Subject to the conditions of this publication as set out above, Absa Capital, the Investment Banking Division of Absa Bank Limited, an authorised financial services
+provider (Registration No.: 1986/004794/06), is distributing this material in South Africa. Absa Bank Limited is regulated by the South African Reserve Bank. This 
+publication is not, nor is it intended to be, advice as defined and/or contemplated in the (South African) Financial Advisory and Intermediary Services Act, 37 of 2002, or
+any other financial, investment, trading, tax, legal, accounting, retirement, actuarial or other professional advice or service whatsoever. Any South African person or
+entity wishing to effect a transaction in any security discussed herein should do so only by contacting a representative of Absa Capital in South Africa, 15 Alice Lane, 
+Sandton, Johannesburg, Gauteng 2196. Absa Capital is an affiliate of Barclays Capital. 
+In Japan, foreign exchange research reports are prepared and distributed by Barclays Bank PLC Tokyo Branch. Other research reports are distributed to institutional 
+investors in Japan by Barclays Capital Japan Limited. Barclays Capital Japan Limited is a joint-stock company incorporated in Japan with registered office of 6-10-1 
+Roppongi, Minato-ku, Tokyo 106-6131, Japan. It is a subsidiary of Barclays Bank PLC and a registered financial instruments firm regulated by the Financial Services
+Agency of Japan. Registered Number: Kanto Zaimukyokucho (kinsho) No. 143. 
+Barclays Bank PLC, Hong Kong Branch is distributing this material in Hong Kong as an authorised institution regulated by the Ho ng Kong Monetary Authority.
+Registered Office: 41/F, Cheung Kong Center, 2 Queen's Road Central, Hong Kong. 
+Barclays Bank PLC Frankfurt Branch distributes this material in Germany under the supervision of Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin). 
+This material is distributed in Malaysia by Barclays Capital Markets Malaysia Sdn Bhd. 
+This material is distributed in Brazil by Banco Barclays S.A. 
+Barclays Bank PLC in the Dubai International Financial Centre (Registered No. 0060) is regulated by the Dubai Financial Services Authority (DFSA). Barclays Bank PLC-
+DIFC Branch, may only undertake the financial services activities that fall within the scope of its existing DFSA licence. 
+Barclays Bank PLC in the UAE is regulated by the Central Bank of the UAE and is licensed to conduct business activities as a branch of a commercial bank incorporated
+outside the UAE in Dubai (Licence No.: 13/1844/2008, Registered Office: Building No. 6, Burj Dubai Business Hub, Sheikh Zayed Road, Dubai City) and Abu Dhabi
+(Licence No.: 13/952/2008, Registered Office: Al Jazira Towers, Hamdan Street, PO Box 2734, Abu Dhabi). 
+Barclays Bank PLC in the Qatar Financial Centre (Registered No. 00018) is authorised by the Qatar Financial Centre Regulatory Authority (QFCRA). Barclays Bank PLC-
+QFC Branch may only undertake the regulated activities that fall within the scope of its existing QFCRA licence. Principal place of business in Qatar: Qatar Financial 
+Centre, Office 1002, 10th Floor, QFC Tower, Diplomatic Area, West Bay, PO Box 15891, Doha, Qatar. 
+This material is distributed in Dubai, the UAE and Qatar by Barclays Bank PLC. Related financial products or services are only available to Professional Clients as defined 
+by the DFSA, and Business Customers as defined by the QFCRA. 
+This material is distributed in Saudi Arabia by Barclays Saudi Arabia ('BSA'). It is not the intention of the Publication to be used or deemed as recommendation, option or
+advice for any action (s) that may take place in future. Barclays Saudi Arabia is a Closed Joint Stock Company, (CMA License No. 09141-37). Registered office Al 
+Faisaliah Tower | Level 18 | Riyadh 11311 | Kingdom of Saudi Arabia. Authorised and regulated by the Capital Market Authority, Commercial Registration Number: 
+1010283024. 
+This material is distributed in Russia by Barclays Capital, affiliated company of Barclays Bank PLC, registered and regulated in Russia by the FSFM. Broker License #177-
+11850-100000; Dealer License #177-11855-010000. Registered address in Russia: 125047 Moscow, 1st Tverskaya-Yamskaya str. 21. 
+This material is distributed in India by Barclays Bank PLC, India Branch. 
+This material is distributed in Singapore by the Singapore branch of Barclays Bank PLC, a bank licensed in Singapore by the Monetary Authority of Singapore. For
+matters in connection with this report, recipients in Singapore may contact the Singapore branch of Barclays Bank PLC, whose registered address is One Raffles Quay
+Level 28, South Tower, Singapore 048583. 
+
+ 
+
+                                                                                                                                                             250
+---------------------Page 26---------------------
+
+ 
+
+Barclays Bank PLC, Australia Branch (ARBN 062 449 585, AFSL 246617) is distributing   this material in Australia. It is directed at 'wholesale clients' as defined by
+Australian Corporations Act 2001. 
+IRS Circular 230 Prepared Materials Disclaimer: Barclays Capital and its affiliates do not provide tax advice and nothing contained herein should be construed to be tax
+advice. Please be advised that any discussion of U.S. tax matters contained herein (including any attachments) (i) is not intended or written to be used, and cannot be 
+used, by you for the purpose of avoiding U.S. tax-related penalties; and (ii) was written to support the promotion or marketing of the transactions or other matters
+addressed herein. Accordingly, you should seek advice based on your particular circumstances from an independent tax advisor. 
+Barclays Capital is not responsible for, and makes no warranties whatsoever as to, the content of any third-party web site accessed via a hyperlink in this publication and 
+such information is not incorporated by reference. 
+© Copyright Barclays Bank PLC (2011). All rights reserved. No part of this publication may be reproduced in any manner without the prior written permission of Barclays
+Capital or any of its affiliates. Barclays Bank PLC is registered in England No. 1026167. Registered office 1 Churchill Place, London, E14 5HP. Additional information
+regarding this publication will be furnished upon request. 
+
+ 
+
+ 
+
+                                                                                                                                                             251
+---------------------Page 27---------------------
+
+ 
+
+  
+     
+     
+     
+     
+     
+  
+     
+     
+     
+     
+     
+  
+     
+     
+     
+     
+     
+  
+     
+     
+     
+     
+     
+ 
+
+US08-000001 
+
+                                                                                                                                                                                                                                   252
+ 

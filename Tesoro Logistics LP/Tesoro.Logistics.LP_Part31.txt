@@ -1,0 +1,1205 @@
+---------------------Page 1---------------------
+
+                                                                                                           INITIATION | COMMENT
+   6 WEEKS                         22APR11 - 27MAY11
+     Rel. S&P 500                            HI-27MAY11104.66                                                                      MAY 31, 2011
+                                             LO/HI DIFF 7.72%
+102.00
+                                             CLOSE  104.66 Tesoro Logistics LP                (NYSE: TLLP)
+
+                                             LO-06MAY11 97.16
+           2009             2010        2011               Growthy MLP Story with Bakken Exposure & Drop Down
+    JFMAMJ JASONDJFMAMJ JASONDJFMA M
+                                             HI-29APR1125.09
+ 25.00                                       LO/HI DIFF 19.48%
+                                                           Visibility
+ 24.00
+
+ 23.00                                       CLOSE   24.49
+
+                                                           Outperform
+ 22.00
+                                                           Average Risk
+                                             LO-22APR11 21.00
+10000
+ 8000                                                      Price:                              24.49    Price Target:                       28.00
+ 6000
+                                             PEAK VOL.10719.6
+ 4000                                                                                                    Implied All-In Return:                20%
+                                             VOLUME  734.3
+ 2000
+                                                           Shares O/S (MM):                    30.5    Market Cap (MM):                    747
+                                                           Dividend:                            1.35    Yield:                               5.5%
+                                                           Float (MM):                          30.2    Avg. Daily Volume (MM):             0.40
+RBC Capital Markets, LLC                                   Debt to Cap:                         37%    Est Tax Deferral:                     80%
+
+TJ Schultz, CFA    (Analyst)
+(512) 708-6385; tj.schultz@rbccm.com                       Initiating at Outperform with a $28 Price Target
+
+David Askew (Associate)                                    We are initiating coverage on Tesoro Logistics LP (TLLP) with a price target of
+(512) 708-6355; david.askew@rbccm.com                      $28/unit, and a rating of Outperform, Average risk. We believe TLLP deserves to
+                                                           maintain a premium valuation given the potential for above average distribution
+Sean Wells (Associate)
+                                                           growth from asset drop downs and exposure to the highly active Bakken Shale.
+(214) 989-1429; sean.wells@rbccm.com
+
+                                                           Investment Thesis
+FY Dec                                       2010A      2011E      2012E
+                                                            Long-term, fixed-fee contracts with volume commitments provide cash
+DCF - FD                                                              1.14           1.82
+                                                             flow security. TLLP generates a substantial portion of its revenue under
+EPU (Op) - FD                                                   1.00           1.46
+                                                             long-term, fee-based contracts with its parent Tesoro Corp. These contracts
+EBITDA (MM)                                                     52.7           67.0
+                                                             include minimum volume commitments and fees that are indexed for inflation,
+P/DCF                                                 NM         21.5x         13.5x
+                                                             which both support stability of cash flows and limit commodity exposure.
+P/EPU                                                 NM         24.5x         16.8x
+EV/EBITDA                                       NM         14.2x         11.1x Solid organic growth opportunities should be nicely accretive given
+                                                             conservative capital structure out of the box. TLLP exited its IPO with debt
+DCF - FD                  Q1              Q2              Q3              Q4
+                                                             leverage of less than 1.0x and has additional borrowing capacity on its revolver
+2011                                               0.00E        0.37E        0.37E        0.40E
+2012                                               0.39E        0.44E        0.45E        0.50Eof $100M. TLLP has earmarked $15.5M of near-term organic growth capex
+EPU (Op) - FD                                                over the next two years, which we think will be invested at less than 2.0x
+2011                                               0.00E        0.33E        0.33E        0.34EEBITDA and grow EBITDA by over 20% even assuming no drop downs
+2012                                               0.33E        0.36E        0.37E        0.40E
+                                                             occur.
+EBITDA (MM)
+2011                                               12.3E        12.8E        13.2E        14.4E Significant drop-down potential offers visible growth. The initial assets
+2012                                               14.6E        16.3E        17.1E        19.0Edropped to TLLP in the IPO generate roughly $50M-$55M of annual EBITDA.
+                                                             TLLP has right of first offer (ROFO) on a set of assets that we think can
+All values in USD unless otherwise noted.                    generate annual EBITDA of $50M-$80M, and we model about $5M of
+                                                             annualized EBITDA is dropped into the MLP every six months beginning
+                                                             4Q11.
+
+                                                           Distribution Outlook
+
+                                                           TLLP has an annualized minimum quarterly distribution of $1.35/unit, or 5.5% at
+                                                           current prices. We expect distributions to increase to an annualized rate of
+                                                           $1.773/unit by year end 2012 following near-term organic growth projects and
+                                                           the next set of drop downs, which implies 30+% distribution growth over the next
+                                                           18 months.
+
+                                                           Risks
+
+                                                           TLLP derives substantially all of its revenue from sponsor Tesoro, which
+                                                           provides concentration risk. Lower refined product demand could reduce Tesoro
+                                                           refining margins and volumes of crude and refined products handled by TLLP.
+                                                           Our forecast is dependent on TLLP coming to financial terms with its parent on
+                                                           the drop down assets.
+
+                                                           Priced as of prior trading day's market close, EST (unless otherwise noted).
+
+                                                                                           For Required Conflicts Disclosures, see Page 17.
+
+                                                                                                                                                   253
+---------------------Page 2---------------------
+
+May 31, 2011                                                                                                Tesoro Logistics LP
+
+Investment Thesis 
+  Long-term, fixed-fee contracts with volume commitments provide cash flow security.  Tesoro Logistics LP (TLLP) generates 
+   a substantial portion of its revenue under long-term, fee-based contracts with Tesoro Corp (“Tesoro” or “parent”).  These contracts 
+   include minimum volume commitments and fees that are indexed for inflation, which both support stability of cash flows and limit 
+   commodity exposure.  Under the agreements, TLLP provides pipeline transportation, trucking, terminal distribution, and storage 
+   services to Tesoro, and Tesoro provides TLLP with minimum monthly throughput volumes of crude oil and refined products.  The 
+   contracts include 10-year pipeline transportation in the Bakken on the High Plains system, a two-year trucking agreement in the 
+   Bakken, and 10-year storage and terminalling agreements in TLLP’s Terminalling, Transportation, and Storage segment.  We also 
+   expect TLLP to explore other opportunities to provide fee-based services through organic growth projects. 
+
+  Solid near-term organic growth opportunities should be nicely accretive given conservative capital structure out of the box.  
+   Tesoro Corp. has historically allocated minimal growth capex to its logistics assets because returns were not sufficient for the 
+   refining company (typically 16–20% IRRs), and the assets were viewed as a cost center.  However, these returns are attractive for 
+   an MLP structure, and we believe TLLP can spend relatively small levels of capex to optimize the asset base, fill existing capacity, 
+   and add new capacity. TLLP exited its IPO with only $50 million in debt (revolver draw) and a leverage ratio of less than 1.0x 
+   Debt / 2011 EBITDA. The partnership has additional borrowing capacity on its revolver of $100 million and can expand the 
+   revolver by an additional $150 million through the accordion feature.  Given this borrowing capacity, we expect TLLP to easily 
+   fund the next $100 million of organic growth capex and drop down payments through debt financing, which should make for more 
+   accretive projects.  TLLP has earmarked $15.5 million of near-term organic growth capex over the next two years, which is 
+   expected to generate run-rate EBITDA of about $10.5 million.  These projects will focus on filling High Plains system capacity in 
+   the Bakken and capturing additional services in the Terminalling segment.  This implies very accretive projects at less than a 2.0x 
+   EBITDA multiple and the ability to grow EBITDA by over 20% even assuming no drop downs occur.   
+
+  Significant drop-down potential offers visible ongoing growth.  The initial assets dropped to TLLP in the IPO generate roughly 
+   $50 million–$55 million of annual EBITDA.  Tesoro has also identified a portfolio of assets that it has agreed to give the right of 
+   first offer (ROFO) to TLLP.  The ROFO assets include three product terminals, two pipelines, and four marine terminals.  Tesoro 
+   Corp. has a work team in place focused on prioritizing the potential drop downs.  Some of the projects require more commercial 
+   development than others, but we expect a deliberate and ratable asset drop schedule over the next several years (for comparison 
+   purposes, the IPO process took six months and involved 10 assets, so we feel this ratable schedule is erring on the side of 
+   conservatism).  In total, we estimate that the ROFO assets can generate annual EBITDA of $50 million–$80 million, which 
+   provides nice visibility on growth. We model a $50 million asset drop every 6 months beginning in the fourth quarter of 2011 using 
+   an 8–9x EBITDA multiple (so roughly $5-6 million in annual EBITDA per drop). 
+
+  Asset footprint in regions of high demand and production growth.  TLLP’s High Plains system is a premier crude gathering 
+   system in the Williston Basin (Bakken Shale), which is one of the most prolific and active onshore oil producing basins in North 
+   America.  RBC estimates North Dakota rig count to increase from 177 rigs currently to about 200 by year end 2011.  While 
+   estimates for future Bakken production vary widely, we see some level of consensus for Bakken production to double within the 
+   next five years (from about 400 Mbopd currently), and this could prove conservative if the current drilling pace holds.  Tesoro 
+   recently announced that it is expanding its capacity at the Mandan refinery (the only refinery within 300 miles of the Bakken) from 
+   58,000 Bopd to 68,000 Bopd, which will provide a near-term growth opportunity for TLLP (High Plains’ sole function right now is 
+   to feed the Mandan refinery).  In addition, as production in the play grows, there is an increasing need for crude oil takeaway 
+   capacity.  We believe that TLLP is well positioned to benefit from this trend, as High Plains is ideally situated to add interconnects 
+   to third-party pipelines to increase utilization on the system (TLLP can push 70,000 Bopd to Mandan now, but the system can 
+   handle over 100,000 Bopd if interconnects are negotiated). On the terminalling side, TLLP’s assets are primarily located on the 
+   West Coast, which is an area of expected growth in refined product demand. 
+
+  TLLP is low in the GP splits, which should benefit the limited partners. TLLP is currently in the 2% general partner splits, 
+   which should provide the opportunity for acquisitions to be more accretive to unitholders.  The lower split level lowers the cost of 
+   capital versus MLPs higher in the split. 
+
+                                                                                                                                   2
+
+                                                                                                                                   254
+---------------------Page 3---------------------
+
+       May 31, 2011                                                                                                    Tesoro Logistics LP
+
+       TLLP Investment Risks 
+
+       We consider two sets of risks when looking at a master limited partnership. First are the risks that come from holding the asset class 
+       (think of the different risk profile between sub-sectors, like a regulated pipeline asset versus gathering and processing asset). Second 
+       are the risks associated with holding assets in a master limited partnership structure.  
+
+       TLLP-Specific Risks 
+         TLLP derives substantially all of its revenue from sponsor Tesoro Corp. and would be adversely affected if it does not satisfy its 
+          commercial obligations to TLLP.      
+
+         Lower refined product demand could reduce Tesoro refining margins and volumes of crude and refined products handled by TLLP.  
+
+         The partnership’s assets are concentrated and reduced production in the Bakken Shale could reduce volumes gathered by the High 
+          Plains system. 
+
+         Our forecast is dependent on TLLP coming to financial terms with its parent on the drop down assets.  If TLLP does not come to 
+          financial terms, or if these terms are not as favorable as our forecast, this could have an impact on our analysis.     
+
+       Overall MLP Risks 
+         Credit markets: Valuations are impacted by changes in overall interest rates and credit spreads. Rising interest rates or widening 
+          spreads in the credit market tend to negatively impact the valuation of MLPs. 
+
+         Trading liquidity: MLPs tend not to be traded as often as their corporate counterparts mainly due to accumulating tax deferrals. 
+          Therefore, trading liquidity is limited in many of the public partnerships. 
+
+         Potential conflicts with general partner: Most MLPs have a GP that is incentivized to grow the distribution pool (either by 
+          increasing the distribution and/or issuing more LP equity). This conflict could allow the GP to reap higher economics on 
+          transactions while the limited partners achieve minimal accretion or, worse, dilution. In addition, this potential conflict entices the 
+          GP to add riskier assets to grow the distribution pool. Investors should pay particular attention to the incentive distribution rights 
+          (IDRs) held by the GP; as the “splits” work higher, they could potentially increase the cost of equity capital for the partnership.   
+
+       Valuation 
+
+       Using our multi-stage dividend discount model (DDM) for the LP units, we calculate a 12-month price target of $28/unit, which 
+       implies a yield of 5.7% on our one-year-out distribution estimate of $1.57/unit. Our DDM is based on our distribution estimates for the 
+       four quarters starting one year out and then a five-year growth rate of 9% (from the current distribution rate, these assumptions result 
+       in an annualized growth rate of 13% over the next five years).  We discount our DDM distributions at a rate consistent with our 
+       interest rate expectations and the risk associated with an Average risk qualifier.  Our risk qualifier considers and weighs various risk 
+       factors, including TLLP's trading liquidity, debt to forward EBITDA of 0.9x, forward total unit coverage of 1.1x, diversification, and 
+       commodity exposure. 
+
+       Comparable Company Valuation 
+       We believe TLLP deserves a yield premium given the potential for above-average distribution growth over the next several years as 
+       the drop down story unfolds.  Based on our analysis of comparable company valuations, TLLP is currently trading at an approximately 
+       10% premium to the group on a yield basis. Note that our 2011 and 2012 EBITDA growth estimates assume additional debt balances 
+       to complete asset acquisitions while the valuation multiples below use the existing net debt balance of approximately $47 million.      
+
+       Exhibit 1: Peer Group Valuation Comparison 
+
+                                                             Market                           Price /    Price /     EV /       EV / 
+                                                               Cap                 Current     2011E      2012E     2011E      2012E 
+Partnership                  Ticker    Rating      Price      ($MM)    Dist Ann     Yield      DCFU       DCFU      EBITDA     EBITDA
+Tesoro Logistics LP          TLLP      O-Avg       $24.49     $747         $1.35    5.5%       16.2x      13.7x      15.1x      11.8x
+Peer Average                                                                        6.1%       13.6x      12.6x      12.2x      11.3x
+Plains All American Pipeline, LP  PAA  SP-Avg      $62.12     $9,264       $3.88    6.2%       13.2x      13.4x      10.6x      10.4x           
+Holly Energy Partners LPSource: CapitalIQ, Company reports and RBC Capital Markets estimatesHEPNR$54.96$1,213; non$3.42-covered 6.2%consensus include third13.7x11.4x-party estimates from CapitalIQ12.6x11.0x 
+Sunoco Logistics Partners LPPriced as of market close ET, SXLMay 27SP-Avg, 2011. $84.44$2,797$4.785.7%15.0x15.0x     10.8x      10.6x
+NuStar Energy LP             NS        NR          $63.35     $4,093       $4.30    6.8%       12.6x      11.2x      12.5x      11.2x
+Enbridge Energy Partners LP  EEP       SP-Avg      $30.98     $7,894       $2.06    6.6%       12.9x      11.8x      11.0x      9.8x
+Genesis Energy LP            GEL       O-Avg       $26.93     $1,740       $1.63    6.1%       12.6x      10.9x      13.8x      12.3x
+Magellan Midstream Partners LP  MMP    O-Avg       $58.99     $6,650       $3.08    5.2%       15.0x      14.3x      14.3x      13.8x
+                                                                                                                                              3
+
+                                                                                                                                              255
+---------------------Page 4---------------------
+
+      May 31, 2011                                                                                             Tesoro Logistics LP
+
+      Distribution Structure and Outlook 
+      TLLP Poised to Deliver Outsized Distribution Growth:  TLLP has a minimum quarterly distribution (MQD) of $0.3375 per 
+      common unit or $1.35 annualized, representing a 5.5% yield at the current price. We forecast total distributions of $0.9329 in 2011 
+      and $1.6230 in 2012, representing 74% growth as the IPO year only includes a partial distribution. However, we expect TLLP to 
+      deliver outsized distribution growth with an annualized distribution rate of $1.7730 in the fourth quarter of 2012, which represents 
+      25% growth over the $1.4130 rate in the fourth quarter of 2011.    
+
+      Incentive Distribution Rights (IDRs):  IDRs, which are owned entirely by the general partner Tesoro Logistics GP, will not be 
+      triggered until common and subordinated unit holders receive an aggregate distribution of $0.388125.  
+
+      Subordinated Units:  Tesoro Corp. owns all of the 15.3 million subordinated units, or 49% of the total outstanding limited partner 
+      interest. The subordinated units can receive the MQD only after the common units have received the MQD and any arrearages from 
+      prior quarters. The subordination period ends after TLLP has paid the MQD for three consecutive years on or after June 30, 2014 or 
+      150% of the MQD ($2.025) for the four quarters prior to that date.  
+
+      Exhibit 2: Distribution Tiers 
+
+                                                                                                                                
+      Source: Partnership reports 
+
+                                                                                  Percentage Split
+                                                                 Unitholders              GP                 IDR
+Minimum Quarterly Distribution                  $0.337500           98.0%                2.0%                0.0%
+First Target                      $0.337500 - $0.388125             98.0%                2.0%                0.0%
+Second Target                     $0.388125 - $0.421875             85.0%                2.0%               13.0%
+Third Target                      $0.421875 - $0.506250             75.0%                2.0%               23.0%
+Thereafter                                  > $0.506250             50.0%                2.0%               48.0%
+
+                                                                                                                                     4
+
+                                                                                                                                     256
+---------------------Page 5---------------------
+
+May 31, 2011                                                                                                                                 Tesoro Logistics LP
+
+Partnership Overview 
+                                                                                 1
+TLLP is a growth-oriented MLP formed by Tesoro Corporation                         (TSO:    $ 24.14  : Sector Perform, Above Average Risk)              to operate its 
+
+gathering and processing       , and short   - haul pipelines, trucking and terminalling logistics asset            s.  The partnership intends to operate its 
+
+assets under long    -term, minimum volume contracts with Tesoro and pursue asset drop                        -down growth opportunities. The initial assets 
+
+are strategically located near Tesoro refineries in the Bakken Shale, West Coast, Ro                       ckies and Alaska with potential drop          -downs near 
+
+existing infrastructure.        
+
+TLLP   was formed via an initial public offering on             April   19 , 2011  , when   Tesoro Corp     .,  as the sole selling shareholder      , sold   13 ,000,000 
+
+common units at a price of $        21 .00  per unit   for  net proceeds of $246.6       million  .  TLLP   receive   d $3  million   for working capital w       ith the 
+
+balance used to fund $2 million          of debt issuance costs and a $241.6           million   distribution to Tesoro. Additionally, the partnersh            ip 
+
+concurrently entered a $150 million           cre dit facility and drew $50       million   to fund an additional distribution to Tesoro.             Following the 
+
+offering and full exercise of the        1 ,9 5 0,000 over  -allotment option,      Tesoro Corp.     owns   0.3  million    common units,      all  15.3  million   
+
+subordinated units     ,  and  0 .6 milli  on  GP units ( which   in total  represents a    5 2 .0% interest   ) .  Common unit holders own a          48 .0%  common 
+
+interest.  
+
+TLLP Incentive Distribution Rights Structure  
+
+Tesoro Corp. owns a 2.0% interest in all distributions in addition to holding 100% of the incentive distribution rights above minimum 
+
+and target distribution levels.  The incentive distribution rights entitle the general partner to receive increasing percentages, up to 48%, 
+
+of distributions from operating surplus after pre-defined distribution targets.  
+
+Exhibit 3: TLLP Ownership Structure 
+
+                                                                                                      
+Source: partnership presentation 
+
+                                                           
+
+1
+  Covered by RBC Capital Markets, LLC analyst Jacques Rousseau; (703) 787-9014; jacques.rousseau@rbccm.com                            
+
+                                                                                                                                                                          5
+
+                                                                                                                                                                           257
+---------------------Page 6---------------------
+
+May 31, 2011                                                                                               Tesoro Logistics LP
+
+Initial Assets Overview 
+As part of the IPO, Tesoro Corp. contributed crude oil and refined products logistics assets with gross book value of $193 million to 
+the partnership, supported by fixed-fee minimum volume agreements with Tesoro. The initial assets consist of a crude oil gathering 
+system in the Bakken Shale of North Dakota and Montana, eight refined products terminals in the Midwest and Western US, and a 
+crude and refined products storage facility and five short-haul pipelines in Utah. The partnership’s assets and operations are organized 
+in two segments: Crude Oil Gathering and Terminalling, Transportation and Storage. Exhibit 4 summarizes the partnership’s initial 
+assets.  
+
+Exhibit 4: TLLP Initial Asset Overview  
+
+                                                                                     Crude Oil Gathering (~48% of EBITDA)  
+
+                                                                                       Crude gathering system in Bakken Shale / 
+                                                                                        Williston Basin  
+
+                                                                                       ~700 miles of pipeline and trucking from 
+                                                                                        wellhead to pipeline  
+
+                                                                                       Primarily serves TSO’s Mandan, ND 
+                                                                                        refinery    
+                                                                                       
+
+                                                                                     Terminalling,  Transportation  and Storage  
+                                                                                     (~52% of EBITDA)    
+
+                                                                                       8 Refined product terminals  
+
+                                                                                       Refined product and crude oil storage in 
+                                                                                        Salt Lake City, Utah  
+
+                                                                                       Short-haul pipelines in Salt Lake City, 
+                                                                                        Utah    
+                                                                                               
+
+                                                                                  
+
+Source:  Company presentations and filings  
+
+                                                                                                                                  6
+
+                                                                                                                                  258
+---------------------Page 7---------------------
+
+     May 31, 2011                                                                                               Tesoro Logistics LP
+
+     Crude Oil Gathering Segment 
+     The partnership’s common carrier High Plains system in North Dakota and Montana consists of 23,000 bpd truck-based crude 
+     gathering capacity and 700 miles of pipeline and storage assets with capacity to deliver up to 70,000 bpd to Tesoro’s 58,000 bpd 
+     Mandan, ND refinery (the only refinery within 300 miles of the Bakken). We believe the High Plains assets present significant organic 
+     expansion opportunities, including capturing third party volumes and replacing truck-gathered volumes with higher margin pipe 
+     connections. The partnership expects minimum contracted volumes under agreements with Tesoro to account for approximately 88% 
+     and 97% of 2011 pipeline and trucking volumes, respectively Exhibit 5 provides a summary of the High Plains assets.  
+
+     Exhibit 5:  High Plains Gathering System Overview  
+
+                                                                               High Plains Pipeline (~71% of Crude Volume)   
+
+                                                                                 700 mile gathering and trunk line system across ND 
+                                                                                  and MT with 70,000 bpd capacity 
+                                                                                   o   45 proprietary gathering entry points  
+
+                                                                                 Available capacity and interconnects with third party 
+                                                                                  regional pipelines  
+
+                                                                                 Can expand with optimization /debottlenecking and 
+                                                                                  connections to third party pipelines  
+
+                                                                               High Plains Truck Gathering (~29% of Crude Volume)  
+
+                                                                                 23,000 bpd truck gathering operations  
+
+                                                                                 Hauls to 13 truck unloading facilities along the High 
+                                                                                  Plains truck line system  
+                                                                                 45% proprietary and 55% third party trucks  
+
+     Source:  Company presentations and filings; RBC Capital Markets estimates 
+
+     Exhibit 6:  High Plains Pipeline Minimum and Expected Volumes (Mbpd)  
+
+                                                                              High Plains Transportation Agreement   
+
+                                                                                 Tesoro reserves 70% of capacity (49,000 bpd) 
+
+                                                                                 TLLP charges Tesoro for transporting crude oil from 
+                                                                                  North Dakota origin points pursuant to both committed 
+                                                                                  and uncommitted tariff rates, which vary depending on 
+                                                                                  the origin point on the system from which barrels are 
+                                                                                  transported. 
+
+                                                                                     2009 Tariff: $1.28/bbl 
+
+                                                                                     3Q10 LTM Tariff: $1.35/bbl 
+
+                                                                                 TLLP filed a 10-Q for the March 2011 quarter on May 
+                                                                                  26, 2011.  In the 10-Q, TLLP reported 1Q11 pipeline 
+                                                                                  volumes of 55,301 bpd, which was 5% higher YoY on 
+                                                                                  improved Mid-Continent volumes 
+80.0
+                                                           72.7
+                                                                                 RBCCM volume forecast assumes 2Q12 completion of 
+70.0                                          67.0
+                                                                                  additional capacity in connection with the Mandan 
+                                                                                  refinery expansion (see Exhibit 6). 
+60.0                              55.8
+         52.8
+                     50.7
+     Source:  Company presentations and filings; RBC Capital Markets estimates 
+50.0
+
+40.0
+
+30.0
+
+20.0
+
+10.0
+
+0.0
+         2009        2010         2011        2012         2013
+
+                                                                                                                                       7
+
+                                                                                                                                       259
+---------------------Page 8---------------------
+
+     May 31, 2011                                                                                                  Tesoro Logistics LP
+
+     Exhibit 7:  High Plains Trucking Minimum and Expected Volumes (Mbpd)  
+
+                                                                                  High Plains Trucking Agreement   
+
+                                                                                     Tesoro is committed to 22,000 bpd 
+
+                                                                                     Fee of $2.72 per truck-hauled barrel 
+
+                                                                                     Additional $0.14/bbl tank usage fee 
+
+                                                                                     Truck hauling fee includes a fuel surcharge 
+
+                                                                                     Volumes that are shifted to pipeline gathering can 
+                                                                                      relieve trucking volume commitment    
+
+                                                                                     TLLP filed a 10-Q for the March 2011 quarter on May 
+                                                                                      26, 2011.  In the 10-Q, TLLP reported 1Q11 trucking 
+                                                                                      volumes of 21,628 bpd, which was 8% lower YoY on 
+                                                                                      adverse weather.  We expect volumes to normalize 
+                                                                                      in 2Q11. 
+
+                                                                                   
+                                                                              
+
+     Source:  Company presentations and filings; RBC Capital Markets estimates 
+
+     Crude Oil Gathering Organic Growth Opportunities 
+     Mandan Refinery Expansion: Tesoro parent recently announced plans to increase capacity at its Mandan refinery from 58,000 Bopd 
+     to 68,000 Bopd, with expected in-service in the second quarter of 2012.  TLLP has identified $6.6 million of capital opportunities over 
+     the next 12 months to support the Mandan expansion.  We expect this capex to drive an additional $6.4 million of EBITDA on an 
+     annual basis after completion in the second quarter of 2012, which implies an approximately $4.3 million contribution to full year 
+     2012 EBITDA.  
+
+     Exhibit 8:  Near-Term Crude Oil Gathering Organic Growth Projects  
+
+     Project               Capex        Annual        Expected      Description 
+                           ($MM)        EBITDA       Completion 
+                                         ($MM) 
+
+     Crude Gathering:                                                  
+
+     High Plains            $6.6          $6.4          2Q12        Pumping,  tankage  and  truck  unloading  capacity  (one  expansion  and  one 
+                                                                    additional truck unloading facility) to support TSO’s Mandan refinery expansion  
+
+     Total                 $6.6          $6.4                        
+
+     Source:  Company presentations and filings; RBC Capital Markets estimates 
+
+24.0 Other Organic Growth Opportunities: Beyond what has been identified to support the Mandan refinery expansion, we believe 
+     TLLP may also pursue opportunities to capture growing Bakken take-away demand in addition to its Mandan volumes.   
+                                                            23.4
+23.5
+       Notably, referring back to 23.3
+                                   Exhibit 5, TLLP has the potential to interconnect with pipelines at Portal, Fritz, and Fryburg in North 
+        Dakota and with the Bridger Pipelin23.0
+         23.0                               e in Richey, MT.  While TLLP can currently push 70,000 Bopd to the Mandan refinery (stated 
+23.0
+        capacity on the system), the physical capacity is over 100,000 Bopd if these interconnects can be negotiated.  Two or three o22.7f the 
+        interconnects are very low capex requirements (basically turning a valve) and two or three of the interconnects are a bit more 
+22.5
+        capital intensive.  Regardless, we believe this is a nice source of potential growth. 
+
+       We believe TLLP may look at opportunities to move crude oil away from the Bakken (including to the West Coast), and this could 
+22.0
+        include capital spent around Mandan to give the MLP that capability. 
+
+21.5   Within the trucking segment, TLLP also may be able to better optimize its fleet over time, as the partnership currently utilizes 55% 
+        third-party trucks.  This is primarily due to the difficulty to obtain and retain drivers, but if TLLP is able to increase its proprietary 
+21.0    mix, we believe this could have some positive impact on results. 
+         2009         2010         2011        2012         2013
+       We also believe that the partnership will seek to engage producers to replace truck-gathered volumes with pipeline volumes, which 
+        offers a higher margin.   
+
+                                                                                                                                          8
+
+                                                                                                                                          260
+---------------------Page 9---------------------
+
+May 31, 2011                                                                                                  Tesoro Logistics LP
+
+Terminalling, Transportation, and Storage Segment  
+
+The partnership’s Terminalling, Transportation, and Storage assets are located primarily on the West Coast and are comprised of eight 
+refined products terminals and a refined products and crude storage facility with related short-haul pipelines serving Tesoro’s Salt 
+Lake City refinery. The product terminals have 229,000 bpd aggregate truck and barge delivery capacity and primarily support 
+Tesoro’s Los Angeles, Golden Eagle, Salt Lake City, Kenai, Mandan, and Anacortes refineries. The partnership expects minimum 
+contracted volumes under agreements with Tesoro to account for approximately 86% and approximately 90% of total 2011 terminal 
+and pipeline throughput, respectively. Exhibit 9 provides a summary overview of the refined product terminals.     
+
+Exhibit 9:  Terminalling, Transportation, and Storage Asset Overview  
+
+ Terminal                 Capacity (bpd)       2010 Vols. (bpd) 
+                                                                    Refined Produ  cts Terminals         
+ Los Angles, CA              48,000                35,286              Eight refined product terminals with aggregate truck and 
+ Stockton, CA                 9,400                 8,526               barge delivery capacity of 229,000 bpd 
+
+ Salt Lake City, UT          42,000                25,457              Supports Tesoro’s Los Angeles, Golden Eagle, Salt Lake City, 
+                                                                        Kenai, Mandan and Anacortes refineries  
+ Anchorage, AK               63,000                15,132 
+                                                                       Barge loading at Vancouver and Anchorage terminals  
+ Mandan, ND                  22,500                 9,963 
+                                                                       2010 volumes: 72% gasoline and blendstocks, 23% diesel, 5% 
+ Vancouver, WA               19,600                 8,432               jet fuel      
+ Boise, ID                   22,500                 7,677 
+                                                                    Salt Lake City, UT Storage Facility     
+ Burley, ID                  12,000                 3,477 
+                                                                       13 tanks with 878,000 Bbls storage capacity  
+ Total Terminal              239,000               113,950 
+                                                                       Feeds crude to TSO refinery and receives refined and 
+                                                                        intermediate products  
+
+ Short-haul Pipe                                   60,666              No terminalling capabilities    
+ 
+
+                                                                    Short-haul Product and Crude Pipelines     
+
+                                                                       Three 8”, 10” and 16” crude pipelines connected to Chevron 
+                                                                        and Plains All American interstate lines  
+
+                                                                       Two 6” and 8” refined products pipelines from refinery to 
+                                                                        Chevron Northwest Pipeline      
+
+Source:  Company presentations and filings  
+
+ 
+
+                                                                                                                                     9
+
+                                                                                                                                     261
+---------------------Page 10---------------------
+
+     May 31, 2011                                                                                                   Tesoro Logistics LP
+
+     Exhibit 10:  Terminalling Minimum and Expected Volumes (Mbpd)  
+
+                                                                               Master Terminalling Agreement 
+
+                                                                                 100,000 bpd base terminalling volume commitments 
+                                                                                  from 8 terminals 
+
+                                                                                 Weighted average fee of $0.79/bbl 
+
+                                                                                 10-year contracts with two 5-year renewal options by 
+                                                                                  Tesoro 
+
+                                                                                 Fees rise annually on CPI escalator  
+
+                                                                                 Base throughput rate and minimum commitment to 
+                                                                                  ancillary service fees per Bbl  
+
+                                                                                 Outlook includes volumes from our modelled drops 
+
+                                                                                 TLLP filed a 10-Q for the March 2011 quarter on May 26, 
+                                                                                  2011.  In the 10-Q, TLLP reported 1Q11 terminal 
+
+                                                                                  throughput of 121,546 bpd, which was 10% higher YoY as 
+                                                                                  2010 included a scheduled turnaround. 
+
+     Source:  Company presentations and filings; RBC Capital Markets estimates 
+
+     Exhibit 11:  Terminalling, Transportation and Storage Contract Overview 
+
+                          Master       SLC Storage      SLC Short-Haul 
+                       Terminalling     Agreement        Agreement 
+                        Agreement 
+
+       Term                10 yrs         10 yrs            10 yrs 
+
+       Renewals          2 x 5 yrs       2 x 5 yrs         2 x 5 yrs 
+
+       Min Vol.         100,000 bpd     878,000 Bbl       54,000 bpd 
+       Commitment 
+
+       Tariff / Fee     ~$0.79/Bbl       $0.25/Bbl     $0.50/Bbl/month 
+
+       Escalator            CPI             CPI              CPI 
+      
+     Source:  Company presentations and filings  
+
+     Terminalling, Transportation & Storage Organic Growth Opportunities 
+
+     TLLP has identified $8.9 million of capital opportunities over the next nine months within the segment, which we expect to drive an 
+     additional $4.5 million of annualized EBITDA when complete by the first quarter of 2012.  Spending on the projects, which are 
+     outlined in Exhibit 12, will mostly occur in 2011 and we estimate an approximately $3.4 million impact to full year 2012 EBITDA.  In 
+300.0
+     general, we believe TLLP’s greatest opportunities within the terminalling segment will be tapping third-party volumes.  Third-party 
+     volumes were not actively pursued under Tesoro’s control 244.7(so as to keep optionality open), but we believe the MLP will be better 
+250.0
+     positioned to optimize the existing asset base. In addition to the identified opportunities, we believe TLLP can pursue further 
+     expansions and optimization opportunities, representing upside to our estimates.    
+200.0
+                                              176.2
+
+     Exhibit 12:  Identified Terminalling Organic Growth Projects 
+150.0
+                                  121.4
+     Project 113.1   114.0 Capex         Annual        Expected      Description 
+                           ($MM)         EBITDA       Completion 
+100.0
+                                         ($MM) 
+
+     Salt Lake City         $1.2          $1.4           2Q11       • Terminal rack infrastructure for ethanol   blending  
+50.0
+     Stockton               $4.5          $2.6           1Q12       • Expand to capacity to capture TSO full market demand (8 Mbpd) 
+ 0.0 Los Angeles            $2.0          $0.4           1Q12       • Transmix receipt services for TSO’s Los Angeles refinery  
+         2009         2010        2011         2012        2013
+     Burley                 $1.2          $0.1           1Q12       • Terminal rack infrastructure for ethanol blending  
+
+     Total                  $8.9          $4.5                        
+
+     Source:  Company presentations and filings; RBC Capital Markets estimates 
+
+      
+
+                                                                                                                                          10
+
+                                                                                                                                            262
+---------------------Page 11---------------------
+
+May 31, 2011                                                                                                Tesoro Logistics LP
+
+The Drop-Down Opportunity 
+TLLP has articulated a three-pronged strategy for distribution growth, which includes optimizing the existing asset base and capturing 
+additional third-party volume, pursuing organic growth projects, and acquiring complementary logistics assets.  On the acquisition 
+front, Tesoro has granted the partnership a right of first offer to acquire certain of its logistics assets, providing a pipeline of low-
+hanging growth opportunities over the next several years.    
+
+Right of First Offer (ROFO) Assets 
+TLLP has right of first offer to acquire certain Tesoro logistics assets including terminals, pipelines, docks and storage facilities 
+located in Alaska, California and Washington. Management has identified an inventory of assets with gross book value of $240 
+million. Tesoro parent has a work team in place focused on prioritizing the potential drop downs.  Some of the projects require more 
+commercial development than others, but we expect a deliberate and ratable asset drop schedule over the next several years (for 
+comparison purposes, the IPO process took six months and involved 10 assets, so we feel this ratable schedule is erring on the side of 
+conservatism).  In total, we estimate that the ROFO assets can generate annual EBITDA of $50 million–$80 million.   
+
+We summarize the primary ROFO assets identified by the partnership in Exhibit 13.  
+
+Exhibit 13:  ROFO Assets Provide Steady Inventory of Drop-Down Opportunities  
+
+                                                                      Refined Product Terminals    
+
+                                                                        Golden Eagle (CA) – 38 Mbpd; no storage  
+
+                                                                        Nikisi (AK) – 2.6 Mbpd truck rack; 211 MBbls storage  
+
+                                                                        Anacortes (WA) – 1.7 bpd; no storage  
+
+                                                                      Marine Terminals   
+
+                                                                        Long Beach (CA) – 104 Mbpd crude / refined products  
+
+                                                                        Amorco Wharf (CA) – 61 Mbpd crude; 425 MBbls storage 
+
+                                                                        Avon Wharf (CA) – limited vols; no storage  
+
+                                                                        Nikisi Dock (AK) – 74 Mbpd crude / refined products; 930 
+                                                                         MBbls storage  
+
+                                                                        Anacortes (WA) – 54 Mbpd crude / refined products; 1.4 
+                                                                         MMBbls storage  
+
+                                                                      Pipelines   
+
+                                                                        Tesoro Alaska Pipeline – 69-mile pipeline with ~31 Mbpd 
+                                                                         throughput  
+
+                                                                        Los Angeles Pipeline System – 9 lines with ~45.2 Mbpd 
+                                                                         throughput  
+
+                               
+
+Source:  Company presentations and filings  
+
+Our cash flow and distribution growth projections assume TLLP consummates $50 million of asset drops every other quarter 
+beginning in the fourth quarter of 2011 with an average transaction multiple of 8-9x EBITDA, which implies annual EBITDA 
+contributions of $5.5 million–$6.25 million per transaction. During our forecast period ended December 2013, we assume five 
+transactions totalling $250 million at a 9.0x EBITDA multiple resulting in an ~$27.8 million cumulative EBITDA contribution (see 
+Exhibit 14 below). Our asset drop assumptions drive our outsized annualized distribution growth estimates of +25% and +23% for the 
+fourth quarter of 2012 and fourth quarter of 2013 respectively.  Our full year distribution growth estimates for 2012 and 2013 of 74% 
+and 25% are skewed by the fact that 2011 is a partial distribution year.     
+
+                                                                                                                                 11
+
+                                                                                                                                   263
+---------------------Page 12---------------------
+
+        May 31, 2011                                                                                                           Tesoro Logistics LP
+
+        DCF Outlook 
+
+        Our cash flow and distribution growth projections assume TLLP 
+                                                                                         Exhibit 14: Asset Drop-Down Assumptions ($MM)   
+        consummates $50 million of asset drops every other quarter beginning 
+        in 4Q 2011 with an average transaction multiple of 8-9x EBITDA, which              Period         Transaction       Annual       Cumulative 
+
+        implies annual EBITDA contributions of $5.5 million–$6.25 million per                                Value          EBITDA         EBITDA 
+                                                                                                                            Impact          Impact   
+        transaction. Our asset drop assumptions drive our outsized annualized 
+        distribution growth estimates of +25% and +23% for 4Q12 and 4Q13                   2011               $50            $1.1            $1.1 
+        respectively.  Our full year distribution growth estimates for 2012 and            2012               100             4.5            8.8 
+        2013 of 74% and 25% are skewed by the fact that 2011 is a partial                  2013               100             4.7            17.9 
+        distribution year.                                                                 Total             $250                           $27.8 
+                                                                                          
+
+        We believe TLLP’s solid financial position will allow it to deliver highly accretive growth through acquisitions in the near-term 
+
+        without the need for additional equity raises in the foreseeable future. After the IPO, TLLP has only $50 million of debt outstanding 
+
+        under its $150 million revolver which equates to ~0.9x Debt / forward EBITDA and ~12x of forward interest coverage.  In addition to 
+
+        $100 million of current availability, the credit facility can ultimately be increased to $300 million with additional lender commitments.  
+
+        Exhibit 15:  DCF and Distribution Forecast     
+
+                                                                                                                                                          
+
+        Source:  RBC Capital Markets estimates 
+
+        Balance Sheet 
+
+        TLLP has $50 million of outstanding long-term debt, which was a $50 million draw on its revolver.  The partnership has an additional 
+
+        $100 million of revolver availability, which we expect to be utilized over the next year to fund organic growth and drop down 
+
+        acquisitions.  We expect debt/EBITDA to increase from ~0.9x currently to around 3.0x by year end 2012 and 3.5x by year end 2013, 
+
+        which is at the high end of management’s comfort zone.  If the partnership undertakes larger or more numerous transactions than those 
+
+        assumed in our model, an equity issuance would likely be necessary.  
+
+        Debt covenants are fairly relaxed, as the credit facility allows debt/EBITDA to increase to 4.5x for an acquisition, thereby allowing it 
+($ in MM, except per share data & ratios)
+        to serve as a sort of bridge facility.  Longer2011 Quarterly Results
+                                                       term, TLLP plans to maintain a conservative balance sheet with debt/EBITDA targeted at 2012 Quarterly Results
+                                Q111E     Q211E     Q311E    Q411E       Q112E     Q212E     Q312E     Q412E       FY11E     FY12E     FY13E
+        3.5x and distribution coverage of 1.1x. In addition, TLLP has an accordion feature on its credit facility allowing for up to $300 million 
+ Adjusted EBITDA
+        in capacity following an invitation for additional commitments.  $12.3$12.8$13.2$14.4$14.6
+                                                                                     $16.3      $17.1     $19.0      $52.7      $67.0     $84.6
+   Cash Interest Expense               -      (0.3)    (0.6)     (0.9)       (1.1)     (1.4)     (1.7)     (1.9)       (1.7)     (6.2)    (10.5)
+   Maintenance CapEx                (0.8)     (1.1)    (1.1)     (1.3)       (1.2)     (1.3)     (1.4)     (1.5)       (4.3)     (5.4)     (6.3)
+   General Partner InterestExhibit 16:  Debt and Leverage Forecast-(0.2)    (0.2) (0.2)(0.2)(0.2)(0.3)     (0.4)       (0.6)     (1.1)     (4.3)
+ Distributable Cash Flow to LP     $11.5    $11.3     $11.2     $12.1      $12.0     $13.4      $13.8     $15.1      $46.1      $54.4     $63.4
+ Distributable CF Per Unit                  $0.37     $0.37     $0.40      $0.39     $0.44      $0.45     $0.50      $1.14      $1.82     $2.22
+
+ Distributions per Unit                -  $0.24142 $0.33825  $0.35325    $0.36825  $0.39325  $0.41825  $0.44325    $0.93292  $1.62300  $2.02300
+   Common Unit Coverage                -     1.53x     1.09x    1.13x       1.07x     1.11x     1.08x     1.12x       1.22x     1.12x     1.10x
+
+($ in MM, except per share data & ratios)2011 Quarterly Results                  2012 Quarterly Results
+                                                                                                                                                          
+                                Q111E     Q211E     Q311E    Q411E       Q112E     Q212E     Q312E     Q412E       FY11E     FY12E     FY13E
+        Source:  RBC Capital Markets estimates 
+ Total Assets                     $136.7    $141.3    $142.9   $194.3      $195.1    $244.5    $243.6    $292.5      $194.3    $292.5    $384.9
+ Total Partners' Capital           129.8     84.3      84.0      84.0        83.3      83.0      82.3      81.7        84.0      81.7      71.9
+        CapEx & Financing Assumptions 
+ Net Debt                              -    $47.0     $48.8     $99.6      $101.2    $150.2    $149.6    $198.4      $99.6     $198.4    $299.5
+   Net Debt / TTM EBITDAWe estimate maintenance capex (.0xMCX) of $.9x4.3.9x million1.9x in 2011 and $1.8x5.4 2.6xmillion in 2012.  This represents roughly 2.4x3.0x1.9x3.0x8% of EBITDA in 3.5x
+   Interest Coverage
+        both 2011 and 2012.  For growth capital spending, we assume $-38.9x19.6x14.2x10.7x
+                                                                             10.2 million9.6x
+                                                                                           in 2018.5x
+                                                                                                  1 primarily relate8.2x
+                                                                                                                    d to iden26.1x
+                                                                                                                              tified growth projects 9.0x6.7x
+                                                                                                                                                      and 
+
+        a $50 million fourth quarter 2011 drop down. Our 2012 growth capex and acquisition estimates total $5.6 million and $100 million, 
+
+        respectively. We assume the capital requirements in 2011 and 2012 can be debt-funded, but if the partnership were to pursue drop 
+
+        downs at a faster than the expected pace, we anticipate future large acquisitions to be funded with a 50/50 debt to equity ratio to 
+
+        maintain leverage at or below 3.5x.    
+
+                                                                                                                                                      12
+
+                                                                                                                                                        264
+---------------------Page 13---------------------
+
+    May 31, 2011                                                                                                      Tesoro Logistics LP
+
+    The Bakken Shale Advantage 
+
+    Well Positioned for Bakken Shale / Williston Basin Production Growth:  The Bakken Shale is a leading unconventional oil 
+    producing zone within the Williston Basin, which extends across North Dakota, South Dakota, Montana and parts of southern Canada. 
+    After a 2008 study, the US Geological Survey classified the Bakken as the largest “continuous” oil accumulation assessed by it to 
+    date, with 3.0 – 4.3 BBbls of technically recoverable reserves. TLLP’s High Plains assets are uniquely levered to Bakken production 
+    growth which should remain robust as favorable economics drive increasing rig counts.  
+
+    Exhibit 17:  North Dakota Rig Count 
+
+                                                                                          Current rig count of 177 rigs as of May 16, 2011 
+
+                                                                                        Rig Count data and highlights are pulled from 
+                                                                                        RBC Capital Markets E&P Analyst Scott Hanold’s 
+                                                                                        latest Bakken & Three Forks Update published 
+                                                                                        March 24, 2011: 
+
+                                                                                          Robust Activity                continues with most operators 
+                                                                                            planning to increase rig counts. We estimate the 
+                                                                                            current rig count to near 200 by 2011YE. 
+
+                                                                                          Frac Capacity               is tight but some operators are 
+                                                                                            committing to dedicated crews. We estimate 
+                                                                                            there are around 30 crews working the basin 
+                                                                                            with another half dozen on the way. 
+
+                                                                                          Bigger Still Better                  more companies talking 
+                                                                                            about increased well laterals and higher 
+                                                                                     
+                                                                                            intensity (more stages, fluid, proppant) fracs 
+                                                                                            because of improved well performance. 
+
+                                                                                          Pad Drilling            becoming in vogue now that HBP is 
+                                                                                            less of an issue. This should improve operational 
+                                                                                            efficiencies and reduce well costs. 
+
+    Source:  North Dakota Industrial Commission, Company Reports, RBC Capital Markets estimates  
+
+    Exhibit 18:  Bakken Shale Production Growth vs. Takeaway Capacity  
+
+                                                                                          There is competition for takeaway from the 
+                                                                                            Bakken Shale, but we believe the partnership 
+                                                                                            will increasingly have opportunities to expand 
+                                                                                            and optimize its High Plains system to capture 
+ 180
+                                                                                            additional third-party volumes 
+ 160
+ 140
+ 120                                                                                      Orange highlighted production forecast is a 
+ 100                                                                                        forecast for illustrative purposes from the North 
+  80                                                                                        Dakota Pipeline Authority and does not 
+  60                                                                                        necessarily reflect RBC’s current production 
+  40
+                                                                                            forecast 
+  20
+1,2000                                                                                     
+
+                                                                                             
+1,000
+                                               KeystoneXL
+                 Billings      Bottineau     Bowman         Burke                      
+ 800                                   EEP Expansion 2
+                 Divide        Dunn          Golden Valley  McKenzie
+    Source:  Company presentations and filings, North Dakota Pipeline Authority, RBC Capital Markets estimates 
+                 McLean        Mercer        Mountrail     PAA Bakken NorthRenville
+
+                 Slope         Stark         Ward           WilliamsButte Expansion 2
+ 600                                          Rangeland COLT
+                                      Hess Rail
+                                                EOG Stanley Rail Butte Expansion 1
+                                   EEP Expansion 1
+ 400                      Other Rail
+
+                    Enbridge Mainline
+ 200
+                   Butte Pipeline
+                   Mandan Refinery
+   0
+
+                                                                                                                                            13
+
+                                                                                                                                             265
+
+                               MBopd                         Rigs
+
+           1Q10
+                                              2Q08
+           3Q10
+                                              3Q08
+           1Q11
+                                              4Q08
+           3Q11
+
+                                              1Q09
+           1Q12
+
+                                              2Q09
+           3Q12
+
+                                              3Q09
+           1Q13
+
+                                              4Q09
+           3Q13
+
+                                              1Q10
+           1Q14
+
+           3Q14                               2Q10
+
+           1Q15                               3Q10
+
+           3Q15                               4Q10
+
+           1Q16                               1Q11
+
+           3Q16
+                                            Current
+---------------------Page 14---------------------
+
+May 31, 2011                                                                                               Tesoro Logistics LP
+
+Management 
+Tesoro Logistics GP, LLC, the general partner of TLLP, will manage the partnership’s operations and draws on a deep bench of 
+executive talent with an average of 27 years of industry experience.      
+
+Team 
+
+Gregory J. Goff – Chairman and Chief Executive Officer  
+Mr. Goff has been the chairman and chief executive officer of Tesoro Logistics GP since December 2010. Mr. Goff joined Tesoro 
+Corporation as chief executive officer and president in May 2010. Prior to joining Tesoro Corporation, Mr. Goff served as a director 
+of the GP of DCP Midstream from October 2008 to April 30, 2010. Mr. Goff spent the majority of his 29-year career with 
+ConocoPhillips including as director and CEO of Conoco JET Nordic (1998-2000), MD of Conoco Limited (2000-2002), president of 
+ConocoPhillips European and Asia Pacific downstream (2002-2004) and president of ConocoPhillips US Lower 48 and Latin America 
+exploration and production business (2004-2006). Mr. Goff received a bachelor’s of science degree from the University of Utah in 
+1978 and an MBA from the University of Utah in 1981. He initially expects to spend 15% of his time managing the business of the 
+partnership.  
+
+Phillip M. Anderson – President and Director  
+Mr. Anderson has been president of Tesoro Logistics GP since December 2010. He has served as Vice President, Strategy for Tesoro 
+since April 2010. Mr. Anderson has held a variety of senior management roles at Tesoro Corp including Vice President, Financial 
+Optimization & Analytics and Vice President, Treasurer since joining Tesoro in 1998 as Senior Financial Analyst. Prior to his tenure 
+at Tesoro, he served in a variety of finance roles at Ford Motor Co. for eight years. Mr. Anderson holds a bachelor's degree in 
+economics from The University of Texas at Austin and an MBA from Southern Methodist University in Dallas.  He will spend 
+substantially all of his time managing the affairs of the partnership.  
+
+Scott G. Spendlove – Chief Financial Officer, Vice President and Director  
+Mr. Spendlove has been the chief financial officer, principal accounting officer and vice president of Tesoro Logistics GP since 
+December 2010. He has served as chief financial officer and senior vice president of Tesoro Corporation since May 5, 2010. Mr. 
+Spendlove has served in a variety of senior financial management roles since joining Tesoro in 2002 including Senior Vice President 
+of Risk Management, Vice President of Asset Enhancement & Planning, Vice President of Strategy and Long-Term Planning, Vice 
+President and Controller, Vice President of Finance and Treasurer. Prior to Tesoro, Mr. Spendlove held various positions in 
+accounting, finance and investor relations at Ultramar Diamond Shamrock Corporation and Unocal beginning in 1997.  Mr. Spendlove 
+holds a bachelor's degree in accounting from Brigham Young University and an MBA from California State University. He initially 
+expects to spend 20% of his time managing the business of the partnership.    
+
+Ralph J. Grimmer – Vice President Operations  
+Mr. Grimmer has been Vice President of Operations of Tesoro Logistics GP since December 2010 and is responsible for Tesoro's 
+pipelines and refined product terminals, crude oil and refined products trucking, and rail operations. He joined Tesoro in 2006 and has 
+held various operational roles including Vice President, Logistics; Vice President, Competitor Analysis; Vice President, Mergers and 
+Acquisitions; and Vice President, Strategic Analysis. Prior to joining Tesoro, Mr. Grimmer served in a variety of consulting, 
+marketing and logistics positions with Baker & O'Brien and Motiva Enterprises. Mr. Grimmer began his career with Texaco in 1974 
+as a ;r after receiving a bachelor's degree in chemical engineering from Texas Tech University.   He initially expects to spend 70% of 
+his time managing the business of the partnership. 
+
+                                                                                                                                14
+
+                                                                                                                                 266
+---------------------Page 15---------------------
+
+May 31, 2011                                                                                                Tesoro Logistics LP
+
+Valuation
+Using our multi-stage dividend discount model (DDM) for the LP units, we calculate a 12-month price target of $28/unit, which
+implies a yield of 5.7% on our one-year-out distribution estimate of $1.57/unit. Our DDM is based on our distribution estimates for the
+four quarters starting one year out and then a five-year growth rate of 9% (from the current distribution rate, these assumptions result
+in an annualized growth rate of 13% over the next five years). We discount our DDM distributions at a rate consistent with our interest
+rate expectations and the risk associated with an Average risk qualifier. Our risk qualifier considers and weighs various risk factors,
+including TLLP's trading liquidity, debt to forward EBITDA of 0.9x, forward total unit coverage of 1.1x, diversification, and
+commodity exposure.
+
+Price Target Impediment
+Among the key issues that could impede our price target are:
+ Acquisition risk;
+ Damage to pipeline infrastructure;
+ Commodity price risks;
+ TLL is dependent on Tesoro Corp parent for substantially all of its revenue, so any inability to meet its requirements with Tesoro
+  would negatively impact results.
+ Trading liquidity in the units is relatively low; and
+ Other risks, including prolonged declines in volumes, interest rates, and regulatory risk.
+Company Description
+TLLP is a growth oriented MLP formed by Tesoro to operate its gathering and processing and short-haul pipelines, trucking and
+terminalling logistics assets. The partnership intends to operate its assets under long-term, minimum volume contracts with Tesoro and
+pursue asset drop-down growth opportunities. The initial assets are strategically located near Tesoro refineries in the Bakken Shale,
+West Coast, Rockies and Alaska with potential drop-downs near existing infrastructure.
+
+                                                                                                                                 15
+
+                                                                                                                                   267
+---------------------Page 16---------------------
+
+May 31, 2011                                                                                                                                                                                                                                                                                                         Tesoro Logistics LP
+
+   ($ in MM, except per share data & ratios)                                                          2011 Quarterly Results                                                                     2012 Quarterly Results
+
+                                                                                  Q111E             Q211E             Q311E             Q411E                   Q112E              Q212E              Q312E              Q412E                    FY11E               FY12E               FY13E
+
+           Crude Oil Gathering                                                                 12.1                      12.5                      12.9                      13.1                             13.2                       13.6                       14.3                       15.050.6                        56.1                        61.8
+           Terminalling, Transport. & Storage                               10.9                      11.2                      11.4                      13.4                             13.4                       15.9                       16.5                       19.0                             46.9                        64.8                        85.5
+       Total Revenue                                                                             $23.0                  $23.7                  $24.3                  $26.5                         $26.6                   $29.5                   $30.9                   $34.0                         $97.5                 $120.9                 $147.3
+
+           Total Costs and Expenses                                                     12.9                      13.1                      13.4                      14.9                             15.0                       16.7                       17.2                       19.0                             54.3                        67.9                        81.6
+       Operating Income                                                                     $10.1                  $10.6                  $10.9                  $11.6                         $11.6                   $12.8                   $13.6                   $14.9                         $43.2                    $53.0                    $65.7
+
+           Interest Expense                                                                      -                 (0.3)                     (0.7)                     (1.0)                            (1.4)                      (1.7)                      (2.0)                      (2.3)                            (2.0)                       (7.4)                    (12.5)
+       Net Income                                                                       $10.1                  $10.3                  $10.2                  $10.6                         $10.3                   $11.1                   $11.6                   $12.6                         $41.2                    $45.6                    $53.1
+
+           General Partner Interest                                                         0.2                         0.2                         0.2                         0.2                               0.2                          0.2                          0.2                          0.3                                0.80.9                          1.1
+       LP Interest In Net Income                                                      $9.9                  $10.1                  $10.0                  $10.4                         $10.1                   $10.9                   $11.4                   $12.3                         $40.3                    $44.7                    $52.1
+
+       Diluted Earnings (loss) per Unit                                                                      $0.33                  $0.33                  $0.34                         $0.33                   $0.36                   $0.37                   $0.40                         $1.00                    $1.46                    $1.71
+           Average Units Outstanding                                                          -                     30.5                      30.5                      30.5                             30.5                       30.5                       30.5                       30.5                             22.9                        30.5                        30.5
+
+       Adjusted EBITDA                                                                        $12.3                  $12.8                  $13.2                  $14.4                         $14.6                   $16.3                   $17.1                   $19.0                         $52.7                    $67.0                    $84.6
+
+   Distributable Cash Flow
+
+       Adjusted EBITDA                                                                        $12.3                  $12.8                  $13.2                  $14.4                         $14.6                   $16.3                   $17.1                   $19.0                         $52.7                    $67.0                    $84.6
+           Cash Interest Expense                                                                      -            (0.3)                     (0.6)                     (0.9)                            (1.1)                      (1.4)                      (1.7)                      (1.9)                            (1.7)                       (6.2)                    (10.5)
+           Maintenance CapEx                                                               (0.8)                     (1.1)                     (1.1)                     (1.3)                            (1.2)                      (1.3)                      (1.4)                      (1.5)                            (4.3)                       (5.4)                       (6.3)
+           General Partner Interest                                                                -               (0.2)                     (0.2)                     (0.2)                            (0.2)                      (0.2)                      (0.3)                      (0.4)                            (0.6)                       (1.1)                       (4.3)
+       Distributable Cash Flow to LP                                          $11.5                  $11.3                  $11.2                  $12.1                         $12.0                   $13.4                   $13.8                   $15.1                         $46.1                    $54.4                    $63.4
+       Distributable CF Per Unit                                                                               $0.37                  $0.37                  $0.40                         $0.39                   $0.44                   $0.45                   $0.50                         $1.14                    $1.82                    $2.22
+
+       Distributions per Unit                                                                          -        $0.24142          $0.33825          $0.35325                $0.36825           $0.39325           $0.41825           $0.44325                $0.93292           $1.62300           $2.02300
+           Common Unit Coverage                                                                -                   1.53x                   1.09x                   1.13x                         1.07x                    1.11x                    1.08x                    1.12x                         1.22x                    1.12x                    1.10x
+
+   Balance Sheet
+
+       Total Assets                                                                    $136.7                 $141.3                 $142.9                 $194.3                       $195.1                  $244.5                  $243.6                  $292.5                        $194.3                   $292.5                   $384.9
+       Total Partners' Capital                                                              129.8                      84.3                      84.0                      84.0                             83.3                       83.0                       82.3                       81.7                             84.0                        81.7                        71.9
+
+       Net Debt                                                                                   -                 $47.0                  $48.8                  $99.6                      $101.2                $150.2                $149.6                $198.4                         $99.6                 $198.4                     $299.5
+           Net Debt / TTM EBITDA                                                              .0x                         .9x                         .9x                      1.9x                             1.8x                       2.6x                       2.4x                       3.0x                             1.9x                        3.0x                        3.5x
+           Interest Coverage                                                                      -                    38.9x                    19.6x                    14.2x                          10.7x                       9.6x                       8.5x                       8.2x                           26.1x                        9.0x                        6.7x
+
+   Source: RBC Capital Markets estimates & Company Reports
+
+                                                                                                                                                                                                                                                                                                                                                               16
+
+                                                                                                                                                                                                                                                                                                                                                                   268
+---------------------Page 17---------------------
+
+May 31, 2011                                                                                                        Tesoro Logistics LP
+
+Required Disclosures
+
+Conflicts Disclosures
+This product constitutes a compendium report (covers six or more subject companies). As such, RBC Capital Markets chooses to
+provide specific disclosures for the subject companies by reference. To access current disclosures for the subject companies, clients
+should refer to https://www.rbccm.com/GLDisclosure/PublicWeb/DisclosureLookup.aspx?entityId=1 or send a request to RBC CM
+Research Publishing, P.O. Box 50, 200 Bay Street, Royal Bank Plaza, 29th Floor, South Tower, Toronto, Ontario M5J 2W7.
+
+The analyst(s) responsible for preparing this research report received compensation that is based upon various factors, including total
+revenues  of  the  member  companies  of  RBC  Capital  Markets  and  its  affiliates,  a  portion  of  which  are  or  have  been  generated  by
+investment banking activities of the member companies of RBC Capital Markets and its affiliates.
+
+Distribution of Ratings
+For the purpose of ratings distributions, regulatory rules require member firms to assign ratings to one of three rating categories - Buy,
+Hold/Neutral, or Sell - regardless of a firm's own rating categories. Although RBC Capital Markets' ratings of Top Pick/Outperform,
+Sector Perform and Underperform most closely correspond to Buy, Hold/Neutral and Sell, respectively, the meanings are not the same
+because our ratings are determined on a relative basis (as described above).
+
+                                                     Distribution of Ratings
+                                             RBC Capital Markets, Equity Research
+                                                                                        Investment Banking
+                                                                                         Serv./Past 12 Mos.
+             Rating                                                                              Count                         Percent                                      Count                    Percent
+             BUY[TP/O]                                                                           733                               53.20                                            217                          29.60
+             HOLD[SP]                                                                             592                               42.90                                            135                          22.80
+             SELL[U]                                                                                    55                                  4.00                                               10                          18.18
+
+Conflicts Policy
+RBC Capital Markets Policy for Managing Conflicts of Interest in Relation to Investment Research is available from us on request. To
+access our current policy, clients should refer to
+https://www.rbccm.com/global/file-414164.pdf
+or  send  a  request  to  RBC  CM  Research  Publishing,  P.O.  Box  50,  200  Bay  Street,  Royal  Bank  Plaza,  29th  Floor,  South  Tower,
+Toronto, Ontario M5J 2W7. We reserve the right to amend or supplement this policy at any time.
+
+Dissemination of Research and Short-Term Trading Calls
+RBC Capital Markets endeavors to make all reasonable efforts to provide research simultaneously to all eligible clients, having regard
+to local time zones in overseas jurisdictions. RBC Capital Markets' equity research is posted to our proprietary websites to ensure
+eligible clients receive coverage initiations and changes in ratings, targets and opinions in a timely manner. Additional distribution
+may be done by the sales personnel via email, fax or regular mail. Clients may also receive our research via third-party vendors. Please
+contact  your  investment  advisor  or  institutional  salesperson  for  more  information  regarding  RBC  Capital  Markets'  research.  RBC
+Capital Markets also provides eligible clients with access to SPARC on the Firm's proprietary INSIGHT website. SPARC contains
+market color and commentary, and may also contain Short-Term Trade Ideas regarding the publicly-traded common equity of subject
+companies on which the Firm currently provides equity research coverage. SPARC may be accessed via the following hyperlink:
+https://www.rbcinsight.com. A Short-Term Trade Idea reflects the research analyst's directional view regarding the price of the subject
+company's publicly-traded common equity in the coming days or weeks, based on market and trading events. A Short-Term Trade
+Idea may differ from the price targets and recommendations in our published research reports reflecting the research analyst's views of
+the longer-term (one year) prospects of the subject company, as a result of the differing time horizons, methodologies and/or other
+factors.  Thus,  it  is  possible  that  a  subject  company's  common  equity  that  is  considered  a  long-term  'sector  perform'  or  even  an
+'underperform' might be a short-term buying opportunity as a result of temporary selling pressure in the market; conversely, a subject
+company's common equity rated a long-term 'outperform' could be considered susceptible to a short-term downward price correction.
+Short-Term Trade Ideas are not ratings, nor are they part of any ratings system, and the Firm generally does not intend, nor undertakes
+any obligation, to maintain or update Short-Term Trade Ideas. Securities and Short-Term Trade Ideas discussed in SPARC may not be
+suitable for all investors and have not been tailored to individual investor circumstances and objectives, and investors should make
+their own independent decisions regarding any securities or strategies discussed herein.
+
+Analyst Certification
+All of the views expressed in this report accurately reflect the personal views of the responsible analyst(s) about any and all of the
+
+                                                                                                                                          17
+
+                                                                                                                                            269
+---------------------Page 18---------------------
+
+May 31, 2011                                                                                                                        Tesoro Logistics LP
+
+subject  securities  or  issuers.  No  part  of  the  compensation  of  the  responsible  analyst(s)  named  herein  is,  or  will  be,  directly  or
+indirectly, related to the specific recommendations or views expressed by the responsible analyst(s) in this report.
+
+Disclaimer
+RBC Capital Markets is the business name used by certain subsidiaries of Royal Bank of Canada, including RBC Dominion Securities Inc., RBC Capital Markets, LLC,
+Royal Bank of Canada Europe Limited and Royal Bank of Canada - Sydney Branch. The information contained in this report has been compiled by RBC Capital
+Markets from sources believed to be reliable, but no representation or warranty, express or implied, is made by Royal Bank of Canada, RBC Capital Markets, its
+affiliates or any other person as to its accuracy, completeness or correctness. All opinions and estimates contained in this report constitute RBC Capital Markets'
+judgement as of the date of this report, are subject to change without notice and are provided in good faith but without legal responsibility. Nothing in this report
+constitutes legal, accounting or tax advice or individually tailored investment advice. This material is prepared for general circulation to clients and has been prepared
+without regard to the individual financial circumstances and objectives of persons who receive it. The investments or services contained in this report may not be
+suitable for you and it is recommended that you consult an independent investment advisor if you are in doubt about the suitability of such investments or services. This
+report is not an offer to sell or a solicitation of an offer to buy any securities. Past performance is not a guide to future performance, future returns are not guaranteed,
+and a loss of original capital may occur. RBC Capital Markets research analyst compensation is based in part on the overall profitability of RBC Capital Markets, which
+includes profits attributable to investment banking revenues. Every province in Canada, state in the U.S., and most countries throughout the world have their own laws
+regulating the types of securities and other investment products which may be offered to their residents, as well as the process for doing so. As a result, the securities
+discussed in this report may not be eligible for sale in some jurisdictions. This report is not, and under no circumstances should be construed as, a solicitation to act as
+securities broker or dealer in any jurisdiction by any person or company that is not legally permitted to carry on the business of a securities broker or dealer in that
+jurisdiction. To the full extent permitted by law neither RBC Capital Markets nor any of its affiliates, nor any other person, accepts any liability whatsoever for any
+direct or consequential loss arising from any use of this report or the information contained herein. No matter contained in this document may be reproduced or copied
+by any means without the prior consent of RBC Capital Markets.
+                                                      Additional information is available on request.
+
+To U.S. Residents:
+This publication has been approved by RBC Capital Markets, LLC (member FINRA, NYSE), which is a U.S. registered broker-dealer and which accepts responsibility
+for this report and its dissemination in the United States. Any U.S. recipient of this report that is not a registered broker-dealer or a bank acting in a broker or dealer
+capacity and that wishes further information regarding, or to effect any transaction in, any of the securities discussed in this report, should contact and place orders with
+RBC Capital Markets, LLC.
+To Canadian Residents:
+This publication has been approved by RBC Dominion Securities Inc.(member IIROC). Any Canadian recipient of this report that is not a Designated Institution in
+Ontario, an Accredited Investor in British Columbia or Alberta or a Sophisticated Purchaser in Quebec (or similar permitted purchaser in any other province) and that
+wishes further information regarding, or to effect any transaction in, any of the securities discussed in this report should contact and place orders with RBC Dominion
+Securities Inc., which, without in any way limiting the foregoing, accepts responsibility for this report and its dissemination in Canada.
+To U.K. Residents:
+This publication has been approved by Royal Bank of Canada Europe Limited ('RBCEL') which is authorized and regulated by Financial ServicesAuthority ('FSA'), in
+connection with its distribution in the United Kingdom. This material is not for general distribution in the United Kingdom to retail clients, as defined under the rules of
+the  FSA.  However,  targeted  distribution  may  be  made  to  selected  retail  clients  of  RBC  and  its  affiliates.  RBCEL  accepts  responsibility  for  this  report  and  its
+dissemination in the United Kingdom.
+To Persons Receiving This Advice in Australia:
+This material has been distributed in Australia by Royal Bank of Canada - Sydney Branch (ABN 86 076 940 880, AFSL No. 246521). This material has been prepared
+for general circulation and does not take into account the objectives, financial situation or needs of any recipient. Accordingly, any recipient should, before acting on
+this material, consider the appropriateness of this material having regard to their objectives, financial situation and needs. If this material relates to the acquisition or
+possible acquisition of a particular financial product, a recipient in Australia should obtain any relevant disclosure document prepared in respect of that product and
+consider that document before making any decision about whether to acquire the product.
+To Hong Kong Residents:
+This publication is distributed in Hong Kong by RBC Investment Services (Asia) Limited and RBC Investment Management (Asia) Limited, licensed corporations
+under the Securities and Futures Ordinance or, by Royal Bank of Canada, Hong Kong Branch, a registered institution under the Securities and Futures Ordinance. This
+material has been prepared for general circulation and does not take into account the objectives, financial situation, or needs of any recipient. Hong Kong persons
+wishing to obtain further information on any of the securities mentioned in this publication should contact RBC Investment Services (Asia) Limited, RBC Investment
+Management (Asia) Limited or Royal Bank of Canada, Hong Kong Branch at 17/Floor, Cheung Kong Center, 2 Queen's Road Central, Hong Kong (telephone number
+is 2848-1388).
+To Singapore Residents:
+This publication is distributed in Singapore by RBC (Singapore Branch) and RBC (Asia) Limited, registered entities granted offshore bank status by the Monetary
+Authority of Singapore. This material has been prepared for general circulation and does not take into account the objectives, financial situation, or needs of any
+recipient. You are advised to seek independent advice from a financial adviser before purchasing any product. If you do not obtain independent advice, you should
+consider whether the product is suitable for you. Past performance is not indicative of future performance.
+           .® Registered trademark of Royal Bank of Canada. RBC Capital Markets is a trademark of Royal Bank of Canada. Used under license.
+                                                Copyright © RBC Capital Markets, LLC 2011 - Member SIPC
+                                               Copyright © RBC Dominion Securities Inc. 2011 - Member CIPF
+                                                   Copyright © Royal Bank of Canada Europe Limited 2011
+                                                           Copyright © Royal Bank of Canada 2011
+                                                                       All rights reserved
+
+                                                                                                                                                              18
+
+                                                                                                                                                                270

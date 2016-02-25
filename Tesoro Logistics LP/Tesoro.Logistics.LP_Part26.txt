@@ -1,0 +1,376 @@
+---------------------Page 1---------------------
+
+                                                                                     PRICE TARGET REVISION | COMMENT
+   17 WEEKS                         22APR11 - 09AUG11
+     Rel. S&P 500                              HI-12AUG11111.53                                                                   AUGUST 10, 2011
+                                               LO/HI DIFF 14.80%
+105.00                                         CLOSE  111.53 Tesoro Logistics LP                 (NYSE: TLLP)
+
+ 98.00                                         LO-06MAY11 97.16
+         2009            2010           2011                 Volume Growth Driving Estimates Higher
+   MAMJ JASONDJ FMAMJ JASONDJFMAMJ JA
+                                               HI-03JUN1125.67
+                                               LO/HI DIFF 22.24%
+ 25.00
+
+ 24.00
+                                                             Outperform
+                                               CLOSE  22.99
+ 23.00
+                                                             Average Risk
+ 22.00
+                                                             Price:                               22.99    Price Target:                29.00   28.00
+                                               LO-22APR11 21.00
+10000                                                                                                       Implied All-In Return:                32%
+ 8000
+ 6000                                                        Shares O/S (MM):                     30.5    Market Cap (MM):                     701
+                                               PEAK VOL.10719.6
+ 4000                                          VOLUME  373.0 Dividend:                            1.35    Yield:                                5.9%
+ 2000
+                                                             Float (MM):                           30.2    Avg. Daily Volume (MM):             0.40
+                                                             Debt to Cap:                          37%    Est Tax Deferral:                      80%
+
+RBC Capital Markets, LLC
+
+TJ Schultz, CFA    (Analyst)                                 Event: 2Q11 Results
+
+(512) 708-6385; tj.schultz@rbccm.com
+                                                             Investment Thesis
+
+Elvira Scotto, CFA (Analyst)                                 2Q11 Results Solid On Strong Terminal Volumes. TLLP reported 2Q11
+(212) 905-5957; elvira.scotto@rbccm.com
+                                                             EBITDA of $9.6M, but TLLP was only public for a portion of 2Q11 (IPO date of
+                                                             April 26, 2011). Prior to the IPO, TSO did not record inter-company revenue so
+David Askew (Associate)
+(512) 708-6355; david.askew@rbccm.com                        comparisons to prior-year periods or our estimates are not useful. In general,
+                                                             TLLP indicated that strong terminal volumes offset some slowdowns in crude oil
+                                                             pipeline shipments within North Dakota due to bad weather.
+FY Dec                                       2010A      2011E      2012E      2013E
+DCF - FD                                                              1.17           1.96           2.41
+                                                             Unexpected Terminal Volume Increase Incremental To Our Estimates.
+Prev.                              1.14           1.82           2.22
+                                                             Following the IPO, TLLP increased product volumes through terminals in Los
+EPU (Op) - FD                                                   1.00           1.58           1.89
+                                                             Angeles, Vancouver and Mandan by 10 Mbpd (or about 8%) as parent TSO took
+Prev.                                       1.46           1.71
+                                                             more volume. The increased volume does not represent any new third party
+EBITDA (MM)                                                     52.8           70.6           90.0
+                                                             volumes, and we believe there could be more upside from third volumes over
+Prev.                              52.7           67.0           84.6
+P/DCF                                                 NM         19.6x         11.7x           9.5xtime. Regardless, the volume increase is a bigger and quicker impact than we had
+
+P/EPU                                                 NM         23.0x         14.6x         12.2xmodeled, and adds roughly $3M annual EBITDA to our estimates. TLLP also
+
+EV/EBITDA                                       NM         13.3x           9.9x           7.8xannounced plans to permit an additional 5 Mbpd increase at its Los Angeles
+                                                             terminal by YE11, which is also accretive to our estimates.
+DCF - FD                   Q1              Q2              Q3              Q4
+2011                                               0.00A        0.29A        0.43E        0.46EHigh Plains Growth. TSO recently announced plans to build a rail unloading
+Prev.                            0.37E        0.37E        0.40Efacility at its Anacortes facility capable of taking 30 MBpd of Bakken crude oil
+2012                                               0.43E        0.48E        0.49E        0.52E
+                                                             by YE12. It is possible that some of this will be sourced through TLLP's High
+Prev.                   0.39E        0.44E        0.45E        0.50E
+                                                             Plains gathering system. The crude oil will be delivered from Rangeland Energy,
+EPU (Op) - FD
+2011                                               0.00A        0.23A        0.39E        0.39ELLC's loading terminal and pipeline facility in Williams County, North Dakota,
+
+Prev.                            0.33E        0.33E        0.34Eand TLLP announced that it will spend $3M to interconnect with Rangeland's
+2012                                               0.36E        0.40E        0.40E        0.42Epipeline by 2Q12. This will initially have an approximate $1M annual EBITDA
+Prev.                   0.33E        0.36E        0.37E        0.40Eimpact, but we expect the benefit can grow as more High Plains crude is
+EBITDA (MM)
+                                                             potentially used for delivery to Anacortes.
+2011                                               12.3A           9.6A        15.0E        16.0E
+Prev.                            12.8E        13.2E        14.4E
+                                                             Adjusting Estimates; Raising Price Target. We have increased our 2012/13
+2012                                               15.4E        17.5E        18.1E        19.6E
+                                                             EBITDA estimates by 5%/6% to account for higher terminal product volumes,
+Prev.                   14.6E        16.3E        17.1E        19.0E
+                                                             Rangeland interconnect and additional High Plains growth. We model in $50M
+                                                             drop-downs every other quarter beginning in 4Q11 (management is currently
+All values in USD unless otherwise noted.
+                                                             working on its first drop). Distribution outlook unchanged and we have increased
+                                                             our price target slightly on improved coverage. We remain Outperform as TLLP
+                                                             executes its drop down strategy.
+
+                                                             Priced as of prior trading day's market close, EST (unless otherwise noted).
+
+                                                                                               For Required Conflicts Disclosures, see Page 4.
+
+                                                                                                                                                       198
+---------------------Page 2---------------------
+
+August 10, 2011                                                                                             Tesoro Logistics LP
+
+Valuation
+Using our multi-stage dividend discount model (DDM) for the LP units, we calculate a 12-month price target of $29/unit, which
+implies a yield of 5.7% on our one-year-out distribution estimate of $1.67/unit. Our DDM is based on our distribution estimates for the
+four quarters starting one year out and then a five-year growth rate of 9% (from the current distribution rate, these assumptions result
+in an annualized growth rate of 14% over the next five years). We discount our DDM distributions at a rate consistent with our interest
+rate expectations and the risk associated with an Average risk qualifier. Our risk qualifier considers and weighs various risk factors,
+including TLLP's trading liquidity, debt to forward EBITDA of 0.9x, forward total unit coverage of 1.2x, diversification, and
+commodity exposure.
+
+Price Target Impediment
+Among the key issues that could impede our price target are:
+ Acquisition risk;
+ Damage to pipeline infrastructure;
+ Commodity price risks;
+ TLLP is dependent on Tesoro Corp parent for substantially all of its revenue, so any inability to meet its requirements with Tesoro
+  would negatively impact results.
+ Trading liquidity in the units is relatively low; and
+ Other risks, including prolonged declines in volumes, interest rates, and regulatory risk.
+Company Description
+TLLP is a growth oriented MLP formed by Tesoro to operate its gathering and processing and short-haul pipelines, trucking and
+terminalling logistics assets. The partnership intends to operate its assets under long-term, minimum volume contracts with Tesoro and
+pursue asset drop-down growth opportunities. The initial assets are strategically located near Tesoro refineries in the Bakken Shale,
+West Coast, Rockies and Alaska with potential drop-downs near existing infrastructure.
+
+                                                                                                                                   2
+
+                                                                                                                                   199
+---------------------Page 3---------------------
+
+August 10, 2011                                                                                                                                                          Tesoro Logistics LP
+
+ ($ in MM, except per share data & ratios)             2011 Quarterly Results                                 2012 Quarterly Results
+
+                                            Q111A        Q211A        Q311E        Q411E           Q112E        Q212E        Q312E         Q412E          FY11E         FY12E         FY13E
+
+     Crude Oil Gathering                         12.1         10.7         13.1         13.4            13.8         14.1         14.8          15.8           49.3          58.6          69.1
+     Terminalling, Transport. & Storage          10.9          9.1         12.3         13.5            14.4         17.6         18.1          19.3           45.7          69.5          86.8
+   Total Revenue                               $23.0        $19.8        $25.4        $26.9           $28.2        $31.8         $32.9        $35.1           $95.1       $128.0        $155.9
+
+     Total Costs and Expenses                    12.9         12.2         12.7         13.8            15.7         17.8         18.4          19.7           51.6          71.5          84.9
+   Operating Income                            $10.1          $7.5       $12.7        $13.1           $12.5        $14.0         $14.6        $15.5           $43.5        $56.5         $71.0
+
+     Interest Expense                                -        (0.5)        (0.7)        (1.0)           (1.3)        (1.7)         (2.0)        (2.3)           (2.1)        (7.3)        (12.2)
+   Net Income                                  $10.1          $7.1       $12.1        $12.1           $11.1        $12.3         $12.6        $13.2           $41.4        $49.2         $58.8
+
+     General Partner Interest                     0.2          0.2          0.2          0.2             0.2          0.2          0.3           0.3            0.8           1.0           1.2
+   LP Interest In Net Income                     $9.9         $6.9       $11.8        $11.9           $10.9        $12.1         $12.3        $12.9           $40.5        $48.2         $57.6
+
+   Diluted Earnings (loss) per Unit                         $0.23        $0.39        $0.39           $0.36        $0.40         $0.40        $0.42           $1.00        $1.58         $1.89
+     Average Units Outstanding                       -        30.5         30.5         30.5            30.5         30.5         30.5          30.5           22.9          30.5          30.5
+
+   Adjusted EBITDA                             $12.3          $9.6       $15.0        $16.0           $15.4        $17.5         $18.1        $19.6           $52.8        $70.6         $90.0
+
+ Distributable Cash Flow
+
+   Adjusted EBITDA                             $12.3          $9.6       $15.0        $16.0           $15.4        $17.5         $18.1        $19.6           $52.8        $70.6         $90.0
+     Cash Interest Expense                           -        (0.0)        (0.6)        (0.8)           (1.1)        (1.4)         (1.7)        (1.9)           (1.4)        (6.1)        (10.2)
+     Maintenance CapEx                           (0.8)        (0.7)        (1.0)        (1.0)           (1.0)        (1.1)         (1.3)        (1.4)           (3.6)        (4.8)         (6.3)
+     General Partner Interest                        -        (0.2)        (0.2)        (0.2)           (0.2)        (0.2)         (0.3)        (0.4)           (0.6)        (1.1)         (4.3)
+   Distributable Cash Flow to LP               $11.5          $8.7       $13.2        $13.9           $13.0        $14.8         $14.9        $15.9           $47.3        $58.7         $69.2
+   Distributable CF Per Unit                                $0.29        $0.43        $0.46           $0.43        $0.48         $0.49        $0.52           $1.17        $1.96         $2.41
+
+   Distributions per Unit                            -   $0.24480     $0.33825     $0.35325       $0.36825      $0.39325     $0.41825      $0.44325       $0.93630      $1.62300     $2.02300
+     Common Unit Coverage                            -       1.17x        1.28x        1.29x           1.16x        1.23x        1.17x         1.18x           1.25x        1.21x         1.19x
+
+ Balance Sheet
+
+   Total Assets                                $136.7       $140.3       $143.7       $195.7         $198.6        $247.8       $246.8        $295.4         $195.7        $295.4        $387.7
+   Total Partners' Capital                      129.8         84.2         85.7         87.3            87.4         88.3         88.6          88.6           87.3          88.6          84.4
+
+   Net Debt                                          -      $47.0        $47.6        $97.6          $100.1       $147.7        $146.0       $194.1           $97.6       $194.1        $289.3
+     Net Debt / TTM EBITDA                         .0x         1.0x          .9x         1.8x           1.8x          2.3x         2.2x         2.7x            1.8x          2.7x         3.2x
+     Interest Coverage                               -        20.8x        22.6x        16.0x          11.4x         10.5x         9.2x         8.6x           24.9x          9.7x         7.4x
+
+ Source: RBC Capital Markets estimates & Company Reports
+
+                                                                                                                                                                                                  3
+
+                                                                                                                                                                                                  200
+---------------------Page 4---------------------
+
+August 10, 2011                                                                                                         Tesoro Logistics LP
+
+Required Disclosures
+
+Conflicts Disclosures
+The analyst(s) responsible for preparing this research report received compensation that is based upon various factors, including total
+revenues  of  the  member  companies  of  RBC  Capital  Markets  and  its  affiliates,  a  portion  of  which  are  or  have  been  generated  by
+investment banking activities of the member companies of RBC Capital Markets and its affiliates.
+
+A member company of RBC Capital Markets or one of its affiliates managed or co-managed a public offering of securities for Tesoro
+Logistics LP in the past 12 months.
+
+A member company of RBC Capital Markets or one of its affiliates received compensation for investment banking services from
+Tesoro Logistics LP in the past 12 months.
+
+RBC Capital Markets has provided Tesoro Logistics LP with investment banking services in the past 12 months.
+
+The author is employed by RBC Capital Markets, LLC, a securities broker-dealer with principal offices located in New York, USA.
+
+Explanation of RBC Capital Markets Equity Rating System
+An analyst's 'sector' is the universe of companies for which the analyst provides research coverage. Accordingly, the rating assigned to
+a particular stock represents solely the analyst's view of how that stock will perform over the next 12 months relative to the analyst's
+sector average.
+Ratings
+Top Pick (TP): Represents best in Outperform category; analyst's best ideas; expected to significantly outperform the sector over 12
+months; provides best risk-reward ratio; approximately 10% of analyst's recommendations.
+Outperform (O): Expected to materially outperform sector average over 12 months.
+Sector Perform (SP): Returns expected to be in line with sector average over 12 months.
+Underperform (U): Returns expected to be materially below sector average over 12 months.
+Risk Qualifiers (any of the following criteria may be present):
+Average  Risk  (Avg): Volatility  and  risk  expected  to  be  comparable  to  sector;  average  revenue  and  earnings  predictability;  no
+significant cash flow/financing concerns over coming 12-24 months; fairly liquid.
+Above Average Risk (AA): Volatility and risk expected to be above sector; below average revenue and earnings predictability; may
+not be suitable for a significant class of individual equity investors; may have negative cash flow; low market cap or float.
+Speculative (Spec): Risk consistent with venture capital; low public float; potential balance sheet concerns; risk of being delisted.
+
+Distribution of Ratings
+For the purpose of ratings distributions, regulatory rules require member firms to assign ratings to one of three rating categories - Buy,
+Hold/Neutral, or Sell - regardless of a firm's own rating categories. Although RBC Capital Markets' ratings of Top Pick/Outperform,
+Sector Perform and Underperform most closely correspond to Buy, Hold/Neutral and Sell, respectively, the meanings are not the same
+because our ratings are determined on a relative basis (as described above).
+
+                                                       Distribution of Ratings
+                                               RBC Capital Markets, Equity Research
+                                                                                           Investment Banking
+                                                                                            Serv./Past 12 Mos.
+             Rating                                                                              Count                         Percent                                      Count                    Percent
+             BUY[TP/O]                                                                           749                               52.30                                            217                          28.97
+             HOLD[SP]                                                                             625                               43.60                                            133                          21.28
+             SELL[U]                                                                                    59                                  4.10                                               10                          16.95
+
+                                                                                                                                                 4
+
+                                                                                                                                                 201
+---------------------Page 5---------------------
+
+August 10, 2011                                                                                                 Tesoro Logistics LP
+
+                                Rating and Price Target History for: Tesoro Logistics LP as of 08-09-2011 (in USD)
+
+              05/31/11
+              I:OP:28
+                                                                                                                          26
+
+                                                                                                                          24
+
+                                                                                                                          22
+
+                                                                                                                          20
+
+                                                                                                                          18
+             Q2      Q3               Q1      Q2      Q3               Q1      Q2      Q3               Q1      Q2       Q3
+                             2009                             2010                             2011
+
+            Legend:
+            TP: Top Pick; O: Outperform; SP: Sector Perform; U: Underperform; I: Initiation of Research Coverage; D: Discontinuation of Research Coverage; NR: Not Rated; NA: Not Available;
+            RL: Recommended List - RL: On: Refers to date a security was placed on a recommended list, while RL Off: Refers to date a security was removed from a recommended list.
+
+                                                                                                         Created by BlueMatrix
+
+References  to  a  Recommended  List  in  the  recommendation  history  chart  may  include  one  or  more  recommended  lists  or  model
+portfolios maintained by a business unit of the Wealth Management Division of RBC Capital Markets, LLC. These Recommended
+Lists include the Prime Opportunity List (RL 3), a former list called the Private Client Prime Portfolio (RL 4), the Guided Portfolio:
+Prime  Income  (RL  6),  the  Guided  Portfolio:  Large  Cap  (RL  7),  the  Guided  Portfolio:  Dividend  Growth  (RL  8),  and  the  Guided
+Portfolio:  Midcap  111  (RL9).  The  abbreviation  'RL  On'  means  the  date  a  security  was  placed  on  a  Recommended  List.  The
+abbreviation 'RL Off' means the date a security was removed from a Recommended List.
+
+Conflicts Policy
+
+RBC Capital Markets Policy for Managing Conflicts of Interest in Relation to Investment Research is available from us on request. To
+access our current policy, clients should refer to
+https://www.rbccm.com/global/file-414164.pdf
+or  send  a  request  to  RBC  CM  Research  Publishing,  P.O.  Box  50,  200  Bay  Street,  Royal  Bank  Plaza,  29th  Floor,  South  Tower,
+Toronto, Ontario M5J 2W7. We reserve the right to amend or supplement this policy at any time.
+
+Dissemination of Research and Short-Term Trading Calls
+
+RBC Capital Markets endeavors to make all reasonable efforts to provide research simultaneously to all eligible clients, having regard
+to local time zones in overseas jurisdictions. RBC Capital Markets' equity research is posted to our proprietary websites to ensure
+eligible clients receive coverage initiations and changes in ratings, targets and opinions in a timely manner. Additional distribution
+may be done by the sales personnel via email, fax or regular mail. Clients may also receive our research via third-party vendors. Please
+contact  your  investment  advisor  or  institutional  salesperson  for  more  information  regarding  RBC  Capital  Markets'  research.  RBC
+Capital Markets also provides eligible clients with access to SPARC on the Firm's proprietary INSIGHT website. SPARC contains
+market color and commentary, and may also contain Short-Term Trade Ideas regarding the publicly-traded common equity of subject
+companies on which the Firm currently provides equity research coverage. SPARC may be accessed via the following hyperlink:
+https://www.rbcinsight.com. A Short-Term Trade Idea reflects the research analyst's directional view regarding the price of the subject
+company's publicly-traded common equity in the coming days or weeks, based on market and trading events. A Short-Term Trade
+Idea may differ from the price targets and recommendations in our published research reports reflecting the research analyst's views of
+the longer-term (one year) prospects of the subject company, as a result of the differing time horizons, methodologies and/or other
+factors.  Thus,  it  is  possible  that  a  subject  company's  common  equity  that  is  considered  a  long-term  'sector  perform'  or  even  an
+'underperform' might be a short-term buying opportunity as a result of temporary selling pressure in the market; conversely, a subject
+company's common equity rated a long-term 'outperform' could be considered susceptible to a short-term downward price correction.
+Short-Term Trade Ideas are not ratings, nor are they part of any ratings system, and the Firm generally does not intend, nor undertakes
+any obligation, to maintain or update Short-Term Trade Ideas. Securities and Short-Term Trade Ideas discussed in SPARC may not be
+suitable for all investors and have not been tailored to individual investor circumstances and objectives, and investors should make
+their own independent decisions regarding any securities or strategies discussed herein.
+
+Analyst Certification
+
+All of the views expressed in this report accurately reflect the personal views of the responsible analyst(s) about any and all of the
+subject  securities  or  issuers.  No  part  of  the  compensation  of  the  responsible  analyst(s)  named  herein  is,  or  will  be,  directly  or
+indirectly, related to the specific recommendations or views expressed by the responsible analyst(s) in this report.
+
+                                                                                                                                        5
+
+                                                                                                                                        202
+---------------------Page 6---------------------
+
+August 10, 2011                                                                                                                      Tesoro Logistics LP
+
+Disclaimer
+RBC Capital Markets is the business name used by certain subsidiaries of Royal Bank of Canada, including RBC Dominion Securities Inc., RBC Capital Markets, LLC,
+Royal Bank of Canada Europe Limited and Royal Bank of Canada - Sydney Branch. The information contained in this report has been compiled by RBC Capital
+Markets from sources believed to be reliable, but no representation or warranty, express or implied, is made by Royal Bank of Canada, RBC Capital Markets, its
+affiliates or any other person as to its accuracy, completeness or correctness. All opinions and estimates contained in this report constitute RBC Capital Markets'
+judgement as of the date of this report, are subject to change without notice and are provided in good faith but without legal responsibility. Nothing in this report
+constitutes legal, accounting or tax advice or individually tailored investment advice. This material is prepared for general circulation to clients and has been prepared
+without regard to the individual financial circumstances and objectives of persons who receive it. The investments or services contained in this report may not be
+suitable for you and it is recommended that you consult an independent investment advisor if you are in doubt about the suitability of such investments or services. This
+report is not an offer to sell or a solicitation of an offer to buy any securities. Past performance is not a guide to future performance, future returns are not guaranteed,
+and a loss of original capital may occur. RBC Capital Markets research analyst compensation is based in part on the overall profitability of RBC Capital Markets, which
+includes profits attributable to investment banking revenues. Every province in Canada, state in the U.S., and most countries throughout the world have their own laws
+regulating the types of securities and other investment products which may be offered to their residents, as well as the process for doing so. As a result, the securities
+discussed in this report may not be eligible for sale in some jurisdictions. This report is not, and under no circumstances should be construed as, a solicitation to act as
+securities broker or dealer in any jurisdiction by any person or company that is not legally permitted to carry on the business of a securities broker or dealer in that
+jurisdiction. To the full extent permitted by law neither RBC Capital Markets nor any of its affiliates, nor any other person, accepts any liability whatsoever for any
+direct or consequential loss arising from any use of this report or the information contained herein. No matter contained in this document may be reproduced or copied
+by any means without the prior consent of RBC Capital Markets.
+                                                      Additional information is available on request.
+
+To U.S. Residents:
+This publication has been approved by RBC Capital Markets, LLC (member FINRA, NYSE), which is a U.S. registered broker-dealer and which accepts responsibility
+for this report and its dissemination in the United States. Any U.S. recipient of this report that is not a registered broker-dealer or a bank acting in a broker or dealer
+capacity and that wishes further information regarding, or to effect any transaction in, any of the securities discussed in this report, should contact and place orders with
+RBC Capital Markets, LLC.
+To Canadian Residents:
+This publication has been approved by RBC Dominion Securities Inc.(member IIROC). Any Canadian recipient of this report that is not a Designated Institution in
+Ontario, an Accredited Investor in British Columbia or Alberta or a Sophisticated Purchaser in Quebec (or similar permitted purchaser in any other province) and that
+wishes further information regarding, or to effect any transaction in, any of the securities discussed in this report should contact and place orders with RBC Dominion
+Securities Inc., which, without in any way limiting the foregoing, accepts responsibility for this report and its dissemination in Canada.
+To U.K. Residents:
+This publication has been approved by Royal Bank of Canada Europe Limited ('RBCEL') which is authorized and regulated by Financial ServicesAuthority ('FSA'), in
+connection with its distribution in the United Kingdom. This material is not for general distribution in the United Kingdom to retail clients, as defined under the rules of
+the  FSA.  However,  targeted  distribution  may  be  made  to  selected  retail  clients  of  RBC  and  its  affiliates.  RBCEL  accepts  responsibility  for  this  report  and  its
+dissemination in the United Kingdom.
+To Persons Receiving This Advice in Australia:
+This material has been distributed in Australia by Royal Bank of Canada - Sydney Branch (ABN 86 076 940 880, AFSL No. 246521). This material has been prepared
+for general circulation and does not take into account the objectives, financial situation or needs of any recipient. Accordingly, any recipient should, before acting on
+this material, consider the appropriateness of this material having regard to their objectives, financial situation and needs. If this material relates to the acquisition or
+possible acquisition of a particular financial product, a recipient in Australia should obtain any relevant disclosure document prepared in respect of that product and
+consider that document before making any decision about whether to acquire the product.
+To Hong Kong Residents:
+This publication is distributed in Hong Kong by RBC Investment Services (Asia) Limited and RBC Investment Management (Asia) Limited, licensed corporations
+under the Securities and Futures Ordinance or, by Royal Bank of Canada, Hong Kong Branch, a registered institution under the Securities and Futures Ordinance. This
+material has been prepared for general circulation and does not take into account the objectives, financial situation, or needs of any recipient. Hong Kong persons
+wishing to obtain further information on any of the securities mentioned in this publication should contact RBC Investment Services (Asia) Limited, RBC Investment
+Management (Asia) Limited or Royal Bank of Canada, Hong Kong Branch at 17/Floor, Cheung Kong Center, 2 Queen's Road Central, Hong Kong (telephone number
+is 2848-1388).
+To Singapore Residents:
+This publication is distributed in Singapore by RBC (Singapore Branch) and RBC (Asia) Limited, registered entities granted offshore bank status by the Monetary
+Authority of Singapore. This material has been prepared for general circulation and does not take into account the objectives, financial situation, or needs of any
+recipient. You are advised to seek independent advice from a financial adviser before purchasing any product. If you do not obtain independent advice, you should
+consider whether the product is suitable for you. Past performance is not indicative of future performance.
+           .® Registered trademark of Royal Bank of Canada. RBC Capital Markets is a trademark of Royal Bank of Canada. Used under license.
+                                                 Copyright © RBC Capital Markets, LLC 2011 - Member SIPC
+                                               Copyright © RBC Dominion Securities Inc. 2011 - Member CIPF
+                                                   Copyright © Royal Bank of Canada Europe Limited 2011
+                                                            Copyright © Royal Bank of Canada 2011
+                                                                       All rights reserved
+
+                                                                                                                                                                 6
+
+                                                                                                                                                                 203

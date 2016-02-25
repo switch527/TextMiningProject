@@ -1,0 +1,1419 @@
+---------------------Page 1---------------------
+
+                                                                                                                     EQUITY RESEARCH
+
+                                                                                                  INITIATION OF COVERAGE
+
+ September 5, 2011                                                                           TECHNOLOGY/ENTERPRISE SOFTWARE
+
+ Stock Rating:
+                                                                  Tangoe
+ OUTPERFORM
+
+ 12-18 mo. Price Target                                                    $14.00This Dance Partner Reduces Telecom Expenses;
+
+ TNGO - NASDAQ                                      $11.33        Initiate with Outperform
+
+ 3-5 Yr. EPS Gr. Rate                                                             NASUMMARY
+
+ 52-Wk Range                                                        $12.77-$8.01      We are initiating coverage of Tangoe with an Outperform rating and a 12-18-month
+ Shares Outstanding                                                          31.4M      price  target  of  $14.  Tangoe  is  a  leading  provider  of  communications  lifecycle
+ Float                                                                                     18.6M      management  (CLM)  solutions  and  manages  ~$14.5B  of  the  ~$425B  worldwide
+
+ Market Capitalization                                                   $352.3M      fixed/mobile  communications  spend  per  year,  more  than  any  other  vendor  in  the
+                                                                  market. Combined with a sticky customer base, solid visibility into its future revenue
+ Avg. Daily Trading Volume                                          235,556
+                                                                  stream  and  meaningful  new  customer  additions,  we  expect  Tangoe  to  deliver
+ Dividend/Div Yield                                                 $0.00/0.00%
+                                                                  healthy  double-digit  revenue  and  EPS  growth  for  the  foreseeable  future.  Given
+ Fiscal Year Ends                                                                   Dec       these solid fundamentals and an attractive valuation, we believe that Tangoe is well
+ Book Value                                                                       ($1.32)      positioned  to  outperform  its  competitors  and  the  broader  markets  over  the  next
+ 2011E ROE                                                                              NA      12-18 months.
+
+ LT Debt                                                                             $31.7MKEY POINTS
+ Preferred                                                                                  NA
+                                                                  n   Greenfield  opportunities  abound. TNGO  estimates  that  80%  of  enterprises
+ Common Equity                                                               ($39M)
+                                                                      use outdated, home-grown systems to manage fixed/mobile telecom assets. As
+ Convertible Available                                                            No
+                                                                      mobile  devices  proliferate  throughout  organizations,  coupled  with  increasing
+
+ EPS Diluted                                                          privacy/regulatory concerns, it is clear to us many corporations will be unable to
+                  Q1         Q2         Q3         Q4      Year        Mult.
+                                                                      effectively manage this process going forward without a complete CLM solution.
+ 2009A                           --            --            --            --       0.16       70.8x
+
+ 2010A                           --            --            --            --       0.79       14.3x      nPlenty of growth drivers. TNGO has plenty of growth drivers in front of it (new
+
+ 2011E                   0.06A    0.06A       0.06       0.06       0.25       45.3xcustomers, penetrate existing accounts, international expansion, leverage in the
+                                                                      model,  additional  strategic  alliances)  that  should  enable  it  to  sustain  at  least
+ 2012E                     0.09       0.09       0.09       0.10       0.38       29.8x
+                                                                      15-20% organic growth for the foreseeable future.
+ Trading range as of 7/27/11 IPO.
+                                                                  n   Expect  more  acquisitions. TNGO  acquired  five  companies  in  the  past  four
+                                                                      years to obtain technology, customers, and extend its geographic reach. These
+                                                                      acquisitions enabled TNGO to develop and up-/cross-sell a holistic CLM suite to
+                                                                      a larger installed base. Going forward, we expect TNGO to engage in additional
+                                                                      tuck-in acquisitions to scale along these three axes.
+
+                                                                  n   Attractive valuation. At $11.33, TNGO trades at 3.4x CY12E recurring revenue
+                                                                      vs.   peers   at   4.3x.   Given   the   company's   growth   prospects,   solid   revenue
+                                                                      visibility,  and  leverage  in  the  model,  we  believe  it  should  trade  in  line  with  its
+                                                                      peers.
+
+                                                                 Stock Price Performance                              Company Description
+
+                                                                                                                       Tangoe is a leading provider of
+                                                                              1 Year Price History for TNGO            communications lifecycle management (CLM)
+                                                                                                                       software and services, specifically designed to
+                                                                                                                   12
+                                                                                                                       cover the entire lifecycle of an enterprise's
+                                                                                                                   11  communications assets, from initial
+                                                                                                                       procurement, through invoicing, to
+                                                                                                                   10
+                                                                                                                       decommissioning and disposal.
+                                                                                                                   9
+                                                                                                                   8
+                                                                                                                   7
+                                                                  Q2                                    Created by BlueMatrixQ3
+
+                                                                 Oppenheimer & Co. Inc. does and seeks to do business with companies covered in its research reports. As
+                                                                 a result, investors should be aware that the firm may have a conflict of interest that could affect the
+
+Brad Reback, CFA                                              objectivity of this report. Investors should consider this report as only a single factor in making their
+
+404-364-8728                                                     investment decision. See "Important Disclosures and Certifications" section at the end of this report for
+Brad.Reback@opco.com                                             important disclosures, including potential conflicts of interest. See "Price Target Calculation" and "Key Risks
+                                                                 to Price Target" sections at the end of this report, where applicable.
+
+                                                                  Oppenheimer & Co Inc. 300 Madison Avenue New York, NY 10017 Tel: 800-221-5588 Fax: 212-667-8229   224
+---------------------Page 2---------------------
+
+Tangoe
+
+                                             Investment Thesis    
+
+                                             We are initiating coverage of Tangoe with an Outperform rating and a 12-18-month price 
+                                             target of $14.  Tangoe is a leading provider of communications lifecycle management 
+                                             (CLM) solutions, a segment of the software market focused on managing the lifecycle of 
+                                             an enterprise‟s communications assets and services.  Tangoe‟s customers utilize its CLM 
+                                             platform to reduce costs by identifying/resolving billing errors, optimize service plans for 
+                                             usage patterns/needs, and manage used/unused telecom assets and services.  Further, 
+                                             customers rely on Tangoe‟s solution to automate mobile device provisioning and facilitate 
+                                             compliance with internal policies/regulatory requirements.  Through a combination of 
+                                             organic growth, successful acquisitions, and strategic alliances, Tangoe manages 
+                                             ~$14.5B (more than any other vendor in the market) of the estimated ~$425B of 
+                                             worldwide fixed/mobile communications spend per year.     
+
+                                             We believe Tangoe offers the most comprehensive CLM product in the market by 
+                                             combining fixed and mobile telecommunications expense management (TEM) and mobile 
+                                             device management (MDM) in one solution.  Coupled with what we believe to be a large 
+                                             and underpenetrated market opportunity, Tangoe has a variety of growth drivers in front of 
+                                             it (e.g., manage additional spend at existing accounts, new customer acquisitions, 
+                                             international expansion) that should enable it to deliver healthy double-digit revenue and 
+                                             EPS growth for the foreseeable future.  These dynamics, combined with a “sticky” 
+                                             customer base, solid visibility into its future revenue stream, and opportunity for multiple 
+                                             expansion, lead us to believe that Tangoe is well positioned to outperform its competitors 
+                                             and the broader markets over the next 12-18 months.   
+
+2
+
+                                                                                                                                    225
+---------------------Page 3---------------------
+
+                                                                                   Tangoe
+
+Key Points 
+
+Tangoe’s CLM solution delivers healthy ROI for its customers that prospective 
+customers should find attractive in a volatile economic environment.  Tangoe‟s CLM 
+solution enables customers to manage, centralize, and reduce fixed and mobile 
+communications spend, improve operational efficiency and productivity, align third-party 
+service agreements with corporate initiatives, and strengthen corporate governance by 
+managing privacy concerns and compliance with regulations/internal policies.  We note 
+that Tangoe experienced solid demand during the last recession, as recurring revenue 
+grew over 20% during the „08/‟09 downturn.  Since that time, Tangoe‟s value proposition 
+has become even more attractive, as it now offers telecom expense management (TEM) 
+and mobile device management (MDM) in one solution.   
+
+Multiple growth drivers to tap, given a growing and underpenetrated market.  First, 
+the CLM market is still in its earliest stages of growth, as enterprises are just beginning to 
+address the need to centrally manage a disparate inventory of fixed and mobile assets.  
+This function should only increase in importance as enterprises connect mobile devices 
+(smartphones, tablets) to the corporate network at an accelerating pace.  As a result of 
+this growing complexity, companies will have to move off of outdated, home-grown 
+systems to effectively manage telecom resources.  Given its leadership position in the 
+CLM space, Tangoe should be able to effectively capture this large opportunity (Tangoe 
+estimates that 80% of enterprises use internally developed systems/processes to manage 
+telecom assets).  Additionally, international expansion and future acquisitions should 
+augment Tangoe‟s long-term growth rate.  We expect the company to deliver at least 15-
+20% organic recurring revenue growth for the foreseeable future.   
+
+Lots of leverage in the model.  There is significant operating leverage in the model that 
+should enable Tangoe to deliver healthy margin expansion over the next few years.  For 
+example, Tangoe‟s gross margins took a hit this year (we expect GM to trend down to 
+approximately 53% in 2011 from 56.3% and 55.7% in 2010 and 2009, respectively) as the 
+company digests two recent acquisitions.  We note these integrations are on track and 
+expect gross margins to increase back to 56% in 2012, with gross margins trending 
+toward the low 60% range over the next 3-5 years.  Similarly, we expect Tangoe to deliver 
+adjusted EBITDA margin in the mid-11% range in 2011 (increasing from 10.0% and 7.8% 
+in 2010 and 2009, respectively) and believe it should steadily increase toward the 
+company‟s long-term target of 24-26% as the business gains critical mass. 
+
+Seasoned management team.  Tangoe has a seasoned management team with deep 
+experience in the CLM industry.  Albert Subbloie co-founded Tangoe and has served as 
+its president and CEO since 2000.  Gary Martino (CFO since July 2007) was a member of 
+Tangoe‟s board from February 2000 to March 2007.  Additionally, Tangoe co-founder 
+Charles Gamble has served in several leadership roles at the company since February 
+2000, and Albert Rossini has served as EVP of Global Sales since December 2006.  We 
+note that Tangoe has rounded out its core management team by bringing on other CLM 
+industry veterans through the company‟s acquisitive past.  We believe that Tangoe has 
+assembled a quality management team and expect it will keep the company focused on 
+the long-term CLM opportunity.     
+
+Attractive valuation.  At $11.33, Tangoe trades at 3.4x our CY12 recurring revenue 
+projection of $107.5M, a discount to the SaaS (software as a service) peer group multiple 
+of 4.3x.  Admittedly, Tangoe is not yet a pure SaaS-only shop (the MDM product is 
+delivered via a dedicated hosted or as an on-premise solution but is expected to migrate 
+to a SaaS architecture by the end of next year).  However, given the company's growth 
+prospects, solid revenue visibility, and leverage in the model, we believe it should trade in 
+line with its peers.  As a result, we apply a 4.1x CY12 recurring revenue multiple to arrive 
+at our $14 price target. 
+
+                                                                                        3
+
+                                                                                       226
+---------------------Page 4---------------------
+
+Tangoe
+
+                                              Note that there are risks entailed in an investment in TNGO.  Please see “Investment 
+                                              Risks” on p. 18 for more information. 
+
+                                               
+                                               
+                                               
+
+4
+
+                                                                                                                                       227
+---------------------Page 5---------------------
+
+                                                                                    Tangoe
+
+Growth Drivers 
+
+Over the past four years, Tangoe has delivered impressive growth, moving from a $13M 
+business in 2006 to over $68M in 2010 (representing ~50% CAGR).  While Tangoe 
+continues to grow its installed base, we expect it will take time to deeply penetrate new 
+customers‟ fixed and mobile telecom spend.  However, we believe Tangoe is well 
+positioned to take advantage of the enterprise mobile revolution as smartphones and 
+tablets connect to the corporate network at an accelerating pace.  Given numerous growth 
+drivers and building market awareness, we believe Tangoe is well positioned to deliver at 
+least 15-20% organic recurring revenue growth for the foreseeable future. 
+
+Through internal development and acquisitions, Tangoe has assembled a comprehensive 
+product portfolio.  The company continues to invest in R&D and spends more in R&D than 
+several of its competitors generate in revenues.  We expect continued investment in R&D 
+to enable the firm to roll out enhancements to its CLM platform that should keep customer 
+retention high, target new revenue drivers (e.g., cross/up-sell opportunities), and bolster 
+the company‟s long-term growth prospects. 
+
+Greenfield opportunities abound.  Tangoe manages ~$14.5B of the estimated ~$425B 
+of annual fixed/mobile communications spend worldwide.  As mobile assets have 
+proliferated throughout the enterprise, companies have built piecemeal systems and 
+processes to manage their collective inventory of communications assets.  Tangoe 
+estimates that 80% of enterprises use home-grown systems, which are often manual in 
+nature.  Typically, this infrastructure is not robust and cannot efficiently scale to handle 
+new devices, regulatory/internal controls changes, or technologies.  Without a 
+comprehensive CLM package, it is difficult for organizations (and especially so for 
+multinationals) to centrally manage the enterprise-wide universe of telecom assets, verify 
+the accuracy of monthly bills, or allocate costs to specific divisions or users.  We also note 
+that carriers often issue statements in different formats, currencies, and languages, adding 
+to this complexity.   
+
+We expect Tangoe to continue investment in sales and marketing to drive awareness and 
+build pipelines for its CLM solution.  As enterprises increasingly support employee 
+connectivity of mobile devices to the corporate network (each with separate data plans, 
+contract terms, and monthly bills) and increasing privacy and regulations/internal policies 
+become more complex, it is clear to us that many corporations will be unable to effectively 
+manage this process using outdated, home-grown systems going forward.   
+
+Room to further penetrate existing accounts.  Tangoe has done an admirable job of 
+delivering ROI for its customers, and we believe there are significant opportunities to 
+broaden these relationships to manage greater amounts of their fixed and mobile spend.  
+For example, we estimate on average, Tangoe has penetrated only ~33% of telecom 
+spend per client as various buying centers within a client often own different pieces of a 
+corporation‟s telecom spend and it takes time to develop relationships throughout the 
+enterprise.  In fact, 25-35% of new annual recurring revenue comes from existing 
+customer relationships (expansion into new geographies, add-on products, general 
+increases in spend under management).  We expect over time, customers should see the 
+value of Tangoe‟s offering and be more willing to hand over additional business and/or 
+buy complementary products/services.  Further, Tangoe‟s quota-carrying sales team is 
+compensated on annual recurring revenue added, which aligns their interests with the 
+firm‟s desire to penetrate existing accounts for incremental revenue opportunities.   
+
+Based on our assumption the company has penetrated only ~33% of its installed base and 
+currently manages ~$14.5B, we believe Tangoe has the opportunity to increase telecom 
+spend managed to over $40B just by fully penetrating its existing customers.  While we do 
+not anticipate Tangoe will ever win 100% of its customers‟ business, we believe the 
+
+                                                                                         5
+
+                                                                                       228
+---------------------Page 6---------------------
+
+Tangoe
+
+                                              company will continue to expand its relationships, cross-sell/up-sell additional features 
+                                              and services, and manage increasing amounts of telecom spend per customer over time. 
+
+                                              Tangoe is not afraid to acquire technology, clients, and/or geographic presence.  
+                                              Through much of its history, Tangoe has used acquisitions to augment its organic growth.  
+                                              Over the past four years, Tangoe acquired five companies in order to obtain new 
+                                              technology, grow its customer base, and extend its geographic reach.  Overall, these 
+                                              deals allowed the firm to develop and integrate a holistic CLM offering and up-sell/cross-
+                                              sell its combined CLM suite to a larger installed base.  We expect Tangoe to continue to 
+                                              engage in tuck-in acquisitions over the next few years in order to continue scaling along 
+                                              these three axes.   
+
+                                              Strategic alliances a key part of Tangoe’s growth strategy.  In addition to its direct 
+                                              sales force, Tangoe formed ~20 strategic alliances with a variety of channel 
+                                              partners/resellers including ACS, Dell, HCL, and IBM.  These partners enable Tangoe to 
+                                              extend its reach in the marketplace by reselling or white-labeling Tangoe‟s CLM solutions.  
+                                              Partners often perform lead generation, sales, and ongoing management of customer 
+                                              accounts.  Strategic alliances contribute approximately 25% to Tangoe‟s new sales, with 
+                                              the IBM relationship alone accounting for revenues of 10.6% and 11.8% in 2010 and 
+                                              2009, respectively.  
+
+                                              Management notes that gross margins for partner sales are roughly consistent with direct 
+                                              sales, as partners typically mark up the offerings to their clients.  In order to continue 
+                                              expanding its market reach, we expect Tangoe to add one to two strategic relationships 
+                                              (BPO and/or SI companies) over the next 12-24 months.  
+
+                                              International expansion is in the early innings.  Approximately $3.5B of the ~$14.5B of 
+                                              spend managed by Tangoe is domiciled internationally.  We note that in addition to 
+                                              growing the overall size of the pie, Tangoe is looking to meaningfully expand its 
+                                              international operations, since the vast majority of its international spend is from US-based 
+                                              multinationals.  The company recently opened offices in Amsterdam (European HQ) and 
+                                              China and has branches in London and Brussels.  Given the overall size of the market, 
+                                              combined with the fact that Tangoe is just beginning to ramp its international presence, we 
+                                              believe there is a significant opportunity for Tangoe to grow overseas.   
+
+6
+
+                                                                                                                                       229
+---------------------Page 7---------------------
+
+                                                                                     Tangoe
+
+Industry Trends 
+
+Over the past decade, the breadth, complexity, and sophistication of an enterprise‟s fixed 
+and mobile communications infrastructure has increased exponentially.  Historically, much 
+of an organization‟s telecom footprint was fixed in nature and included telephones, lines, 
+circuits, switches, and fixed networks.  Now, significant advances in telecom technology 
+have expanded the corporate network to include a variety of new devices/technologies 
+including mobile devices (smartphones, tablets) or Voice over IP (VoIP).  We believe 
+many organizations do not have tools or systems in place to centrally manage fixed and 
+mobile telecom assets in an effective and efficient manner.   
+
+CLM is big business...and growing.  Tangoe estimates that enterprises spend ~$425B 
+per year to manage fixed and mobile telecom assets and services.  Gartner‟s research 
+suggests that the TEM market should grow at over a 20% CAGR through 2013, with 
+mobile growth outpacing fixed growth.  
+
+However, many companies still use manual, home-grown solutions to manage 
+communications assets.  As mobile assets have proliferated throughout the enterprise, 
+companies have built piecemeal systems and processes to manage their collective 
+inventory of communications assets.  Tangoe estimates that 80% of enterprises use 
+home-grown systems, often manual in nature.  Typically, this infrastructure is not robust 
+and cannot efficiently scale to handle new devices, regulatory/internal control changes, or 
+technologies.  As a result, it is difficult for organizations (especially multinationals) to 
+centrally manage the enterprise-wide universe of telecom assets, verify the accuracy of 
+monthly bills, and/or allocate costs to specific divisions or users.  We note that carriers 
+often issue statements in different formats, currencies, and languages, adding to this 
+complexity. 
+
+A simple example can help illustrate one of the many benefits of a CLM solution.  Many 
+enterprises issue company-owned cell phones/smartphones to employees (or support 
+bring-your-own-device programs) from a variety of carriers, each with a unique set of 
+service options, contracts, and billing arrangements.  Besides the complexities associated 
+with trying to manage the sheer volume of monthly bills, Tangoe believes that 25% of bills 
+have errors that result in overcharges of ~4-8%.  Further, since voice/data plans are not 
+always optimized for actual monthly usage, employers may overpay for high minute/data 
+packages that go unused or conversely pay for overages as employees blow through their 
+minutes or roam when traveling internationally.  Without a centralized solution, companies 
+quite often do not have visibility into whether or not they are paying for access to devices 
+assigned to inactive or terminated employees.  While this is just one example, it quickly 
+distills the value and potential ROI benefits that a CLM solution can provide. 
+
+Risk and policy management is increasing in importance.  Separately, as companies 
+continue to add support for newer mobile devices to their network, it has become more 
+difficult, yet increasingly more important, to protect confidential information and manage 
+compliance with government/industry regulations or internal policies.  For example, 
+several countries (such as Germany, Portugal, and Spain) require that invoices be 
+encrypted and/or identifying data redacted prior to transmission outside of the country (we 
+note that Tangoe has 88 global invoice processing centers to adhere to regulatory 
+compliance).  Further, companies must be able to remotely monitor devices for 
+compliance or “kill” devices should they be lost or stolen.  Mobile device support is only 
+beginning to mature, with Gartner expecting 80% of enterprises to support tablets by 
+2013.  Therefore, we believe that efficient corporate governance requires a centralized 
+and automated solution to ensure regulatory requirements with laws and policies. 
+
+Putting this all together, enterprises (especially multinational organizations) can no 
+longer afford to go without a holistic view of their fixed/mobile assets and accompanying 
+
+                                                                                          7
+
+                                                                                        230
+---------------------Page 8---------------------
+
+Tangoe
+
+                                             expenses, especially given increasing spend per year.  As mobile devices enter the 
+                                             workplace at escalating rates, organizations need to enforce compliance and manage the 
+                                             security risks that accompany these devices.  Therefore, we believe that the 
+                                             aforementioned industry trends favor adoption of third-party CLM solutions over home-
+                                             grown systems, and Tangoe is well positioned to be a formidable candidate at the RFP 
+                                             table. 
+
+                                              
+
+8
+
+                                                                                                                                     231
+---------------------Page 9---------------------
+
+                                                                                                                                                       Tangoe
+
+                                                      Valuation     
+
+                                                      Tangoe’s growth drivers, healthy fundamentals, and market leadership lead us to 
+
+                                                      believe Tangoe’s shares should outperform the broader markets over the next 12-18 
+
+                                                      months.  At current levels, Tangoe‟s stock trades at 3.4x our CY12 recurring revenue 
+
+                                                      projection of $107.5M and is attractively priced, in our view.  We note Tangoe trades at a 
+
+                                                      discount to the SaaS group, which currently trades at 4.3x CY12E recurring revenue.  
+
+                                                      Admittedly, Tangoe is not yet a pure SaaS company, as its MDM product is still delivered 
+
+                                                      via a dedicated hosted or as an on-premise solution.  However, Tangoe‟s flagship CMP 
+
+                                                      suite is currently offered on-demand, and the company expects to migrate the MDM 
+
+                                                      product to an SaaS architecture by the end of next year.  Given the company's growth 
+
+                                                      prospects, solid revenue visibility, and leverage in the model, we believe it should trade in 
+
+                                                      line with its peers.  As a result, we apply a 4.1x CY12 recurring revenue multiple to arrive 
+
+                                                      at our $14 price target. 
+
+                                                      The company‟s stage in its lifecycle, healthy organic growth (we expect the company to 
+
+                                                      deliver at least 15-20% organic recurring revenue growth for the foreseeable future), 
+
+                                                      positive acquisitive track record, and solid revenue visibility (~90% of revenues are 
+
+                                                      recurring) lead us to believe that traditional P/E and cash flow-based valuation methods 
+
+                                                      are less appropriate measures to value Tangoe‟s shares.  Instead, we believe that 
+
+                                                      EV/recurring revenue is a more appropriate way to value the company and expect that 
+
+                                                      EV/FCF will likely be another viable metric to value the company as it matures. 
+
+                                                      The following table values Tangoe against other SaaS enterprise software companies: 
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                                       
+
+                                 09/01/11  Net    Ent.      Rec. Rev.                EV to Rec. Rev
+Company           Ticker  Rating Price   Cash    Value    CY10E  CY11E    CY12E    CY10E CY11E CY12E
+Ariba              ARBA    P      $26.94     240.6 $2,365  $248.3  $361.2 $422.2      9.5x 6.5x   5.6x
+Concur            CNQR     O      $41.36     377.4 $1,886  $295.8  $354.5 $427.7      6.4x 5.3x   4.4x
+ConstantContact     CTCT   O      $18.30     111.2  $430  $174.2  $214.7  $260.6      2.5x 2.0x   1.7x
+Cornerstone OnDemand CSOD  NR     $15.41       80.9 $655           $72.7  $107.8            9.0x  6.1x
+DemandTec         DMAN     NR      $6.22       65.4 $135   $79.7   $90.2  $101.2      1.7x 1.5x   1.3x
+Kenexa            KNXA     O      $19.75       87.4 $423  $157.8  $212.7  $239.9      2.7x 2.0x   1.8x
+NetSuite          N        NR     $31.65     118.3 $2,002  $193.2  $234.2 $279.2     10.4x 8.5x   7.2x
+Responsys         MKTG     NR     $14.50       80.9 $1,031        $131.9  $159.6      N/M  7.8x   6.5x
+Salesforce.com      CRM    P     $127.00     802.5 $17,416 $1,551.1 $2,073.4 $2,556.0     11.2x8.4x6.8x
+SuccessFactors      SFSF   O      $22.59     357.4 $1,515  $209.4  $311.7 $371.1      7.2x 4.9x   4.1x
+Taleo              TLEO    O      $25.44     141.4  $961  $202.4  $262.4  $316.6      4.7x 3.7x   3.0x
+Ultimate Software     ULTI P      $49.28       54.0 $1,322  $170.9  $214.4$266.5      7.7x 6.2x   5.0x
+Vocus             VOCS     NR     $20.62     116.6  $271   $97.9  $114.8  $132.9      2.8x 2.4x   2.0x
+
+Average Multiple                                                                     6.1x  5.2x   4.3x
+
+                                 09/01/11  Net    Ent.       Annual Rec. Rev         EV to Rec. Rev
+Company           Ticker  Rating Price   Cash    Value     CY10  CY11E    CY12E     CY10 CY11E CY12E
+Tangoe             TNGO    O     $11.33 $   (23) $      361 $57.7  $91.9  $107.5    6.3x  3.9x  3.4x
+Source: Oppenheimer & Co., Reuters   Note: Estimates not covered by Opco are from First Call.
+
+                                                                                                                                                             9
+
+                                                                                                                                                           232
+---------------------Page 10---------------------
+
+Tangoe
+
+                                            Company Background 
+
+                                            Tangoe is a leading provider of CLM solutions, a segment of the software market focused 
+                                            on managing the lifecycle of an enterprise‟s communications assets and services.  As 
+                                            defined by Tangoe, CLM encompasses fixed and mobile planning and sourcing, 
+                                            procurement and provisioning, inventory and usage management, invoice processing, 
+                                            expense allocation and accounting, and asset decommissioning and disposal.  Tangoe‟s 
+                                            primary offering, the communications management platform (CMP), is an SaaS-based 
+                                            solution used to manage fixed and mobile communications assets and services.  Broadly 
+                                            speaking, the two primary sub-sectors within the CLM universe are telecommunications 
+                                            expense management (TEM) and mobile device management (MDM).  We note that 
+                                            through a history of acquisitions and internal developments, Tangoe became one of the 
+                                            first providers to integrate fixed and mobile CLM solutions as well as TEM and MDM 
+                                            solutions in one platform.  As a result, Tangoe maintains a leadership position and offers 
+                                            one of the most comprehensive CLM suites in the market.  The company believes it is 
+                                            over three times larger than its nearest competitor.     
+
+                                            Founded in 2000, Tangoe is headquartered in Orange, CT.  The company employs over 
+                                            750 people across global offices including the United States, Amsterdam, and China 
+                                            (Tangoe serves the Latin American market through local partners) and manages ~$14.5B 
+                                            of the estimated ~$425B in fixed and mobile communications spend per year along with 
+                                            over 1.7M mobile devices.  About ~50% of revenues is fixed TEM, ~40% is mobile 
+                                            TEM/MDM, with the remaining ~10% coming from strategic consulting.  While MDM deal 
+                                            sizes are typically smaller than TEM deals, we believe MDM represents an emerging 
+                                            market and expect it will continue to grow from the less than 10% of total revenues it 
+                                            comprises today.   
+
+                                            Tangoe boasts of servicing over 615 end customers ranging from small companies with 
+                                            150 employees to multinational corporations with over 350,000 employees.  While Tangoe 
+                                            is not particularly levered to any one vertical, we note that technology and 
+                                            finance/insurance each comprise approximately 15-20% of total revenue.  No single end 
+                                            customer comprised more than 10% of total revenue from 2008 to 2010.  We note that 
+                                            Tangoe typically adds 20-30 new customers a quarter. 
+
+                                             
+
+                                             
+
+                                             
+
+                                             
+
+                                             
+
+                                                              
+
+10
+
+                                                                                                                                  233
+---------------------Page 11---------------------
+
+                                                                                    Tangoe
+
+Product Offering    
+
+The Communications Management Platform is an SaaS-based solution that is offered on 
+a subscription basis (with contracts that range from 24 to 60 months) and manages the 
+lifecycle of fixed and mobile communications assets and services.  CLM integrates with 
+leading ERP products such as SAP or Oracle to synch employee, accounting, user access 
+authentication, and security policy information.  For those companies interested in 
+outsourcing aspects of telecom management, Tangoe offers help desk, asset 
+procurement and provisioning, and carrier dispute resolution through its Client Services 
+Group.   
+
+Tangoe’s CLM suite is both flexible and scalable, enabling the company to support 
+smaller installations through global deployments.  About $3.5B of Tangoe‟s ~$14.5B 
+managed spend is international, and the solution supports 16 languages, 125 currencies, 
+200 countries/territories, and 1,900 billing formats for 1,700 carriers globally.  With support 
+for 63 global regulatory bodies, coupled with holding 12 patents (and seven more 
+pending), we believe Tangoe has created a sizable moat vis-à-vis its competitors. 
+
+Tangoe offers CLM solutions in three base packages which can be sold separately or 
+bundled together.  These packages include standard capabilities as well as the ability to 
+add-on functionality.  The following is a brief overview of the three packages: 
+
+       Asset Management – manages asset procurement, provisioning, tracking, and 
+        disposal capabilities for fixed and mobile communications assets and services.  
+        In particular, it provides: 
+
+             o   Catalog Management – catalog communications services, devices, 
+                 features, and plans 
+
+             o   Procure – enforce workflow management capabilities to request and 
+                 approve fixed/mobile service and equipment orders 
+
+             o   Provision – use over-the-air (OTA) provisioning to configure mobile 
+                 devices (with usage/security policies) and install corporate applications 
+
+             o   Track – track communications assets including configuration, 
+                 ownership, and operational/connectivity status  
+
+             o   Maintain – deploy usage/security policies and updates to mobile devices 
+
+             o   Dispose – erase and dispose of mobile devices 
+
+     
+
+       Expense Management – manages the lifecycle of fixed and mobile 
+        communications billings.  In particular, it provides: 
+
+             o   Contract Management – a central repository to manage contracts and 
+                 agreements 
+
+             o   Billing – import service and equipment bills into a centralized repository 
+
+             o   Audit – evaluate billing data against contracts (rates, terms) and asset 
+                 inventories to flag exceptions 
+
+             o   Dispute – dispute and track billing, service, and asset exceptions with 
+                 carriers/providers 
+
+             o   Allocate – allocate expenses to business units, cost centers, and 
+                 employees 
+
+             o   Payment – automatically pay invoices (directly to vendor or feed A/P 
+                 systems) based on predefined business rules 
+
+             o   Optimize – evaluate contracts against actual usage to optimize billing 
+                 contracts/plans 
+
+     
+
+                                                                                        11
+
+                                                                                       234
+---------------------Page 12---------------------
+
+Tangoe
+
+                                                      Usage Management – monitors (real-time and historical) fixed/mobile 
+                                                       communications asset usage and compliance with corporate security policies.  In 
+                                                       particular, it provides: 
+
+                                                            o   Secure – delete data from and disable mobile devices 
+
+                                                            o   Policy Management – define security and usage policies 
+
+                                                            o   Monitor – monitor device usage for problem identification, fraud 
+                                                                detection, and misuse of services 
+
+                                                            o   Real-Time – monitor device-level usage costs to identify usages in 
+                                                                violation of corporate policy or expenses related to roaming charges 
+
+                                                            o   Compliance – enforce usage policies to limit functionality and track non-
+                                                                compliant behavior 
+
+                                                            o   Performance – monitor/manage wireless server infrastructure 
+                                                                performance and mobile device configurations 
+
+                                                            o   Support – provide mobile device support capabilities on a stand-alone 
+                                                                basis or in conjunction with an existing corporate help desk 
+
+                                                    
+
+                                              While Tangoe‟s main revenue driver is recurring subscription revenue (which comprises 
+                                              ~90% of total revenues), we note the company also offers strategic consulting services 
+                                              including sourcing (review and negotiate contracts with carriers), bill auditing (identify 
+                                              billing errors), inventory optimization (align assets with business need), mobile 
+                                              optimization (optimize mobile policies/assets/contracts with business need), and policy 
+                                              administration (develop enterprise policies for communications assets and services). 
+
+                                              Tangoe sees a large and growing opportunity in the TEM/MDM space, and we expect 
+                                              the firm to devote the majority of its sales and marketing resources toward growing the 
+                                              recurring revenue side of the house.  While the strategic consulting business is still 
+                                              important to Tangoe, we do not expect the firm to actively grow this segment of the 
+                                              business and believe it will hover around 10% of revenues over the near term.   
+
+                                               
+
+                                               
+
+                                               
+
+12
+
+                                                                                                                                        235
+---------------------Page 13---------------------
+
+                                                                                    Tangoe
+
+Business Model 
+
+Tangoe‟s TEM product is primarily delivered as an on-demand solution, whereas its MDM 
+product is delivered via a dedicated hosted or on-premise solution (we note that Tangoe 
+expects to migrate the MDM product to a SaaS architecture by the end of next year).  The 
+firm has good visibility into its revenue stream each quarter, with about 90% of revenues 
+recurring and the remaining coming from consulting and software licenses.  Tangoe‟s 
+business model has proven to be relatively stable, as evidenced by over 20% recurring 
+revenue growth during the „08/‟09 recession.  We note that Tangoe bills clients on a 
+monthly basis.    
+
+Tangoe‟s revenue model is levered to the dollar amount of communications spend 
+managed (for fixed line contracts), number of devices managed (for mobile device 
+contracts), and add-on functionality/services.  ASPs run north of $175K, with the top 100 
+accounts averaging $574K.  MDM ASPs are lower than for TEM, which we expect to rise 
+and which should help drive ASPs higher over the next few years.  About ~50% of 
+revenues is fixed TEM, ~40% is mobile TEM/MDM, with the remaining ~10% coming from 
+strategic consulting.  While MDM deal sizes are typically smaller than TEM deals, we 
+believe MDM represents an emerging market and expect it will continue to grow from the 
+less than 10% of total revenues it comprises today.     
+
+Tangoe‟s target market ranges from small companies with several million dollars in 
+telecom spend through multinational enterprises with over one billion dollars in telecom 
+spend.  Contracts run for 24-60 months (with a typical contract averaging runs for 24-36 
+months), and we note that Tangoe‟s customer base is pretty “sticky,” with retention rates 
+in the mid-90s. 
+
+Tangoe‟s quota-carrying sales team is compensated on annual recurring revenue added, 
+which aligns the sales force with the firm‟s desire to drive sales in new accounts as well as 
+penetrate existing accounts for incremental revenue opportunities.  While the sales cycle 
+typically ranges from six to nine months, we note Tangoe can roll out a new 
+implementation within 60-90 days. 
+
+Tangoe sees a large and growing opportunity in the TEM/MDM space, and we expect the 
+firm to devote the majority of its sales and marketing resources toward growing the 
+recurring revenue side of the house.  While the strategic consulting business is still 
+important to Tangoe, we do not expect the firm to actively grow this segment of the 
+business and believe it will hover around 10% of revenues over the near term.   
+
+As an aside, management disclosed that billings is not a metric that the company focuses 
+on and believes it is a less important metric for Tangoe than it may be for other SaaS 
+companies.  For example, while contracts run 24-60 months, Tangoe bills clients on a 
+monthly basis and not one year (or more) in advance like other SaaS shops may.  
+Second, much of Tangoe‟s deferred revenue makeup is related to legacy maintenance 
+contracts (which is amortized annually) and will not be replenished with subscription 
+contracts due to Tangoe‟s transition to a pure-SaaS shop.  
+
+ 
+
+                                                                                        13
+
+                                                                                        236
+---------------------Page 14---------------------
+
+Tangoe
+
+                                             Recent Acquisitions & Strategic Alliances 
+
+                                             Tangoe is not afraid to acquire technology, clients, and/or geographic presence.  
+                                             Through much of its history, Tangoe has used acquisitions to augment its organic growth.  
+                                             Over the past four years, Tangoe acquired five companies in order to obtain new 
+                                             technology, grow its customer base, and extend its geographic reach.  Overall, these 
+                                             deals allowed the firm to develop and integrate a holistic CLM offering and up-sell/cross-
+                                             sell its combined CLM suite to a larger installed base.  We expect Tangoe to continue to 
+                                             engage in tuck-in acquisitions over the next few years in order to continue scaling along 
+                                             these three axes.  While Tangoe prefers cash-based deals, we note that management is 
+                                             not averse to stock-based transactions. 
+
+                                             Through these acquisitions and internal developments, Tangoe became one of the first 
+                                             providers to integrate fixed and mobile CLM solutions as well as TEM and MDM solutions 
+                                             in one platform.  The following section briefly highlights Tangoe‟s recent acquisition 
+                                             history:     
+
+                                                Telwares, Inc. – On March 16, 2011, Tangoe acquired Telwares‟ TEM business for 
+                                                 $4.5M (with deferred cash payments of an additional $2.5M).  Through this 
+                                                 acquisition, Tangoe extended its fixed/mobile capabilities by acquiring invoice 
+                                                 management, call accounting, and MDM operations.  We note Telwares had ~75 
+                                                 TEM customers that should contribute ~$8M in revenues during 2011.  Additionally, 
+                                                 we expect Tangoe to migrate existing Telwares customers to Tangoe solutions over 
+                                                 the next 12-18 months. 
+
+                                                HCL Technologies – On January 25, 2011, Tangoe acquired HCL Technologies‟ 
+                                                 Expense Management Services Inc. (HCL EMS) for $3M (with earnout payments of 
+                                                 up to $3.4M).  Through this acquisition, Tangoe acquired TEM, invoice processing, 
+                                                 and mobility management solutions.  We note that HCL had ~40 TEM customers that 
+                                                 should generate ~$10M in revenues during 2011.  Additionally, we expect Tangoe to 
+                                                 migrate existing HCL customers to Tangoe solutions over the next 12-18 months.   
+
+                                                InterNoded, Inc. – On December 23, 2008, Tangoe acquired InterNoded, Inc., a 
+                                                 provider of MDM solutions, for $3.3M.  Through this acquisition, Tangoe obtained 
+                                                 MDM technology capabilities which enabled the firm to offer an integrated TEM and 
+                                                 MDM solution.  
+
+                                                Information Strategies Group, Inc. (ISG) – On July 28, 2008, Tangoe acquired ISG, 
+                                                 a provider of telecom and IT expense processing services and technologies, for 
+                                                 $11.9M.  Through this acquisition, Tangoe added international capabilities, acquired 
+                                                 call accounting and bill chargeback/allocation technology, and grew its customer 
+                                                 base. 
+
+                                                TRAQ Wireless, Inc. – On March 9, 2007, Tangoe acquired TRAQ Wireless, Inc., a 
+                                                 provider of mobile lifecycle management solutions, for $20.7M.  Through this 
+                                                 acquisition, Tangoe acquired wireless expense management technology capabilities 
+                                                 which enabled the firm to offer an integrated fixed and mobile TEM solution. 
+
+                                             Expect Margin Expansion Over Time.  Tangoe delivered gross margins of 56.3% and 
+                                             55.7% in 2010 and 2009, respectively.  We expect gross margins to trend down over 200 
+                                             bps (to approximately 53%) in 2011 while the company digests the Telwares and HCL 
+                                             acquisitions (HCL and Telwares have typically operated at lower margin structures).  We 
+                                             note these integrations are on track and expect margins to increase back to 56% next 
+                                             year as Tangoe fully integrates these purchases.  Over time (i.e., ~ three to five years), we 
+                                             expect gross margins to trend higher toward management‟s long-term target of 61-63%.   
+
+                                              
+
+14
+
+                                                                                                                                   237
+---------------------Page 15---------------------
+
+                                                                                     Tangoe
+
+Due to the large and growing market opportunity, we agree with the company‟s investment 
+in R&D and S&M.  Despite these investments, we expect adjusted EBITDA margin (a 
+metric used by Tangoe management) to come in at the mid-11% range in 2011 
+(increasing from 10.0% and 7.8% in 2010 and 2009, respectively) and believe it should 
+steadily increase toward the company‟s long-term target of 24-26% as the business gains 
+critical mass. 
+
+Strategic Alliances a Key Part of Tangoe’s Growth Strategy.  In addition to its direct 
+sales efforts, Tangoe formed ~20 strategic alliances with a variety of channel 
+partners/resellers including ACS, Dell, HCL, and IBM.  These partners enable Tangoe to 
+extend its reach in the marketplace by reselling or white-labeling Tangoe‟s CLM solutions.  
+Partners often perform lead generation, sales, and ongoing management of customer 
+accounts.  They can also provide implementation and consulting services related to the 
+solution, branded as being provided by the partner itself.   
+
+Strategic alliances contribute approximately 25% to Tangoe‟s new sales, with the IBM 
+relationship alone accounting for revenues of 10.6% and 11.8% in 2010 and 2009, 
+respectively.  The IBM relationship is the most mature relationship, and Dell is one of the 
+newest (formed in March 2011).  While Tangoe does not have exclusive relationships with 
+its strategic partners, management discloses that Tangoe is entrenched with these 
+companies due to the complexity surrounding CLM solutions (e.g., partners need to have 
+intimate knowledge of the CLM product to sell, implement, and support it, and it is often 
+difficult to maintain such expertise across a variety of solutions).  Further, Tangoe issued 
+common stock warrants to IBM and Dell that should incentivize them to actively sell its 
+solution.  Separately, Gartner notes that Tangoe‟s partner revenues alone outpace the 
+total revenues of other TEM players. 
+
+Management notes that gross margins for partner sales are roughly consistent with direct 
+sales as partners typically mark up the offerings to their clients.  In order to continue 
+expanding its market reach, we expect Tangoe to add one to two strategic relationships 
+with business process outsourcing firms and system integrators over the next 12-24 
+months.  
+
+                                                                                         15
+
+                                                                                        238
+---------------------Page 16---------------------
+
+Tangoe
+
+                                            Recent Results 
+
+                                            Delivers solid 2Q11.  Tangoe released its 2Q11 quarterly results (its last complete 
+                                            quarter as a private company) on August 23, 2011, that were in line with the company‟s 
+                                            preliminary results provided in the S-1.  Overall, Tangoe delivered solid results across the 
+                                            board and posted non-GAAP EPS of $0.06 on revenue of $26.0M, up 56% Y/Y and in line 
+                                            with our estimates of $0.06 on revenue of $25.5M.  The results were led by healthy 
+                                            recurring revenue growth, up 69% Y/Y to $23.5M from $13.9M.  Tangoe delivered organic 
+                                            recurring revenue growth of 28% for 2Q11 and for 1H11, and recurring revenue comprised 
+                                            90% of total revenue for the quarter (up from 83% in 2Q10 and 89% in 1Q11).  Last, 
+                                            Tangoe posted adjusted EBITDA of $3.1M, up 90% Y/Y from $1.6M. 
+
+                                            No signs of a slowdown.  Management highlighted it has not seen any impact to its 
+                                            business from macro headwinds and notes its pipelines are strong and growing.  Recall 
+                                            that Tangoe experienced solid demand during the last recession, as recurring revenue 
+                                            grew over 20% (and against plan) during the „08/‟09 downturn.  Since that time, Tangoe‟s 
+                                            value proposition has become even more attractive, as it now offers TEM and MDM in one 
+                                            solution.   
+
+                                            Customer retention rates are in the mid-90s, and the company added 25 new customers 
+                                            during the quarter (it typically adds 20-30 a quarter).  Additionally, Tangoe rolled out the 
+                                            latest version of its MDM suite, which contained device and application security 
+                                            enhancements for Apple iOS and Android operating systems. 
+
+                                            Acquisitions are on track.  Management highlighted that the HCL and Telwares 
+                                            acquisitions are on track, and the company expects to complete the migrations over the 
+                                            next 12-18 months.  We believe the company is ready to digest its next acquisition should 
+                                            the opportunity for an acquisition present itself. 
+
+                                            Issues 3Q11 and FY11 guidance.  Looking ahead, management expects 3Q11 non-
+                                            GAAP EPS and revenue of $0.06/$26.3-26.7M.  The company also expects adjusted 
+                                            EBITDA of $3-3.2M and 35.1M shares outstanding.  For FY11, the company now expects 
+                                            non-GAAP EPS and revenue of $0.24-0.25/$101.4-102.2M.  The company also expects 
+                                            adjusted EBITDA of $11.8-12.2M, 33.3M shares outstanding, and a tax rate of 8%.  
+                                            Longer term, management is targeting an adjusted EBITDA margin of 24-26%. 
+
+                                            Strong execution and good visibility should lead to upside.  Based on Tangoe‟s 
+                                            strong growth during 1H11, visibility into future revenue, business momentum, market 
+                                            opportunity and increasing market awareness, and healthy balance sheet post-IPO, we 
+                                            believe the company is poised to deliver a strong second half of the fiscal year and can 
+                                            deliver at least 15-20% organic recurring revenue growth for the foreseeable future.  
+                                            Altogether, we expect non-GAAP EPS/revenue of $0.06/$26.5M and $0.25/$102.0M for 
+                                            3Q11 and FY11, respectively. 
+
+                                             
+
+                                             
+
+16
+
+                                                                                                                                   239
+---------------------Page 17---------------------
+
+                                                                                  Tangoe
+
+Competitive Landscape    
+
+The CLM marketplace is highly fragmented and competitive, with competitors ranging 
+from in-house solutions to third-party providers.  Often, in-house solutions are 
+immature/manual in nature and do not offer the functionality, scalability, or productivity 
+gains offered by Tangoe‟s CLM platform.  While third-party providers offer capable 
+solutions, we note that they are point solutions and are not a complete fixed/mobile TEM 
+and MDM suite.  As discussed in the “Recent Acquisitions & Strategic Alliances” section, 
+business process outsourcing (BPO) firms and system integrators typically do not have a 
+CLM solution of their own, and Tangoe believes there are opportunities to form additional 
+strategic alliances similar to its partnerships with ACS, Dell, HCL, and IBM.   
+
+The CLM industry has undergone a considerable amount of consolidation over the 
+past few years.  Tangoe acquired five companies over the last four years alone, of which 
+two (HCL, Telwares) were completed earlier this year (see “Recent Acquisitions & 
+Strategic Alliances” for more information).  Other examples of M&A activity include 
+Emptoris‟s acquisition of Rivermine in January 2011 and Vodafone‟s acquisition of TnT 
+Expense Management and Quickcomm in October 2010.  Despite competitor acquisitions, 
+Tangoe manages more fixed/mobile communications spend per year than any other IT 
+and process outsourcing company. 
+
+Key Competitors 
+TEM                      Outsource Service        MDM 
+                         Providers 
+Emptoris                 ProfitLine               AirWatch 
+MDSL                     Vodafone                 BoxTone 
+Symphony SMS                                      Good Technology 
+Vodafone                                          MobileIron 
+XIGO                                              Sybase 
+                                                  Zenprise  
+                                                   
+Source: Company Reports 
+
+We believe that Tangoe competes successfully in each of the aforementioned 
+categories.  And unlike many of its competitors, Tangoe offers a complete suite of 
+integrated fixed and mobile TEM/MDM solutions and can also boast of a diverse customer 
+base.  Over time, we expect that competitors will ramp the quality and breadth of their 
+CLM offerings, and we anticipate further consolidation as firms jockey to gain market 
+share. 
+
+ 
+
+ 
+
+                                                                                      17
+
+                                                                                     240
+---------------------Page 18---------------------
+
+Tangoe
+
+                                              Investment Risks 
+
+                                              Although there are a variety of investment risks associated with investing in Tangoe, we 
+                                              highlight our biggest concerns below: 
+
+                                              History of losses.  Tangoe has a history of GAAP losses since its founding in 2000.  
+                                              However, revenue has been growing steadily during this time, signaling the company‟s  
+                                              reinvestment strategy is paying off.  While Tangoe is still not profitable on a GAAP basis, 
+                                              we note that it has been adjusted EBITDA positive since 3Q08.  Additionally, Tangoe has 
+                                              delivered positive net income on a non-GAAP basis since 2Q09, most recently at $1.7M in 
+                                              2Q11.   
+
+                                              CLM demand may not materialize.  The market for third-party CLM solutions is nascent, 
+                                              and Tangoe expects it to continue growing over the next several years.  Due to macro 
+                                              uncertainties, improvements in home-grown solutions, or simply a lack of awareness, the 
+                                              demand for third-party CLM offerings (both domestically and internationally) may not 
+                                              blossom as expected.  That said, Tangoe‟s business model has proven to be surprisingly 
+                                              stable during previous periods of economic uncertainty, as recurring revenue grew over 
+                                              20% (and against plan) during the „08/‟09 downturn.   
+
+                                              Strategic alliances break down.  A pillar of Tangoe‟s growth strategy is its formation of 
+                                              strategic alliances with channel partners/resellers including ACS, Dell, HCL, and IBM.  
+                                              Several relationships were formed recently (for example, with Dell in March 2011) and 
+                                              may not develop as expected.  Additionally, channel partners may choose to collaborate 
+                                              more with Tangoe‟s competitors should they offer better contract terms or improve their 
+                                              CLM solutions.  As a result, Tangoe‟s top line and bottom line could be significantly 
+                                              impacted should it lose channel partners, partners do not deliver products/services 
+                                              according to Tangoe‟s standards, alliances do not grow as expected, or indirect channel 
+                                              margins deteriorate. 
+
+                                              M&A activity or consolidation could negatively impact the company.  Tangoe 
+                                              operates in a fragmented and competitive industry.  Over the past several years, 
+                                              consolidation has been a key theme in the CLM space which we do not expect to change 
+                                              over the near term.  While Tangoe has been a successful acquirer (closing five 
+                                              acquisitions in the past four years), M&A represents a threat both internally (should 
+                                              Tangoe fail to successfully integrate a target post-acquisition) and externally (should 
+                                              competitors improve offerings/reduce pricing, resulting in customer losses or renegotiated 
+                                              contracts).  Regarding the internal threat, we note that Tangoe has demonstrated skill in 
+                                              successfully integrating targets upon acquisition. 
+
+                                              Intensifying competition.  While Tangoe is a leading provider of CLM software and 
+                                              services, the space is evolving.  Should other vendors with greater resources or brand 
+                                              recognition decide to enter the market, Tangoe‟s standing in the marketplace could be 
+                                              materially impaired.   
+
+                                               
+
+                                              Stock prices of other companies mentioned in this report (as of 9/1/2011): 
+
+                                              Vodafone Group PLC (VOD-NASDAQ, $26.44, Not Rated) 
+
+                                               
+
+18
+
+                                                                                                                                      241
+---------------------Page 19---------------------
+
+                                                                                                                                            Tangoe
+
+Management & Board Profile 
+
+Key Officer                       Age          2010           Shares     Major Experience 
+                                                                    *
+                                          Compensation       Owned  
+
+Albert R. Subbloie, Jr.            51       $1,717,193      2,122,821   Mr. Subbloie co-founded Tangoe and has served as President/CEO 
+President, CEO, and Chairman                                            since October 2000.  He has been a member of the board since 
+of the Board                                                              February 2000 and has served as chairman since March 2010.  
+                                                                         Previously, Mr. Subbloie co-founded Information Management 
+                                                                         Associates, Inc., Buyersedge.com, Inc., and FreeFire, Inc. 
+                                                                          
+Gary R. Martino                    51        $756,245        657,172     Mr. Martino has served as CFO since July 2007 and was a member of 
+CFO                                                                      the board from February 2000 to March 2007.  Previously, Mr. Martino 
+                                                                         was a managing director at Riverside Advisors, LLC (M&A firm), CFO 
+                                                                         of Information Management Associates, Inc., and co-founded 
+                                                                         Buyersedge.com, Inc. 
+                                                                          
+Albert M. Rossini                  54        $633,687        263,330     Mr. Rossini has served as EVP, Global Sales since December 2006.  
+EVP, Global Sales                                                        Previously, Mr. Rossini served as SVP, Sales & Services for HSS, Inc. 
+                                                                         and SVP, Sales and Marketing for Elcom International. 
+                                                                          
+Charles D. Gamble                  50        $438,258        265,238     Mr. Gamble co-founded Tangoe and has served as SVP since 
+SVP, Customer Account                                                  February 2000.  Previously, Mr. Gamble served as president/CEO of a 
+Management                                                               consumer electronics internet retailer. 
+                                                                          
+Scott E. Snyder                    47        $468,827        208,565     Mr. Snyder has served as SVP, Mobile Solutions since October 2008.  
+SVP, Mobile Solutions                                                    Previously, Mr. Snyder served as COO of TRAQ Wireless, Inc. 
+                                                                         (acquired by Tangoe in March 2007). 
+                                                                          
+
+Board of Directors                Age                         Shares     Major Experience 
+                                                                    *
+                                                             Owned  
+
+Albert R. Subbloie, Jr.           See                          See       See Above 
+President, CEO, and Chairman    Above                         Above 
+of the Board 
+                                                                          
+David M. Coit                      64                       2,072,806   Mr. Coit has served on Tangoe‟s board since August 2006.  He 
+                                                                          founded North Atlantic Capital Corporation (VC firm) and has served as 
+                                                                         its president since May 1986. 
+                                                                          
+Gary P. Golding                    54                       4,487,767   Mr. Golding has served on Tangoe‟s board since September 2002.  He 
+Compensation Committee                                                 has served as a general partner and investment manager of Edison 
+Chair                                                                    Venture Fund (VC firm) since 1997.  Mr. Golding also sits on the board 
+                                                                         of Vocus, Inc. 
+                                                                          
+Ronald W. Kaiser                   57                         70,745     Mr. Kaiser has served on Tangoe‟s board since January 2009.  He also 
+Audit Committee Chair                                                    serves on the boards of Vocus, Inc. and OPNET Technologies, Inc. 
+                                                                          
+Jackie R. Kimzey                   58                       1,912,223   Mr. Kimzey has served on Tangoe‟s board since March 2008.  He also 
+Nominating & Corporate                                                  served as general partner of Sevin Rosen Funds (VC firm) and co-
+Governance Committee Chair                                             founded and served as CEO of ProNet Inc. 
+                                                                          
+Gerald G. Kokos                    61                        105,762    Mr. Kokos has served on Tangoe‟s board since September 2002.  He 
+                                                                          has also served as president, CEO, and a director of VFA, Inc. since 
+                                                                         January 2000. 
+                                                                          
+Richard S. Pontin                  57                        280,864    Mr. Pontin has served on Tangoe‟s board since March 2007.  
+                                                                          Previously, Mr. Pontin served as CEO of several companies including 
+                                                                         TRAQ Wireless, Inc. (acquired by Tangoe in March 2007), Broadwing 
+                                                                         Corporation (now Level 3 Communications, LLC), Cincinnati Bell Inc., 
+                                                                         and Airband Communications, Inc. 
+                                                                          
+Noah J. Walley                     48                         18,455     Mr. Walley has served on Tangoe‟s board since July 2008.  He has 
+                                                                          served as Head of North American Technology Investing of Investor 
+                                                                         Growth Capital, Inc. (VC firm) since April 2003.  Previously, he served 
+                                                                         as a general partner with Morgan Stanley Venture Partners. 
+                                                                          
+* Shares beneficially owned after the offering after full exercise of the underwriters‟ option 
+ 
+Source: Company Reports                                                   
+
+     
+
+                                                                                                                                                19
+
+                                                                                                                                               242
+---------------------Page 20---------------------
+
+Tangoe
+
+           TNGO Income Statement
+           (in millions), except EPS                                   Mar 10     Jun 10    Sept 10   Dec 10     FY 2010     Mar 11     Jun 11     Sept 11E  Dec 11E   FY 2011E      Mar 12E   Jun 12E    Sept 12E  Dec 12E   FY 2012E
+           Revenues
+               Recurring revenue                                            13.3      13.9       14.6      16.0     57.7           19.9      23.5      24.0       24.5      91.9          25.4      26.4      27.4       28.4     107.5
+               Consulting & other                                            2.7       2.8        2.6       2.7     10.8            2.4       2.5       2.6        2.6      10.1           2.6       2.6       2.6        2.6      10.4
+           Total Revenue                                                    16.0      16.7       17.1      18.7     68.5           22.3      26.0      26.5       27.1     102.0          28.0      28.9      30.0       31.0     117.9
+           Cost of revenue (Non-GAAP)                                        7.1       7.3        7.5       8.0     29.9           10.2      12.5      12.5       12.7      47.9          12.2      12.6      13.1       13.5      51.4
+           Total gross profit (Non-GAAP)                                     8.9       9.4        9.6      10.6     38.6           12.2      13.5      14.1       14.3      54.1          15.8      16.3      16.9       17.5      66.5
+           Adjusted Operating expenses
+               S&M (Non-GAAP)                                                2.7       2.9        2.9       3.3     11.9            3.5       3.8       4.1        4.1      15.5           4.4       4.6       4.7        4.9      18.6
+               G&A (Non-GAAP)                                                2.5       2.6        2.6       3.0     10.7            3.3       3.9       3.6        3.6      14.4           3.8       3.9       4.1        4.2      16.1
+               R&D (Non-GAAP)                                                2.2       2.3        2.3       2.4      9.2            2.8       2.8       3.3        3.4      12.3           3.4       3.5       3.6        3.7      14.1
+               D&A                                                           0.9       0.9        0.9       0.9      3.5            1.0       1.1       1.1        1.1       4.3           1.1       1.1       1.2        1.2        4.6
+               Amortization of intangibles                                  (0.6)      (0.6)     (0.6)     (0.6)    (2.4)          (0.7)     (0.8)      (0.9)     (0.8)      (3.2)        (0.8)     (0.8)      (0.7)     (0.8)      (3.0)
+           Total operating expenses (Non-GAAP)                               7.7       8.1        8.1       9.0     32.8            9.9      10.8      11.2       11.5      43.4          11.9      12.3      12.9       13.3      50.4
+           Income (Loss) from operations (Non-GAAP)                          1.2       1.4        1.5       1.7      5.8            2.3       2.7       2.8        2.8      10.7           3.8       4.0       4.0        4.2      16.0
+           Other income (expense), net
+               Interest income (expense) and other, net (Non-GAAP)          (0.5)      (0.5)     (0.5)     (0.4)    (2.0)          (0.7)     (0.8)      (0.4)     (0.1)      (1.9)         0.0       0.0       0.0       (0.1)      (0.1)
+           Income (Loss) before taxes (Non-GAAP)                             0.7       0.8        1.0       1.3      3.8            1.6       2.0       2.5        2.7       8.8           3.8       4.0       4.0        4.1      16.0
+           Income tax (benefit) Provision (Non-GAAP)                         0.1       0.0        0.1       0.1      0.3            0.1       0.2       0.2        0.2       0.7           0.3       0.3       0.3        0.2     1.031
+           Net Income (Loss) (Non-GAAP)                                      0.6       0.8        0.9       1.2      3.5            1.5       1.8       2.3        2.5       8.0           3.6       3.7       3.8        3.9      14.9
+           EPS (Non-GAAP)                                                   0.02      0.03                                         0.06      0.06      0.06       0.06      0.25          0.09      0.09      0.09       0.10      0.38
+           Diluted Shares Outstanding (Non-GAAP)                            28.4      28.6                           4.4           23.7      29.9      35.1       38.5      31.8          39.0      39.5      40.0       40.5      39.8
+
+           Adjusted EBITDA                                                   1.4       1.6        1.8       2.0      6.9            2.6       3.1       3.0        3.2      11.8           4.2       4.3       4.5        4.6      17.6
+
+           Margin Analysis
+               Recurring revenue as % of revenue                           83.1%     83.2%      85.0%     85.6%    84.3%         89.2%      90.3%     90.3%      90.4%     90.1%        90.7%      91.0%     91.3%      91.6%     91.2%
+               Consulting & other as % of revenue                          16.9%     16.8%      15.0%     14.4%    15.7%         10.8%       9.7%      9.7%       9.6%      9.9%          9.3%      9.0%      8.7%       8.4%      8.8%
+           Cost of revenue as % of revenue (Non-GAAP)                      44.2%     43.6%      43.9%     43.0%    43.7%          45.6%     48.0%     47.0%      47.0%     46.9%         43.6%     43.6%     43.6%      43.7%     43.6%
+           Gross Margin (Non-GAAP)                                         55.8%     56.4%      56.1%     57.0%    56.3%          54.4%     52.0%     53.0%      53.0%     53.1%         56.4%     56.4%     56.4%      56.4%     56.4%
+               S&M as % of revenue (Non-GAAP)                              17.1%     17.6%      17.1%     17.4%    17.3%         15.8%      14.4%     15.4%      15.3%     15.2%        15.8%      15.8%     15.8%      15.8%     15.8%
+               G&A as % of revenue (Non-GAAP)                              15.6%     15.4%      15.0%     16.3%    15.6%         14.6%      15.1%     12.7%      12.5%     14.2%        12.6%      12.6%     12.6%      12.6%     13.6%
+               R&D as % of revenue (Non-GAAP)                              14.0%     13.6%      13.4%     12.7%    13.4%         12.6%      10.6%     12.6%      12.6%     12.1%        12.0%      12.0%     12.0%      12.0%     12.0%
+               Total Stock-based compensation as % of revenue (Non-GAAP)   -1.3%      -2.7%     -3.0%     -4.1%    -2.8%          -3.7%     -3.6%      -3.4%     -3.3%     -1.7%         -4.5%     -4.5%      -5.0%     -5.5%      0.0%
+               Amortization of intangibles as % of revenue (Non-GAAP)      -3.8%      -3.6%     -3.4%     -3.4%    -3.6%          -3.2%     -2.9%      -3.7%     -2.9%     -3.1%         -2.7%     -2.6%      -2.5%     -2.5%      -2.6%
+           Operating Margin (Non-GAAP)                                      7.5%      8.1%       9.0%      9.0%     8.4%          10.1%     10.5%     10.7%      10.5%     10.5%         13.7%     13.8%     13.5%      13.4%     13.6%
+               Interest income (expense) and other, net as % of revenue    -7.4%      -2.9%     -2.8%     -3.9%    -4.2%          -5.3%     -8.6%     -13.7%     -0.4%     -7.1%          0.0%      0.0%      0.0%      -0.2%      -0.1%
+           EBT Margin (Non-GAAP)                                            4.1%      5.0%       5.9%      6.9%     5.5%           7.1%      7.5%      9.4%      10.1%      8.6%         13.7%     13.8%     13.5%      13.2%     13.5%
+               Tax rate (non GAAP)                                          9.7%      5.9%       6.8%      8.8%     7.8%           7.9%      9.2%      8.1%       8.7%      8.5%          6.4%      6.4%      6.4%       6.4%      6.5%
+           Net income Margin (Non-GAAP)                                     3.7%      4.7%       5.5%      6.3%     5.1%           6.6%      6.8%      8.6%       9.2%      7.9%         12.8%     12.8%     12.6%      12.5%     12.7%
+           EBITDA Margin (Non-GAAP)                                        12.9%     13.4%      14.0%     14.0%    13.6%          14.6%     14.8%     14.8%      14.5%     14.7%         17.6%     17.6%     17.5%      17.5%     17.5%
+           Adjusted EBITDA Margin                                           9.1%      9.8%      10.6%     10.6%    10.0%          11.4%     11.9%     11.4%      11.7%     11.6%         14.9%     15.0%     15.0%      15.0%     15.0%
+
+           Y/Y Growth Analysis
+               Recurring revenue                                           20.5%     25.4%      26.1%     29.2%    25.4%         50.3%      69.2%     64.4%      53.0%     59.2%        27.4%      12.1%     14.2%      16.1%     17.0%
+               Consulting & other                                          29.1%     12.1%      -1.3%     -0.6%     8.7%         -10.4%     -9.8%      -0.2%     -3.8%     -6.2%          7.4%      2.3%      1.4%       0.3%      2.7%
+           Total Revenue                                                   21.9%     22.9%      21.1%     23.9%    22.5%         40.0%      55.9%     54.7%      44.8%     48.9%        25.2%      11.1%     12.9%      14.6%     15.6%
+           Cost of revenue as % of revenue (Non-GAAP)                      21.4%     21.2%      20.2%     19.9%    20.6%         44.4%      71.6%     65.7%      58.2%     60.1%        19.8%       1.0%      4.8%       6.4%      7.4%
+           Gross Profit (Non-GAAP)                                         22.3%     24.3%      21.7%     27.1%    23.9%         36.6%      43.8%     46.2%      34.8%     40.2%        29.8%      20.5%     20.2%      21.8%     22.9%
+               S&M (Non-GAAP)                                              12.6%     22.1%      24.3%     36.5%    23.8%         29.5%      27.6%     39.1%      27.3%     30.8%        25.4%      21.5%     15.9%      18.3%     20.1%
+               G&A (Non-GAAP)                                              11.5%     17.8%      14.4%     19.2%    15.8%         31.0%      53.3%     40.8%      19.1%     35.3%        17.2%       0.3%     12.6%      15.8%     11.1%
+               R&D (Non-GAAP)                                              16.8%     16.0%      13.4%     13.7%    14.9%         25.9%      21.0%     45.7%      44.2%     34.3%        19.0%      26.2%      7.6%       9.1%     14.8%
+           Operating Profit (Non-GAAP)                                    171.9%     89.0%      63.9%     62.2%    84.2%         89.1%     101.5%     84.3%      68.5%     84.7%        70.2%      45.5%     42.5%      46.5%     50.2%
+           Total operating expenses (Non-GAAP)                             12.7%     17.5%      16.0%     22.1%    17.1%         28.5%      34.1%     38.9%      28.4%     32.4%        20.6%      14.2%     14.6%      15.7%     16.2%
+           EBT (Non-GAAP)                                                -808.6%    398.8%    139.6%     179.0%  295.4%         142.3%     137.2%    144.3%    112.5%     131.6%       140.0%     102.9%     62.8%      49.5%     81.7%
+           EPS (Non-GAAP)                                                                                        -100.0%        196.4%     119.5%                                       47.5%      57.1%     45.5%      46.8%     49.1%
+           Adjusted EBITDA                                                103.8%     59.1%      43.3%     45.6%    57.6%         76.1%      89.9%     65.9%      59.9%     72.0%        63.7%      40.0%     49.2%      47.0%     49.3%
+           Source: Company Reports and Oppenheimer & Co. Inc. estimates
+
+20
+
+                                                                                                                                                                                                                                                 243
+---------------------Page 21---------------------
+
+                                                                                                                                                                                                                                         Tangoe
+
+TNGO Balance Sheet
+(in millions)                                                                FY 2009         FY 2010        Mar 11      Jun 11      Sept 11E   Dec 11E     FY 2011E       Mar 12E     Jun 12E     Sept 12E    Dec 12E     FY 2012E
+Assets
+   Cash and cash equivalents                                                        6.2            5.9             6.9         9.0       53.1        57.2        57.2           53.6        61.1       66.9        72.1        72.1
+   Accounts receivable, net                                                        11.5           14.3           20.2        21.0        20.6        20.1        20.1           25.2        23.5       23.3        23.1        23.1
+   Prepaid expenses and other assets                                                1.6            1.4             1.5         1.4        1.7         1.8         1.8            2.4         2.5         2.6        2.7         2.7
+Total Current Assets                                                               19.3           21.6           28.6        31.4        75.4        79.1        79.1           81.2        87.0       92.8        97.9        97.9
+
+   Computers, Furniture and Equipment, net                                          1.8            1.8             2.5         2.6        2.7         2.9         2.9            3.0         3.2         3.3        3.5         3.5
+   Intangible assets, net                                                          16.8           15.8           20.9        21.7        21.7        21.7        21.7           21.7        21.7       21.7        21.7        21.7
+   Goodwill                                                                        17.6           17.6           22.9        22.9        22.9        22.9        22.9           22.9        22.9       22.9        22.9        22.9
+   Security deposits and other non-current assets                                   0.6            1.9             2.7         3.7        4.0         4.1         4.1            5.0         5.2         5.4        5.6         5.6
+Total Non-current Assets                                                           36.8           37.1           49.0        50.9        51.3        51.5        51.5           52.6        53.0       53.3        53.7        53.7
+Total Assets                                                                       56.1           58.7           77.6        82.3       126.7      130.6       130.6           133.8      140.0       146.1       151.5       151.5
+
+Liabilities
+   Accounts payable                                                                 2.9            3.3             4.4         5.9        4.9         5.1         5.1            4.8         5.6         5.8        6.0         6.0
+   Accrued expenses                                                                 2.3            3.4             4.5         5.4        6.4         6.7         6.7            5.6         6.2         7.1        7.3         7.3
+   Deferred revenue                                                                 6.9            8.3             9.0         8.5        9.1         9.8         9.8           10.4        11.1       11.9        12.7        12.7
+   Notes-payable, current portion                                                   9.4            6.3             9.4       10.6         5.1         5.1         5.1            5.1         5.1         5.1        5.1         5.1
+   Settlement liability, current portion                                            0.2            0.0             0.0         0.0        0.0         0.0         0.0            0.0         0.0         0.0        0.0         0.0
+Total Current Liabilities                                                          21.6           21.3           27.4        30.3        25.5        26.6        26.6           25.9        27.9       29.8        31.1        31.1
+
+   Deferred rent and other non-current liabilities                                  2.5            3.1             3.6         0.8        0.9         0.8         0.8            0.8         0.9         0.9        0.8         0.8
+   Deferred revenue, less current portion                                           1.0            1.8             2.0         2.0        2.1         2.1         2.1            2.2         2.2         2.2        2.3         2.3
+   Notes payable, less current portion                                             11.9           11.8           22.0        21.2         9.9         9.9         9.9            9.9         9.9         9.9        9.9         9.9
+   Warrants for redeemable convertible preferred stock                              0.5            1.3             2.6         4.1        0.0         0.0         0.0            0.0         0.0         0.0        0.0         0.0
+Total Non-current Liabilities                                                      15.9           18.0           30.3        28.0        12.9        12.8        12.8           12.9        13.0       13.0        13.0        13.0
+Total Liabilities                                                                  37.5           39.3           57.7        58.4        38.3        39.4        39.4           38.7        40.9       42.9        44.1        44.1
+
+Total stockholders' equity (deficit)                                               18.6           19.4           19.9        24.0        88.4        91.2        91.2           95.1        99.1      103.2       107.4       107.4
+Total Liabilities and stockholders' equity (deficit)                               56.1           58.7           77.6        82.3       126.7      130.6       130.6           133.8      140.0       146.1       151.5       151.5
+Source: Company Reports and Oppenheimer & Co. Inc. estimates
+
+                                                                                                                                                                                                                                                 21
+
+                                                                                                                                                                                                                                                244
+---------------------Page 22---------------------
+
+Tangoe
+
+             TNGO Cash Flow Statement
+             (in millions)                                                                                                  FY 2009         FY 2010         Mar 11      Jun 11       Sept 11E    Dec 11E     FY 2011E        Mar 12E      Jun 12E     Sept 12E    Dec 12E     FY 2012E
+             Net income (loss)                                                                                                    (2.6)           (1.8)           (0.6)       (1.4)        (2.8)        0.8        (4.0)            1.6         1.7          1.5         1.4         6.1
+                  Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities:
+                      Amortization of debt discount                                                                                0.2             0.0             0.2         0.2          0.2         0.2         0.8             0.2         0.2          0.2         0.2         0.8
+                      D&A                                                                                                          3.5             3.5             1.0         1.1          1.1         1.1         4.3             1.1         1.1          1.2         1.2         4.6
+                      Increase (decrease) in deferred rent liability                                                              (0.4)           (0.5)           (0.1)       (0.0)         0.1        (0.1)       (0.1)            0.0         0.0          0.0        (0.1)       (0.0)
+                      Amortization of marketing agreement intangible asset                                                         0.0             0.0             0.0         0.0          0.0         0.0         0.1             0.0         0.0          0.0         0.0         0.1
+                      Allowance for doubtful accounts                                                                              0.0             0.2             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+                      Deferred income taxes                                                                                        0.2             0.2             0.1         0.0          0.0         0.0         0.2             0.0         0.0          0.0         0.0         0.2
+                      Stock-based compensation                                                                                     0.7             1.9             0.8         0.9          0.9         0.9         3.5             1.3         1.3          1.5         1.7         5.8
+                      Stock-based compensation related to common stock and Series A convertible preferred stock repurchase         0.0             0.0             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+                      Non-cash expense relative to issuance of warrants to service provider                                        0.0             0.0             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+                      Increase (decrease) in fair value of warrants for redeemable convertible preferred stock                     0.2             0.9             0.5         1.5          0.0         0.0         2.0             0.0         0.0          0.0         0.0         0.0
+                      Changes in operating assets and liabilities:
+                           Accounts receivable, net                                                                               (0.1)           (3.0)           (1.6)       (0.8)         0.4         0.5        (1.6)           (5.0)        1.7          0.2         0.2        (2.9)
+                           Prepaid expenses and other assets                                                                      (0.0)           (0.5)            0.1         0.1         (0.3)       (0.0)       (0.2)           (0.6)        (0.1)       (0.1)       (0.1)       (0.9)
+                           Other assets                                                                                           (0.1)           (1.2)           (0.4)        0.1         (0.2)       (0.1)       (0.7)           (1.0)        (0.2)       (0.2)       (0.2)       (1.5)
+                           Accrued expenses                                                                                       (0.2)            1.1            (0.4)        0.5          1.0         0.3         1.4            (1.1)        0.6          0.9         0.2         0.6
+                           Accounts payable                                                                                        0.1             0.2             0.8         0.8         (1.0)        0.1         0.8            (0.3)        0.8          0.2         0.2         0.9
+                           Deferred revenue                                                                                        0.9             2.3             0.7        (0.5)         0.6         0.8         1.6             0.6         0.8          0.8         0.9         3.1
+             Changes in working capital                                                                                            0.5            (1.2)           (0.9)        0.1          0.5         1.5         1.3            (7.3)        3.6          1.9         1.3        (0.7)
+             Net cash (used in) provided by operating activities                                                                   2.4             3.4             1.1         2.4          0.1         4.5         8.2            (3.1)        7.9          6.4         5.8        17.0
+
+             Purchases of computers, furniture and equipment                                                                      (0.7)           (0.4)           (0.1)       (0.3)        (0.3)       (0.5)       (1.1)           (0.5)        (0.5)       (0.6)       (0.6)       (2.2)
+             Cash paid in connection with acquisitions, net of cash acquired                                                      (0.1)            0.0            (8.2)       (0.0)         0.0         0.0        (8.2)            0.0         0.0          0.0         0.0         0.0
+             Cash held in escrow                                                                                                   0.0             0.0             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Net cash (used in) provided by investing activities                                                                  (0.7)           (0.4)           (8.3)       (0.3)        (0.3)       (0.5)       (9.3)           (0.5)        (0.5)       (0.6)       (0.6)       (2.2)
+
+             Repayments of debt                                                                                                   (0.6)           (8.6)          (11.9)       (0.1)      (25.5)         0.0       (37.6)            0.0         0.0          0.0         0.0         0.0
+             Borrowings of debt                                                                                                    0.0             5.5            20.0         0.0          0.0         0.0        20.0             0.0         0.0          0.0         0.0         0.0
+             Deferred financing costs                                                                                             (0.1)           (0.1)           (0.2)        0.0          0.0         0.0        (0.2)            0.0         0.0          0.0         0.0         0.0
+             Payments of settlement liability                                                                                     (0.2)           (0.2)            0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Payment of debt in connection with acquisition                                                                       (0.9)           (1.0)            0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Proceeds from exercise of options                                                                                     0.1             0.3             0.2         0.0          0.0         0.0         0.3             0.0         0.0          0.0         0.0         0.2
+             Proceeds from repayment of notes receivable                                                                           0.0             0.7             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Proceeds from initial public offering of common stock                                                                 0.0             0.0             0.0         0.0        69.8          0.0        69.8             0.0         0.0          0.0         0.0         0.0
+             Payments made to repurchase securities as a result of litigation settlement                                          (0.4)            0.0             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Proceeds from issuance of Series F redeemable convertible preferred stock, net of costs incurred                      0.0             0.0             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Cash paid to repurchase outstanding common stock and Series A convertible preferred stock                             0.0             0.0             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Net cash (used in) provided by financing activities                                                                  (2.1)           (3.3)            8.1        (0.1)       44.3          0.0        52.3             0.0         0.0          0.0         0.0         0.2
+             Effect of exchange rate changes on cash                                                                               0.0             0.0             0.0         0.0          0.0         0.0         0.0             0.0         0.0          0.0         0.0         0.0
+             Net increase (decrease) in cash                                                                                      (0.4)           (0.3)            1.0         2.1        44.1          4.1        51.3            (3.5)        7.5          5.8         5.2        14.9
+             Cash at beginning of period                                                                                           6.6             6.2             5.9         6.9          9.0       53.1          5.9            57.2        53.6        61.1         66.9        57.2
+             Cash at end of period                                                                                                 6.2             5.9             6.9         9.0        53.1        57.2         57.2            53.6        61.1        66.9         72.1        72.1
+             Source: Company Reports and Oppenheimer & Co. Inc. estimates
+
+22
+
+                                                                                                                                                                                                                                                                                                     245
+---------------------Page 23---------------------
+
+                                                                                                                     Tangoe
+
+Investment Thesis
+n  A leading provider of communications lifecycle management (CLM) solutions
+n  Largest player in a multibillion-dollar market that continues to grow
+n  Appears well positioned to sustain double-digit revenue and EPS growth
+n  Multiple  growth  drivers  (greenfield  marketplace,  acquire  new  customers/penetrate  existing  accounts,  international
+   expansion, form additional strategic alliances, engage in additional acquisitions)
+n  Leverage in the model
+
+Price Target Calculation
+We arrive at our $14 price target for Tangoe by applying a 4.1x multiple to our FY12E recurring revenue of $107.5M. We note the SaaS
+peer group has historically traded at 5-7x next-12-months' recurring revenue. Admittedly, Tangoe is not yet a pure SaaS-only shop (its
+MDM product is delivered via a dedicated hosted or as an on-premise solution but is expected to migrate to SaaS architecture by end of
+next year). We contend that since TNGO's CLM solution is based on a deep technological foundation, the "stickiness" of its installed
+base,  the  recurring  nature  of  its  revenue  (strong  renewal  rates,  subscriptions  model),  its  robust  growth  rates  (40%  five-year  CAGR),
+market leadership position in an open-ended opportunity, and the sizable leverage in its model, Tangoe should trade roughly in line with
+its peers, which leads us to our $14 price target.
+
+Key Risks to Price Target
+There  are  several  risks  to  our  investment  thesis,  including  the  sluggish  pace  of  IT  spending,  which  may  cause  deals  to  be  delayed
+and/or downsized; the company's failing to successfully integrate an acquisition; CLM demand not materializing as expected; loss of a
+material  customer;  increased  competition  from  vendors  with  larger  resources  and  scale;  and  the  possibility  that  the  company  will  be
+unable to execute on its growth initiatives. Any of these risks, as well as others unforeseen, could prevent the stock from attaining our
+price target.
+
+Important Disclosures and Certifications
+
+Analyst  Certification  - The  author  certifies  that  this  research  report  accurately  states  his/her  personal  views  about  the
+subject securities, which are reflected in the ratings as well as in the substance of this report.The author certifies that no
+part  of  his/her  compensation  was,  is,  or  will  be  directly  or  indirectly  related  to  the  specific  recommendations  or  views
+contained in this research report.
+Potential Conflicts of Interest:
+Equity  research  analysts  employed  by  Oppenheimer  &  Co.  Inc.  are  compensated  from  revenues  generated  by  the  firm
+including the Oppenheimer & Co. Inc. Investment Banking Department. Research analysts do not receive compensation
+based  upon  revenues  from  specific  investment  banking  transactions.  Oppenheimer  &  Co.  Inc.  generally  prohibits  any
+research analyst and any member of his or her household from executing trades in the securities of a company that such
+research analyst covers. Additionally, Oppenheimer & Co. Inc. generally prohibits any research analyst from serving as an
+officer, director or advisory board member of a company that such analyst covers. In addition to 1% ownership positions in
+covered companies that are required to be specifically disclosed in this report, Oppenheimer & Co. Inc. may have a long
+position of less than 1% or a short position or deal as principal in the securities discussed herein, related securities or in
+options, futures or other derivative instruments based thereon. Recipients of this report are advised that any or all of the
+foregoing arrangements, as well as more specific disclosures set forth below, may at times give rise to potential conflicts of
+interest.
+
+Important Disclosure Footnotes for Companies Mentioned in this Report that Are Covered by
+Oppenheimer & Co. Inc:
+
+Stock Prices as of September 5, 2011
+Ariba (ARBA - Nasdaq, 26.12, PERFORM)
+Concur Technologies (CNQR - OTC, 39.03, OUTPERFORM)
+Constant Contact Inc. (CTCT - Nasdaq, 17.41, OUTPERFORM)
+Kenexa (KNXA - Nasdaq, 18.41, OUTPERFORM)
+Salesforce.com (CRM - NYSE, 123.61, PERFORM)
+SuccessFactors (SFSF - Nasdaq, 20.83, OUTPERFORM)
+
+                                                                                                                         23
+                                                                                                                        246
+---------------------Page 24---------------------
+
+Tangoe
+
+  Taleo (TLEO - Nasdaq, 23.91, OUTPERFORM)
+
+  Ultimate Software Group (ULTI - Nasdaq, 47.00, PERFORM)
+
+  SAP AG (SAP - NYSE, 51.99, PERFORM)
+
+                                  Rating and Price Target History for: Tangoe (TNGO) as of 09-02-2011
+
+                                                                                                                          12
+
+                                                                                                                          11
+
+                                                                                                                          10
+
+                                                                                                                          9
+
+                                                                                                                          8
+
+                                                                                                                          7
+                      2009                                2010                               2011
+
+                                                                                                       Created by BlueMatrix
+
+  All price targets displayed in the chart above are for a 12- to- 18-month period. Prior to March 30, 2004, Oppenheimer &
+  Co. Inc. used 6-, 12-, 12- to 18-, and 12- to 24-month price targets and ranges. For more information about target price
+  histories, please write to Oppenheimer & Co. Inc., 300 Madison Avenue, New York, NY 10017, Attention: Equity Research
+  Department, Business Manager.
+
+  Oppenheimer & Co. Inc. Rating System as of January 14th, 2008:
+
+  Outperform(O) - Stock expected to outperform the S&P 500 within the next 12-18 months.
+
+  Perform (P) - Stock expected to perform in line with the S&P 500 within the next 12-18 months.
+
+  Underperform (U) - Stock expected to underperform the S&P 500 within the next 12-18 months.
+
+  Not Rated (NR) - Oppenheimer & Co. Inc. does not maintain coverage of the stock or is restricted from doing so due to a potential
+  conflict of interest.
+
+  Oppenheimer & Co. Inc. Rating System prior to January 14th, 2008:
+
+  Buy  -anticipates  appreciation  of  10%  or  more  within  the  next  12  months,  and/or  a  total  return  of  10%  including  dividend  payments,
+  and/or the ability of the shares to perform better than the leading stock market averages or stocks within its particular industry sector.
+
+  Neutral - anticipates that the shares will trade at or near their current price and generally in line with the leading market averages due to
+  a perceived absence of strong dynamics that would cause volatility either to the upside or downside, and/or will perform less well than
+  higher  rated  companies  within  its  peer  group.  Our  readers  should  be  aware  that  when  a  rating  change  occurs  to  Neutral  from  Buy,
+  aggressive trading accounts might decide to liquidate their positions to employ the funds elsewhere.
+
+24
+
+                                                                                                                                247
+---------------------Page 25---------------------
+
+                                                                                                                                  Tangoe
+
+Sell  - anticipates  that  the  shares  will  depreciate  10%  or  more  in  price  within  the  next  12  months,  due  to  fundamental  weakness
+perceived in the company or for valuation reasons, or are expected to perform significantly worse than equities within the peer group.
+
+                                             Distribution of Ratings/IB Services Firmwide
+
+                                                  IB Serv/Past 12 Mos.
+
+    Rating                       Count   Percent  Count    Percent
+    OUTPERFORM [O]                 326                   55.60                    147                   45.09
+    PERFORM [P]                    249                   42.50                      78                   31.33
+    UNDERPERFORM [U]               11                        1.90                         4                   36.36
+
+Although the investment recommendations within the three-tiered, relative stock rating system utilized by Oppenheimer & Co. Inc. do not
+correlate to buy, hold and sell recommendations, for the purposes of complying with FINRA rules, Oppenheimer & Co. Inc. has assigned
+buy ratings to securities rated Outperform, hold ratings to securities rated Perform, and sell ratings to securities rated Underperform.
+
+Company Specific Disclosures
+
+In the past 12 months Oppenheimer & Co. Inc. has provided investment banking services for TNGO and KNXA.
+
+Oppenheimer & Co. Inc. expects to receive or intends to seek compensation for investment banking services in the next 3
+months from TNGO, CNQR, CTCT, KNXA, SFSF, and TLEO.
+
+In the past 12 months Oppenheimer & Co. Inc. has managed or co-managed a public offering of securities for TNGO and
+KNXA.
+
+In the past 12 months Oppenheimer & Co. Inc. has received compensation for investment banking services from TNGO
+and KNXA.
+
+Oppenheimer & Co. Inc. makes a market in the securities of TNGO, ARBA, CNQR, CTCT, KNXA, SFSF, TLEO, and ULTI.
+
+Additional Information Available
+
+Please  log  on  to http://www.opco.com or  write  to  Oppenheimer  &  Co.  Inc.,  300  Madison  Avenue,  New  York,  NY  10017,
+Attention: Equity Research Department, Business Manager.
+
+Other Disclosures
+
+This report is issued and approved for distribution by Oppenheimer & Co. Inc. Oppenheimer & Co. Inc transacts Business on all Principal
+Exchanges  and  Member  SIPC.  This  report  is  provided,  for  informational  purposes  only,  to  institutional  and  retail  investor  clients  of
+Oppenheimer & Co. Inc. and does not constitute an offer or solicitation to buy or sell any securities discussed herein in any jurisdiction
+where such offer or solicitation would be prohibited. The securities mentioned in this report may not be suitable for all types of investors.
+This  report  does  not  take  into  account  the  investment  objectives,  financial  situation  or  specific  needs  of  any  particular  client  of
+
+                                                                                                                                      25
+
+                                                                                                                                      248
+---------------------Page 26---------------------
+
+Tangoe
+
+  Oppenheimer & Co. Inc. Recipients should consider this report as only a single factor in making an investment decision and should not
+  rely solely on investment recommendations contained herein, if any, as a substitution for the exercise of independent judgment of the
+  merits and risks of investments. The analyst writing the report is not a person or company with actual, implied or apparent authority to
+  act on behalf of any issuer mentioned in the report. Before making an investment decision with respect to any security recommended in
+  this report, the recipient should consider whether such recommendation is appropriate given the recipient's particular investment needs,
+  objectives and financial circumstances. We recommend that investors independently evaluate particular investments and strategies, and
+  encourage investors to seek the advice of a financial advisor.Oppenheimer & Co. Inc. will not treat non-client recipients as its clients
+  solely by virtue of their receiving this report.Past performance is not a guarantee of future results, and no representation or warranty,
+  express or implied, is made regarding future performance of any security mentioned in this report. The price of the securities mentioned
+  in this report and the income they produce may fluctuate and/or be adversely affected by exchange rates, and investors may realize
+  losses on investments in such securities, including the loss of investment principal. Oppenheimer & Co. Inc. accepts no liability for any
+  loss arising from the use of information contained in this report, except to the extent that liability may arise under specific statutes or
+  regulations applicable to Oppenheimer & Co. Inc.All information, opinions and statistical data contained in this report were obtained or
+  derived from public sources believed to be reliable, but Oppenheimer & Co. Inc. does not represent that any such information, opinion or
+  statistical data is accurate or complete (with the exception of information contained in the Important Disclosures section of this report
+  provided by Oppenheimer & Co. Inc. or individual research analysts), and they should not be relied upon as such. All estimates, opinions
+  and  recommendations  expressed  herein  constitute  judgments  as  of  the  date  of  this  report  and  are  subject  to  change  without
+  notice.Nothing in this report constitutes legal, accounting or tax advice. Since the levels and bases of taxation can change, any reference
+  in this report to the impact of taxation should not be construed as offering tax advice on the tax consequences of investments. As with
+  any investment having potential tax implications, clients should consult with their own independent tax adviser.This report may provide
+  addresses of, or contain hyperlinks to, Internet web sites. Oppenheimer & Co. Inc. has not reviewed the linked Internet web site of any
+  third  party  and  takes  no  responsibility  for  the  contents  thereof.  Each  such  address  or  hyperlink  is  provided  solely  for  the  recipient's
+  convenience  and  information,  and  the  content  of  linked  third  party  web  sites  is  not  in  any  way  incorporated  into  this  document.
+  Recipients who choose to access such third-party web sites or follow such hyperlinks do so at their own risk.
+
+  This  report  or  any  portion  hereof  may  not  be  reprinted,  sold,  or  redistributed  without  the  written  consent  of  Oppenheimer  &  Co.  Inc.
+  Copyright © Oppenheimer & Co. Inc. 2011.
+
+26
+
+                                                                                                                                         249

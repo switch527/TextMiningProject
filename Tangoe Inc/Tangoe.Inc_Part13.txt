@@ -1,0 +1,411 @@
+---------------------Page 1---------------------
+
+                                                                                                                     EQUITY RESEARCH
+
+                                                                                                                      COMPANY UPDATE
+
+ December 20, 2011                                                                          TECHNOLOGY/ENTERPRISE SOFTWARE
+
+ Stock Rating:
+                                                                  Tangoe
+ OUTPERFORM
+
+ 12-18 mo. Price Target                                                    $17.00ProfitLine Acquisition Bolsters CLM Capabilities
+
+ TNGO - NASDAQ                                      $14.93
+                                                                   SUMMARY
+
+ 3-5 Yr. EPS Gr. Rate                                                             NA       AHs, TNGO announced its purchase of ProfitLine for roughly $23.5 million in cash.
+ 52-Wk Range                                                        $15.79-$8.01      The  privately-held,  California-based,  ProfitLine  is  one  of  the  biggest  pure  play
+
+ Shares Outstanding                                                          33.0M      communication lifecycle management (CLM) vendors in the space. We view this as
+                                                                  a  solid  acquisition  for  TNGO,  as  it  simultaneously  takes  out  a  healthy  competitor
+ Float                                                                                     20.0M
+                                                                  and provides both plenty of up-sell/cross-sell opportunities for Tangoe and an entry
+ Market Capitalization                                                   $492.1M
+                                                                  into the federal-vertical (25% of ProfitLine's business is government). Additionally,
+ Avg. Daily Trading Volume                                          119,360       as   we   believe   one   of   TNGO's   core   competencies   is   M&A,   we   expect   it   to
+ Dividend/Div Yield                                                 $0.00/0.00%       successfully  migrate  ProfitLine's  customers  to  its  platform  and  realize  operational
+ Fiscal Year Ends                                                                   Dec       synergies  in  2012.  Given  the  accretive  nature  of  the  transaction  and  its  ability  to
+
+ Book Value                                                                          $2.67       bolster growth, we are raising our price-target to $17 from $16.
+
+ 2011E ROE                                                                              NAKEY POINTS
+
+ LT Debt                                                                               $7.3M
+                                                                  n   Consolidating the space. We estimate TNGO is paying an attractive 1.7x our
+ Preferred                                                                                  NA
+                                                                      CY12 revenue forecast to purchase one of the next largest independent players
+ Common Equity                                                                  $94M           in the CLM market. We view this as a solid use of cash and a cost effective way
+ Convertible Available                                                            No           to take out a competitor and acquire blue-chip customers.
+
+ EPS Diluted   Q1         Q2         Q3         Q4      Year        Mult.       nPlenty of revenue synergies on the horizon. We believe ProfitLine's roughly
+                                                                      50  customers  represent  a  lucrative  cross-sell/up-sell  opportunity.  As  most  of
+ 2010A                           --            --            --            --       0.79       18.9x
+                                                                      these customers are only using ProfitLine's solutions domestically and utilizing
+ 2011E                   0.05A    0.06A    0.07A       0.07       0.25       59.7x
+                                                                      only  either  its  fixed  or  MDM  solutions,  we  believe  TNGO  can  use  its  global
+ 2012E                     0.09       0.10       0.10       0.11       0.40       37.3x
+                                                                      reach and broad portfolio to significantly penetrate this install base.
+   Prior (E)                    --       0.09            --            --       0.39       38.3x
+                                                                  n   Should  open  up  the  Federal  door. We  feel  the  transaction  will  also  provide
+ Trading range as of 7/27/11 IPO.
+                                                                      TNGO with domain expertise and access to strategic relationships (HP) to help
+                                                                      it finally break into the government vertical.
+
+                                                                  n   Adjusting  estimates. We  now  expect  FY11E  and  FY12E  EPS/revenue  of
+                                                                      $0.25/$104.0M       and       $0.40/$135.5M,       up       from       $0.25/$103.6M       and
+                                                                      $0.39/$121.3M, respectively.
+
+                                                                  n   Valuation attractive. At ~$15, TNGO trades at 4.1x CY12E recurring revenue
+                                                                      vs. peers at ~5x. Given the company's growth prospects, solid revenue visibility,
+                                                                      and leverage in the model, we believe it should trade more in line with peers.
+
+                                                                  Stock Price Performance                              Company Description
+
+                                                                                                                        Tangoe is a leading provider of
+                                                                               1 Year Price History for TNGO            communications lifecycle management (CLM)
+                                                                                                                        software and services, specifically designed to
+                                                                                                                    16
+                                                                                                                        cover the entire lifecycle of an enterprise's
+                                                                                                                    14
+                                                                                                                        communications assets, from initial
+                                                                                                                    12
+                                                                                                                        procurement, through invoicing, to
+                                                                                                                    10  decommissioning and disposal.
+                                                                                                                    8
+                                                                                                                    6
+                                                                  Q2                     Q3
+                                                                                                                2012
+                                                                                                         Created by BlueMatrix
+
+                                                                 Oppenheimer & Co. Inc. does and seeks to do business with companies covered in its research reports. As
+                                                                 a result, investors should be aware that the firm may have a conflict of interest that could affect the
+
+Brad Reback, CFA               Adam Borg                      objectivity of this report. Investors should consider this report as only a single factor in making their
+
+404-364-8728                   212-667-7417                      investment decision. See "Important Disclosures and Certifications" section at the end of this report for
+Brad.Reback@opco.com           Adam.Borg@opco.com                important disclosures, including potential conflicts of interest. See "Price Target Calculation" and "Key Risks
+                                                                 to Price Target" sections at the end of this report, where applicable.
+
+                                                                  Oppenheimer & Co Inc. 300 Madison Avenue New York, NY 10017 Tel: 800-221-5588 Fax: 212-667-8229    130
+---------------------Page 2---------------------
+
+
+
+                                             Changes to our Estimates
+
+                                             We've  adjusted  our  model  following  TNGO's  acquisition  of  ProfitLine. We  have  increased  our
+
+                                             CY11E revenue forecast by $400K to $104.0 million but left our EPS unchanged at $0.25. For FY12,
+
+                                             we   have   increased   our   revenue   forecast   by   $14.2   million   to   $135.5   million   to   account   for   the
+
+                                             contribution  of  ProfitLine.  Although  we  believe  ProfitLine  will  be  slightly  dilutive  to  TNGO's  gross
+
+                                             margins   in   2012,   we   expect   TNGO   to   achieve   operational   synergies   (elimination   of   redundant
+
+                                             positions) and for the deal to be modestly accretive next year. Thus, we have increased our 2012 EPS
+
+                                             by a penny to $0.40. For a closer view of our other changes, please see the exhibit below:
+
+                                              Estimate Revisions
+
+                                                                                     4Q11E                        FY11E                       FY12E
+
+                                              ($ in millions, except EPS)  New      Previous  Variance¹New      Previous  Variance¹ New      Previous  Variance¹
+                                              Revenue and EPS
+                                              Total Revenue                   $28.3    $27.9     $0.4    $104.0   $103.6     $0.4     $135.5   $121.3   $14.2
+                                              Y/Y Growth                       51.3%   49.2%     1.4%      51.8%    51.2%     0.4%      30.4%   17.1%    10.5%
+                                              Recurring Revenue               $25.4    $25.0     $0.4     $93.3    $92.9     $0.4     $124.0   $109.7   $14.2
+                                              Y/Y Growth                       58.7%   56.2%     1.6%      61.6%    60.9%     0.4%      32.9%   18.2%    11.5%
+                                              Consulting & Other               $2.9     $2.9     $0.0     $10.7    $10.7     $0.0      $11.6    $11.6    $0.0
+                                              Y/Y Growth                       7.2%     7.2%     0.0%      (0.7%)   (0.7%)     0.0%       8.2%   8.2%    0.0%
+                                              Non-GAAP EPS                    $0.07    $0.07    $0.00     $0.25    $0.25    $0.00      $0.40    $0.39   $0.01
+                                              Y/Y Growth                        N/A      N/A     0.2%       0.0%     0.0%     0.0%      60.1%   55.8%    2.7%
+                                              Adjusted EBITDA                  $3.5     $3.3     $0.2     $12.5    $12.3     $0.2      $20.6    $18.5    $2.1
+                                              Y/Y Growth                       78.8%   69.3%     5.3%      82.0%    79.2%     1.5%      65.2%   50.6%    10.2%
+
+                                              Cash Flow
+                                              Cash From Operations             $3.2     $3.4    ($0.2)     $8.5     $8.7     ($0.2)    $19.0    $18.8    $0.2
+                                              Y/Y Growth                        N/A      N/A    (6.4%)     149.5%  155.5%    (2.4%)     123.6% 116.2%     1.0%
+                                              CFFO Per Share                  $0.08    $0.09   ($0.01)    $0.26    $0.26    ($0.01)    $0.48    $0.47   $0.00
+                                              Y/Y Growth                       0.0%     0.0%    (6.4%)     (66.9%) (66.1%)    (2.4%)      86.8% 80.5%    1.0%
+                                              Free Cash Flow                   $2.7     $2.9    ($0.2)     $7.5     $7.7     ($0.2)    $17.2    $16.6    $0.6
+                                              Y/Y Growth                        N/A      N/A    (7.2%)     147.6%  154.0%    (2.6%)     128.9% 115.7%     3.3%
+                                              FCF Per Share                   $0.07    $0.07   ($0.01)    $0.23    $0.23    ($0.01)    $0.43    $0.42   $0.01
+                                              Y/Y Growth                       0.0%     0.0%    (7.2%)     (67.2%) (66.3%)    (2.6%)      91.2% 80.2%    3.3%
+
+                                              Margins
+                                              Gross Margin (Non-GAAP)         52.8%    53.0%    (0.2%)    53.0%    53.0%    (0.1%)     56.5%    56.6%   (0.1%)
+                                              Operating Margin (Non-GAAP)     10.9%    10.4%    0.6%      10.6%    10.5%     0.2%      14.1%    13.7%    0.4%
+
+                                              Source: Oppenheimer & Co. Inc.
+                                              ¹ variance column figures do not refer to y/y growth but variance %.
+
+                                             Stock prices of other companies mentioned (as of 12/19/2011):
+
+                                             Hewlett-Packard (HPQ-NYSE, $25.13, NR)
+
+2
+
+                                                                                                                                                                             131
+---------------------Page 3---------------------
+
+                                                                                                                                                                                               
+
+TNGO Income Statement
+(in millions), except EPS                        FY 2009     FY 2010      Mar 11     Jun 11    Sept 11    Dec 11E   FY 2011E     Mar 12E    Jun 12E   Sept 12E  Dec 12E    FY 2012E
+Revenues
+   Recurring revenue                                 46.0        57.7          19.9       23.5      24.5      25.4       93.3         29.4      30.4       31.5      32.6      124.0
+   Consulting & other                                 9.9        10.8            2.4       2.5       2.9       2.9       10.7          2.9       2.9        2.9       2.9       11.6
+Total Revenue                                        55.9        68.5          22.3       26.0      27.3      28.3      104.0         32.3      33.3       34.4      35.5      135.5
+Cost of revenue (Non-GAAP)                           24.8        29.9          10.2       12.5      12.9      13.3       48.9         14.2      14.6       15.0      15.3       59.0
+Total gross profit (Non-GAAP)                        31.1        38.6          12.2       13.6      14.4      14.9       55.1         18.2      18.8       19.4      20.2       76.6
+Adjusted Operating expenses
+   S&M (Non-GAAP)                                     9.6        11.9            3.5       3.8       3.9       4.3       15.5          5.1       5.3        5.4       5.6       21.4
+   G&A (Non-GAAP)                                     9.2        10.7            3.3       3.9       4.2       3.6       15.0          4.4       4.5        4.6       4.7       18.1
+   R&D (Non-GAAP)                                     8.0         9.2            2.8       2.8       3.0       3.5       12.1          4.0       4.0        4.1       4.2       16.4
+   D&A                                                3.5         3.5            1.0       1.1       1.2       1.3        4.6          1.3       1.3        1.3       1.4        5.2
+   Amortization of intangibles                       (2.3)       (2.4)          (0.7)     (0.8)     (0.9)      (0.8)     (3.2)        (0.9)      (0.9)     (0.9)     (1.0)      (3.7)
+Total operating expenses (Non-GAAP)                  28.0        32.8            9.9      10.8      11.4      11.8       44.0         13.9      14.2       14.5      14.9       57.5
+Income (Loss) from operations (Non-GAAP)              3.1         5.8            2.3       2.7       3.0       3.1       11.1          4.3       4.6        4.9       5.3       19.1
+Other income (expense), net
+   Interest income (expense) and other, net (Non-GAAP)(2.2)      (2.0)          (0.7)     (0.8)     (0.4)      (0.3)     (2.1)        (0.5)      (0.5)     (0.5)     (0.6)      (2.1)
+Income (Loss) before taxes (Non-GAAP)                 1.0         3.8            1.6       2.0       2.6       2.8        9.0          3.8       4.1        4.4       4.7       17.0
+Income tax (benefit) Provision (Non-GAAP)             0.3         0.3            0.1       0.2       0.1       0.2        0.6          0.2       0.3        0.3       0.3      1.085
+Net Income (Loss) (Non-GAAP)                          0.7         3.5            1.5       1.8       2.5       2.6        8.4          3.6       3.8        4.1       4.4       15.9
+EPS (Non-GAAP)                                       0.16                      0.05       0.06      0.07      0.07       0.25         0.09      0.10       0.10      0.11       0.40
+Diluted Shares Outstanding (Non-GAAP)                 4.3         4.4          29.3       29.9      35.1      38.5       33.2         39.0      39.5       40.0      40.5       39.8
+
+Adjusted EBITDA                                       4.4         6.9            2.6       3.1       3.3       3.5       12.5          4.7       5.0        5.3       5.7       20.6
+
+Margin Analysis
+   Recurring revenue as % of revenue                82.3%       84.3%         89.2%      90.3%     89.5%     89.8%      89.7%        91.1%     91.3%      91.6%     91.8%      91.5%
+   Consulting & other as % of revenue               17.7%       15.7%         10.8%       9.7%     10.5%     10.2%      10.3%         8.9%      8.7%       8.4%      8.2%       8.5%
+Cost of revenue as % of revenue (Non-GAAP)          44.3%       43.7%         45.6%      47.9%     47.2%     47.2%      47.0%        43.8%     43.7%      43.5%     43.1%      43.5%
+Gross Margin (Non-GAAP)                             55.7%       56.3%         54.4%      52.1%     52.8%     52.8%      53.0%        56.2%     56.3%      56.5%     56.9%      56.5%
+   S&M as % of revenue (Non-GAAP)                   17.1%       17.3%         15.8%      14.4%     14.3%     15.3%      14.9%        15.8%     15.8%      15.8%     15.8%      15.8%
+   G&A as % of revenue (Non-GAAP)                   16.5%       15.6%         14.6%      15.1%     15.4%     12.7%      14.4%        12.6%     12.6%      12.5%     12.3%      13.4%
+   R&D as % of revenue (Non-GAAP)                   14.3%       13.4%         12.6%      10.7%     10.9%     12.3%      11.6%        12.3%     12.1%      12.0%     11.9%      12.1%
+   Total Stock comp as % of revenue (Non-GAAP)      -1.3%       -2.8%          -3.7%     -3.6%     -3.3%      -3.3%     -2.6%        -4.0%      -4.0%     -4.5%     -4.5%       0.0%
+   Amortization of intang. as % of revenue (Non-GAAP)-4.1%      -3.6%          -3.2%     -2.9%     -3.3%      -2.9%     -3.1%        -2.7%      -2.7%     -2.7%     -2.7%      -2.7%
+Operating Margin (Non-GAAP)                          5.6%        8.4%         10.1%      10.5%     10.9%     10.9%      10.6%        13.3%     13.7%      14.2%     15.0%      14.1%
+   Interest income (expense) and other, net as % of revenue-4.2%-4.2%          -5.3%     -8.6%     -5.1%      -0.4%     -4.8%         0.0%      0.0%       0.0%     -0.2%      -0.1%
+EBT Margin (Non-GAAP)                                1.7%        5.5%          7.1%       7.5%      9.6%      9.9%       8.6%        11.7%     12.2%      12.8%     13.3%      12.5%
+   Tax rate (non GAAP)                              27.5%        7.8%          7.9%       9.2%      3.4%      7.0%       6.6%         6.4%      6.4%       6.4%      6.4%       6.4%
+Net income Margin (Non-GAAP)                         1.2%        5.1%          6.6%       6.8%      9.2%      9.2%       8.1%        11.0%     11.4%      11.9%     12.4%      11.7%
+EBITDA Margin (Non-GAAP)                            11.9%       13.6%         14.6%      14.8%     15.5%     15.4%      15.1%        17.3%     17.6%      18.0%     18.8%      17.9%
+Adjusted EBITDA Margin                               7.8%       10.0%         11.4%      11.9%     12.2%     12.5%      12.0%        14.6%     14.9%      15.3%     16.1%      15.2%
+
+Y/Y Growth Analysis
+   Recurring revenue                                65.3%       25.4%         50.3%      69.2%     67.9%     58.7%      61.6%        47.7%     29.4%      28.8%     28.5%      32.9%
+   Consulting & other                                2.3%        8.7%         -10.4%     -9.8%     11.2%      7.2%      -0.7%        19.7%     14.0%       1.4%      0.3%       8.2%
+Total Revenue                                       49.0%       22.5%         40.0%      55.9%     59.4%     51.3%      51.8%        44.7%     27.9%      25.9%     25.6%      30.4%
+Cost of revenue as % of revenue (Non-GAAP)          39.9%       20.6%         44.4%      71.3%     71.3%     65.9%      63.5%        39.1%     16.7%      16.1%     14.7%      20.6%
+Gross Profit (Non-GAAP)                             57.1%       23.9%         36.6%      44.0%     50.0%     40.3%      42.8%        49.4%     38.3%      34.7%     35.4%      39.0%
+   S&M (Non-GAAP)                                   24.6%       23.8%         29.5%      27.3%     33.1%     33.0%      30.8%        44.9%     40.2%      39.1%     29.7%      38.1%
+   G&A (Non-GAAP)                                   23.9%       15.8%         31.0%      53.0%     64.1%     17.7%      40.5%        34.0%     14.6%       9.1%     30.0%      20.9%
+   R&D (Non-GAAP)                                   37.4%       14.9%         25.9%      22.7%     29.8%     47.0%      31.5%        40.9%     44.5%      38.6%     21.5%      35.6%
+Operating Profit (Non-GAAP)                       -252.4%       84.2%         89.1%    101.5%      93.7%     83.2%      91.5%        90.6%     67.1%      63.9%     71.6%      72.3%
+Total operating expenses (Non-GAAP)                 28.0%       17.1%         28.5%      34.3%     41.7%     32.2%      34.2%        40.0%     31.0%      27.1%     25.9%      30.6%
+EBT (Non-GAAP)                                    -130.2%      295.5%        142.3%    137.2%     156.7%    116.6%    136.3%        137.4%    107.5%      68.1%     68.6%      89.2%
+EPS (Non-GAAP)                                    -120.4%     -100.0%        139.8%    119.5%     119.9%                             81.3%     61.6%      43.0%     61.3%      60.1%
+Adjusted EBITDA                                   -490.4%       57.6%         76.1%      89.9%     83.0%     78.8%      82.0%        84.6%     60.5%      58.7%     61.3%      65.2%
+Source: Company Reports and Oppenheimer & Co. Inc. estimates
+
+                                                                                                                                                                                              3
+
+                                                                                                                                                                                            132
+---------------------Page 4---------------------
+
+
+
+  Investment Thesis
+  n  A leading provider of communications lifecycle management (CLM) solutions
+  n  Largest player in a multi-billion-dollar market that continues to grow
+  n  Appears well positioned to sustain double-digit revenue and EPS growth
+  n  Multiple  growth  drivers  (greenfield  marketplace,  acquire  new  customers/penetrate  existing  accounts,  international
+     expansion, form additional strategic alliances, engage in additional acquisitions)
+  n  Leverage in the model
+
+  Price Target Calculation
+
+  We arrive at our $17 price target for Tangoe by applying a 4.6x multiple to our FY12E recurring revenue of $124.0M. We note the SaaS
+  peer group has historically traded at 5-7x next-12-months' recurring revenue. Admittedly, Tangoe is not yet a pure SaaS-only shop (its
+  MDM product is delivered via a dedicated hosted or as an on-premise solution but is expected to migrate to SaaS architecture by end of
+  next year). We contend that since TNGO's CLM solution is based on a deep technological foundation, the "stickiness" of its installed
+  base,  the  recurring  nature  of  its  revenue  (strong  renewal  rates,  subscriptions  model),  its  robust  growth  rates  (40%  five-year  CAGR),
+  market leadership position in an open-ended opportunity, and the sizable leverage in its model, Tangoe should trade roughly in line with
+  its peers, which leads us to our $17 price target.
+
+  Key Risks to Price Target
+
+  There  are  several  risks  to  our  investment  thesis,  including  the  sluggish  pace  of  IT  spending,  which  may  cause  deals  to  be  delayed
+  and/or downsized; the company's failing to successfully integrate an acquisition; CLM demand not materializing as expected; loss of a
+  material  customer;  increased  competition  from  vendors  with  larger  resources  and  scale;  and  the  possibility  that  the  company  will  be
+  unable to execute on its growth initiatives. Any of these risks, as well as others unforeseen, could prevent the stock from attaining our
+  price target.
+
+  Important Disclosures and Certifications
+
+  Analyst  Certification  - The  author  certifies  that  this  research  report  accurately  states  his/her  personal  views  about  the
+  subject securities, which are reflected in the ratings as well as in the substance of this report.The author certifies that no
+  part  of  his/her  compensation  was,  is,  or  will  be  directly  or  indirectly  related  to  the  specific  recommendations  or  views
+  contained in this research report.
+  Potential Conflicts of Interest:
+  Equity  research  analysts  employed  by  Oppenheimer  &  Co.  Inc.  are  compensated  from  revenues  generated  by  the  firm
+  including the Oppenheimer & Co. Inc. Investment Banking Department. Research analysts do not receive compensation
+  based  upon  revenues  from  specific  investment  banking  transactions.  Oppenheimer  &  Co.  Inc.  generally  prohibits  any
+  research analyst and any member of his or her household from executing trades in the securities of a company that such
+  research analyst covers. Additionally, Oppenheimer & Co. Inc. generally prohibits any research analyst from serving as an
+  officer, director or advisory board member of a company that such analyst covers. In addition to 1% ownership positions in
+  covered companies that are required to be specifically disclosed in this report, Oppenheimer & Co. Inc. may have a long
+  position of less than 1% or a short position or deal as principal in the securities discussed herein, related securities or in
+  options, futures or other derivative instruments based thereon. Recipients of this report are advised that any or all of the
+  foregoing arrangements, as well as more specific disclosures set forth below, may at times give rise to potential conflicts of
+  interest.
+
+4
+
+                                                                                                                                133
+---------------------Page 5---------------------
+
+                                                                                                                                      
+
+                                 Rating and Price Target History for: Tangoe (TNGO) as of 12-19-2011
+
+    09/05/11    11/09/11
+     I:O:$14     O:$16
+
+                                                                                                                             16
+
+                                                                                                                             14
+
+                                                                                                                             12
+
+                                                                                                                             10
+
+                                                                                                                             8
+
+                                                                                                                             6
+            2009                                 2010                                 2011                                 2012
+
+                                                                                                          Created by BlueMatrix
+
+All price targets displayed in the chart above are for a 12- to- 18-month period. Prior to March 30, 2004, Oppenheimer &
+
+Co. Inc. used 6-, 12-, 12- to 18-, and 12- to 24-month price targets and ranges. For more information about target price
+
+histories, please write to Oppenheimer & Co. Inc., 300 Madison Avenue, New York, NY 10017, Attention: Equity Research
+
+Department, Business Manager.
+
+Oppenheimer & Co. Inc. Rating System as of January 14th, 2008:
+
+Outperform(O) - Stock expected to outperform the S&P 500 within the next 12-18 months.
+
+Perform (P) - Stock expected to perform in line with the S&P 500 within the next 12-18 months.
+
+Underperform (U) - Stock expected to underperform the S&P 500 within the next 12-18 months.
+
+Not Rated (NR) - Oppenheimer & Co. Inc. does not maintain coverage of the stock or is restricted from doing so due to a potential
+conflict of interest.
+
+Oppenheimer & Co. Inc. Rating System prior to January 14th, 2008:
+
+Buy  - anticipates  appreciation  of  10%  or  more  within  the  next  12  months,  and/or  a  total  return  of  10%  including  dividend  payments,
+and/or the ability of the shares to perform better than the leading stock market averages or stocks within its particular industry sector.
+
+Neutral - anticipates that the shares will trade at or near their current price and generally in line with the leading market averages due to
+a perceived absence of strong dynamics that would cause volatility either to the upside or downside, and/or will perform less well than
+higher  rated  companies  within  its  peer  group.  Our  readers  should  be  aware  that  when  a  rating  change  occurs  to  Neutral  from  Buy,
+aggressive trading accounts might decide to liquidate their positions to employ the funds elsewhere.
+
+Sell  - anticipates  that  the  shares  will  depreciate  10%  or  more  in  price  within  the  next  12  months,  due  to  fundamental  weakness
+perceived in the company or for valuation reasons, or are expected to perform significantly worse than equities within the peer group.
+
+                                                                                                                                      5
+
+                                                                                                                                    134
+---------------------Page 6---------------------
+
+
+
+                                                Distribution of Ratings/IB Services Firmwide
+
+                                                    IB Serv/Past 12 Mos.
+
+      Rating                        Count  Percent   Count    Percent
+      OUTPERFORM [O]                 335                   56.30                    143                   42.69
+      PERFORM [P]                    254                   42.70                      85                   33.46
+      UNDERPERFORM [U]                6                         1.00                         3                   50.00
+
+  Although the investment recommendations within the three-tiered, relative stock rating system utilized by Oppenheimer & Co. Inc. do not
+  correlate to buy, hold and sell recommendations, for the purposes of complying with FINRA rules, Oppenheimer & Co. Inc. has assigned
+  buy ratings to securities rated Outperform, hold ratings to securities rated Perform, and sell ratings to securities rated Underperform.
+
+  Company Specific Disclosures
+
+  In the past 12 months Oppenheimer & Co. Inc. has provided investment banking services for TNGO.
+
+  Oppenheimer & Co. Inc. expects to receive or intends to seek compensation for investment banking services in the next 3
+  months from TNGO.
+
+  In the past 12 months Oppenheimer & Co. Inc. has managed or co-managed a public offering of securities for TNGO.
+
+  In the past 12 months Oppenheimer & Co. Inc. has received compensation for investment banking services from TNGO.
+
+  Oppenheimer & Co. Inc. makes a market in the securities of TNGO.
+
+  Additional Information Available
+
+  Please  log  on  to http://www.opco.com or  write  to  Oppenheimer  &  Co.  Inc.,  300  Madison  Avenue,  New  York,  NY  10017,
+  Attention: Equity Research Department, Business Manager.
+
+  Other Disclosures
+
+  This report is issued and approved for distribution by Oppenheimer & Co. Inc. Oppenheimer & Co. Inc transacts Business on all Principal
+  Exchanges  and  Member  SIPC.  This  report  is  provided,  for  informational  purposes  only,  to  institutional  and  retail  investor  clients  of
+  Oppenheimer & Co. Inc. and does not constitute an offer or solicitation to buy or sell any securities discussed herein in any jurisdiction
+  where such offer or solicitation would be prohibited. The securities mentioned in this report may not be suitable for all types of investors.
+  This  report  does  not  take  into  account  the  investment  objectives,  financial  situation  or  specific  needs  of  any  particular  client  of
+  Oppenheimer & Co. Inc. Recipients should consider this report as only a single factor in making an investment decision and should not
+  rely solely on investment recommendations contained herein, if any, as a substitution for the exercise of independent judgment of the
+  merits and risks of investments. The analyst writing the report is not a person or company with actual, implied or apparent authority to
+  act on behalf of any issuer mentioned in the report. Before making an investment decision with respect to any security recommended in
+  this report, the recipient should consider whether such recommendation is appropriate given the recipient's particular investment needs,
+
+6
+
+                                                                                                                                         135
+---------------------Page 7---------------------
+
+                                                                                                                                         
+
+objectives and financial circumstances. We recommend that investors independently evaluate particular investments and strategies, and
+encourage investors to seek the advice of a financial advisor.Oppenheimer & Co. Inc. will not treat non-client recipients as its clients
+solely by virtue of their receiving this report.Past performance is not a guarantee of future results, and no representation or warranty,
+express or implied, is made regarding future performance of any security mentioned in this report. The price of the securities mentioned
+in this report and the income they produce may fluctuate and/or be adversely affected by exchange rates, and investors may realize
+losses on investments in such securities, including the loss of investment principal. Oppenheimer & Co. Inc. accepts no liability for any
+loss arising from the use of information contained in this report, except to the extent that liability may arise under specific statutes or
+regulations applicable to Oppenheimer & Co. Inc.All information, opinions and statistical data contained in this report were obtained or
+derived from public sources believed to be reliable, but Oppenheimer & Co. Inc. does not represent that any such information, opinion or
+statistical data is accurate or complete (with the exception of information contained in the Important Disclosures section of this report
+provided by Oppenheimer & Co. Inc. or individual research analysts), and they should not be relied upon as such. All estimates, opinions
+and  recommendations  expressed  herein  constitute  judgments  as  of  the  date  of  this  report  and  are  subject  to  change  without
+notice.Nothing in this report constitutes legal, accounting or tax advice. Since the levels and bases of taxation can change, any reference
+in this report to the impact of taxation should not be construed as offering tax advice on the tax consequences of investments. As with
+any investment having potential tax implications, clients should consult with their own independent tax adviser.This report may provide
+addresses of, or contain hyperlinks to, Internet web sites. Oppenheimer & Co. Inc. has not reviewed the linked Internet web site of any
+third  party  and  takes  no  responsibility  for  the  contents  thereof.  Each  such  address  or  hyperlink  is  provided  solely  for  the  recipient's
+convenience  and  information,  and  the  content  of  linked  third  party  web  sites  is  not  in  any  way  incorporated  into  this  document.
+Recipients who choose to access such third-party web sites or follow such hyperlinks do so at their own risk.
+
+This  report  or  any  portion  hereof  may  not  be  reprinted,  sold,  or  redistributed  without  the  written  consent  of  Oppenheimer  &  Co.  Inc.
+Copyright © Oppenheimer & Co. Inc. 2011.
+
+                                                                                                                                        7
+
+                                                                                                                                       136

@@ -1,0 +1,1102 @@
+---------------------Page 1---------------------
+
+ Deutsche Bank 
+ Markets Research 
+
+ Rating                            Company                                                  Date 
+
+ Buy                               Tangoe, Inc.                                             9 April 2012 
+
+                                                                                            Forecast Change 
+ North America                 
+ United States 
+                                                                                            Price at 5 Apr 2012 (USD)                                        19.33
+ TMT 
+                                                                                            Price target                                                                         25.00
+ Application Software 
+                                  Reuters Bloomberg Exchange Ticker                         52-week range                                                   19.67 - 8.75
+                                  TNGO.OQ TNGO US NMS TNGO 
+                                                                                             
+   
+ Tangoe completes secondary offering                                                        Tom Ernst Jr          Nandan Amladi 
+                                                                                            Research Analyst      Research Analyst 
+                                                                                            ( ) 800 592-0290      (+1) 212 250-4570 
+                                                                                            thomas.ernst@db.com   nandan.amladi@db.com
+ Post-secondary model update                                                                                       
+                                                                                                                  
+ Tangoe completed its follow-on offering of 9.2m shares, of which 7m were 
+                                                                                            Price/price relative 
+ secondary and 2.2m primary, at $18.50 per share.  Business for the company 
+ remains strong as integration of recent acquisitions is proceeding well.  We                  20
+ believe the company will stay disciplined in its acquisitions as the focus shifts 
+ away from scale to geographic and technology-focused assets.  We update our                   16
+ model for the new primary shares and reiterate our Buy rating, raising our PT to 
+                                                                                               12
+ $25 from $20. 
+                                                                                                8
+ Recent acquisitions were well-chosen 
+                                                                                                 7/11                                                                          1/12
+ Acquisitions during 2011 were focused on gaining scale.  After the HCL and                            Tangoe, Inc.
+ Telwares deals early in the year, Tangoe acquired Profitline in December 2011,                        S&P 500 INDEX (Rebased)   
+ gaining about $15m in annual revenue and 50 customers, including Starbucks, 
+                                                                                            Performance (%)                             1m          3m        12m
+ BASF, NASA, DoD and the US Postal Service, about $5m in annual revenue 
+ from the government sector alone.  With almost $35m new scale related                    Absolute 5.3        28.6               
+ revenue acquired through these three assets, Anomalous Networks was a                      S&P 500 INDEX                               2.5           9.1           4.9
+ purely technology play followed by ttMobiles gets Tangoe about 50 customers    
+  and 50 staff very familiar with the UK market.  See page 4 for a summary. 
+ Estimates for FY12 leave headroom 
+ Early guidance for FY12 embeds about $20m in acquired revenue, effectively 
+ about 16% organic growth at the midpoint, whereas recent organic growth has 
+ consistently been above 20%.  We believe this leaves adequate headroom for 
+ the company to beat estimates as we progress through the year.  The process 
+ of integrating acquisitions is fairly standardized at the company, but we note 
+ there were five acquisitions in the past 15 months vs. only three in the years 
+ prior to 2011. 
+ Reiterate Buy rating, raising PT to $25 from $20 
+ Our $25 price target (from $20) is based on a CY13 uFCF/share estimate of 
+ $0.55 (from $0.48), an EV/uFCF/G multiple of 1.2x (slight premium to group 
+ given market leadership position), and an estimated five-year growth rate, net 
+ of dilution, of 33%. Risks include integration of acquisitions, delayed 
+ profitability from new projects not ramping fast enough and customers taking 
+ expense processing in-house after early gains from Tangoe's platform. 
+  
+
+ Forecasts And Ratios 
+ Year End Dec 31                                         2011A                     2012E                     2013E
+ 1Q EPS                                                    0.06                         0.07                         0.11
+ FY EPS (USD)                                              0.27                         0.40                         0.46
+ Revenue (USDm)                                           104.9                      142.5                      168.0
+ EV/Sales (x)                                               3.6                            5.2                            4.5
+ EV/FCF (x)                                                39.3                         43.8                         32.0
+ Source: Deutsche Bank estimates, company data 
+  
+ ________________________________________________________________________________________________________________
+ Deutsche Bank Securities Inc. 
+ All prices are those current at the end of the previous trading session unless otherwise indicated. Prices are sourced 
+ from local exchanges via Reuters, Bloomberg and other vendors. Data is sourced from Deutsche Bank and subject 
+ companies. Deutsche Bank does and seeks to do business with companies covered in its research reports. Thus, 
+ investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. 
+ Investors should consider this report as only a single factor in making their investment decision. DISCLOSURES AND 
+ ANALYST CERTIFICATIONS ARE LOCATED IN APPENDIX 1. MICA(P) 146/04/2011. 
+                                                                                                                                       69
+  
+---------------------Page 2---------------------
+
+9 April 2012 
+ 
+Application Software 
+
+Tangoe, Inc. 
+
+Model updated:05 April 2012                                                                                        Fiscal year end  31-Dec                                                                                         2009             2010 2011 2012E          2013E
+                                                                                                                    
+Running the numbers                                                                                                Financial Summary 
+North America                                                                                                      DB EPS (USD)                                                                                                                -0.11                  0.06                  0.14                  0.26                  0.33
+                                                                                                                   Reported EPS (USD)                                                                                                  -0.11                 -0.06                 -0.09                  0.16                  0.33
+United States                                                                                                      DPS (USD)                                                                                                                         0.00                  0.00                  0.00                  0.00                  0.00
+Application Software                                                                                               BVPS (USD)                                                                                                                      0.80                  0.71                  2.98                  3.19                  3.47
+
+                                                                                                                   Valuation Metrics                                                                                                                                                         
+Tangoe, Inc.                                                                                                       Price/Sales (x)                                                                                                                     nm                     nm                     3.9                     5.7                     4.9
+Reuters: TNGO.OQ                      Bloomberg: TNGO UQ                                                           P/E (DB) (x)                                                                                                                           nm                       na                   88.8                  75.1                   58.3
+                                                                                                                   P/E (Reported) (x)                                                                                                             nm                     nm                     nm               117.7                   58.3
+
+Buy                                                                                                                P/BV (x)                                                                                                                                   0.0                     0.0                     5.2                     6.1                     5.6
+
+                                                                                                                   FCF yield (%)                                                                                                                        na                       na                     2.4                     2.1                     2.8
+Price (5 Apr 12)                                                        USD 19.33
+                                                                                                                   Dividend yield (%)                                                                                                             na                       na                     0.0                     0.0                     0.0
+Target Price                                                                USD 25.00
+                                                                                                                   EV/Sales nm                     nm                     3.6 5.2                     4.5
+52 Week range                                          USD 8.75 - 19.67                                            EV/EBITDA nm                     nm                   30.2 36.7                   27.0
+                                                                                                                   EV/EBIT nm                     nm                   47.1 51.5                   34.0
+Market Cap (m)                                                        USDm 808
+                                                                                                                   Income Statement (USDm) 
+ EURm 619
+ 
+                                                                                                                   Sales 56                       68                    105 143                    168
+Company Profile                                                                                                    EBITDA 4                          7                       13 20                       28
+Tangoe, Inc. provides on-demand communications                                                                     EBIT 1                          3                          8 15                       22
+lifecycle management (CLM) software and related services                                                           Pre-tax profit                                                                                                                          -2                        -1                          2                         9                       16
+to enterprises, including large and medium-sized                                                                   Net income                                                                                                                             -3                        -2                        -3                         7                       14
+businesses and other organizations. The company's on-
+demand software and related services enable enterprises                                                            Cash Flow (USDm) 
+to manage and optimize the processes and expenses 
+associated with the lifecycle of an enterprise's fixed and                                                         Cash flow from operations                                                                                            2                          3                       11                      19                       26
+mobile communications assets and services. Tangoe, Inc.                                                            Net Capex                                                                                                                                -1                          0                        -1                        -2                        -2
+was founded in 2000.                                                                                               Free cash flow                                                                                                                        2                          3                       10                      17                       24
+                                                                                                                   Equity raised/(bought back)                                                                                        -1                        -3                     -18                     -17                          0
+                                                                                                                   Dividends paid                                                                                                                       000                         00
+Price Performance                                                                                                  Net inc/(dec) in borrowings                                                                                           0                          0                          1                         0                          0
+       20                                                                                                          Other investing/financing cash flows                                                                   -1                          0                       45                      24                        -5
+                                                                                                                   Net cash flow                                                                                                                         0                          0                       38                      24                       19
+       16                                                                                                          Change in working capital                                                                                              0                        -1                          0                        -2                        -4
+       12
+                                                                                                                   Balance Sheet (USDm) 
+         8                                                                                                         Cash and cash equivalents                                                                                            6                          6                       43                      67                       87
+           Jul 11                                                                       Jan 12                     Property, plant & equipment                                                                                        2                          2                          3                         3                          4
+                                                                                                                   Goodwill 18                       18                       36 36                       36
+                                                                                                                   Other assets                                                                                                                          31                       33                       58                      62                       64
+                         Tangoe, Inc.                       S&P 500 INDEX (Rebased)
+                                                                                                                   Total assets                                                                                                                           56                       59                    141                    169                    191
+Margin Trends                                                                                                      Debt 15                       17                       13 7                       11
+                                                                                                                   Other liabilities                                                                                                                    22                       23                       32                      28                       31
+       20                                                                                                          Total liabilities                                                                                                                      38                       39                       44                      36                       41
+       16                                                                                                          Total shareholders' equity                                                                                           19                       19                       97                    134                    149
+       12                                                                                                          Net debt                                                                                                                                      9                       11                     -31                     -60                     -76
+         8
+         4                                                                                                         Key Company Metrics 
+         0
+                                                                                                                   Sales growth (%)                                                                                                             nm                   22.5                   53.3                  35.8                   17.9
+                       09                 10                 11               12E              13E                 DB EPS growth (%)                                                                                                          na                       na                148.0                  79.5                   28.8
+
+                                 EBITDA Margin                           EBIT Margin                               Payout ratio (%)                                                                                                                nm                     nm                     nm                     0.0                     0.0
+                                                                                                                   EBITDA Margin (%)                                                                                                        7.8                   10.0                   12.1                  14.3                   16.7
+Growth & Profitability                                                                                             EBIT Margin (%)                                                                                                                1.5                     4.9                     7.7                  10.2                   13.2
+
+       60                                                                                         15               ROE (%)                                                                                                                              -13.8                    -9.2                    -5.1                     6.0                  10.1
+       50                                                                                         10
+       40                                                                                        5                 Net debt/equity (%)                                                                                                     49.6                   55.4                 -31.9                -45.2                 -50.9
+       30                                                                                        0                 Net interest cover (x)                                                                                                     0.3                     1.7                     4.1               210.4                308.7
+       20                                                                                         -5
+       10                                                                                        -10               DuPont Analysis 
+         0                                                                                       -15
+                                                                                                                   EBIT margin (%)                                                                                                                1.5                     4.9                     7.7                  10.2                   13.2
+                      09              10               11             12E           13E
+                                                                                                                   x  Asset turnover (x)                                                                                                       1.0                     1.2                     1.1                     0.9                     0.9
+                                                                                                                   x  Financial cost ratio (x)                                                                                           -1.9                     0.4                     0.8                     1.0                     1.0
+                                      Sales growth (LHS)                             ROE (RHS)                     x  Tax and other effects (x)                                                                                        1.7                    -1.3                    -0.5                     0.5                     0.6
+                                                                                                            
+                                                                                                                   =  ROA (post tax) (%)                                                                                                   -4.6                    -3.1                    -3.0                     4.4                     7.9
+Solvency                                                                                                           x  Financial leverage (x)                                                                                               3.0                     3.0                     1.7                     1.3                     1.3
+        80                                                                                       350               =  ROE (%)                                                                                                                       -13.8                    -9.2                    -5.1                     6.0                   10.1
+        60                                                                                       300               annual growth (%)                                                                                                             na                   32.9                   44.8                       na                   69.0
+        40                                                                                       250
+        20                                                                                       200               x  NTA/share (avg) (x)                                                                                                   0.8                     0.7                     1.8                     2.8                     3.3
+          0                                                                                      150
+       -20                                                                                       100               =  Reported EPS                                                                                                          -0.11                 -0.06                 -0.09                  0.16                   0.33
+       -40                                                                                       50                annual growth (%)                                                                                                             na                   41.5        -42.1 na                101.9
+       -60                                                                                       0                  
+                                                                                                                   Source: Company data, Deutsche Bank estimates 
+                      09              10              11             12E           13E
+                                                                                                                    
+                           Net debt/equity (LHS)                         Net interest cover (RHS
+                                                                                                            
+
+                                                                                                             
+Tom Ernst Jr 
+  800 592-0290                                                    thomas.ernst@db.com
+  
+
+ 
+Page 2                                                                                                                                                                                                                                                           Deutsche Bank Securities Inc.
+
+ 
+                                                                                                                                                                                                                                                                                                                                           70
+---------------------Page 3---------------------
+
+9 April 2012 
+ 
+Application Software 
+Tangoe, Inc. 
+
+Discussion and exhibits 
+
+Tangoe completes secondary 
+
+Tangoe completed its follow-on offering of 9.2m shares, of which 7m were secondary 
+and 2.2m were primary, at $18.50 per share.  Business for the company remains strong 
+as integration of recent acquisitions is proceeding well.  We believe the company will 
+stay disciplined in its acquisitions as the focus shifts away from scale to geographic and 
+technology-focused assets.  We update our model for the new primary shares and 
+reiterate our Buy rating, raising our PT to $25 from $20. 
+
+Figure 1: Summary of estimate changes 
+                Revenues                                                        EPS                                                      uFCF/Share
+              Old       New                  Old       New                  Old       New
+
+  1Q12E      $32.8            $33.0                                   $0.09            $0.07                                    $0.06              0.08       
+  2012E     $137.0         $142.5                                   $0.39            $0.40                                    $0.40            $0.41
+  2013E     $159.0         $168.0                                   $0.45            $0.47                                    $0.48            $0.55
+Source: Deutsche Bank 
+
+Progress since IPO 
+Below we list significant developments since the companys IPO: 
+
+         Tangoe went public on July 27, 2011, issuing 8.8m shares (7.5m primary) at 
+         $10.  Green shoe of 1.3m secondary shares was exercised 
+
+         Two quarters of beat-and-raise since IPO 
+
+         Three acquisitions since going public 
+
+         Spend under management went from about $14bn to about $17bn 
+
+         Customer count grew from 615 to 750 
+
+         Employee count grew from 757 to about 1,000 
+
+         Tangoe has been positioned as a Leader in Gartners Magic Quadrant report 
+         published in March 2012 
+
+Recent acquisitions were well-chosen 
+Acquisitions during 2011 were focused on gaining scale.  After the HCL and Telwares 
+deals early in the year, Tangoe acquired Profitline in December 2011, gaining about 
+$15m in annual revenue and 50 customers, including Starbucks, BASF, NASA, DoD and 
+the US Postal Service, about $5m in annual revenue from the government sector alone.  
+With almost $35m new scale related revenue acquired through these three assets, 
+Anomalous Networks was a purely technology play followed by ttMobiles, which gets 
+Tangoe about 50 customers  and 50 staff very familiar with the UK market.  Two 
+smaller remaining players in the TEM sector are Symphony SMS (part of Symphony 
+Service Corp, an outsourcing vendor) and Rivermine, now part of IBM after its 
+acquisition of Emptoris. 
+
+ 
+Deutsche Bank Securities Inc.                                                                                            Page 3
+ 
+                                                                                                                                71
+---------------------Page 4---------------------
+
+ 9 April 2012 
+  
+ Application Software 
+ Tangoe, Inc. 
+
+ Figure 2: Acquisition history 
+
+     Acquired Asset               Nature of Product                    Price Paid                 % recurring 
+                                                                                  revenue
+    Traq (March 2007)                     Mobile TEM                               $20.7m                            ~90%
+     ISG (July 2008)                         Fixed TEM                                 $10.7m                            ~90%
+        Internoded              Mobile Device                 $3.5m                             ~85%
+        (Dec 2008)               Management
+   HCL TEM business               Fixed TEM                                  $5.2m                             >90%
+        (Jan 2011)
+         Telwares           Fixed and Mobile TEM                     $5.4m                             >90%
+       (March 2011)
+         Profitline         Telecom expense and               $23.5m                            >90%
+        (Dec 2011)           mobility management
+        Anomalous             Real-time telecom                $9m                               >90%
+         Networks           expense management
+        (Jan 2012)
+         ttMobiles          Mobile communications             $8.7m                             ~77%
+        (Feb 2012)         management, UK market
+ Source: Deutsche Bank 
+
+ Estimates for FY12 leave headroom 
+ Early guidance for FY12 embeds about $20m in acquired revenue, effectively about 16% 
+ organic growth at the midpoint, whereas recent organic growth has consistently been 
+ above 20%.  We believe this leaves adequate headroom for the company to beat 
+ estimates as we progress through the year.  The process of integrating acquisitions is 
+ fairly standardized at the company, but we note there were five acquisitions in the past 
+ 15 months vs. only three in the years prior to 2011. 
+
+ Customers from the HCL and Telwares acquisitions are beginning to be migrated after 
+ the businesses themselves were integrated into Tangoe.  With over half of Tangoes 
+ staff in customer-facing roles, we expect customer migration to be fairly smooth, but 
+ like with other software migrations, the process can often depend on the needs and 
+ internal processes at the individual customers.  Profitline customers are more likely to 
+ be migrated next year, as its still early days since the acquisition.  
+
+ Figure 4 below shows the organic growth profile of the company since 2008.  Inorganic 
+ contribution in FY11 was $19.9m and the companys guidance for FY12 embeds about 
+ $20m in acquired revenue, about $14.5m from Profitline, $1m from Anomalous 
+ Networks and $4.5m from ttMobiles.   
+
+  
+ Page 4                                                                                               Deutsche Bank Securities Inc.
+ 
+                                                                                                                                    72
+---------------------Page 5---------------------
+
+9 April 2012 
+ 
+Application Software 
+Tangoe, Inc. 
+
+Figure 3: Organic growth profile 
+
+         160,000                                                                                                 50%
+
+                                                                                                                 45%
+         140,000 
+                                                                                                                 40%
+         120,000 
+                                                                                                                 35%
+         100,000 
+                                                                                                                 30%
+
+           80,000                                                                                                25%
+
+                                                                                                                 20%
+           60,000 
+                                                                                                                 15%
+           40,000 
+                                                                                                                 10%
+           20,000 
+                                                                                                                 5%
+
+                -                                                                                                0%
+                          FY08A                      FY09A                      FY10A                      FY11A                       FY12E
+
+                          Est. Total Inorganic          Est. organic revenues           Total organic revenue growth
+
+Source: Deutsche Bank 
+
+Figure 4 plots organic growth for total revenue and recurring revenue.  We note that the 
+company doesnt disclose organic recurring revenue separately.  We assume that of the 
+$19.9m in total inorganic revenue in FY11, about $17.5m was recurring, with the rest in 
+consulting or professional services. 
+
+ 
+
+Figure 4: Organic revenue profile 
+
+ 80%
+
+ 70%
+
+ 60%
+
+ 50%
+
+ 40%
+
+ 30%
+
+ 20%
+
+ 10%
+
+  0%
+             FY08A                              FY09A                              FY10A                              FY11A                               FY12E                               FY13E
+                Total revenue growth         Total organic revenue growth         Organic recurring revenue growth
+
+Source: Deutsche Bank 
+
+ 
+
+ 
+Deutsche Bank Securities Inc.                                                                                                                                Page 5
+
+ 
+                                                                                                                                                                      73
+---------------------Page 6---------------------
+
+  9 April 2012 
+  
+  Application Software 
+  Tangoe, Inc. 
+
+ Ownership structure 
+ Directors and Officers own about 21% of shares post-secondary. 
+
+  Figure 5: Ownership structure 
+
+                         Sellers                                Pre IPO            Post IPO               Post 
+                                                                                                                     Secondary
+
+     Edison Ventures                                                             21%                             14%                            4.1%
+
+     SevinRosen Funds                                                      16%                             11%                            4.8%
+
+     Investor Growth Capital                                             12%                               7%                              5.3%
+
+     CEO,Al Subbloie                                                            9%                                7%                              5.7%
+
+     NorthAtlantic Capital                                                   10%                               7%                              3.2%
+
+     IBM                                                                                          6%                                5%                                5%
+
+     HO2Partners                                                                    5%                                4%                                4%
+
+ Source: Deutsche Bank 
+
+  
+
+ Reiterate Buy rating, raising PT to $25 from $20 
+
+ Our $25 price target (from $20) is based on a CY13 uFCF/share estimate of $0.55 (from 
+ $0.48), an EV/uFCF/G multiple of 1.2x, and an estimated five-year growth rate, net of 
+ dilution, of 33%. Risks include integration of acquisitions, delayed profitability from new 
+ projects not ramping fast enough and customers taking expense processing in-house 
+ after early gains from Tangoe's platform. 
+
+  
+
+  Figure 6: Price sensitivity chart 
+    Price Target Sensitivity Based Upon CY13E EV/uFCF/Growth                                              Historical P/E/G Ratios
+                                                   EV/uFCF/G Multiples
+                                       0.9x              1.1x       1.3x       1.5x              1.7x                       S&P Tech NASDAQ
+    -20%                                $0.44        $14.41         $17.32         $20.23         $23.13         $26.04            Average '92-'98         2.0x                2.0x
+    -10%                                $0.50        $16.07         $19.34         $22.61         $25.88         $29.15            Median '92-'98          2.0x                1.8x
+    DB Est. *              $0.55     $17.74         $21.37    $25.00    $28.63         $32.26
+    10%                                  $0.61        $19.40         $23.39         $27.39         $31.38         $35.38
+    20%                                  $0.66        $21.06         $25.42         $29.77         $34.13         $38.49
+
+                                                   EV/uFCF/G Multiples                         Relative EV/uFCF/G Ratios
+                                       0.9x              1.1x       1.3x       1.5x              1.7x                           20112012
+                             20%       $11.09         $13.27         $15.45         $17.63         $19.81                               SaaS Software Group
+                             26%       $14.41         $17.32         $20.23         $23.13         $26.04            Average                       1.1x                0.8x
+    LTG                                   33%   $17.74         $21.37    $25.00    $28.63         $32.26           Median                        1.0x                0.8x
+                             40%       $21.06         $25.42         $29.77         $34.13         $38.49
+                             46%       $24.38         $29.46         $34.55         $39.63         $44.72                                    Software Group
+                                                                                                 Average                       1.0x                1.0x
+             LT FCF Gr                    35%             Cash/Share  $1.13                                   Median                        1.0x                0.8x
+          Options dilution                -2%
+                          (1)
+          LTG - FCF/Sh                    33%
+ Source: Deutsche Bank 
+
+  
+
+  
+
+  
+  Page 6                                                                                                                                               Deutsche Bank Securities Inc.
+
+ 
+                                                                                                                                                                                                  74
+---------------------Page 7---------------------
+
+                   9 April 2012 
+
+                   Application Software 
+
+                   Tangoe, Inc. 
+
+                   Deutsche Bank Securities Inc.                                                                                                                                                                                                                                                                                                                                                                                     Page 7
+
+                              
+
+                              Figure 7: Income statement 
+                              Tangoe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Deutsche Bank Securities
+                              Income Statement                                                                                                                                                                                             $0                                                                                                                                                                                                                                                                                                        Tom Ernst - 866.812.7891
+                              (dollars in thousands, except EPS)                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Nandan Amladi - 212.250.4570
+                              FYE Dec-31
+                                                                                                                                                                              Fiscal Year ends 2011                                                                                               Fiscal Year ends 2012                                                                                                                                                                         2009A               2010A
+                                                                                                                                                         Mar-11               Jun-11              Sep-11               Dec-11                            Mar-12          Jun-12           Sep-12          Dec-12                                                                                                                                                                                            Fiscal Year Ends in December
+                                                                                                                                                          1Q11A                  2Q11A                  3Q11A                  4Q11A                            1Q12E               2Q12E                3Q12E               4Q12E                                                                                        2006A                  2007A                   2008A                  2009A                 2010A               2011A                 2012E               2013E
+                              Net Revenues                                                                                                                                           $22,341              $26,047              $27,312              $29,241                         $33,000         $34,830          $36,613         $38,057                                                                                                        $12,879              $21,047              $37,526              $55,917           $68,474       $104,941         $142,500      $168,000
+                                  Recurring technology and services                                                                                            19,927                23,510                24,456                25,778                             29,260            31,016            32,721            34,108                                                                                                             3,578                 14,174                 27,839                 46,005              57,703            93,671            127,105         150,419
+                                  Strategic consulting, softw are licenses and other                                                                             2,414                   2,537                   2,856                   3,463                        3,740               3,815               3,891               3,949                                                                                                             9,301                   6,873                   9,687                   9,912              10,771            11,270              15,395            17,581
+
+                                  Recurring technology and services                                                                                              9,057                11,258                11,926                12,227                            13,167            13,957            14,725            15,348                                                                                                                 629                   6,982                 14,720                 20,538              26,350            44,468              57,197            65,229
+                                  Strategic consulting, softw are licenses and other                                                                             1,272                   1,245                   1,142                   1,532                        1,496               1,526               1,518               1,540                                                                                                             3,845                   2,821                   3,043                   4,360                 3,874               5,191                 6,080              6,369
+                              Total cost of revenue                                                                                                                                 10,18012,503             13,068                 13,759                          14,663              15,483              16,242              16,889                                                                                     4,474                   9,803                17,713                  24,783               29,901              49,510                63,277              71,597
+
+                              Gross profit                                                                                                                                                      12,161                13,544                14,244                15,482                            18,337            19,347            20,370            21,168                                                                                                             8,405                 11,244                 19,813                 31,134              38,573            55,431              79,223            96,403
+                              Sales and Marketing                                                                                                                3,525                   3,181                   3,813                   4,262                        5,280               5,399               5,309               5,328                                                                                                             4,416                   5,954                   7,683                   9,576              11,856            14,781              21,316            24,161
+                              Research & Development                                                                                                             2,821                   2,833                   2,723                   3,095                        3,960               4,005               3,661               3,615                                                                                                             5,913                   7,021                   5,807                   7,982                 9,173            11,472              15,242            21,595
+                              General and administrative                                                                                                         3,264                   4,436                   4,386                   4,435                        5,115               5,120               5,342               5,514                                                                                                             2,929                   5,389                   7,439                   9,218              10,677            16,521              21,091            22,632
+                              Public company costs                                                                                                                                                                                                                       300                   300                   300                   300                                                                                                                                                                                                    01,200
+                              Depreciation                                                                                                                          299               356.00                 339.00                 370.00                               442                 456                 504                 519                                                                                      299                  1,911                  2,709                   3,537                1,091               1,364                 1,921               5,786
+
+                              Operating Income                                                                                                 2,252                   2,738                   2,983                   3,320                              3,240                 4,067               5,254               5,891                                                                                                         (5,152)                (9,031)                (3,825)                      821                 5,776            11,293              18,453            22,229
+                              Decrease (increase) in fair 
+                              value of warrants for
+                              redeemable convertible                                                                                                                                                                                             --                                                        -           000                                                                                                        039                                               (66)                                           (184)                                           -                                       -                                        -                                       -           
+                              Interest (expense) and income                                                                                                        -655                   -774                   -372                   -160                             -17                  -17                 -17                 -18                                                                                   (198)                    (540)                (1,116)                (2,178)             (1,984)            (1,961)                     (69)                  (72)
+
+                              Pretax income                                                                                                                                                  1,597                   1,964                   2,611                   3,160                              3,223                 4,050               5,237               5,873                                                                                                         (5,350)                (9,532)                (5,007)                (1,541)               3,792               9,332              18,384            22,157
+                              Provision for Taxes                                                                                                                   126                    180                      88                   140                             315                 396                 512                 575                                                                                        54                    -76                      23                    264                  295                 534                1,799               2,168
+                              Adjusted Net Income                                                                                                                               1,471                   1,784                   2,523                   3,020                              2,9083,654         4,725               5,299                                                                                  (5,404)                (9,456)                 (5,030)                (1,805)                3,497               8,798               16,586              19,989
+                              Adjusted EBITDA                                                                                                                                        2,551                                         3,094                                         3,322                                         3,690                                                    3,682                                    4,5235,7596,410                                        (7,120)(4,853)                                          (1,116)                                          4,358                                       6,867                                 12,657                                  20,374                                 28,015     
+
+                               Diluted EPS                                                                                                                                                    $0.06                   $0.06                   $0.07                   $0.08                              $0.07               $0.09               $0.11               $0.12                                                                                                           ($0.25)                ($0.43)                ($0.22)                ($0.08)               $0.13               $0.26                 $0.40              $0.47
+                              Diluted EPS (incl. Stock Options)                                                                                                           $0.02                   $0.03                   $0.05                   $0.04                              $0.04               $0.05               $0.08               $0.09                                                                                                           ($0.26)                ($0.44)                ($0.30)                ($0.11)               $0.06               $0.02                 $0.26              $0.33
+                              Pro Forma Fully diluted Shares                                                                                                                                 29,86726,244                                       35,124                                       38,493                                                  41,20041,612            42,028            42,448                                                                                                          21,295                                       22,147                                       23,282                                       23,318                                     27,328                                 33,700                                  41,822                                 42,982     
+                              GAAP Diluted shares                                                                                                                                              4,6724,672                                         4,672                                         4,672           4,672               4,672               4,672               4,672                                                                                                             2,373                                         3,088                                         4,046                                         4,311                                       4,399                                   4,672                                    4,672                                   4,672       
+                              Equity based                                                                                                                                                        932835                                            897                                        1,316                                                    1,450                                  1,450                                  1,450                                  1,434                                                    27937                                  1,929                                          1,928749                                   3,980                                    5,784                                   5,736       
+                              Amortization of intangibles/debt issuance cost                                                                                709                                            757                                            910                                            801                                                       968           964                   979                1022                                             --                                             -                                             -                                      2,438                                   3,177                                    3,933                                        -           
+                              Other Adjustments                                                                                                                                               1,485540                                         2,571                                              -                                                        -                                            0                        0                        0                                             --                                             -                                             -                                          883                                  4,596                                         -                                       -           
+                              Reported Earnings                                                                                                                                     (613)                (1,390)                (1,855)                      903                                   490               1,240               2,296               2,843                                                                                                           (5,441)                                        (9,735)                                        (6,959)                                        (2,554)                                      (1,752)                                  (2,955)                                     6,869                                 14,253     
+                              GAAP EPS*                                                                                                                                                      ($0.02)                ($0.05)                ($0.05)                 $0.02                              $0.01               $0.03               $0.05               $0.07                                                                                                           ($2.29)                ($3.15)                ($1.72)                ($0.59)             ($0.40)            ($0.10)                $0.16              $0.33
+
+                              Key Metrics                                                                                                                                                                                                                                                                          20,374
+                                  Net Cash and Equivalents                                                                                                                 -18,794               -12,960                50,892                33,458                            62,796            59,326            64,288            63,694                                                                                                                       0                             0               -10,352                  -8,250               -8,962            33,458              63,694            79,486
+                                  Net Cash Per Share                                                                                                                               ($0.72)                ($0.43)                 $1.45                   $0.87                              $1.52               $1.43               $1.53               $1.50                                                                                                                        0                  $0.00                  ($0.44)                ($0.35)             ($0.31)             $0.87                 $1.50              $1.84
+                                  Days Sales Outstanding (reported)                                                                                                      81                                              73                                              80                                              78                                                         75                                       76                                       76                                       76                                                                                                                                         0                       -                                               86                                               69                                            69                                        78                                         76                                        75            
+                                  Days Deferred Revenue                                                                                                                             44                                              36                                              39                                              36                                                         38                                       42                                       43                                       40                                                                                                                                         0                       -                                               53                                               47                                            49                                        36                                         40                                        40            
+                                  Adjusted EBITDA                                                                                                                                       2,551                                         3,094                                         3,322                                         3,690                                                    3,682                                  4,523                                  5,759                                  6,410                                                                                                                              (4,853)                                        (7,120)                                        (1,116)                                          4,358                                       6,867                                 12,657                                  20,374                                 28,015     
+                              Revenue Mix
+                                  Recurring technology and services                                                                                                   89%                      90%                      90%                      88%                                 89%             89.0%             89.4%             89.6%                                                                                                                28%                      67%                      74%                      82%                   84%                 89%                    89%                 90%
+                                  Strategic consulting, softw are licenses and other                                                                    11%                      10%                      10%                      12%                                 11%             11.0%             10.6%             10.4%                                                                                                                72%                      33%                      26%                      18%                   16%                 11%                    11%                 10%
+
+                                  Margin Analysis
+                                  Recurring technolgy margins                                                                                                             54.5%                 52.1%                 51.2%                 52.6%                    55.0%             55.0%             55.0%             55.0%                                                                                          82.4%                  50.7%                  47.1%                  55.4%               54.3%             52.5%                55.0%             56.6%
+                                  Strategic consulting margins                                                                                                              47.3%                 50.9%                 60.0%                 55.8%                  60.0%             60.0%             61.0%             61.0%                                                                                          58.7%                  59.0%                  68.6%                  56.0%               64.0%             53.9%                60.5%             63.8%
+                                  Gross Margin                                                                                                                                              54.4%                 52.0%                 52.2%                 52.9%                             55.6%             55.5%             55.6%             55.6%                                                                                                           65.3%                  53.4%                  52.8%                  55.7%               56.3%             52.8%                55.6%             57.4%
+                                  Sales and marketing expenses                                                                                                         15.8%                 12.2%                 14.0%                 14.6%                       16.0%             15.5%             14.5%             14.0%                                                                                          34.3%                  28.3%                  20.5%                  17.1%               17.3%             14.1%                15.0%             14.4%
+                                  Research & Development                                                                                                                    12.6%                 10.9%                 10.0%                 10.6%                  12.0%             11.5%             10.0%                9.5%                                                                                        45.9%                  33.4%                  15.5%                  14.3%               13.4%             10.9%                10.7%             12.9%
+                                  General and Administrative expenses                                                                                          14.6%                 17.0%                 16.1%                 15.2%                               15.5%             14.7%             14.6%             14.5%                                                                                          22.7%                  25.6%                  19.8%                  16.5%               15.6%             15.7%                14.8%             13.5%
+                                  Operating income                                                                                                                                      10.1%                 10.5%                 10.9%                 11.4%                               9.8%             11.7%             14.4%             15.5%                                                                                                          -40.0%                -42.9%                -10.2%                     1.5%                  8.4%             10.8%                12.9%             13.2%
+                                  Interest and other income net                                                                                                             -2.9%                  -3.0%                  -1.4%                  -0.5%                              -0.1%                0.0%                0.0%                0.0%                                                                                                            -1.5%                   -2.6%                   -3.0%                   -3.9%                -2.9%              -1.9%                  0.0%                0.0%
+                                  Pretax income                                                                                                                                                7.1%                    7.5%                    9.6%                 10.8%                               9.8%             11.6%             14.3%             15.4%                                                                                                          -41.5%                -45.3%                -13.3%                   -2.8%                  5.5%                8.9%                12.9%             13.2%
+                                  Tax rate                                                                                                                                                            7.9%                    9.2%                    3.4%                    4.4%9.8%                9.8%                9.8%                9.8%                                                                         -1.0%                     0.8%                   -0.5%                -17.1%                  7.8%                5.7%                  9.8%                9.8%
+                                  Net income                                                                                                                                                      6.6%                    6.8%                    9.2%                 10.3%                               0.0%                0.0%                0.0%                0.0%                                                                                                          -42.0%                -44.9%                -13.4%                   -3.2%                  5.1%                8.4%                11.6%             11.9%
+                                  Adjusted EBITDA Margins                                                                                                                    11.4%                 11.9%                 12.2%                 12.6%                             11.2%             13.0%             15.7%             16.8%                                                                                                          -37.7%                -33.8%                   -3.0%                     7.8%               10.0%             12.1%                14.3%             16.7%
+
+                             Source: Deutsche Bank,, company data 
+
+                              
+
+                              
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        75
+---------------------Page 8---------------------
+
+               9 April 2012 
+
+               Application Software 
+
+               Tangoe, Inc. 
+
+               Page 8                                                                                                                                                                                                                                                               Deutsche Bank Securities Inc.
+
+                        
+
+                       Figure 8: Balance sheet 
+                                      Tangoe
+                                      Balance Sheet (in thousands)                                                                                                                                                                                        -
+                                      FY Ends December
+
+                                                                                                                             Dec-08                            Dec-09                      Dec-10                        Mar-11                   Jun-11                   Sep-11                   Dec-11                           Mar-12                 Jun-12                 Sep-12                Dec-12                       Dec-13
+                                      Balance Sheet                                                                4Q08A                                       4Q09A                       4Q10A                         1Q11A                    2Q11A                    3Q11A                    4Q11A                           1Q12E                  2Q12E                  3Q12E                  4Q12E                        4Q13E
+                                      Cash and equivalents                                                                                                                     6,1636,554                                              5,913                                                  6,876                                             8,981                                          52,521                                           43,407                                                62,80974,386                                      67,949                                     67,500                                              86,590        
+                                      Accounts receivable                                                                                                                    11,51711,384                                            14,295                                                20,191                                           21,007                                           24,405                                           25,311                                                29,52527,434                                      30,969                                     32,137                                              37,000        
+                                      Prepaid expenses and Other current assets                                                                                               1,585869                                              1,395                                                  1,488                                             1,418                                             2,098                                             2,503                                                    2,7862,640                                        2,929                                       3,045                                                3,641          
+                                                                                                                                                                         -
+                                      Total current assets                                                                                 18,808                                                    19,265                                            21,603                                                28,556                                           31,406                                           79,024                                           71,221                                                 104,460                                       95,120                                   101,847                                    102,681                                            127,231      
+                                      Computers, furniture and equipment - NET                                                                                                 1,7611,625                                              1,795                                                  2,508                                             2,610                                             2,578                                             3,334                                                    3,4843,418                                        3,511                                       3,424                                                3,636          
+                                      Security deposits in non current assest                                                                                                     573453                                             1,925                                                  2,727                                             3,744                                             1,070                                             1,241                                                    1,7421,650                                        1,831                                       1,903                                                2,220          
+                                      Goodw ill                                                                                                                              17,63616,191                                            17,636                                                22,893                                           22,893                                           22,893                                           36,266                                                36,26636,266                                      36,266                                     36,266                                              36,266        
+                                      Intangible assets                                                                                                                      16,84316,422                                            15,785                                                20,869                                           21,683                                           20,910                                           28,800                                                26,86827,832                                      25,889                                     24,867                                              21,167        
+                                      Cash Held in Escrow                                                                             -1,375                             
+                                      Total Assets                                                                                             54,874           56,078      58,744              77,553                         82,336                   126,475         140,862                         173,626                        163,479                169,344                169,142        190,520                              
+
+                                      Accts payables and accruals                                                                                                              2,8582,745                                              3,303                                                  4,434                                             5,894                                             6,439                                             6,605                                                    7,1056,600                                        7,469                                       7,764                                                5,328          
+                                      Accrued Expenses                                                                                                                         2,2852,802                                              3,364                                                  4,544                                             5,367                                             4,961                                             7,061                                                    6,6186,270                                        6,956                                       7,117                                                8,436          
+                                      Long term debt current portion                                                                                                          4,4216,609                                                  453                                                 9,430                                          10,555                                              4,324                                             7,904                                                         -7,904                                           -                                           -                                                   -             
+                                      Line of Credit                                                                                                                                                       5,5005,000                                                       -                                                 -                                                 -                                                 -                                                            --                                           -                                           -                                                   -             
+                                      Capital leasescurrent portion                                                                                                              177200                                                 392                                                      -                                                 -                                                 -                                            1,079                                                        --                                           -                                           -                                                   -             
+                                      Deferred Revenue                                                                                                                         6,8816,228                                              8,304                                                  8,973                                             8,492                                             9,252                                             9,051                                                  13,00311,147                                      13,994                                     13,531                                              16,083        
+                                      Total current liabilities                                                                               18,584                                                    21,622                                            21,316                                                27,382                                           30,308                                           24,976                                           31,700                                                   31,921                                      26,727                                      28,419                                     28,412                                              29,847        
+                                      Deferred rent and other non-current liabilities                                                                                          2,4801,298                                              3,099                                                  3,642                                                 771                                            1,629                                             1,659                                                    3,4833,300                                        3,661                                       3,806                                                7,104          
+                                      Long term debt less current portion                                                                                                   11,72515,408                                            11,319                                                22,028                                           21,170                                                   -                                            8,290                                                         -8,290                                           -                                           -                                                   -             
+                                      Capital lease less current portion                                                                                                         208200                                                 457                                                      -                                                                                   -                                                 -                                                            --                                           -                                           -                                                   -             
+                                      Deferred Revenue - Long Term                                                                                                                959712                                             1,788                                                  2,036                                             2,036                                             2,483                                             2,624                                                    3,2512,787                                        3,499                                       3,383                                                3,650          
+                                      Warrants for redeemable convertible preferred st                512328                                                            1,346                     2,598                          4,072                    3,762                                                                                --                     -                     -                       888                         
+                                      Total liabilities                                                                                                36,530                                                    37,506                                            39,325                                                57,686                                           58,357                                           32,850                                           44,273                                                   46,297                                      33,460                                      35,579                                     35,600                                              41,489        
+
+                                      Redeemable Convertible Preferred Stock                                                                                                 57,60453,826                                            61,441                                                62,391                                           63,336                                                   -                                                 -                                                            --                                           -                                           -                                                   -             
+                                      Total stockholder's equity                                                                  (35,482) (39,032)               (42,022)                    (42,524)                        (39,357)           93,625                          96,589                                                130,019127,329         133,765                133,542        149,031                              
+                                      Total Liabilities and SE                                                                     54,874           56,078         58,744                       77,553                         82,336                   126,475         140,862                         173,626                        163,479                169,344                169,142        190,520                              
+
+                                      Analysis
+                                      Cash, equivalents, ST Investments                                      6,554                                                  6,163                                          5,913                                               6,876                                         8,981                                      52,521                                       43,407                                               74,386                                   62,809                                  67,949                                  67,500                                           86,590     
+                                      Cash per share                                                                                       $0.28                            $0.26                        $0.21                           $0.26                   $0.30                   $1.50                   $1.13                           $1.81                $1.51               $1.62                $1.59                        $2.00
+                                      Long-term liabilities                                                                        16,906                                                 14,413                                         14,875                                             25,670                                       21,941                                          1,629                                         9,949                                              11,590                                       3,483                                    3,661                                    3,806                                            7,104       
+                                      Debt per share                                                                                         $0.73                            $0.62                        $0.52                           $3.71                   $3.21                   $0.17                   $0.46                           $0.47                $0.08               $0.09                $0.09                        $0.16
+                                      Book value per share                                                                           -$1.5                             -$1.7                         -$1.5                             -$1.6                    -$1.3                      $2.7                      $2.5                              $3.1                    $3.1                   $3.2                    $3.1                           $3.4
+                                      Deferred revenue                                                                                  6,940                                                  7,840                                       10,092                                             11,010                                       10,528                                       11,735                                       11,675                                               13,933                                   16,254                                  17,493                                  16,914                                           19,733     
+                                      % y/y growth                                                                                                                                          13%                           29%                               30%                       25%                       30%                       16%                               27%                    54%                   49%                    45%                           17%
+                                      % q/q growth                                                                                                                                              7%                           12%                                  9%                        -4%                       11%                        -1%                               19%                    17%                      8%                     -3%                             -1%
+                                      Days Deferred Revenue (DDR)                                                                                       4753                                                    49                                                       44                                                  36                                                  39                                                  36                 38                         42                         43                         40                                 40
+                                      Days Sales Outstanding (DSO)                                                                                      6986                                                    69                                                       81                                                  73                                                  80                                                  78                 75                         76                         76                         76                                 75
+                                      Working capital                                                                                           224                                               (2,357)                                                287                                             1,174                                         1,098                                      54,048                                       39,521                                               72,540                                   68,394                                  73,428                                  74,270                                           97,383     
+                                      Current ratio                                                                                                1.0x                               0.9x                           1.0x                               1.0x                      1.0x                      3.2x                      2.2x                               3.3x                    3.6x                   3.6x                    3.6x                           4.3x
+                                      ROE                                                                                                                       12%                                  1%                              1%                                  1%                          3%                        -7%                          1%                                  0%                       1%                      2%                       2%                              3%
+                                      ROA                                                                                                                         -8%                                 -1%                             -1%                                -1%                        -2%                        -2%                          1%                                  0%                       1%                      1%                       2%                               2%
+                       Source: Deutsche Bank, company data 
+
+                        
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      76
+---------------------Page 9---------------------
+
+                    9 April 2012 
+
+                    Application Software 
+
+                    Tangoe, Inc. 
+
+                    Deutsche Bank Securities Inc.                                                                                                                                                                                                                                                                                                                                                                                                           Page 9
+
+                               
+
+                               Figure 9: Cash flow statement 
+                               Tangoe                                                                                                                                                                                                                                                                                                    $                          3,9843,509$                          5,445$   
+                               Cash Flow Statement (in thousands)
+                               (FY:12)
+
+                                                                                                                                                                                                                                Mar-11             Jun-11              Sep-11             Dec-11                        Mar-12            Jun-12          Sep-12            Dec-12
+                                                                                                                                                                                                                                1Q11A               2Q11A              3Q11A              4Q11A                          1Q12E            2Q12E            3Q12E            4Q12E                                                                                       2007A                 2008A                  2009A                 2010A                 2011A                 2012E                  2013E
+                               CASH FLOW FROM OPERATING ACTIVITIES:
+                               Net income/(loss)                                                                                                                                                                                                              (1,390)(613)                                   (1,855)                                       903                                        1,240490                            2,296                            2,843                                                                                                                                          (9,735)                                        (6,959)                                        (2,554)                                        (1,752)                                        (2,955)                                          6,869                                      14,253         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          --                                             -              
+                               Adjustments to reconcile net loss to net cash used in operating activities:                                                                                                                                                                                                  -1,549                                                                                                                                                                                               --                                             -                                             -                                        1,549                                              -                                             -              
+                               Amortization of debt discount and imputed interest expense                                                                                                                                                                          195180                                     757                                     207                                                                                                                                                         5332                                           192                                               95                                       1,339                                              -                                             -              
+                               Amortization of IBM warrants                                                                                                                                                                                                          3019                                                                 (49)                                                                                                                                                                   --                                             -                                               26                                            -                                             -                                             -              
+                               Depreciation & amortization                                                                                                                                                                                                      1,1231,008                                  1,314                                  1,198                                      1,4201,410                            1,483                            1,541                                                                                                                                            1,911                                         2,709                                                                                                         4,643                                         5,854                                         5,786           
+                               Stock-based compensation expense                                                                                                                                                                                                    932835                                     897                                 1,316                                      1,4501,450                            1,450                            1,434                                                                                                                                                279                                        1,928                                             749                                        1,928                                         3,980                                         5,784                                         5,736           
+                               Non-cash expense related to issuance of warrants                                                                                                                                                                                                                                                                                                                                                                                                                                  --                                                                                                                                                                            -              
+                                   Increase (decrease) in deferred rent liability                                                                                                                                                                                    (20)(125)                                          44                                       43                                               1831,641                               178                               144                                                                                                                                               199                                            193                                          (380)                                           (494)                                              (58)                                        2,147                                         3,298           
+                                   Allowance for doubtful accounts                                                                                                                                                                                                   1211                                     -                                      -                                                                                                                                                          137205                                                 9                                          207                                               23                                            -                                             -              
+                                   Deferred Income taxes                                                                                                                                                                                                                3126                                      92                                       84                                                                                                                                                      62-                                                                                                                                                                           -              
+                                   Incr. (Decr.) in fair value of warrants for redeemable pfd stock                                                                                                                                                            1,474541                                       (19)                                      -                                            --                               -                                -                                                                                                                                               (39)                                               80                                           183                                            884                                        1,996                                              -                                            888              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --                                                                             -                                             -                                             -              
+                               Changes in operating assets and liabilities:                                                                                                                                                                                                                                                                                                                                                                                                                                                                      --                                             -                                             -                                             -                                             -              
+                               (Incr.) Decr. in accounts receivable                                                                                                                                                                                                (826)(1,606)                                  (3,399)                                   1,394                                    (2,091)(2,123)                            (1,444)                           (1,168)                                                                                                                                           (1,040)                                        (1,596)                                            (141)                                       (2,986)                                        (4,437)                                        (6,826)                                        (4,863)         
+                               (Incr.) Decr. in prepaid expenses                                                                                                                                                                                                     7494                                     (82)                                      (39)                                          (146)(137)                               (143)                              (116)                                                                                                                                               258                                          (323)                                              (26)                                          (500)                                               47                                         (542)                                           (596)            
+                               (Incr.) Decr. in deposits & other assets                                                                                                                                                                                               54(444)                                         63                                     (54)                                             (92)(409)                                 (89)                                (72)                                                                                                                                               264                                             (36)                                          (133)                                       (1,242)                                            (381)                                           (662)                                           (317)            
+                               Incr. (Decr.) in accounts payable                                                                                                                                                                                                   781814                                 1,594                                    (135)                                         505(5)                                 364                               295                                                                                                                                               708                                            392                                            112                                            172                                        3,054                                         1,159                                       (2,436)         
+                               Incr. (Decr.) in accrued liabilities and others                                                                                                                                                                                      500(424)                                     (440)                                      180                                            348(791)                                 339                               160                                                                                                                                                (45)                                            573                                          (198)                                         1,080                                           (184)                                               56                                       1,319           
+                               Incr. (Decr.) in deferred revenues                                                                                                                                                                                                (493)713                                 1,218                                    (212)                                       2,3212,258                            1,238                              (578)                                                                                                                                           2,200                                         1,524                                             882                                        2,252                                         1,226                                         5,239                                         2,819           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --                                             -                                             -                                             -                                             -                                             -              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --                                             -                                             -                                             -                                             -                                             -              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  -                     -                      -                     -                     -                     -                     -
+                               Net cash provided by operating activities                                                                                                                                                                                        2,4491,129                                  1,733                                  4,836                                                 3,784                              5,138                            5,672                            4,483                                                                                                                                          (4,803)                                        (1,263)                                          2,431                                         3,389                                      10,147                                       19,077                                       25,888         
+
+                               CASH FLOW FROM INVESTING ACTIVITIES:
+                               Capital expenditures (net of capital leases originated)                                                                                                                                                                            (459)(383)                                      (306)                                    (371)                                        (522)(526)                               (532)                              (432)                                                                                                                                              (513)                                           (671)                                       (1,258)                                        (1,125)                                        (1,519)                                        (2,011)                                        (2,298)         
+                               Capital leases originated                                                                                                                                                                                                                              175491                                                                                                                                                                                                                     --                                            598                                            660                                            666                                             -                                             -              
+                               Capital expenditures (net of capital leases originated)                                                                                                                                                                                32(383)                                    (131)                                    (371)                                                   (526)                               (522)                             (532)                              (432)                                                                                                                                              (513)                                           (671)                                           (660)                                           (465)            
+                               Cash paid in connection with acquistions                                                                                                                                                                                                 (0)(8,166)                                       -                            (14,028)                                                                                                                                           (13,425)(1,979)                                              (965)                                           (952)                                    (22,194)                                               -                                             -              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  -                     -                      --                    -                     -                     -                     
+                               Net cash used in investing activities                                                                                                                                                                                                   32(8,549)                                    (131)                             (14,399)                                                     (526)                               (522)                             (532)                              (432)                                                                                                                                         (2,492)                                     (14,096)                                         (1,625)                                        (1,417)                                     (23,047)                                         (2,011)                                        (2,298)         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    --                                             -              
+                               CASH FLOW FROM FINANCING ACTIVITIES:                                                                                                                                                                                                                                                                                                                                                                                                                                                                      --                                                               -              
+                               Net incr. (decr.) debt                                                                                                                                                                                                                  477,881                            (26,425)                                       479                                  (16,194)(0)                                    -                                -                                                                                                                                          3,747                                      13,451                                            (579)                                       (3,012)                                     (18,018)                                      (16,194)                                               -              
+                               Repayment of settlement liab                                                                                                                                                                                                                            --                                      -                                              -(1,079)                                 -                                -                                                                                                                                             (175)                                           (175)                                                                                                             -                                      (1,079)                                               -              
+                               Costs incurredin securing financing                                                                                                                                                                                                                               (170)                                                                                                                                                                                                           -(88)                                               (85)                                             -                                          (170)                                              -                                             -              
+                               Payments made to repurchase securities                                                                                                                                                                                                                                                                                                                                                                                                                                            --                                          (408)                                              -                                             -                                             -                                             -              
+                               Proceeds from exercise of stock options and warrants                                                                                                                                                                              (126)205                                                             1,514                                                                                                                                                                     137334                                               75                                           300                                        1,593                                              -                                             -              
+                               Proceeds from repayment of notes receivable                                                                                                                                                                                                                                                                                                                                                                                                                                       --                                             -                                            691                                             -                                             -                                             -              
+                               Proceeds from issuance (Repurchase) of stock                                                                                                                                                                                                                           (2,936)69,925                                               28,800                                                                                                                                    7,258-                                              -                                             -                                     66,989                                       28,800                                               -              
+                               Other/Acquisitions                                                                                                                                                                                                                                                                                                                              (4,500)                                                                                                                                                                        --                                             -                                      (4,500)                                        (4,500)         
+                               Net cash (used in) provided by financing activities                                                                                                                                                                                   (79)8,086                              43,500                                 (1,113)                                               27,721                          (16,194)                                  -                         (4,500)                                                                                                                                            3,818                                      20,671                                        (1,197)                                        (2,221)                                       50,394                                          7,027                                       (4,500)         
+                               Exchange rate fluctuation                                                                                                                                                                                                  (138)                                                                                                                                                                                                                                                                                                                  (138)-                                                                             -              
+                               Increase (decrease) in cash and cash equivalents                                                                                                                                                                                2,263666                               45,102                              (10,676)                                                30,979                          (11,577)                             5,140                              (449)                                                                                                                                         (3,477)                                          5,312                                           (391)                                           (250)                                      37,356                                       24,093                                       19,090         
+                               Cash and cash equivalents at beginning of period                                                                                                                                                                                 6,7186,051                                  8,981                               54,083                                               43,407                            74,386                          62,809                          67,949                                                                                                                                             4,858                                         1,381                                         6,692                                         6,301                                         6,051                                      43,407                                       67,500         
+
+                               Cash and cash equivalents at end of period                                                                                                                                                                                          8981              54083              43407                         74,3866,718                            62,809                          67,949                          67,500                                                                                                                                             1,381                                         6,692                                         6,301                                         6,051                                      43,407                                       67,500                                       86,590         
+
+                               Free cash flow                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         -2%                      -1%                      -1%
+                               Cash flow from operations                                                                                                                                                                                                        2,4491,129                                  1,733                                  4,836                                                 3,784                              5,138                            5,672                            4,483                                                                                                                                          (4,803)                                        (1,263)                                          2,431                                         3,389                                      10,147                                       19,077                                       25,888         
+                               - Capex                                                                                                                                                                                                                            (459)(383)                                      (306)                                    (371)                                                   (526)                               (522)                             (532)                              (432)                                                                                                                                              (513)                                           (671)                                       (1,258)                                        (1,125)                                        (1,519)                                        (2,011)                                        (2,298)         
+                               Free cash flow                                                                                                                                                                                                                  1,990746                                  1,427                                  4,465                                                 3,258                              4,617                            5,140                            4,051                                                                                                                                          (5,316)                                        (1,934)                                          1,173                                         2,264                                         8,628                                      17,066                                       23,590         
+                                   Per share                                                                                                                                                                                                           0.070.03                                    0.04                                    0.12                                                   0.08                             $0.11           $0.12            $0.10   ($0.24)                ($0.08)                $0.05                   $0.08                   $0.26                   $0.41                   $0.55
+
+                                - net interest income                                                                                                                                                                                                              574399                                     627                                        94                                                1515                                 15                                 16                                                                                                                                              539                                        1,116                                         2,178                                         1,984                                         1,694                                                62                                              65                
+                                - IPO expense                                                                                                                                                                                                                         61405                                     -                                                                                                                                                                                                                                                          466
+                               Unlevered Free cash flow                                                                                                                                                                                                         2,6251,550                                  2,054                                  4,559                                                 3,274                              4,632                            5,156                            4,067                                                                                                                                          (4,776)                                            (818)                                         3,351                                         4,248                                      10,788                                       17,128                                       23,655         
+                                   Per share                                                                                                                                                                              $0.06                  0.09                                    0.06                                    0.12                                                   0.08                             $0.11           $0.12            $0.10                                                                              ($0.22)                ($0.04)$0.14                   $0.16                   $0.32                   $0.41                   $0.55
+                                   uFCF Margins                                                                                                                                                                                                                                                                                                                                                                                                                  -23%                      -2%                        6%                        6%                     10%                     12%                 14.1%
+
+                              Source: Deutsche Bank, company data 
+
+                               
+
+                               
+ 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        77
+---------------------Page 10---------------------
+
+          9 April 2012 
+          Application Software 
+          Tangoe, Inc. 
+
+          Page 10                                                                                                                                                                         Deutsche Bank Securities Inc.
+
+                
+
+                Figure 10: Comp sheet 
+                Tom Ernst
+                Nandan Amladi, Jobin Mathew
+                Deutsche Bank Securities
+                (866) 812-7891                                                       Net        NET CASH                      Sales                         TEV/SALES                            EPS                             P/E                        FCF/Share                         EV/FCF
+
+                                                                                    Cash          PER SH        CY11A      CY12E      CY13E     CY11A  CY12E  CY13E   CY11A  CY12E   CY13E   CY11A   CY12E  CY13E  CY11A  CY12E   CY13E   CY11A  CY12E  CY13E
+                Enterprise and Security
+                                                                        Price
+                  Adobe Systems Inc.           ADBE          $33.59       $1,263          $2.94              $4,216       $4,513      $4,950       3.7x         3.4x         3.1x        $2.35      $2.43        $2.78        14x          14x          12x        $2.79    $2.95      $3.51       11.0x      10.4x       8.7x
+                  Check Point Software TechnoCHKP          $63.08       $2,690         $12.54            $1,247       $1,366      $1,464       9.9x         9.1x         8.5x        $2.87      $3.14        $3.34        22x          20x          19x        $3.16    $3.56      $3.85       16.0x      14.2x      13.1x
+                  Citrix Systems Inc.             CTXS          $78.28       $1,581          $8.26              $2,206       $2,496      $2,724       6.2x         5.5x         5.0x        $2.49      $2.74        $3.12        31x          29x          25x        $2.92    $3.71      $4.31       23.9x      18.9x      16.2x
+                  Fair Isaac Corp.                 FICO            $42.31         ($230)       ($6.95)               $634           $636          $671       2.9x         2.9x         2.8x        $2.22      $2.43        $2.75        19x          17x          15x        $3.70    $4.43      $4.69       13.3x      11.1x      10.5x
+                  Fortinet Inc.                     FTNT           $28.44           $468          $2.86                  $434           $516          $610      10.0x       8.4x         7.1x        $0.45      $0.51        $0.64        64x          56x          44x        $0.78    $1.00      $1.19       33.0x      25.5x      21.4x
+                  Imperva Inc                      IMPV            $38.63              $95          $4.95                    $78              $99          $122       8.3x         6.6x         5.3x      ($0.56)  ($0.14)      $0.35        NM           NM           NM       ($0.55)   $0.23      $0.66         NM           NM        50.8x
+                  Informatica Corp.               INFA             $52.76           $564          $4.99                  $784           $900      $1,032       6.9x         6.0x         5.2x        $1.43      $1.62        $1.92        37x          33x          28x        $1.43    $1.68      $1.84       33.4x      28.4x      26.0x
+                  Microsoft Corp.                MSFT          $31.52    $51,716          $6.07           $72,052    $76,928    $82,883       3.3x         3.1x         2.8x        $2.76      $2.87        $3.26        11x          11x          10x        $3.08    $3.51      $3.73         8.3x         7.3x         6.8x
+                  Nuance Communications Inc.NUAN          $25.52         ($704)       ($1.84)           $1,459       $1,768      $2,026       6.1x         5.0x         4.4x        $1.42      $1.65        $1.80        18x          15x          14x        $1.12    $1.47      $1.60       24.4x      18.6x      17.1x
+                  Oracle Corp.                     ORCL          $29.56    $14,965          $2.95           $36,822    $38,089    $40,117       3.7x         3.5x         3.4x        $2.31      $2.55        $2.67        13x          12x          11x        $2.57    $2.84      $2.96       10.4x       9.4x         9.0x
+                  Pros Holdings Inc.            PRO             $18.41              $68          $2.31                    $97           $116          $137       4.6x         3.9x         3.3x        $0.39      $0.43        $0.51        48x          43x          36x        $0.41    $0.44      $0.50       39.7x      36.2x      32.0x
+                  Red Hat Inc.                       RHT              $60.95       $1,260          $6.43              $1,081       $1,277      $1,513      10.2x       8.6x         7.3x        $0.77      $1.07        $1.14        79x          57x          53x        $1.60    $1.84      $2.42       34.0x      29.7x      22.5x
+                  Symantec Corp.                SYMC          $18.31           $312          $0.41              $6,722       $7,043      $7,421       2.1x         2.0x         1.9x        $1.60      $1.76        $1.94        11x          10x            9x         $2.18    $2.68      $2.78         8.2x         6.7x         6.4x
+                  Verint                               VRNT          $30.75         ($713)      ($14.14)              $796           $870          $945       2.5x         2.3x         2.1x        $2.48      $2.62        $2.94        12x          12x          10x        $2.45    $2.78      $3.05       18.3x      16.2x      14.7x
+                  VMware                            VMW         $113.75       $3,253          $7.56              $3,767       $4,531      $5,277      12.1x      10.1x       8.7x        $2.17      $2.51        $3.04        52x          45x          37x        $3.99    $5.01      $5.95       26.6x      21.2x      17.9x
+                                                                                                                           Group Median ==>            6.1x             5.0x             4.4x                               Group Median ==>       20.5x          18.7x          17.1x                            Group Median ==>       21.1x          17.4x          16.2x
+                                                                                                                              Group Mean ==>           6.2x             5.4x             4.7x                                   Group Mean ==>       30.9x          26.7x          23.2x                                Group Mean ==>       21.5x          18.1x          18.2x
+                Cloud Computing and SaaS
+
+                  Ariba Inc.                         ARBA          $33.43           $181          $2.27                  $479           $559          $660       6.5x         5.5x         4.7x        $0.85      $1.02        $1.27        39x          33x          26x        $0.59    $0.94      $1.56       53.1x      33.1x      19.9x
+                  Aspen Technology Inc.       AZPN          $20.20           $138          $1.49                  $223           $262          $344       8.1x         6.9x         5.3x      ($0.27)  ($0.08)      $0.40        NM           NM          50x        $0.64    $0.89      $1.11       29.4x      21.0x      16.8x
+                  Bazaarvoice Inc.                BV                 $18.10           $124          $2.01                    $94           $122          $155      11.1x       8.6x         6.7x      ($0.45)  ($0.60)     ($0.32)      NM           NM           NM       ($0.02)  ($0.36)   ($0.31)       NM           NM           NM
+                  Concur Technologies Inc.   CNQR         $56.29           $322          $4.48                  $370           $466          $562       7.7x         6.1x         5.0x        $0.86      $0.86        $1.09        66x          66x          52x        $0.84    $1.21      $1.35       61.4x      42.8x      38.5x
+                  IntraLinks Holdings Inc.    IL                       $5.09            ($44)       ($0.15)               $214           $190          $210       1.5x         1.7x         1.5x        $0.42    ($0.12)      $0.00        12x          NM           NM        $0.76    $0.10      $0.42         6.9x        54.1x      12.4x
+                  Intuit Inc.                         INTU             $59.77           $999          $3.27              $4,054       $4,416      $4,850       4.3x         3.9x         3.6x        $2.77      $3.08        $3.39        22x          19x          18x        $3.11    $3.21      $3.85       18.2x      17.6x      14.7x
+                  NetSuite Inc.                    N                    $49.73           $121          $1.65                  $236           $297          $360      14.4x      11.5x       9.5x        $0.15      $0.21        $0.40        NM           NM           NM        $0.41    $0.60      $0.75         NM        80.6x      64.1x
+                  NeuStar Inc.                       NSR             $36.97           $399          $5.36                  $621           $820          $925       3.8x         2.8x         2.5x        $1.59      $2.07        $2.82        23x          18x          13x        $2.48    $2.80      $3.10       12.8x      11.3x      10.2x
+                  RealPage Inc.                    RP                 $18.42              $21          $0.14                  $259           $315          $375       5.1x         4.2x         3.5x        $0.35      $0.46        $0.60        52x          40x          31x        $0.49    $0.73      $0.95       37.1x      25.0x      19.3x
+                  salesforce.com inc.            CRM         $157.04       $1,410         $10.20            $2,267       $2,940      $3,600       9.2x         7.1x         5.8x        $1.36      $1.61        $2.19        NM          98x          72x        $3.09    $3.57      $4.14       47.5x      41.2x      35.5x
+                  ServiceSource International InSREV          $15.57              $42          $0.85                  $206           $245          $300       5.7x         4.8x         3.9x        $0.08      $0.06        $0.15        NM           NM           NM       ($0.33)   $0.09      $0.22         NM           NM        65.5x
+                  Synchronoss Technologies InSNCR         $31.77              139                         $1.79                  $230           $285          $345       4.7x         3.8x         3.2x        $0.98      $1.10        $1.25        32x          29x          25x        $0.72    $1.15      $1.30       41.6x      26.1x      23.1x
+                  Tangoe                             TNGO          $19.33              $33          $1.81                  $105           $143          $168       7.3x         5.4x         4.5x        $0.26      $0.40        $0.47        74x          49x          42x        $0.32    $0.41      $0.55       54.7x      42.8x      31.8x
+                  VMware                            VMW         $113.75       $3,253          $7.56              $3,767       $4,531      $5,277      12.1x      10.1x       8.7x        $2.17      $2.51        $3.04        52x          45x          37x        $3.99    $5.01      $5.95       26.6x      21.2x      17.9x
+                                                                                                                           Group Median ==>            6.5x             5.5x             4.7x                               Group Median ==>         36x               40x               37x                              Group Median ==>       37.1x          29.6x          21.5x
+                                                                                                                              Group Mean ==>           7.2x             5.9x             4.9x                                   Group Mean ==>         40x               44x               40x                                   Group Mean ==>       35.4x          34.7x          31.0x
+
+               Source: Deutsche Bank, company data 
+
+                
+
+                
+ 
+
+                                                                                                                                                                                                                                                                                                                                        78
+---------------------Page 11---------------------
+
+          9 April 2012 
+          Application Software 
+          Tangoe, Inc. 
+
+          Deutsche Bank Securities Inc.                                                                                                                                                                                          Page 11
+
+                
+
+                Figure 11: Operating metrics 
+                                                        Sales Growth                       EPS Growth                 FCF/share Growth              Gross Margins              Operating Margins              uFCF Margins                             DDRs                          CapX/annual revs       S&M/subscription revs Subscription growth
+
+                                                    CY11A      CY12E       CY13E      CY11A      CY12E       CY13E      CY11A      CY12E       CY13E      CY11A      CY12E       CY13E      CY11A      CY12E       CY13E      CY11A      CY12E       CY13E      CY11A      CY12E       CY13E       CY11A        CY12E       CY13E       CY11A      CY12E       CY13E      CY11A      CY12E       CY13E
+                Enterprise and Security
+
+                  Adobe Systems Inc.       11%          7%        10%       21%          3%        14%       33%          6%        19%       91%        92%       92%       38%        37%        38%       33%        33%        36%           37            41            46            5%          6%            6%
+                  Check Point Software Techno 14%        10%          7%       16%          9%          6%  -100%        13%          8%       88%        88%       89%       58%        59%        59%       54%        56%        56%        139         155         170            1%          1%            1%
+                  Citrix Systems Inc.         18%        13%          9%       20%        10%        14%         5%        27%        16%       90%        92%       92%       26%        26%        27%       25%        28%        30%        139         146         154            5%          6%            5%
+                  Fair Isaac Corp.             4%          0%          6%       47%        10%        13%       35%        20%          6%       71%        72%       73%       24%        24%        25%       23%        27%        27%           25            26            32            3%          3%            3%
+                  Fortinet Inc.                  34%        19%        18%       56%        14%        26%       21%        29%        19%       74%        74%       74%       24%        24%        26%       29%        32%        32%        220         222         222            1%          1%            1%
+                  Imperva Inc                   41%        26%        24%         NM          NM          NM         NM          NM     188%       69%        80%       79%       14%        12%          9%     -14%          5%        10%        127         146         170            2%          2%            1%
+                  Informatica Corp.          21%        15%        15%       28%        14%        18%       23%        18%          9%       85%        84%       85%       29%        29%        30%       21%        21%        20%           85            93            94            2%          1%            1%
+                  Microsoft Corp.               8%          7%          8%       17%          4%        14%       19%        14%          6%       78%        76%       75%       39%        37%        38%       36%        39%        38%           66            66            66            3%          4%            4%
+                  Nuance Communications Inc  19%        21%        15%       21%        16%          9%       20%        31%          9%       70%        70%       69%       34%        36%        36%       25%        27%        25%           71            67            68            4%          3%            3%
+                  Oracle Corp.                 14%          3%          5%       21%        10%          5%       41%        11%          4%       78%        79%       79%       45%        47%        47%       35%        38%        37%           62            62            62            1%          2%            2%
+                  Pros Holdings Inc.        30%        20%        18%       59%        12%        19%         NM       10%        13%       74%        73%       73%       16%        16%        17%       12%        11%        10%        117         107         100            3%          2%            1%
+                  Red Hat Inc.                   50%        18%        19%         4%        40%          7%       33%        15%        32%       33%        34%40%11%          9%          9%       29%        28%        31%        262         254         265            5%          8%            5%
+                  Symantec Corp.             11%          5%          5%       11%        10%        11%       13%        23%          4%       86%        86%86%26%        26%27%    25%        29%        29%        166         205         215            4%          3%            2%
+                  Verint                           10%          9%          9%       36%          6%        13%     -24%        13%        10%       69%        68%68%25%        22%21%16%        16%    16%      88            78            92            1%          2%            2%
+                  VMware                        32%        20%        16%       44%        16%        21%       71%        26%        19%       88%        88%88%31%        30%32%    46%        48%     49%     230         263         305            8%          6%            4%
+                                Group Median ==>     18%        13%       10%       21%        10%        13%       21%        16%        10%       78%        79%        79%       26%        26%        27%       25%        28%        30%         117         107         100           3%          3%            2%
+                                  Group Mean ==>     21%        13%       12%       29%        12%        14%       15%        18%        24%       76%        77%        77%       29%        29%        29%       26%        29%        30%         122         129         137           3%          3%            3%
+
+                Cloud Computing and SaaS
+                  Ariba Inc.                     31%        17%        18%       14%        19%        25%  -100%        61%        66%       68%        69%       70%       18%        19%        21%       12%        17%        23%           93            80            75            6%          3%            3%       30%        30%        30%       69%        25%        25%
+                  Aspen Technology Inc.   26%        18%        31%         NM          NM          NM       43%        40%        24%       77%        79%       82%     -10%         -5%        17%       27%        32%        32%        195         227         230            2%          1%            1%       80%        60%        47%    268%        58%        45%
+                  Bazaarvoice Inc.            66%        30%        27%         NM          NM          NM         NM          NM          NM       67%        68%       69%     -15%      -22%         -9%        -1%      -19%      -13%        143         132         122            5%          7%            8%       46%        47%        42%       66%        30%        27%
+                  Concur Technologies Inc.21%        26%        21%         8%          0%        28%     -27%        43%        11%       73%        73%       73%       20%        18%        19%       13%        15%        13%           67            75            78            8%          9%            9%       33%        32%        31%       21%        26%        21%
+                  IntraLinks Holdings Inc.16%      -11%        11%       59%   -129%          NM         3%      -87%     336%       80%        76%       76%       22%         -3%          5%       19%          3%        11%           69            69            74         11%        12%            $0        20%        24%        22%       16%      -11%        11%
+                  Intuit Inc.                      14%          9%        10%       36%        11%        10%       32%          3%        20%       83%        83%       82%       34%        33%        33%       23%        22%        24%           52            15            56       -28%      -27%       -28%       42%        42%        41%       21%          8%        12%
+                  NetSuite Inc.                 22%        26%        21%       21%        36%        92%    126%        45%        26%       73%        74%       75%         5%          5%          8%       12%        14%        15%        157         170         180            4%          3%            2%       45%        46%        44%       22%        26%        23%
+                  NeuStar Inc.                   18%        32%        13%  -100%        30%        37%       76%        13%        11%         0%          0%          0%         3%          3%          3%       29%        25%        25%           58            58            60            7%          6%            3%         0%          0%          0%         0%          0%          0%
+                  RealPage Inc.                37%        22%        19%       83%        30%        30%       68%        48%        30%       66%        68%       69%       18%        19%        20%       14%        17%        19%           83            79            79            6%          5%            4%       18%        18%        20%       41%        24%        20%
+                  salesforce.com inc.        37%        30%        22%       12%        18%        36%       16%        15%        16%       82%        82%       83%       12%        12%        15%       19%        17%        16%        197         217         225            7%          6%            6%       46%        46%        46%       37%        30%        22%
+                  ServiceSource International I34%        19%        22%     -16%      -22%     139%  -230%          NM     156%       46%        44%       44%         6%          4%          7%     -12%          3%          6%              0               0               0            7%          7%            6%       21%        21%        21%       34%        19%        22%
+                  Synchronoss Technologies I35%        24%        21%       42%        12%        14%    277%        59%        13%       56%        56%       56%       23%        25%        22%       12%        16%        15%           19            18            17            6%          7%            5%
+                  Tangoe                         53%        36%        18%    104%        52%        17%    106%        28%        34%       53%        56%       57%       11%        13%        13%       13%        12%        13%           36            40            40            1%          1%            1%       14%        15%        14%       62%        36%        18%
+                  VMware                        32%        20%        16%       44%        16%        21%       71%        26%        19%       88%        88%       88%       31%        30%        32%       46%        48%        49%        230         263         305            8%          6%          -4%       32%        32%        31%
+                                Group Median ==>     31%        22%       19%       36%        16%        29%       37%        28%        25%       68%        69%        70%       18%        12%        15%       13%        16%        15%            83            79            78           6%          6%            3%       32%        32%        31%       36%        26%        22%
+                                  Group Mean ==>     31%        21%       19%       32%         -1%        50%       32%        17%     100%       65%        65%        66%       13%        10%        15%       16%        15%        17%         102         103         109           3%          3%            2%       33%        32%        30%       55%        23%        21%
+
+               Source: Deutsche Bank, company data 
+
+                
+
+                
+ 
+
+                                                                                                                                                                                                                                                                                                                                            79
+---------------------Page 12---------------------
+
+9 April 2012 
+ 
+Application Software 
+Tangoe, Inc. 
+
+Appendix 1 
+
+ 
+
+Important Disclosures 
+ 
+Additional information available upon request 
+ 
+Disclosure checklist 
+Company                                  Ticker              Recent price*                  Disclosure 
+Tangoe, Inc.                             TNGO.OQ             19.33 (USD) 5 Apr 12           1,2,7 
+*Prices are sourced from local exchanges via Reuters, Bloomberg and other vendors.  Data is sourced from Deutsche Bank and subj ect companies 
+ 
+Important Disclosures Required by U.S. Regulators 
+
+Disclosures marked with an asterisk may also be required by at least one jurisdiction in addition to the United States.  
+See Important Disclosures Required by Non-US Regulators and Explanatory Notes. 
+
+1.      Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private offering 
+    for this company, for which it received fees. 
+
+2.      Deutsche Bank and/or its affiliate(s) makes a market in securities issued by this company. 
+
+7.      Deutsche Bank and/or its affiliate(s) has received compensation from this company for the provision of investment 
+    banking or financial advisory services within the past year. 
+ 
+Important Disclosures Required by Non-U.S. Regulators 
+
+Please also refer to disclosures in the Important Disclosures Required by US Regulators and the Explanatory Notes. 
+
+1.      Within the past year, Deutsche Bank and/or its affiliate(s) has managed or co-managed a public or private offering 
+    for this company, for which it received fees. 
+
+2.      Deutsche Bank and/or its affiliate(s) makes a market in securities issued by this company. 
+
+7.      Deutsche Bank and/or its affiliate(s) has received compensation from this company for the provision of investment 
+    banking or financial advisory services within the past year. 
+   
+For disclosures pertaining to recommendations or estimates made on securities other than the primary subject of this 
+research, please see the most recently published company report or visit our global disclosure look-up page on our 
+website at http://gm.db.com/ger/disclosure/Disclosure.eqsr?ricCode=TNGO.OQ 
+ 
+Analyst Certification 
+
+The views expressed in this report accurately reflect the personal views of the undersigned lead analyst(s) about the 
+subject issuer and the securities of the issuer. In addition, the undersigned lead analyst(s) has not and will not receive 
+any compensation for providing a specific recommendation or view in this report. Tom Ernst Jr 
+  
+
+ 
+Page 12                                                                                      Deutsche Bank Securities Inc.
+ 
+                                                                                                                        80
+---------------------Page 13---------------------
+
+ 9 April 2012 
+  
+ Application Software 
+ Tangoe, Inc. 
+
+ Historical recommendations and target price: Tangoe, Inc. (TNGO.OQ) 
+ (as of 4/5/2012) 
+
+      25.00                                                                                               Previous Recommendations
+
+                                                                                                              Strong Buy 
+                                                                                                              Buy 
+      20.00                                                                                                   Market Perform 
+                                                                                    3                         Underperform 
+                                                                                                              Not Rated 
+                                                 2                                                            Suspended Rating 
+      15.00
+
+                           1                                                                              Current Recommendations 
+
+                                                                                                              Buy 
+      10.00
+                                                                                                              Hold 
+                                                                                                              Sell 
+                                                                                                              Not Rated 
+       5.00                                                                                                   Suspended Rating 
+                                                                                                      *New Recommendation Structure 
+                                                                                                         as of September 9,2002 
+                                                                                                       
+       0.00
+           Jul 11                                                                             Oct 11                                                                            Jan 12
+                                                       Date
+  
+ 1.     09/06/2011:         Upgrade to Buy, Target Price Change USD17.00                3.     02/16/2012:         Buy, Target Price Change USD20.00 
+ 2.     11/09/2011:         Buy, Target Price Change USD18.00                                              
+  
+    
+ Equity rating key                                                    Equity rating dispersion and banking relationships 
+
+ Buy: Based on a current 12- month view of total share-
+ holder return (TSR = percentage change in share price                    500
+                                                                          450                       51 %
+ from current price to projected target price plus pro-                            48 %
+                                                                          400
+ jected dividend yield ) , we recommend that investors                    350
+ buy the stock.                                                           300
+                                                                          250
+ Sell: Based on a current 12-month view of total share-                                 45 %
+                                                                          200                            34 %
+ holder return, we recommend that investors sell the                      150
+ stock                                                                    100
+                                                                                                                     2 %
+                                                                           50                                            33 %
+ Hold: We take a neutral view on the stock 12-months                        0
+ out and, based on this time horizon, do not 
+                                                                                     Buy                             Hold                             Sell
+ recommend either a Buy or Sell. 
+ Notes: 
+                                                                                    Companies Covered  Cos. w/ Banking Relationship
+ 1. Newly issued research recommendations and target 
+ prices always supersede previously published                                                North American Universe
+ research.                                                             
+ 2. Ratings definitions prior to 27 January, 2007 were: 
+
+        Buy: Expected total return (including dividends) 
+        of 10% or more over a 12-month period 
+        Hold: Expected total return (including 
+        dividends) between -10% and 10% over a 12-
+        month period 
+        Sell: Expected total return (including dividends) 
+        of -10% or worse over a 12-month period 
+  
+  
+
+  
+ Deutsche Bank Securities Inc.                                                                                                    Page 13
+
+ 
+                                                                                                                                           81
+
+                                                                                                                                             Security Price
+---------------------Page 14---------------------
+
+9 April 2012 
+ 
+Application Software 
+Tangoe, Inc. 
+
+ 
+Regulatory Disclosures 
+
+1. Important Additional Conflict Disclosures 
+
+Aside from within this report, important conflict disclosures can also be found at https://gm.db.com/equities under the 
+"Disclosures Lookup" and "Legal" tabs. Investors are strongly encouraged to review this information before investing. 
+
+2. Short-Term Trade Ideas 
+
+Deutsche Bank equity research analysts sometimes have shorter-term trade ideas (known as SOLAR ideas) that are 
+consistent or inconsistent with Deutsche Bank's existing longer term ratings. These trade ideas can be found at the 
+SOLAR link at http://gm.db.com. 
+
+3. Country-Specific Disclosures 
+
+Australia and New Zealand: This research, and any access to it, is intended only for "wholesale clients" within the 
+meaning of the Australian Corporations Act and New Zealand Financial Advisors Act respectively. 
+Brazil: The views expressed above accurately reflect personal views of the authors about the subject company(ies) and 
+its(their) securities, including in relation to Deutsche Bank. The compensation of the equity research analyst(s) is 
+indirectly affected by revenues deriving from the business and financial transactions of Deutsche Bank. 
+EU countries: Disclosures relating to our obligations under MiFiD can be found at 
+http://www.globalmarkets.db.com/riskdisclosures. 
+Japan: Disclosures under the Financial Instruments and Exchange Law: Company name - Deutsche Securities Inc. 
+Registration number - Registered as a financial instruments dealer by the Head of the Kanto Local Finance Bureau 
+(Kinsho) No. 117. Member of associations: JSDA, Type II Financial Instruments Firms Association, The Financial Futures 
+Association of Japan, Japan Securities Investment Advisers Association. Commissions and risks involved in stock 
+transactions - for stock transactions, we charge stock commissions and consumption tax by multiplying the transaction 
+amount by the commission rate agreed with each customer. Stock transactions can lead to losses as a result of share 
+price fluctuations and other factors. Transactions in foreign stocks can lead to additional losses stemming from foreign 
+exchange fluctuations. "Moody's", "Standard & Poor's", and "Fitch" mentioned in this report are not registered credit 
+rating agencies in Japan unless Japan or "Nippon" is specifically designated in the name of the entity. 
+Russia: This information, interpretation and opinions submitted herein are not in the context of, and do not constitute, 
+any appraisal or evaluation activity requiring a license in the Russian Federation. 
+  
+
+ 
+Page 14                                                                                     Deutsche Bank Securities Inc.
+ 
+                                                                                                                       82
+---------------------Page 15---------------------
+
+ 
+
+Deutsche Bank Securities Inc. 
+ 
+North American locations 
+
+Deutsche Bank Securities Inc.                    Deutsche Bank Securities Inc.                    Deutsche Bank Securities Inc.                     Deutsche Bank Securities Inc. 
+60 Wall Street                                   One International Place                          222 South Riverside Plaza                         1735 Market Street 
+New York, NY 10005                               12th Floor                                       30th Floor                                        24th Floor 
+Tel: (212) 250 2500                              Boston, MA 02110                                 Chicago, IL 60606                                 Philadelphia, PA 19103 
+                                                 United States of America                         Tel: (312) 537-3758                               Tel: (215) 854 1546 
+                                                 Tel: (1) 617 217 6100 
+
+Deutsche Bank Securities Inc.                    Deutsche Bank Securities Inc. 
+101 California Street                            700 Louisiana Street 
+46th Floor                                       Houston, TX 77002 
+San Francisco, CA 94111                          Tel: (832) 239-4600 
+Tel: (415) 617 2800                                                                                 
+
+ 
+
+  
+International locations 
+
+Deutsche Bank Securities Inc.                    Deutsche Bank AG London                          Deutsche Bank AG                                  Deutsche Bank AG 
+60 Wall Street                                   1 Great Winchester Street                        Große Gallusstraße 10-14                          Deutsche Bank Place 
+New York, NY 10005                               London EC2N 2EQ                                  60272 Frankfurt am Main                           Level 16 
+United States of America                         United Kingdom                                   Germany                                           Corner of Hunter & Phillip Streets 
+Tel: (1) 212 250 2500                            Tel: (44) 20 7545 8000                           Tel: (49) 69 910 00                               Sydney, NSW 2000 
+                                                                                                                                                    Australia 
+                                                                                                                                                    Tel: (61) 2 8258 1234 
+
+Deutsche Bank AG                                 Deutsche Securities Inc. 
+Filiale Hongkong                                 2-11-1 Nagatacho 
+International Commerce Centre,                   Sanno Park Tower 
+1 Austin Road West,Kowloon,                      Chiyoda-ku, Tokyo 100-6171                         
+Hong Kong                                        Japan 
+Tel: (852) 2203 8888                             Tel: (81) 3 5156 6770 
+   
+
+Global Disclaimer 
+
+The information and opinions in this report were prepared by Deutsche Bank AG or one of its affiliates (collectively "Deutsche Bank"). The information herein is believed to be reliable and has been obtained from public 
+sources believed to be reliable. Deutsche Bank makes no representation as to the accuracy or completeness of such information. 
+Deutsche Bank may engage in securities transactions, on a proprietary basis or otherwise, in a manner inconsistent with the view taken in this research report. In addition, others within Deutsche Bank, including 
+strategists and sales staff, may take a view that is inconsistent with that taken in this research report. 
+Opinions, estimates and projections in this report constitute the current judgement of the author as of the date of this report. They do not necessarily reflect the opinions of Deutsche Bank and are subject to change 
+without notice. Deutsche Bank has no obligation to update, modify or amend this report or to otherwise notify a recipient thereof in the event that any opinion, forecast or estimate set forth herein, changes or 
+subsequently becomes inaccurate. Prices and availability of financial instruments are subject to change without notice. This report is provided for informational purposes only. It is not an offer or a solicitation of an 
+offer to buy or sell any financial instruments or to participate in any particular trading strategy. Target prices are inherently imprecise and a product of the analyst judgement. 
+As a result of Deutsche Banks March 2010 acquisition of BHF-Bank AG, a security may be covered by more than one analyst within  the Deutsche Bank group. Each of these analysts may use differing methodologies 
+to value the security; as a result, the recommendations may differ and the price targets and estimates of each may vary widely. 
+In August 2009, Deutsche Bank instituted a new policy whereby analysts may choose not to set or maintain a target price of cert ain issuers under coverage with a Hold rating. In particular, this will typically occur for 
+"Hold" rated stocks having a market cap smaller than most other companies in its sector or region. We believe that such policy will allow us to make best use of our resources. Please visit our website at 
+http://gm.db.com to determine the target price of any stock. 
+The financial instruments discussed in this report may not be suitable for all investors and investors must make their own informed investment decisions. Stock transactions can lead to losses as a result of price 
+fluctuations and other factors. If a financial instrument is denominated in a currency other than an investor's currency, a change in exchange rates may adversely affect the investment. Past performance is not 
+necessarily indicative of future results. Deutsche Bank may with respect to securities covered by this report, sell to or buy f rom customers on a principal basis, and consider this report in deciding to trade on a 
+proprietary basis. 
+Unless governing law provides otherwise, all transactions should be executed through the Deutsche Bank entity in the investor's  home jurisdiction. In the U.S. this report is approved and/or distributed by Deutsche 
+Bank Securities Inc., a member of the NYSE, the NASD, NFA and SIPC. In Germany this report is approved and/or communicated by Deutsche Bank AG Frankfurt authorized by the BaFin. In the United Kingdom this 
+report is approved and/or communicated by Deutsche Bank AG London, a member of the London Stock Exchange and regulated by the Financial Services Authority for the conduct of investment business in the UK 
+and authorized by the BaFin. This report is distributed in Hong Kong by Deutsche Bank AG, Hong Kong Branch, in Korea by Deutsch e Securities Korea Co. This report is distributed in Singapore by Deutsche Bank AG, 
+Singapore Branch, and recipients in Singapore of this report are  to contact Deutsche Bank AG, Singapore Branch in respect of an y matters arising from, or in connection with, this report. Where this report is issued or 
+promulgated in Singapore to a person who is not an accredited investor, expert investor or institutional investor (as defined in the applicable Singapore laws and regulations), Deutsche Bank AG, Singapore Branch 
+accepts legal responsibility to such person for the contents of this report. In Japan this report is approved and/or distributed by Deutsche Securities Inc. The information contained in this report does not constitute the 
+provision of investment advice. In Australia, retail clients should obtain a copy of a Product Disclosure Statement (PDS) relating to any financial product referred to in this report and consider the PDS before making any 
+decision about whether to acquire the product. Deutsche Bank AG Johannesburg is incorporated in the Federal Republic of Germany (Branch Register Number in South Africa: 1998/003298/10). Additional information 
+relative to securities, other financial products or issuers discussed in this report is available upon request. This report may  not be reproduced, distributed or published by any person for any purpose without Deutsche 
+Bank's prior written consent. Please cite source when quoting. 
+Copyright © 2012 Deutsche Bank AG 
+ 
+
+  
+
+ 
+  
+
+ 
+                                                                                                                                                                                                       83

@@ -1,0 +1,466 @@
+---------------------Page 1---------------------
+
+                                                                                               EQUITY RESEARCH
+
+                                                                                               INDUSTRY UPDATE
+
+November 9, 2011
+
+                                                     Software Bytes
+
+TECHNOLOGY/ENTERPRISE SOFTWARE
+                                                     SUMMARY
+
+                                                     n  TNGO: Dancin' To A Solid Quarter; Raising PT to $16
+                                                     n  ADBE: Realigns Business Once Again...Plans to Shed 7.5% of Workforce
+                                                        and Shift Model
+                                                     n  Mozilla  Firefox  Now  Supports  Amazon's  Kindle  Cloud  Reader;  Internet
+                                                        Explorer Support Coming Soon?
+
+                                                     KEY POINTS
+
+                                                     TNGO: Dancin' To A Solid Quarter; Raising PT to $16
+                                                     We are raising our PT to $16 from $14 on the heels of a solid 3Q11, led by healthy
+                                                     recurring  revenue  growth  (+68%  Y/Y)  and  solid  customer  wins.  The  company
+                                                     continues  to  gain  share  of  worldwide  fixed/mobile  communications  spend  (now
+                                                     manages ~$15.3B of the ~$425B CLM market) and we believe Tango can deliver
+                                                     double-digit   EPS/revenue   growth   through   a   variety   of   drivers   (e.g.,   greenfield
+                                                     opportunities, penetrate spend at existing customers, international expansion, drive
+                                                     leverage  in  the  model,  deepen  alliances)  for  the  foreseeable  future.  With  the
+                                                     HCL/Telwares acquisitions in the rear-view mirror, we expect TNGO to continue its
+                                                     M&A  strategy  to  acquire  customers,  geography,  or  technology.  Given  these  solid
+                                                     fundamentals  and  an  attractive  valuation  (4.1x  CY12E  recurring  rev.),  we  remain
+                                                     buyers.
+
+                                                     ADBE:   Realigns   Business   Once   Again...Plans   to   Shed   7.5%   of
+                                                     Workforce and Shift Model
+                                                     Adobe announced plans to realign its business around its Digital Media and Digital
+                                                     Marketing solutions and to shift more of its business from perpetual-license deals to
+                                                     recurring-revenue  via  its  subscription-offering.  As  part  of  the  restructuring,  ADBE
+                                                     intends  on  eliminating  750  full-time  employees  (~10%  >  than  its  last  round  of
+                                                     head-count reductions in 11/09) and stepping-up its investments in these two digital
+                                                     areas.
+
+                                                     Mozilla Firefox Now Supports Amazon's Kindle Cloud Reader; Internet
+                                                     Explorer Support Coming Soon?
+                                                     Yesterday, Amazon disclosed  its  Kindle  Cloud  Reader  was  now  available  on
+                                                     Mozilla Firefox. The company's HTML5 based webapp, called Cloud Reader, is a
+                                                     web  based  e-book  reader,  which  enables  users  to  read  Kindle  books  instantly  in
+                                                     their browsers and across devices.
+
+Brad Reback, CFA                Arvind Rajamohan
+404-364-8728                    212-667-6454
+                                                     Today's Quote:
+Brad.Reback@opco.com            Arvind.Rajamohan@opco.com
+                                                     "If you want to make an apple pie from scratch, you must first create the universe." -
+                                                     Dr. Carl Sagan, born this day in 1934.
+
+                                                    Oppenheimer & Co. Inc. does and seeks to do business with companies covered in its research reports. As
+                                                    a result, investors should be aware that the firm may have a conflict of interest that could affect the
+                                                    objectivity of this report. Investors should consider this report as only a single factor in making their
+                                                    investment decision. See "Important Disclosures and Certifications" section at the end of this report for
+                                                    important disclosures, including potential conflicts of interest. See "Price Target Calculation" and "Key Risks
+                                                    to Price Target" sections at the end of this report, where applicable.
+
+                                                     Oppenheimer & Co Inc. 300 Madison Avenue New York, NY 10017 Tel: 800-221-5588 Fax: 212-667-8229172
+---------------------Page 2---------------------
+
+TECHNOLOGY 
+
+                                   TNGO: Dancin' To A Solid Quarter; Raising PT to $16
+
+                                   We are raising our PT to $16 from $14 on the heels of a solid 3Q11, led by healthy recurring revenue
+                                   growth  (+68%  Y/Y)  and  solid  customer  wins.  The  company  continues  to  gain  share  of  worldwide
+                                   fixed/mobile  communications  spend  (now  manages  ~$15.3B  of  the  ~$425B  CLM  market),  and  we
+                                   believe Tango can deliver double-digit EPS/revenue growth through a variety of drivers (e.g., greenfield
+                                   opportunities,  penetrate  spend  at  existing  customers,  international  expansion,  drive  leverage  in  the
+                                   model,   deepen   alliances)   for   the   foreseeable   future.   With   the   HCL/Telwares   acquisitions   in   the
+                                   rear-view mirror, we expect TNGO to continue its M&A strategy to acquire customers, geography, or
+                                   technology. Given these solid fundamentals and an attractive valuation (4.1x CY12E recurring rev.), we
+                                   remain buyers.
+
+                                   Delivers   a   solid   3Q. TNGO   posted   3Q11   EPS/rev.   of   $0.07/$27.3M,   vs.   our   estimates   of
+                                   $0.06/$26.5M. The healthy results were led by strong subscription rev. growth (up 68% Y/Y to $24.5M)
+                                   and  solid  uptake  across  TEM/MDM  products.  We  are  particularly  impressed  with  at  least  ~25-30%
+                                   organic rev. growth and 83% adjusted EBITDA growth Y/Y to $3.3M.
+
+                                   Big win at IBM. Tangoe closed a multi-year, multi-million dollar engagement at IBM during the quarter.
+                                   While we don't expect rev. until FY12, this deal is another signal the company is able to up/cross-sell
+                                   its installed base. Separately, TNGO added 25 new customers during 3Q11 (same as in 2Q11).
+
+                                   Expect   more   acquisitions.   TNGO   acquired   five   companies   in   the   past   four   years   to   obtain
+                                   technology, customers, and extend its geographic reach. These acquisitions enabled TNGO to develop
+                                   and  up/cross-sell  a  holistic  CLM  (communications  lifecycle  management)  suite  to  a  larger  installed
+                                   base. Going forward, we expect TNGO to engage in additional tuck-in acquisitions to scale along these
+                                   three axes.
+
+                                   Adjusting    estimates. We    now    expect    FY11E    and    FY12E    EPS/rev.    of    $0.25/$103.6M    and
+                                   $0.39/$121.3M, from $0.25/$102.0M and $0.38/$117.9M, respectively.
+
+                                   Valuation attractive. At ~$14, TNGO trades at 4.1x CY12E recurring rev. vs. peers at 4.9x. Given the
+                                   company's growth prospects, solid revenue visibility, and leverage in the model, we believe it should
+                                   trade more in line with peers.
+
+                                   ADBE: Realigns Business Once Again...Plans to Shed 7.5% of Workforce and Shift Model
+
+                                   After the bell yesterday, Adobe announced its plans to realign its business around its Digital Media and
+                                   Digital Marketing solutions and to shift more of its business from perpetual license deals to recurring
+                                   revenue via its subscription offering. As part of the restructuring, the company intends on eliminating
+                                   750 full-time employees (roughly 10% more than its last round of head-count reductions in 11/09) and
+                                   materially stepping up its investments in these two digital areas. The company also highlighted that in
+                                   order to drive sales and bookings in its digital marketing solutions, it plans on cutting its investments
+                                   and license sales from certain enterprise solution product lines. Adobe management stated the impact
+                                   from these changes will likely reduce FY12 revenue growth by approximately 4-5%. We note Adobe
+                                   now  expects  FY12  revenue  growth  of  4-6%,  below  our  and  Street  forecasts  of  roughly  9%.  Looking
+                                   ahead, management believes it can accelerate revenue growth to double-digits in FY13 and beyond.
+
+                                   Along  with  these  changes,  we  expect  Adobe  to  ramp  its  spend  on  its  HTML5  efforts,  focus  on
+                                   enhancing  its  digital  publishing  solutions,  invest  in  its  media  monetization  initiatives,  try  to  bring
+                                   innovation to its Creative Suite and step up its leadership position in document services. The net result
+                                   of  these  actions  and  increased  investments  is  margins  are  likely  flat  in  FY12.  Thus,  while  valuation
+                                   appears inexpensive and we believe Adobe's decision to focus on these two large growth areas and
+                                   shift its business to a more predictable model could pay off over time, given these efforts will likely take
+                                   time to come to fruition, its healthy exposure to Europe and limited margin expansion on the horizon,
+                                   we remain on the sidelines.
+
+                                   4Q11 tracking well. Although there are still four weeks remaining in the quarter, we believe ADBE is
+
+2
+
+                                                                                                                                        173
+---------------------Page 3---------------------
+
+                                                                                         TECHNOLOGY 
+
+on  track  to  at  least  meet  our  estimates  of  $0.59  on  revenue  of  $1091.5  million.  Despite  the  macro
+uncertainty, management reaffirmed its 4Q guidance of $0.57-0.64 on revenue of $1075.0-1125.0.
+
+Better  aligning  resources.  Due  to  Adobe's  plans  to  realign  it  resources  around  Digital  Media  and
+Digital  Marketing,  it  plans  to  cut  750  full-time  positions,  which  is  anticipated  to  cost  the  company
+$87-94M in pre-tax restructuring costs.
+
+Estimates unchanged for now. We are leaving our ests unchanged until we gain additional insight
+into ADBE's restructuring and re-alignment plans.
+
+Valuation. At ~$28 in after hours trading, ADBE trades at ~11x our FY12E EPS versus its large-cap
+peers  at  ~12.5x.  While  we  don't  anticipate  material  multiple  expansion  any  time  soon,  we  believe
+downside is relatively limited.
+
+Mozilla Firefox Now Supports Amazon's Kindle Cloud Reader; Internet Explorer Support Coming
+
+Soon?
+
+Yesterday, Amazon disclosed  its  Kindle  Cloud  Reader  was  now  available  on  Mozilla  Firefox.  The
+company's HTML5 based webapp, called Cloud Reader, is a web based e-book reader, which enables
+users   to   read   Kindle   books   instantly   in   their   browsers   and   across   devices.   With   this   latest
+announcement,  we  note  Amazon's  Kindle  webapp  is  now  available  on Google's Chrome  browser,
+Apple's Safari browser and now Mozilla's Firefox browser. We believe Microsoft's Internet Explorer
+will  also  likely  support  Amazon's  webapp  shortly,  thus  providing  Amazon  with  coverage  of  most
+browsers.
+
+Today's Quote:
+
+"If you want to make an apple pie from scratch, you must first create the universe." - Dr. Carl Sagan,
+born this day in 1934.
+
+Stock prices of other companies mentioned in this report (as of 11/8/2011):
+
+International Business Machines (IBM-NYSE, $187.25, NR)
+
+                                                                                                     3
+
+                                                                                                   174
+---------------------Page 4---------------------
+
+TECHNOLOGY 
+
+  Price Target Calculation
+  TNGO: We arrive at our $16 price target for Tangoe by applying a 4.7x multiple to our FY12E recurring revenue of $109.7M. We note
+  the software-as-a-service peer group has historically traded at 5-7x next-12-months' recurring revenue. Admittedly, Tangoe is not yet a
+  pure SaaS-only shop (its MDM product is delivered via a dedicated hosted or as an on-premise solution but is expected to migrate to
+  SaaS architecture by end of next year). We contend that since TNGO's CLM solution is based on a deep technological foundation, the
+  "stickiness" of its installed base, the recurring nature of its revenue (strong renewal rates, subscriptions model), its robust growth rates
+  (40% five-year CAGR), market leadership position in an open-ended opportunity, and the sizable leverage in its model, Tangoe should
+  trade roughly in line with its peers, which leads us to our $16 price target.
+
+  Key Risks to Price Target
+  TNGO:There  are  several  risks  to  our  investment  thesis,  including  the  sluggish  pace  of  IT  spending,  which  may  cause  deals  to  be
+  delayed and/or downsized; the company's failing to successfully integrate an acquisition; CLM demand not materializing as expected;
+  loss of a material customer; increased competition from vendors with larger resources and scale; and the possibility that the company
+  will be unable to execute on its growth initiatives. Any of these risks, as well as others unforeseen, could prevent the stock from attaining
+  our price target.
+
+  Important Disclosures and Certifications
+
+  Analyst  Certification  - The  author  certifies  that  this  research  report  accurately  states  his/her  personal  views  about  the
+  subject securities, which are reflected in the ratings as well as in the substance of this report.The author certifies that no
+  part  of  his/her  compensation  was,  is,  or  will  be  directly  or  indirectly  related  to  the  specific  recommendations  or  views
+  contained in this research report.
+  Potential Conflicts of Interest:
+  Equity  research  analysts  employed  by  Oppenheimer  &  Co.  Inc.  are  compensated  from  revenues  generated  by  the  firm
+  including the Oppenheimer & Co. Inc. Investment Banking Department. Research analysts do not receive compensation
+  based  upon  revenues  from  specific  investment  banking  transactions.  Oppenheimer  &  Co.  Inc.  generally  prohibits  any
+  research analyst and any member of his or her household from executing trades in the securities of a company that such
+  research analyst covers. Additionally, Oppenheimer & Co. Inc. generally prohibits any research analyst from serving as an
+  officer, director or advisory board member of a company that such analyst covers. In addition to 1% ownership positions in
+  covered companies that are required to be specifically disclosed in this report, Oppenheimer & Co. Inc. may have a long
+  position of less than 1% or a short position or deal as principal in the securities discussed herein, related securities or in
+  options, futures or other derivative instruments based thereon. Recipients of this report are advised that any or all of the
+  foregoing arrangements, as well as more specific disclosures set forth below, may at times give rise to potential conflicts of
+  interest.
+
+  Important Disclosure Footnotes for Companies Mentioned in this Report that Are Covered by
+  Oppenheimer & Co. Inc:
+
+  Stock Prices as of November 9, 2011
+  Tangoe (TNGO - Nasdaq, 13.97, OUTPERFORM)
+  Amazon.Com, Inc. (AMZN - Nasdaq, 217.99, OUTPERFORM)
+  Microsoft Corporation (MSFT - Nasdaq, 27.16, OUTPERFORM)
+  Google, Inc. (GOOG - Nasdaq, 612.34, OUTPERFORM)
+  Adobe Systems (ADBE - Nasdaq, 30.42, PERFORM)
+
+4
+                                                                                                                          175
+---------------------Page 5---------------------
+
+                                                                                                                                                        TECHNOLOGY 
+
+                                     Rating and Price Target History for: Tangoe (TNGO) as of 11-08-2011
+
+09/05/11
+ I:O:$14
+
+                                                                                                                                                             16
+
+                                                                                                                                                             14
+
+                                                                                                                                                             12
+
+                                                                                                                                                             10
+
+                                                                                                                                                             8
+
+                                                                                                                                                             6
+
+         2009                                            2010                                            2011                                            2012
+
+                                                                                                                                    Created by BlueMatrix
+
+                               Rating and Price Target History for: Amazon.Com, Inc. (AMZN) as of 11-08-2011
+
+01/30/09       03/09/09       10/19/09       01/26/10       10/22/10       10/29/10       01/12/11       04/27/11       07/27/11       10/24/11       11/07/11
+ P:$57           P:$0          O:$130        O:$162          O:$186         O:$181         O:$200         O:$220         O:$250         O:$270         O:$255
+
+                                                                                                                                                           250
+
+                                                                                                                                                           200
+
+                                                                                                                                                           150
+
+                                                                                                                                                           100
+
+                                                                                                                                                           50
+
+                                                                                                                                                           0
+
+         2009                                            2010                                           2011                                            2012
+
+                                                                                                                                    Created by BlueMatrix
+
+                                                                                                                                                                       5
+
+                                                                                                                                                                     176
+---------------------Page 6---------------------
+
+TECHNOLOGY 
+
+                                        Rating and Price Target History for: Microsoft Corporation (MSFT) as of 11-08-2011
+
+         11/20/08        04/24/09        06/24/09        10/26/09        04/23/10        07/23/10        09/16/10        10/29/10        01/28/11        08/17/11
+           O:$22           O:$25           O:$29           O:$36           O:$38           O:$35           O:$30           O:$32           O:$36           O:$32
+
+                                                                                                                                                                                35
+
+                                                                                                                                                                                30
+
+                                                                                                                                                                                25
+
+                                                                                                                                                                                20
+
+                                                                                                                                                                                15
+
+                                                                                                                                                                                10
+
+                    2009                                               2010                                               2011                                               2012
+
+                                                                                                                                                     Created by BlueMatrix
+
+                                              Rating and Price Target History for: Google, Inc. (GOOG) as of 11-08-2011
+
+         12/10/08        01/23/09        04/13/09        04/17/09        07/13/09        10/07/09        10/21/09        01/21/10        03/11/10        07/07/10        10/14/10
+          O:$375          O:$390          O:$410          O:$440          O:$490          O:$565          O:$650          O:$700          O:$715          O:$600          O:$640
+
+                                                                                                                                                                               750
+
+                                                                                                                                                                               600
+
+                                                                                                                                                                               450
+
+                                                                                                                                                                               300
+
+                                                                                                                                                                               150
+
+                   2009                                               2010                                               2011                                              2012
+
+         01/18/11        01/21/11        04/15/11        07/14/11        10/14/11
+          O:$705          O:$715          O:$650          O:$690          O:$725
+
+                                                                                                                                                     Created by BlueMatrix
+
+6
+
+                                                                                                                                                                                         177
+---------------------Page 7---------------------
+
+                                                                                                                           TECHNOLOGY 
+
+                              Rating and Price Target History for: Adobe Systems (ADBE) as of 11-08-2011
+
+    02/09/09    03/05/09    06/17/09   07/17/09    09/16/09    11/11/09
+     O:$27       O:$25       O:$31      O:$34       O:$38       P:NA
+
+                                                                                                                              40
+
+                                                                                                                              32
+
+                                                                                                                              24
+
+                                                                                                                              16
+
+                                                                                                                              8
+            2009                                 2010                                  2011                                 2012
+
+                                                                                                           Created by BlueMatrix
+
+All price targets displayed in the chart above are for a 12- to- 18-month period. Prior to March 30, 2004, Oppenheimer &
+
+Co. Inc. used 6-, 12-, 12- to 18-, and 12- to 24-month price targets and ranges. For more information about target price
+
+histories, please write to Oppenheimer & Co. Inc., 300 Madison Avenue, New York, NY 10017, Attention: Equity Research
+
+Department, Business Manager.
+
+Oppenheimer & Co. Inc. Rating System as of January 14th, 2008:
+
+Outperform(O) - Stock expected to outperform the S&P 500 within the next 12-18 months.
+
+Perform (P) - Stock expected to perform in line with the S&P 500 within the next 12-18 months.
+
+Underperform (U) - Stock expected to underperform the S&P 500 within the next 12-18 months.
+
+Not Rated (NR) - Oppenheimer & Co. Inc. does not maintain coverage of the stock or is restricted from doing so due to a potential
+
+conflict of interest.
+
+Oppenheimer & Co. Inc. Rating System prior to January 14th, 2008:
+
+Buy  - anticipates  appreciation  of  10%  or  more  within  the  next  12  months,  and/or  a  total  return  of  10%  including  dividend  payments,
+
+and/or the ability of the shares to perform better than the leading stock market averages or stocks within its particular industry sector.
+
+Neutral - anticipates that the shares will trade at or near their current price and generally in line with the leading market averages due to
+
+a perceived absence of strong dynamics that would cause volatility either to the upside or downside, and/or will perform less well than
+
+higher  rated  companies  within  its  peer  group.  Our  readers  should  be  aware  that  when  a  rating  change  occurs  to  Neutral  from  Buy,
+
+aggressive trading accounts might decide to liquidate their positions to employ the funds elsewhere.
+
+Sell  - anticipates  that  the  shares  will  depreciate  10%  or  more  in  price  within  the  next  12  months,  due  to  fundamental  weakness
+
+perceived in the company or for valuation reasons, or are expected to perform significantly worse than equities within the peer group.
+
+                                                                                                                                      7
+
+                                                                                                                                     178
+---------------------Page 8---------------------
+
+TECHNOLOGY 
+
+                                                Distribution of Ratings/IB Services Firmwide
+
+                                                    IB Serv/Past 12 Mos.
+
+      Rating                        Count  Percent   Count    Percent
+      OUTPERFORM [O]                 327                   55.10                    145                   44.34
+      PERFORM [P]                    258                   43.40                      84                   32.56
+      UNDERPERFORM [U]               9                         1.50                         3                   33.33
+
+  Although the investment recommendations within the three-tiered, relative stock rating system utilized by Oppenheimer & Co. Inc. do not
+  correlate to buy, hold and sell recommendations, for the purposes of complying with FINRA rules, Oppenheimer & Co. Inc. has assigned
+  buy ratings to securities rated Outperform, hold ratings to securities rated Perform, and sell ratings to securities rated Underperform.
+
+  Company Specific Disclosures
+
+  In the past 12 months Oppenheimer & Co. Inc. has provided investment banking services for TNGO.
+
+  Oppenheimer & Co. Inc. expects to receive or intends to seek compensation for investment banking services in the next 3
+  months from TNGO.
+
+  In the past 12 months Oppenheimer & Co. Inc. has managed or co-managed a public offering of securities for TNGO.
+
+  In the past 12 months Oppenheimer & Co. Inc. has received compensation for investment banking services from TNGO.
+
+  Oppenheimer & Co. Inc. makes a market in the securities of TNGO, AMZN, MSFT, GOOG, and ADBE.
+
+  Additional Information Available
+
+  Please  log  on  to http://www.opco.com or  write  to  Oppenheimer  &  Co.  Inc.,  300  Madison  Avenue,  New  York,  NY  10017,
+  Attention: Equity Research Department, Business Manager.
+
+  Other Disclosures
+
+  This report is issued and approved for distribution by Oppenheimer & Co. Inc. Oppenheimer & Co. Inc transacts Business on all Principal
+  Exchanges  and  Member  SIPC.  This  report  is  provided,  for  informational  purposes  only,  to  institutional  and  retail  investor  clients  of
+  Oppenheimer & Co. Inc. and does not constitute an offer or solicitation to buy or sell any securities discussed herein in any jurisdiction
+  where such offer or solicitation would be prohibited. The securities mentioned in this report may not be suitable for all types of investors.
+  This  report  does  not  take  into  account  the  investment  objectives,  financial  situation  or  specific  needs  of  any  particular  client  of
+  Oppenheimer & Co. Inc. Recipients should consider this report as only a single factor in making an investment decision and should not
+  rely solely on investment recommendations contained herein, if any, as a substitution for the exercise of independent judgment of the
+  merits and risks of investments. The analyst writing the report is not a person or company with actual, implied or apparent authority to
+  act on behalf of any issuer mentioned in the report. Before making an investment decision with respect to any security recommended in
+  this report, the recipient should consider whether such recommendation is appropriate given the recipient's particular investment needs,
+
+8
+
+                                                                                                                                        179
+---------------------Page 9---------------------
+
+                                                                                                                            TECHNOLOGY 
+
+objectives and financial circumstances. We recommend that investors independently evaluate particular investments and strategies, and
+encourage investors to seek the advice of a financial advisor.Oppenheimer & Co. Inc. will not treat non-client recipients as its clients
+solely by virtue of their receiving this report.Past performance is not a guarantee of future results, and no representation or warranty,
+express or implied, is made regarding future performance of any security mentioned in this report. The price of the securities mentioned
+in this report and the income they produce may fluctuate and/or be adversely affected by exchange rates, and investors may realize
+losses on investments in such securities, including the loss of investment principal. Oppenheimer & Co. Inc. accepts no liability for any
+loss arising from the use of information contained in this report, except to the extent that liability may arise under specific statutes or
+regulations applicable to Oppenheimer & Co. Inc.All information, opinions and statistical data contained in this report were obtained or
+derived from public sources believed to be reliable, but Oppenheimer & Co. Inc. does not represent that any such information, opinion or
+statistical data is accurate or complete (with the exception of information contained in the Important Disclosures section of this report
+provided by Oppenheimer & Co. Inc. or individual research analysts), and they should not be relied upon as such. All estimates, opinions
+and  recommendations  expressed  herein  constitute  judgments  as  of  the  date  of  this  report  and  are  subject  to  change  without
+notice.Nothing in this report constitutes legal, accounting or tax advice. Since the levels and bases of taxation can change, any reference
+in this report to the impact of taxation should not be construed as offering tax advice on the tax consequences of investments. As with
+any investment having potential tax implications, clients should consult with their own independent tax adviser.This report may provide
+addresses of, or contain hyperlinks to, Internet web sites. Oppenheimer & Co. Inc. has not reviewed the linked Internet web site of any
+third  party  and  takes  no  responsibility  for  the  contents  thereof.  Each  such  address  or  hyperlink  is  provided  solely  for  the  recipient's
+convenience  and  information,  and  the  content  of  linked  third  party  web  sites  is  not  in  any  way  incorporated  into  this  document.
+Recipients who choose to access such third-party web sites or follow such hyperlinks do so at their own risk.
+
+This  report  or  any  portion  hereof  may  not  be  reprinted,  sold,  or  redistributed  without  the  written  consent  of  Oppenheimer  &  Co.  Inc.
+Copyright © Oppenheimer & Co. Inc. 2011.
+
+                                                                                                                                        9
+
+                                                                                                                                       180
